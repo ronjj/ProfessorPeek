@@ -1,26 +1,19 @@
-const article = document.querySelector("article");
-
-// `document.querySelector` may return null if the selector doesn't match anything.
-if (article) {
-  const text = article.textContent;
-  const wordMatchRegExp = /[^\s]+/g; // Regular expression
-  const words = text.matchAll(wordMatchRegExp);
-  // matchAll returns an iterator, convert to array to get word count
-  const wordCount = [...words].length;
-  const readingTime = Math.round(wordCount / 200);
-  const badge = document.createElement("p");
-  // Use the same styling as the publish information in an article's header
-  badge.classList.add("color-secondary-text", "type--caption");
-  badge.textContent = `⏱️ ${readingTime} min read`;
-
-  // Support for API reference docs
-  const heading = article.querySelector("h1");
-  // Support for article docs with date
-  const date = article.querySelector("time")?.parentNode;
-
-  (date ?? heading).insertAdjacentElement("afterend", badge);
+function colorText(number) {
+    // 0 - 2
+    if (number < 2) {
+        return "red";
+    // 2 - 3.75
+    } else if (number < 3.75) {
+        return "black";
+    // 3.75 - 5
+    } else if (number < 5) {
+        return "green";
+    }
+    
+    else {
+        return "color: black;"; // or some other default color
+    }
 }
-
 
 // Get Staff Names
 const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
@@ -68,7 +61,7 @@ async function getCUReviewsInfo(subject, courseNumber) {
     const classRating = classInfo.classRating;
     const classWorkload = classInfo.classWorkload;
     
-    console.log(classDifficulty, classRating, classWorkload);
+    // console.log(classDifficulty, classRating, classWorkload);
     return [classDifficulty, classRating, classWorkload];
 }
 
@@ -90,21 +83,24 @@ if (findCourseNames.length === 0) {
       const classInfoText = document.createElement("p");
       const difficultyText = document.createElement('span');
         difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
-        difficultyText.style.color = 'red';
+        difficultyText.style.color = colorText(classInfo[0].toFixed(2));
         classInfoText.appendChild(difficultyText);
 
         const ratingText = document.createElement('span');
         ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
+        ratingText.style.color = colorText(classInfo[1].toFixed(2));
+
         classInfoText.appendChild(ratingText);
 
         const workloadText = document.createElement('span');
         workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
+        workloadText.style.color = colorText(classInfo[2].toFixed(2));
         classInfoText.appendChild(workloadText);
 
       const classSection = findCourseNames[i].parentNode;
       classSection.insertAdjacentElement("afterend", classInfoText);
 
-    //   findCourseNames[i].insertAdjacentElement("afterend", classInfoText);
+
     }
   }
   processCourseNames();

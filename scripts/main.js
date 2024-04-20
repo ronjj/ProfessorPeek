@@ -71,45 +71,54 @@ if (findCourseNames.length === 0) {
   console.log("No course names found");
 } else {
   async function processCourseNames() {
-    for (let i = 0; i < 2; i++) {
+    for (let i = 0; i < findCourseNames.length; i++) {
       // Split coursename at space. element before space is course subject
       const splitCourseName = findCourseNames[i].textContent.split(" ");
       const subject = splitCourseName[0];
       const courseNumber = splitCourseName[1];
       const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
 
-    //   CUReview Stats in Line
-      const classInfo = await getCUReviewsInfo(subject, courseNumber);
-      const classInfoText = document.createElement("p");
+      try {
+        //   CUReview Stats in Line
+        const classInfo = await getCUReviewsInfo(subject, courseNumber);
+        const classInfoText = document.createElement("p");
 
-    //   Difficulty Text
-      const difficultyText = document.createElement('span');
-      difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
-      difficultyText.style.color = colorText(classInfo[0].toFixed(2));
-      classInfoText.appendChild(difficultyText);
+        //   Difficulty Text
+        const difficultyText = document.createElement('span');
+        difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
+        difficultyText.style.color = colorText(classInfo[0].toFixed(2));
+        classInfoText.appendChild(difficultyText);
 
-    // Rating Text
-      const ratingText = document.createElement('span');
-      ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
-      ratingText.style.color = colorText(classInfo[1].toFixed(2));
-      classInfoText.appendChild(ratingText);
+        // Rating Text
+        const ratingText = document.createElement('span');
+        ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
+        ratingText.style.color = colorText(classInfo[1].toFixed(2));
+        classInfoText.appendChild(ratingText);
 
-    // Workload Text
-      const workloadText = document.createElement('span');
-      workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
-      workloadText.style.color = colorText(classInfo[2].toFixed(2));
-      classInfoText.appendChild(workloadText);
+        // Workload Text
+        const workloadText = document.createElement('span');
+        workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
+        workloadText.style.color = colorText(classInfo[2].toFixed(2));
+        classInfoText.appendChild(workloadText);
 
-    //   Find parent node of course name and insert classInfoText after it
-      const classSection = findCourseNames[i].parentNode;
-      classSection.insertAdjacentElement("afterend", classInfoText);
-      
-    // Create a link to the CUReviews page
-    const cuReviewsLinkElement = document.createElement("a");
-    cuReviewsLinkElement.href = cuReviewsLink;
-    cuReviewsLinkElement.textContent = "(View CUReviews Page)";
-    cuReviewsLinkElement.style.color = "blue";
-    classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
+        //   Find parent node of course name and insert classInfoText after it
+        const classSection = findCourseNames[i].parentNode;
+        classSection.insertAdjacentElement("afterend", classInfoText);
+        
+        // Create a link to the CUReviews page
+        const cuReviewsLinkElement = document.createElement("a");
+        cuReviewsLinkElement.href = cuReviewsLink;
+        cuReviewsLinkElement.textContent = "(View CUReviews Page)";
+        cuReviewsLinkElement.style.color = "blue";
+        classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
+      } catch (error) {
+        console.error(`No CUReviews For: ${subject} ${courseNumber}`);
+        const classInfoText = document.createElement("p");
+        classInfoText.textContent = `Error fetching class info`;
+        classInfoText.style.color = "red";
+        const classSection = findCourseNames[i].parentNode;
+        classSection.insertAdjacentElement("afterend", classInfoText);
+      }
     }
   }
   processCourseNames();

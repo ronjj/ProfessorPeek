@@ -31,10 +31,13 @@ function getStaffNames() {
               if (findInstructors[j].textContent.includes("Staff")) {
                 // do nothing
               } else {
+                // Get p tag for the instructor and get full name and netid
                 const instructorsPTag = findInstructors[j].children[1];
                 const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
-                const dataContent = tooltipElement.dataset.content;
-                console.log(dataContent);
+                const nameAndNetID = tooltipElement.dataset.content;
+                const firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                const lastName = nameAndNetID.split(" ")[1].toLowerCase();
+                console.log(lastName, firstName);
               }
             }
           } else {

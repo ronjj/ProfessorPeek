@@ -24,7 +24,6 @@ async function getRateMyProfessorScore(professorLastName) {
     })
     const data = await response.json();
     return data;
-
 }
 
 // Get Staff Names
@@ -150,3 +149,6 @@ async function processCourseNames() {
     }
   }
 }
+
+// Uncomment to Add CUReviews to page
+// processCourseNames();

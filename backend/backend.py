@@ -126,7 +126,7 @@ fragment RateTeacherLink_teacher on Teacher {
 
     variables = {
         "query": {
-            "text": "white",
+            "text": last_name,
             "schoolID": "U2Nob29sLTI5OA=="
         },
         "count": 10

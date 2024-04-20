@@ -11,11 +11,10 @@
       },
         "content_scripts": [
           {
-            "js": ["scripts/content.js"],
+            "js": ["scripts/main.js"],
             "matches": [
-              "https://developer.chrome.com/docs/extensions/*",
-              "https://developer.chrome.com/docs/webstore/*",
-              "https://amirbolous.com/*"
+              "https://classes.cornell.edu/browse/roster/*",
+              "https://classes.cornell.edu/search/roster/*"
             ]
           }
         ]

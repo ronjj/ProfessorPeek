@@ -21,7 +21,8 @@
 //   (date ?? heading).insertAdjacentElement("afterend", badge);
 // }
 
-//TODO:  If the name is Staff, ignore it 
+
+// Get Staff Names
 const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
 if (findMeetingPatterns.length === 0) {
   console.log("No professor names found");
@@ -30,7 +31,7 @@ if (findMeetingPatterns.length === 0) {
     // Write a loop to iterate through each item in findMeetingPatterns and find the class name "Instructors"
     for (let i = 0; i < findMeetingPatterns.length; i++) {
       const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
-      console.log(findInstructors)
+    //   console.log(findInstructors)
       // If the class name "Instructors" is found, then iterate through each item in findInstructors
       if (findInstructors.length > 0) {
         for (let j = 0; j < findInstructors.length; j++) {
@@ -38,12 +39,23 @@ if (findMeetingPatterns.length === 0) {
           if (findInstructors[j].textContent.includes("Staff")) {
             console.log("Staff found")
           } else {
-            console.log(findInstructors[j].textContent)
+            // console.log(findInstructors[j].textContent)
           }
         }
       } else {
         console.log("No professor names found")
       }
+    }
+}
+
+// Get Course Names
+const findCourseNames = document.getElementsByClassName("title-subjectcode");
+if (findCourseNames.length === 0) {
+  console.log("No course names found");
+} else {
+    // print course names found
+    for (let i = 0; i < findCourseNames.length; i++) {
+      console.log(findCourseNames[i].textContent)
     }
 }
 

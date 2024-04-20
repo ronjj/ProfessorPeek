@@ -48,14 +48,54 @@ if (findMeetingPatterns.length === 0) {
     }
 }
 
+
+// Function To Get CUReviews Information For A Course
+
+async function getCUReviewsInfo(subject, courseNumber) {
+    const response = await fetch(`https://www.cureviews.org/api/getCourseByInfo`, {
+        method: "POST",
+        body: JSON.stringify({
+            number: courseNumber,
+            subject: subject.toLowerCase()
+        }),
+        headers: {
+            "Content-type": "application/json; charset=UTF-8"
+        }
+    })
+    
+    const data = await response.json();
+    const classInfo = data.result; // Access the "result" property
+
+    const classDifficulty = classInfo.classDifficulty;
+    const classRating = classInfo.classRating;
+    const classWorkload = classInfo.classWorkload;
+
+    console.log(classDifficulty, classRating, classWorkload);
+}
+
 // Get Course Names
 const findCourseNames = document.getElementsByClassName("title-subjectcode");
+
 if (findCourseNames.length === 0) {
   console.log("No course names found");
 } else {
-    // print course names found
-    for (let i = 0; i < findCourseNames.length; i++) {
-      console.log(findCourseNames[i].textContent)
+    // for (let i = 0; i < findCourseNames.length; i++) {
+    //     // Split coursename at space. element before space is course subject
+    //     const splitCourseName = findCourseNames[i].textContent.split(" ");
+    //     const subject = splitCourseName[0];
+    //     const courseNumber = splitCourseName[1];
+    //     const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
+    //     const cuReviewsRequestLink = `https://www.cureviews.org/api/getCourseByInfo`
+    //     console.log(getCUReviewsInfo(subject, courseNumber));
+    // }
+    for (let i = 0; i < 2; i++) {
+        // Split coursename at space. element before space is course subject
+        const splitCourseName = findCourseNames[i].textContent.split(" ");
+        const subject = splitCourseName[0];
+        const courseNumber = splitCourseName[1];
+        const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
+        const cuReviewsRequestLink = `https://www.cureviews.org/api/getCourseByInfo`
+        console.log(getCUReviewsInfo(subject, courseNumber));
     }
 }
 

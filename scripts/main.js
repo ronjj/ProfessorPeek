@@ -20,19 +20,16 @@ const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
 if (findMeetingPatterns.length === 0) {
   console.log("No professor names found");
 } else {
-    // console.log(findMeetingPatterns[0])
-    // Write a loop to iterate through each item in findMeetingPatterns and find the class name "Instructors"
     for (let i = 0; i < findMeetingPatterns.length; i++) {
       const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
-    //   console.log(findInstructors)
       // If the class name "Instructors" is found, then iterate through each item in findInstructors
       if (findInstructors.length > 0) {
         for (let j = 0; j < findInstructors.length; j++) {
           // If the name is Staff, ignore it
           if (findInstructors[j].textContent.includes("Staff")) {
-            console.log("Staff found")
+            // do nothing
           } else {
-            // console.log(findInstructors[j].textContent)
+            console.log(findInstructors[j].textContent)
           }
         }
       } else {

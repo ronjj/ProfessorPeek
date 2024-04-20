@@ -76,31 +76,40 @@ if (findCourseNames.length === 0) {
       const splitCourseName = findCourseNames[i].textContent.split(" ");
       const subject = splitCourseName[0];
       const courseNumber = splitCourseName[1];
-      const cuReviewsLink = `(link unavailable)`;
+      const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
 
-      // Use await to wait for the Promise to resolve
+    //   CUReview Stats in Line
       const classInfo = await getCUReviewsInfo(subject, courseNumber);
       const classInfoText = document.createElement("p");
+
+    //   Difficulty Text
       const difficultyText = document.createElement('span');
-        difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
-        difficultyText.style.color = colorText(classInfo[0].toFixed(2));
-        classInfoText.appendChild(difficultyText);
+      difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
+      difficultyText.style.color = colorText(classInfo[0].toFixed(2));
+      classInfoText.appendChild(difficultyText);
 
-        const ratingText = document.createElement('span');
-        ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
-        ratingText.style.color = colorText(classInfo[1].toFixed(2));
+    // Rating Text
+      const ratingText = document.createElement('span');
+      ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
+      ratingText.style.color = colorText(classInfo[1].toFixed(2));
+      classInfoText.appendChild(ratingText);
 
-        classInfoText.appendChild(ratingText);
+    // Workload Text
+      const workloadText = document.createElement('span');
+      workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
+      workloadText.style.color = colorText(classInfo[2].toFixed(2));
+      classInfoText.appendChild(workloadText);
 
-        const workloadText = document.createElement('span');
-        workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
-        workloadText.style.color = colorText(classInfo[2].toFixed(2));
-        classInfoText.appendChild(workloadText);
-
+    //   Find parent node of course name and insert classInfoText after it
       const classSection = findCourseNames[i].parentNode;
       classSection.insertAdjacentElement("afterend", classInfoText);
-
-
+      
+    // Create a link to the CUReviews page
+    const cuReviewsLinkElement = document.createElement("a");
+    cuReviewsLinkElement.href = cuReviewsLink;
+    cuReviewsLinkElement.textContent = "(View CUReviews Page)";
+    cuReviewsLinkElement.style.color = "blue";
+    classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
     }
   }
   processCourseNames();

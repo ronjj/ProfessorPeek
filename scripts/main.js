@@ -1,25 +1,25 @@
-// const article = document.querySelector("article");
+const article = document.querySelector("article");
 
-// // `document.querySelector` may return null if the selector doesn't match anything.
-// if (article) {
-//   const text = article.textContent;
-//   const wordMatchRegExp = /[^\s]+/g; // Regular expression
-//   const words = text.matchAll(wordMatchRegExp);
-//   // matchAll returns an iterator, convert to array to get word count
-//   const wordCount = [...words].length;
-//   const readingTime = Math.round(wordCount / 200);
-//   const badge = document.createElement("p");
-//   // Use the same styling as the publish information in an article's header
-//   badge.classList.add("color-secondary-text", "type--caption");
-//   badge.textContent = `⏱️ ${readingTime} min read`;
+// `document.querySelector` may return null if the selector doesn't match anything.
+if (article) {
+  const text = article.textContent;
+  const wordMatchRegExp = /[^\s]+/g; // Regular expression
+  const words = text.matchAll(wordMatchRegExp);
+  // matchAll returns an iterator, convert to array to get word count
+  const wordCount = [...words].length;
+  const readingTime = Math.round(wordCount / 200);
+  const badge = document.createElement("p");
+  // Use the same styling as the publish information in an article's header
+  badge.classList.add("color-secondary-text", "type--caption");
+  badge.textContent = `⏱️ ${readingTime} min read`;
 
-//   // Support for API reference docs
-//   const heading = article.querySelector("h1");
-//   // Support for article docs with date
-//   const date = article.querySelector("time")?.parentNode;
+  // Support for API reference docs
+  const heading = article.querySelector("h1");
+  // Support for article docs with date
+  const date = article.querySelector("time")?.parentNode;
 
-//   (date ?? heading).insertAdjacentElement("afterend", badge);
-// }
+  (date ?? heading).insertAdjacentElement("afterend", badge);
+}
 
 
 // Get Staff Names
@@ -48,9 +48,7 @@ if (findMeetingPatterns.length === 0) {
     }
 }
 
-
 // Function To Get CUReviews Information For A Course
-
 async function getCUReviewsInfo(subject, courseNumber) {
     const response = await fetch(`https://www.cureviews.org/api/getCourseByInfo`, {
         method: "POST",
@@ -69,35 +67,45 @@ async function getCUReviewsInfo(subject, courseNumber) {
     const classDifficulty = classInfo.classDifficulty;
     const classRating = classInfo.classRating;
     const classWorkload = classInfo.classWorkload;
-
+    
     console.log(classDifficulty, classRating, classWorkload);
+    return [classDifficulty, classRating, classWorkload];
 }
 
 // Get Course Names
 const findCourseNames = document.getElementsByClassName("title-subjectcode");
-
 if (findCourseNames.length === 0) {
   console.log("No course names found");
 } else {
-    // for (let i = 0; i < findCourseNames.length; i++) {
-    //     // Split coursename at space. element before space is course subject
-    //     const splitCourseName = findCourseNames[i].textContent.split(" ");
-    //     const subject = splitCourseName[0];
-    //     const courseNumber = splitCourseName[1];
-    //     const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
-    //     const cuReviewsRequestLink = `https://www.cureviews.org/api/getCourseByInfo`
-    //     console.log(getCUReviewsInfo(subject, courseNumber));
-    // }
+  async function processCourseNames() {
     for (let i = 0; i < 2; i++) {
-        // Split coursename at space. element before space is course subject
-        const splitCourseName = findCourseNames[i].textContent.split(" ");
-        const subject = splitCourseName[0];
-        const courseNumber = splitCourseName[1];
-        const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
-        const cuReviewsRequestLink = `https://www.cureviews.org/api/getCourseByInfo`
-        console.log(getCUReviewsInfo(subject, courseNumber));
+      // Split coursename at space. element before space is course subject
+      const splitCourseName = findCourseNames[i].textContent.split(" ");
+      const subject = splitCourseName[0];
+      const courseNumber = splitCourseName[1];
+      const cuReviewsLink = `(link unavailable)`;
+
+      // Use await to wait for the Promise to resolve
+      const classInfo = await getCUReviewsInfo(subject, courseNumber);
+      const classInfoText = document.createElement("p");
+      const difficultyText = document.createElement('span');
+        difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
+        difficultyText.style.color = 'red';
+        classInfoText.appendChild(difficultyText);
+
+        const ratingText = document.createElement('span');
+        ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
+        classInfoText.appendChild(ratingText);
+
+        const workloadText = document.createElement('span');
+        workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
+        classInfoText.appendChild(workloadText);
+
+      const classSection = findCourseNames[i].parentNode;
+      classSection.insertAdjacentElement("afterend", classInfoText);
+
+    //   findCourseNames[i].insertAdjacentElement("afterend", classInfoText);
     }
+  }
+  processCourseNames();
 }
-
-
-

@@ -184,4 +184,4 @@ async function processCourseNames() {
       }
   }
 }
-// processCourseNames();
+processCourseNames();

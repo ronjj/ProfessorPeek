@@ -21,3 +21,7 @@ Tech Stack:
 
 - Javascript
 - Built V1 in a weekend
+
+## What It Looks Like
+
+<img src="demo.png" alt="demo picture" title="Demo Picture" height = "1482" width = "590">

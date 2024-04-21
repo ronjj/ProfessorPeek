@@ -1,6 +1,6 @@
 function colorText(number) {
 
-  if (number === 0) {
+  if (number === 0 || number === "N/A") {
     return "black";
   }
   if (number >= 4) {
@@ -70,6 +70,9 @@ async function getStaffNames() {
                                         rmpResponse = await getRateMyProfessorScore(lastName);
                                         rmpData = rmpResponse["rating"];
                                         rmp_link = rmpResponse["rmp_link"];
+                                        if (rmpData === 0) {
+                                            rmpData = "N/A";
+                                        }
                                         professorMap[lastName] = rmpData;
                                     } catch (error) {
                                         console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);

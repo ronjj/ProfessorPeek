@@ -1,18 +1,16 @@
 function colorText(number) {
-    // 0 - 2
-    if (number < 2) {
-        return "red";
-    // 2 - 3.75
-    } else if (number < 3.75) {
-        return "black";
-    // 3.75 - 5
-    } else if (number < 5) {
-        return "green";
-    }
-    
-    else {
-        return "color: black;"; // or some other default color
-    }
+  // 0 - 2
+  if (number < 2) {
+      return "red";
+      // 2 - 3.75
+  } else if (number < 3.75) {
+      return "black";
+      // 3.75 - 5
+  } else if (number < 5) {
+      return "green";
+  } else {
+      return "color: black;"; // or some other default color
+  }
 }
 
 async function getRateMyProfessorScore(professorLastName) {
@@ -31,66 +29,77 @@ async function getRateMyProfessorScore(professorLastName) {
 async function getStaffNames() {
   const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
   if (findMeetingPatterns.length === 0) {
-    console.log("No professor names found");
+      console.log("No professor names found");
   } else {
+      const professorMap = {};
       for (let i = 0; i < 2; i++) {
-        const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
-        // If the class name "Instructors" is found, then iterate through each item in findInstructors
-        if (findInstructors.length > 0) {
-          for (let j = 0; j < findInstructors.length; j++) {
-            // If the name is Staff, ignore it
-            if (findInstructors[j].textContent.includes("Staff")) {
-              console.log("Staff found -ignoring");
-            } else {
-              // Get p tag for the instructor and get full name and netid
-              const instructorsPTag = findInstructors[j].children[1];
-              const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
-              const nameAndNetID = tooltipElement.dataset.content;
-              const firstName = nameAndNetID.split(" ")[0].toLowerCase();
-              const lastName = nameAndNetID.split(" ")[1].toLowerCase();
-              // console.log(lastName);
-              try {
-                  console.log(lastName);
-                  const rmpData = await getRateMyProfessorScore(lastName);
-                  console.log(rmpData);
-                  // const professorInfo = rmpData.data.newSearch.teachers.edges[0].node.avgRating;
-                  // console.log(`RateMyProfessor score for ${lastName}: ${professorInfo}`);
-              } catch (error) {
-                  console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
+          const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
+          // If the class name "Instructors" is found, then iterate through each item in findInstructors
+          if (findInstructors.length > 0) {
+              for (let j = 0; j < findInstructors.length; j++) {
+                  // If the name is Staff, ignore it
+                  if (findInstructors[j].textContent.includes("Staff")) {
+                      console.log("Staff found -ignoring");
+                  } else {
+                      // Get p tag for the instructor and get full name and netid
+                      const instructorsPTag = findInstructors[j].children[1];
+                      const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
+                      const nameAndNetID = tooltipElement.dataset.content;
+                      const firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                      const lastName = nameAndNetID.split(" ")[1].toLowerCase();
+                      let rmpData = 0.0
+                      // Check if the professor has already been added to the set
+                      console.log(professorMap);
+                      if (lastName in professorMap) {
+                          rmpData = professorMap[lastName];
+                          console.log(`${lastName}: in map with ${rmpData}`);
+                      } else {
+                          try {
+                              rmpResponse = await getRateMyProfessorScore(lastName);
+                              rmpData = rmpResponse["rating"];
+                              professorMap[lastName] = rmpData;
+                              // const professorInfo = rmpData.data.newSearch.teachers.edges[0].node.avgRating;
+                              // console.log(`RateMyProfessor score for ${lastName}: ${professorInfo}`);
+                          } catch (error) {
+                              console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
+                          }
+                      }
+                      // Update professor name on page
+                      const originalText = tooltipElement.textContent;
+                      tooltipElement.innerHTML = `${originalText} - ${rmpData}`;
+                  }
               }
-            }
+          } else {
+              console.log("No professor names found")
           }
-        } else {
-          console.log("No professor names found")
-        }
       }
   }
 }
 
-getStaffNames();    
+getStaffNames();
 
 // Function To Get CUReviews Information For A Course
 async function getCUReviewsInfo(subject, courseNumber) {
-    const response = await fetch(`https://www.cureviews.org/api/getCourseByInfo`, {
-        method: "POST",
-        body: JSON.stringify({
-            number: courseNumber,
-            subject: subject.toLowerCase()
-        }),
-        headers: {
-            "Content-type": "application/json; charset=UTF-8"
-        }
-    })
-    
-    const data = await response.json();
-    const classInfo = data.result; // Access the "result" property
+  const response = await fetch(`https://www.cureviews.org/api/getCourseByInfo`, {
+      method: "POST",
+      body: JSON.stringify({
+          number: courseNumber,
+          subject: subject.toLowerCase()
+      }),
+      headers: {
+          "Content-type": "application/json; charset=UTF-8"
+      }
+  })
 
-    const classDifficulty = classInfo.classDifficulty;
-    const classRating = classInfo.classRating;
-    const classWorkload = classInfo.classWorkload;
-    
-    // console.log(classDifficulty, classRating, classWorkload);
-    return [classDifficulty, classRating, classWorkload];
+  const data = await response.json();
+  const classInfo = data.result; // Access the "result" property
+
+  const classDifficulty = classInfo.classDifficulty;
+  const classRating = classInfo.classRating;
+  const classWorkload = classInfo.classWorkload;
+
+  // console.log(classDifficulty, classRating, classWorkload);
+  return [classDifficulty, classRating, classWorkload];
 }
 
 // Get Course Names, Get CUReviews Info, Add Data to Page
@@ -109,29 +118,29 @@ async function processCourseNames() {
               //   CUReview Stats in Line
               const classInfo = await getCUReviewsInfo(subject, courseNumber);
               const classInfoText = document.createElement("p");
-      
+
               //   Difficulty Text
               const difficultyText = document.createElement('span');
               difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
               difficultyText.style.color = colorText(classInfo[0].toFixed(2));
               classInfoText.appendChild(difficultyText);
-      
+
               // Rating Text
               const ratingText = document.createElement('span');
               ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
               ratingText.style.color = colorText(classInfo[1].toFixed(2));
               classInfoText.appendChild(ratingText);
-      
+
               // Workload Text
               const workloadText = document.createElement('span');
               workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
               workloadText.style.color = colorText(classInfo[2].toFixed(2));
               classInfoText.appendChild(workloadText);
-      
+
               //   Find parent node of course name and insert classInfoText after it
               const classSection = findCourseNames[i].parentNode;
               classSection.insertAdjacentElement("afterend", classInfoText);
-              
+
               // Create a link to the CUReviews page
               const cuReviewsLinkElement = document.createElement("a");
               cuReviewsLinkElement.href = cuReviewsLink;
@@ -146,7 +155,7 @@ async function processCourseNames() {
               const classSection = findCourseNames[i].parentNode;
               classSection.insertAdjacentElement("afterend", classInfoText);
           }
-    }
+      }
   }
 }
 

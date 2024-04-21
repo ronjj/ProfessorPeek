@@ -14,7 +14,7 @@ ProfessorPeek is a Chrome Extension that helps Cornell students select classes
 - Navigate to your broswer's extension settings: chrome://extensions/
 - Turn on developer mode (top right of the page for Brave and Google Chrome)
 - Click "Load Unpacked"
-- Select the unzipped ProfessorPeak folder
+- Select the unzipped "ProfessorPeak Extension" folder
 - Head to Course Roster and navigate to a page with professors and classes. Refresh the page if you don't see the RateMyProfessor or CUReviews scores
 
 Tech Stack:

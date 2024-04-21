@@ -24,4 +24,4 @@ Tech Stack:
 
 ## What It Looks Like
 
-<img src="demo.png" alt="demo picture" title="Demo Picture" height = "400" width = "800">
+<img src="demo.png" alt="demo picture" title="Demo Picture" height = "300" width = "900">

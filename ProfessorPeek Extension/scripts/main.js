@@ -1,9 +1,7 @@
 function colorText(number) {
-  // 0 - 2
-  if (number < 2) {
+  if (number < 3) {
       return "red";
-      // 2 - 3.75
-  } else if (number < 3.75) {
+  } else if (number < 4) {
       return "black";
       // 3.75 - 5
   } else if (number < 5) {
@@ -32,7 +30,7 @@ async function getStaffNames() {
       console.log("No professor names found");
   } else {
       const professorMap = {};
-      for (let i = 0; i < 2; i++) {
+      for (let i = 0; i < findMeetingPatterns.length; i++) {
           const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
           // If the class name "Instructors" is found, then iterate through each item in findInstructors
           if (findInstructors.length > 0) {
@@ -41,32 +39,33 @@ async function getStaffNames() {
                   if (findInstructors[j].textContent.includes("Staff")) {
                       console.log("Staff found -ignoring");
                   } else {
-                      // Get p tag for the instructor and get full name and netid
-                      const instructorsPTag = findInstructors[j].children[1];
-                      const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
-                      const nameAndNetID = tooltipElement.dataset.content;
-                      const firstName = nameAndNetID.split(" ")[0].toLowerCase();
-                      const lastName = nameAndNetID.split(" ")[1].toLowerCase();
-                      let rmpData = 0.0
-                      // Check if the professor has already been added to the set
-                      console.log(professorMap);
-                      if (lastName in professorMap) {
-                          rmpData = professorMap[lastName];
-                          console.log(`${lastName}: in map with ${rmpData}`);
-                      } else {
-                          try {
-                              rmpResponse = await getRateMyProfessorScore(lastName);
-                              rmpData = rmpResponse["rating"];
-                              professorMap[lastName] = rmpData;
-                              // const professorInfo = rmpData.data.newSearch.teachers.edges[0].node.avgRating;
-                              // console.log(`RateMyProfessor score for ${lastName}: ${professorInfo}`);
-                          } catch (error) {
-                              console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
-                          }
-                      }
+                        // Get p tag for the instructor and get full name and netid
+                        const instructorsPTag = findInstructors[j].children[1];
+                        const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
+                        const nameAndNetID = tooltipElement.dataset.content;
+                        const firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                        const lastName = nameAndNetID.split(" ")[1].toLowerCase();
+                        let rmpData = 0.0
+                        if (lastName in professorMap) {
+                            rmpData = professorMap[lastName];
+                            console.log(`${lastName}: in map with ${rmpData}`);
+                        } else {
+                            try {
+                                rmpResponse = await getRateMyProfessorScore(lastName);
+                                rmpData = rmpResponse["rating"];
+                                professorMap[lastName] = rmpData;
+                                // const professorInfo = rmpData.data.newSearch.teachers.edges[0].node.avgRating;
+                                // console.log(`RateMyProfessor score for ${lastName}: ${professorInfo}`);
+                            } catch (error) {
+                                console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
+                                rmpData = "N/A";
+                            }
+                        }
+                    
                       // Update professor name on page
                       const originalText = tooltipElement.textContent;
                       tooltipElement.innerHTML = `${originalText} - ${rmpData}`;
+                      tooltipElement.style.color = colorText(rmpData);
                   }
               }
           } else {
@@ -108,7 +107,7 @@ async function processCourseNames() {
   if (findCourseNames.length === 0) {
       console.log("No course names found");
   } else {
-      for (let i = 0; i < findCourseNames.length; i++) {
+      for (let i = 0; i < findCourseNames.length - 1; i++) {
           // Split coursename at space. element before space is course subject
           const splitCourseName = findCourseNames[i].textContent.split(" ");
           const subject = splitCourseName[0];
@@ -160,4 +159,4 @@ async function processCourseNames() {
 }
 
 // Uncomment to Add CUReviews to page
-// processCourseNames();
+processCourseNames();

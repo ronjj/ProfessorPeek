@@ -64,6 +64,11 @@ async function getStaffNames() {
                       const originalText = tooltipElement.textContent;
                       tooltipElement.innerHTML = `${originalText} - ${rmpData}`;
                       tooltipElement.style.color = colorText(rmpData);
+                      const rmp_link_element = document.createElement("a"); // Create an <a> element
+                      rmp_link_element.href = rmp_link; // Set the href attribute to the URL
+                      rmp_link_element.textContent = "(View Full Ratings)"; // Set the link text
+                      rmp_link_element.target = "_blank"; // Optional: open in a new tab
+                      instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
                   }
               }
           } else {
@@ -152,4 +157,4 @@ async function processCourseNames() {
       }
   }
 }
-// processCourseNames();
+processCourseNames();

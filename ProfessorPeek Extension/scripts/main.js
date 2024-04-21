@@ -61,7 +61,6 @@ async function getStaffNames() {
                                 rmpData = "N/A";
                             }
                         }
-                    
                       // Update professor name on page
                       const originalText = tooltipElement.textContent;
                       tooltipElement.innerHTML = `${originalText} - ${rmpData}`;

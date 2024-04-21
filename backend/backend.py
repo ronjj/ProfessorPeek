@@ -139,8 +139,12 @@ def get_rate_my_professor_score(last_name, first_name):
 
         response = requests.post(url, headers=headers, json={'query': query, 'variables': variables})
         data = response.json()
-        result = data['data']['newSearch']['teachers']['edges'][0]['node']['avgRating']
-        return {"rating": result}
+        edges = data['data']['newSearch']['teachers']['edges']
+        if len(edges) == 0:
+            return {"rating": 0}
+        else:
+          result = edges [0]['node']['avgRating']
+          return {"rating": result}
 
     else:
         return error_message("Method not allowed", 405)

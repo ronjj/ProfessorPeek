@@ -160,10 +160,6 @@ def _build_cors_preflight_response():
     response.headers.add('Access-Control-Allow-Methods', "*")
     return response
 
-def _corsify_actual_response(json_response):
-    response = json.dumps(json_response)
-    response.headers["Access-Control-Allow-Origin"] = "*"
-    return response
 # Run Server
 if __name__ == '__main__':
     app.run (app.run(debug=True))

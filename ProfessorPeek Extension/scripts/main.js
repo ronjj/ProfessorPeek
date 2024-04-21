@@ -43,8 +43,16 @@ async function getStaffNames() {
                         const instructorsPTag = findInstructors[j].children[1];
                         const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
                         const nameAndNetID = tooltipElement.dataset.content;
-                        const firstName = nameAndNetID.split(" ")[0].toLowerCase();
-                        const lastName = nameAndNetID.split(" ")[1].toLowerCase();
+                        let firstName = ""
+                        let lastName = ""
+                        // Split last name. Ex: "Anke Van Zuylen"
+                        if (nameAndNetID.split(" ").length > 3) {
+                             firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                             lastName = nameAndNetID.split(" ")[1].toLowerCase() + " " + nameAndNetID.split(" ")[2].toLowerCase();
+                        } else {
+                            firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                            lastName = nameAndNetID.split(" ")[1].toLowerCase();
+                        }
                         let rmpData = 0.0
                         if (lastName in professorMap) {
                             rmpData = professorMap[lastName];
@@ -157,4 +165,4 @@ async function processCourseNames() {
       }
   }
 }
-processCourseNames();
+// processCourseNames();

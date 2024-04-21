@@ -8,7 +8,7 @@ ProfessorPeek is a Chrome Extension that helps Cornell students select classes
 
 ###### Note: You must be using a Chrome based browser (Google Chrome, Brave, Arc, etc..). Safari and Firefox are not Chrome Based
 
-- Download ProfessorPeak as a ZIP
+- Download ProfessorPeek as a ZIP
   - Click the green "Code" button
   - Click "Download ZIP"
 - Navigate to your broswer's extension settings: chrome://extensions/
@@ -20,3 +20,4 @@ ProfessorPeek is a Chrome Extension that helps Cornell students select classes
 Tech Stack:
 
 - Javascript
+- Built V1 in a weekend

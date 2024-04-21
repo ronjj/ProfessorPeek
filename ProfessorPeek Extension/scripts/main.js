@@ -77,11 +77,17 @@ async function getStaffNames() {
                               const originalText = tooltipElement.textContent;
                               tooltipElement.innerHTML = `${originalText} - ${rmpData}`;
                               tooltipElement.style.color = colorText(rmpData);
-                              const rmp_link_element = document.createElement("a"); // Create an <a> element
-                              rmp_link_element.href = rmp_link; // Set the href attribute to the URL
-                              rmp_link_element.textContent = "(View Full Ratings)"; // Set the link text
-                              rmp_link_element.target = "_blank"; // Optional: open in a new tab
-                              instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
+                              if (rmp_link == "None") {
+                                const rmp_link_element = document.createElement("p"); // Create an <p> element
+                                rmp_link_element.textContent = "No Ratings Found"; // Set the text
+                                instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
+                              } else {
+                                const rmp_link_element = document.createElement("a"); // Create an <a> element
+                                rmp_link_element.href = rmp_link; // Set the href attribute to the URL
+                                rmp_link_element.textContent = "(View Full Ratings)"; // Set the link text
+                                rmp_link_element.target = "_blank"; // Optional: open in a new tab
+                                instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
+                              }
                             }
                         }
                   }

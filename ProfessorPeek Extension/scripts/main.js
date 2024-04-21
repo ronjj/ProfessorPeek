@@ -53,9 +53,8 @@ async function getStaffNames() {
                             try {
                                 rmpResponse = await getRateMyProfessorScore(lastName);
                                 rmpData = rmpResponse["rating"];
+                                rmp_link = rmpResponse["rmp_link"];
                                 professorMap[lastName] = rmpData;
-                                // const professorInfo = rmpData.data.newSearch.teachers.edges[0].node.avgRating;
-                                // console.log(`RateMyProfessor score for ${lastName}: ${professorInfo}`);
                             } catch (error) {
                                 console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
                                 rmpData = "N/A";
@@ -91,12 +90,9 @@ async function getCUReviewsInfo(subject, courseNumber) {
 
   const data = await response.json();
   const classInfo = data.result; // Access the "result" property
-
   const classDifficulty = classInfo.classDifficulty;
   const classRating = classInfo.classRating;
   const classWorkload = classInfo.classWorkload;
-
-  // console.log(classDifficulty, classRating, classWorkload);
   return [classDifficulty, classRating, classWorkload];
 }
 
@@ -156,6 +152,4 @@ async function processCourseNames() {
       }
   }
 }
-
-// Uncomment to Add CUReviews to page
-processCourseNames();
+// processCourseNames();

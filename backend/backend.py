@@ -141,17 +141,18 @@ def get_rate_my_professor_score(last_name, first_name):
         data = response.json()
         edges = data['data']['newSearch']['teachers']['edges']
         if len(edges) == 0:
-            return {"rating": 0}
+            return {"rating": 0, "rmp_link": 0}
         else:
-          result = edges [0]['node']['avgRating']
-          return {"rating": result}
+          result = edges[0]['node']['avgRating']
+          legacy_id = edges[0]['node']['legacyId']
+          rmp_link = f"https://www.ratemyprofessors.com/professor/{legacy_id}"
+          resp = make_response({"rating": result, "rmp_link": rmp_link})
+          resp.headers['Access-Control-Allow-Origin'] = '*'
+          return resp
 
     else:
         return error_message("Method not allowed", 405)
         
-   
-
-
 def _build_cors_preflight_response():
     response = make_response()
     response.headers.add("Access-Control-Allow-Origin", "*")
@@ -159,8 +160,9 @@ def _build_cors_preflight_response():
     response.headers.add('Access-Control-Allow-Methods', "*")
     return response
 
-def _corsify_actual_response(response):
-    response.headers.add("Access-Control-Allow-Origin", "*")
+def _corsify_actual_response(json_response):
+    response = json.dumps(json_response)
+    response.headers["Access-Control-Allow-Origin"] = "*"
     return response
 # Run Server
 if __name__ == '__main__':

@@ -1,13 +1,16 @@
 function colorText(number) {
-  if (number < 3) {
-      return "red";
-  } else if (number < 4) {
-      return "black";
-      // 3.75 - 5
-  } else if (number < 5) {
-      return "green";
-  } else {
-      return "color: black;"; // or some other default color
+
+  if (number === 0) {
+    return "black";
+  }
+  if (number >= 4) {
+    return "green";
+  }
+  if (number >= 3) {
+    return "black";
+  }
+  else {
+    return "red";
   }
 }
 

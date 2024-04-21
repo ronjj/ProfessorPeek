@@ -15,14 +15,16 @@ function colorText(number) {
     }
 }
 
-async function getRateMyProfessorScore(professorLastName) {
-    const response = await fetch(`http://127.0.0.1:5000/${professorLastName}/test`, {
+ function getRateMyProfessorScore(professorLastName) {
+    const response =  fetch(`http://127.0.0.1:5000/${professorLastName}/test`, {
         method: "GET",
         headers: {
             "Content-type": "application/json; charset=UTF-8"
         }
     })
-    const data = await response.json();
+    const data = response;
+    console.log(data);
+    console.log(data.textContent);
     return data;
 }
 
@@ -49,10 +51,9 @@ async function getStaffNames() {
               const lastName = nameAndNetID.split(" ")[1].toLowerCase();
               // console.log(lastName);
               try {
-                  // console.log(lastName);
-
-                  // const rmpData = await getRateMyProfessorScore(lastName);
-                  // console.log(rmpData);
+                  console.log(lastName);
+                  const rmpData = getRateMyProfessorScore(lastName);
+                  console.log(rmpData);
                   // const professorInfo = rmpData.data.newSearch.teachers.edges[0].node.avgRating;
                   // console.log(`RateMyProfessor score for ${lastName}: ${professorInfo}`);
               } catch (error) {

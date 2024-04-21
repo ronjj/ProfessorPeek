@@ -15,7 +15,7 @@ function colorText(number) {
 }
 
 async function getRateMyProfessorScore(professorLastName) {
-  const response = await fetch(`http://127.0.0.1:5000/${professorLastName}/test`, {
+  const response = await fetch(`https://professorpeek.onrender.com/${professorLastName}/test`, {
       method: "GET",
       headers: {
           "Content-type": "application/json; charset=UTF-8"

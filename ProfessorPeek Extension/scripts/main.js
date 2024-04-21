@@ -39,44 +39,51 @@ async function getStaffNames() {
                   if (findInstructors[j].textContent.includes("Staff")) {
                       console.log("Staff found -ignoring");
                   } else {
-                        // Get p tag for the instructor and get full name and netid
-                        const instructorsPTag = findInstructors[j].children[1];
-                        const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
-                        const nameAndNetID = tooltipElement.dataset.content;
-                        let firstName = ""
-                        let lastName = ""
-                        // Split last name. Ex: "Anke Van Zuylen"
-                        if (nameAndNetID.split(" ").length > 3) {
-                             firstName = nameAndNetID.split(" ")[0].toLowerCase();
-                             lastName = nameAndNetID.split(" ")[1].toLowerCase() + " " + nameAndNetID.split(" ")[2].toLowerCase();
-                        } else {
-                            firstName = nameAndNetID.split(" ")[0].toLowerCase();
-                            lastName = nameAndNetID.split(" ")[1].toLowerCase();
-                        }
-                        let rmpData = 0.0
-                        if (lastName in professorMap) {
-                            rmpData = professorMap[lastName];
-                            console.log(`${lastName}: in map with ${rmpData}`);
-                        } else {
-                            try {
-                                rmpResponse = await getRateMyProfessorScore(lastName);
-                                rmpData = rmpResponse["rating"];
-                                rmp_link = rmpResponse["rmp_link"];
-                                professorMap[lastName] = rmpData;
-                            } catch (error) {
-                                console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
-                                rmpData = "N/A";
+                        // Get p tag for each instructor and get full name and netid.
+                        // Start at 1 to skip the "Instructors" text
+                        for (let k = 1; k < findInstructors[j].children.length; k++) {
+                            const instructorsPTag = findInstructors[j].children[k];
+                            if (instructorsPTag.querySelector('.tooltip-iws') === null) {
+                                console.log("No tooltip found");
+                            } else {
+                                const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
+                                const nameAndNetID = tooltipElement.dataset.content;
+                                let firstName = ""
+                                let lastName = ""
+                                // Split last name. Ex: "Anke Van Zuylen"
+                                if (nameAndNetID.split(" ").length > 3) {
+                                     firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                                     lastName = nameAndNetID.split(" ")[1].toLowerCase() + " " + nameAndNetID.split(" ")[2].toLowerCase();
+                                } else {
+                                    firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                                    lastName = nameAndNetID.split(" ")[1].toLowerCase();
+                                }
+                                let rmpData = 0.0
+                                if (lastName in professorMap) {
+                                    rmpData = professorMap[lastName];
+                                    console.log(`${lastName}: in map with ${rmpData}`);
+                                } else {
+                                    try {
+                                        rmpResponse = await getRateMyProfessorScore(lastName);
+                                        rmpData = rmpResponse["rating"];
+                                        rmp_link = rmpResponse["rmp_link"];
+                                        professorMap[lastName] = rmpData;
+                                    } catch (error) {
+                                        console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
+                                        rmpData = "N/A";
+                                    }
+                                }
+                              // Update professor name on page
+                              const originalText = tooltipElement.textContent;
+                              tooltipElement.innerHTML = `${originalText} - ${rmpData}`;
+                              tooltipElement.style.color = colorText(rmpData);
+                              const rmp_link_element = document.createElement("a"); // Create an <a> element
+                              rmp_link_element.href = rmp_link; // Set the href attribute to the URL
+                              rmp_link_element.textContent = "(View Full Ratings)"; // Set the link text
+                              rmp_link_element.target = "_blank"; // Optional: open in a new tab
+                              instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
                             }
                         }
-                      // Update professor name on page
-                      const originalText = tooltipElement.textContent;
-                      tooltipElement.innerHTML = `${originalText} - ${rmpData}`;
-                      tooltipElement.style.color = colorText(rmpData);
-                      const rmp_link_element = document.createElement("a"); // Create an <a> element
-                      rmp_link_element.href = rmp_link; // Set the href attribute to the URL
-                      rmp_link_element.textContent = "(View Full Ratings)"; // Set the link text
-                      rmp_link_element.target = "_blank"; // Optional: open in a new tab
-                      instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
                   }
               }
           } else {

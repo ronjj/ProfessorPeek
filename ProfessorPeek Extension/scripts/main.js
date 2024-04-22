@@ -63,19 +63,22 @@ async function getStaffNames() {
                                 }
                                 let rmpData = 0.0
                                 let rmp_link = ""
+                                let num_ratings = 0.0
                                 if (lastName in professorMap) {
                                     rmpData = professorMap[lastName][0];
                                     rmp_link = professorMap[lastName][1];
+                                    num_ratings = professorMap[lastName][2];
                                     console.log(`${lastName}: in map with ${rmpData}`);
                                 } else {
                                     try {
                                         rmpResponse = await getRateMyProfessorScore(lastName);
                                         rmpData = rmpResponse["rating"];
                                         rmp_link = rmpResponse["rmp_link"];
+                                        num_ratings = rmpResponse["num_ratings"];
                                         if (rmpData === 0) {
                                             rmpData = "N/A";
                                         }
-                                        professorMap[lastName] = [rmpData, rmp_link];
+                                        professorMap[lastName] = [rmpData, rmp_link, num_ratings];
                                     } catch (error) {
                                         console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
                                         rmpData = "N/A";
@@ -83,7 +86,7 @@ async function getStaffNames() {
                                 }
                               // Update professor name on page
                               const originalText = tooltipElement.textContent;
-                              tooltipElement.innerHTML = `${originalText} - ${rmpData}`;
+                              tooltipElement.innerHTML = `${originalText} - ${rmpData} (${num_ratings})`;
                               tooltipElement.style.color = colorText(rmpData);
                               if (rmp_link == "None") {
                                 const rmp_link_element = document.createElement("p"); // Create an <p> element
@@ -178,8 +181,8 @@ async function processCourseNames() {
           } catch (error) {
               console.error(`No CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");
-              classInfoText.textContent = `Error fetching class info`;
-              classInfoText.style.color = "red";
+              classInfoText.textContent = `No Class Ratings Found`;
+              classInfoText.style.color = "black";
               const classSection = findCourseNames[i].parentNode;
               classSection.insertAdjacentElement("afterend", classInfoText);
           }

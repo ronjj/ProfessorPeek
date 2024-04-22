@@ -14,7 +14,8 @@
             "js": ["scripts/main.js"],
             "matches": [
               "https://classes.cornell.edu/browse/roster/*",
-              "https://classes.cornell.edu/search/roster/*"
+              "https://classes.cornell.edu/search/roster/*",
+              "https://classes.cornell.edu/scheduler/roster/*"
             ]
           }
         ]

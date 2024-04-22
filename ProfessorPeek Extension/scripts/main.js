@@ -62,8 +62,10 @@ async function getStaffNames() {
                                     lastName = nameAndNetID.split(" ")[1].toLowerCase();
                                 }
                                 let rmpData = 0.0
+                                let rmp_link = ""
                                 if (lastName in professorMap) {
-                                    rmpData = professorMap[lastName];
+                                    rmpData = professorMap[lastName][0];
+                                    rmp_link = professorMap[lastName][1];
                                     console.log(`${lastName}: in map with ${rmpData}`);
                                 } else {
                                     try {
@@ -73,7 +75,7 @@ async function getStaffNames() {
                                         if (rmpData === 0) {
                                             rmpData = "N/A";
                                         }
-                                        professorMap[lastName] = rmpData;
+                                        professorMap[lastName] = [rmpData, rmp_link];
                                     } catch (error) {
                                         console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
                                         rmpData = "N/A";

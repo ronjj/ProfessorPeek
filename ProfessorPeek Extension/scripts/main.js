@@ -75,6 +75,7 @@ async function getStaffNames() {
                                         rmpData = rmpResponse["rating"];
                                         rmp_link = rmpResponse["rmp_link"];
                                         num_ratings = rmpResponse["num_ratings"];
+                                        console.log(num_ratings, lastName);
                                         if (rmpData === 0) {
                                             rmpData = "N/A";
                                         }
@@ -86,7 +87,7 @@ async function getStaffNames() {
                                 }
                               // Update professor name on page
                               const originalText = tooltipElement.textContent;
-                              tooltipElement.innerHTML = `${originalText} - ${rmpData} (${num_ratings})`;
+                              tooltipElement.innerHTML = `${originalText} - ${rmpData} (${num_ratings} Ratings)`;
                               tooltipElement.style.color = colorText(rmpData);
                               if (rmp_link == "None") {
                                 const rmp_link_element = document.createElement("p"); // Create an <p> element
@@ -95,7 +96,7 @@ async function getStaffNames() {
                               } else {
                                 const rmp_link_element = document.createElement("a"); // Create an <a> element
                                 rmp_link_element.href = rmp_link; // Set the href attribute to the URL
-                                rmp_link_element.textContent = "(View Full Ratings)"; // Set the link text
+                                rmp_link_element.textContent = "(RateMyProfessor Page)"; // Set the link text
                                 rmp_link_element.target = "_blank"; // Optional: open in a new tab
                                 instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
                               }

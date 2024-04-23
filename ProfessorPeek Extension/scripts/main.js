@@ -1,16 +1,32 @@
-function colorText(number) {
+function colorText(number, isInverted) {
 
-  if (number === 0 || number === "N/A") {
-    return "black";
-  }
-  if (number >= 4) {
-    return "green";
-  }
-  if (number >= 3) {
-    return "black";
-  }
-  else {
-    return "red";
+//   If inverted, low numbers are good and high numbers are bad
+  if (isInverted) {
+    if (number === 0 || number === "N/A") {
+        return "black";
+      }
+      if (number >= 4) {
+        return "red";
+      }
+      if (number >= 3) {
+        return "black";
+      }
+      else {
+        return "green";
+      }
+  } else {
+    if (number === 0 || number === "N/A") {
+        return "black";
+      }
+      if (number >= 4) {
+        return "green";
+      }
+      if (number >= 3) {
+        return "black";
+      }
+      else {
+        return "red";
+      }
   }
 }
 
@@ -88,7 +104,7 @@ async function getStaffNames() {
                               // Update professor name on page
                               const originalText = tooltipElement.textContent;
                               tooltipElement.innerHTML = `${originalText} - ${rmpData} (${num_ratings} Ratings)`;
-                              tooltipElement.style.color = colorText(rmpData);
+                              tooltipElement.style.color = colorText(rmpData, false);
                               if (rmp_link == "None") {
                                 const rmp_link_element = document.createElement("p"); // Create an <p> element
                                 rmp_link_element.textContent = "No Ratings Found"; // Set the text
@@ -154,19 +170,19 @@ async function processCourseNames() {
               //   Difficulty Text
               const difficultyText = document.createElement('span');
               difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
-              difficultyText.style.color = colorText(classInfo[0].toFixed(2));
+              difficultyText.style.color = colorText(classInfo[0].toFixed(2), true);
               classInfoText.appendChild(difficultyText);
 
               // Rating Text
               const ratingText = document.createElement('span');
               ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
-              ratingText.style.color = colorText(classInfo[1].toFixed(2));
+              ratingText.style.color = colorText(classInfo[1].toFixed(2), false);
               classInfoText.appendChild(ratingText);
 
               // Workload Text
               const workloadText = document.createElement('span');
               workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
-              workloadText.style.color = colorText(classInfo[2].toFixed(2));
+              workloadText.style.color = colorText(classInfo[2].toFixed(2), true);
               classInfoText.appendChild(workloadText);
 
               //   Find parent node of course name and insert classInfoText after it

@@ -147,7 +147,23 @@ async function getCUReviewsInfo(subject, courseNumber) {
   const classDifficulty = classInfo.classDifficulty;
   const classRating = classInfo.classRating;
   const classWorkload = classInfo.classWorkload;
-  return [classDifficulty, classRating, classWorkload];
+  const classId = classInfo._id;
+
+  const response_two = await fetch(`https://www.cureviews.org/api/getReviewsByCourseId`, {
+      method: "POST",
+      body: JSON.stringify({
+        courseId: classId,
+      }),
+      headers: {
+          "Content-type": "application/json; charset=UTF-8"
+      }
+  })
+
+  const data_two = await response_two.json();
+  const num_reviews = data_two.result.length;
+  console.log(num_reviews);
+
+  return [classDifficulty, classRating, classWorkload, num_reviews];
 }
 
 // Get Course Names, Get CUReviews Info, Add Data to Page
@@ -184,6 +200,12 @@ async function processCourseNames() {
               workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
               workloadText.style.color = colorText(classInfo[2].toFixed(2), true);
               classInfoText.appendChild(workloadText);
+
+            //   Number of Ratings
+              const numberOfRatings = document.createElement('span');
+              numberOfRatings.textContent = ` (${classInfo[3]} Ratings)`;
+              numberOfRatings.style.color = "black";
+              classInfoText.appendChild(numberOfRatings);
 
               //   Find parent node of course name and insert classInfoText after it
               const classSection = findCourseNames[i].parentNode;

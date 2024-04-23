@@ -229,3 +229,17 @@ async function processCourseNames() {
   }
 }
 processCourseNames();
+
+
+async function scheduler_page() {
+    const findCourseNames = document.getElementsByClassName("roster-sidenav-tab roster-sidenav-tab-build active");
+    if (findCourseNames.length === 0) {
+        console.log("Not on scheduler page");
+    } else {
+        
+
+    }
+}
+
+
+scheduler_page();

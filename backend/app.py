@@ -150,7 +150,6 @@ def get_rate_my_professor_score(last_name, first_name):
           resp = make_response({"rating": result, "rmp_link": rmp_link, "num_ratings": num_ratings})
           resp.headers['Access-Control-Allow-Origin'] = '*'
           return resp
-
     else:
         return error_message("Method not allowed", 405)
         

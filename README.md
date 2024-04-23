@@ -2,7 +2,9 @@ ProfessorPeek is a Chrome Extension that helps Cornell students select classes
 
 # Installation
 
-## 1. (COMING SOON) Chrome Webstore
+## 1. Download on Chrome Webstore
+
+https://chromewebstore.google.com/detail/professorpeek/jilfmfcpampggogoeppklpbkkejnoglo
 
 ## 2. Load Unpacked
 

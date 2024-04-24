@@ -182,6 +182,8 @@ async function processCourseNames() {
               //   CUReview Stats in Line
               const classInfo = await getCUReviewsInfo(subject, courseNumber);
               const classInfoText = document.createElement("p");
+              // give p element a class name
+              classInfoText.className = "class-info-text";
 
               //   Difficulty Text
               const difficultyText = document.createElement('span');

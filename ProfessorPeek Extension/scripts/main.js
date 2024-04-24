@@ -172,15 +172,19 @@ async function processCourseNames() {
   if (findCourseNames.length === 0) {
       console.log("No course names found");
   } else {
-      for (let i = 0; i < findCourseNames.length - 1; i++) {
+      for (let i = 0; i < findCourseNames.length; i++) {
           // Split coursename at space. element before space is course subject
           const splitCourseName = findCourseNames[i].textContent.split(" ");
           const subject = splitCourseName[0];
           const courseNumber = splitCourseName[1];
+          console.log(`Processing: ${subject} ${courseNumber}`);
           const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
           try {
               //   CUReview Stats in Line
               const classInfo = await getCUReviewsInfo(subject, courseNumber);
+              console.log("class info information");
+
+              console.log(classInfo);
               const classInfoText = document.createElement("p");
 
               //   Difficulty Text
@@ -209,6 +213,8 @@ async function processCourseNames() {
 
               //   Find parent node of course name and insert classInfoText after it
               const classSection = findCourseNames[i].parentNode;
+              console.log(classSection);
+              console.log(classSection.textContent);
               classSection.insertAdjacentElement("afterend", classInfoText);
 
               // Create a link to the CUReviews page
@@ -217,6 +223,8 @@ async function processCourseNames() {
               cuReviewsLinkElement.textContent = "(View CUReviews Page)";
               cuReviewsLinkElement.style.color = "blue";
               classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
+
+              console.log(`Added CUReviews Data For: ${subject} ${courseNumber}`)
           } catch (error) {
               console.error(`No CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");

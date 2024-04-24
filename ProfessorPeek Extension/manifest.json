@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "ProfessorPeek",
-    "version": "1.0",
+    "version": "1.2",
     "description": "Add the RateMyProfessor rating and CUReviews rating to the course catalog",
     "icons": {
         "16": "images/pp-logo-16.png",

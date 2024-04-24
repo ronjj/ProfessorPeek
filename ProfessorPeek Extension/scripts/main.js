@@ -236,6 +236,12 @@ async function processCourseNames() {
               // Append the button to the section
               classSection.insertAdjacentElement("afterend", toggleButton);
 
+              // remnant code from trying to collapse disucssion sesctions
+              // const subjectCodeH3Parent = findCourseNames[i].parentElement;
+              // const classParentElement = subjectCodeH3Parent.parentElement;
+              // const sectionsHeader = classParentElement.querySelector("sections");
+              // console.log(sectionsHeader.children.length);
+
               // Create an array to store the review elements for toggling visibility
               const reviewElements = [];
 
@@ -274,7 +280,6 @@ async function processCourseNames() {
 
               // Add event listener to the button
               toggleButton.addEventListener("click", toggleReviews);
-
           } catch (error) {
               console.error(`No CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");

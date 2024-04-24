@@ -30,8 +30,10 @@ function colorText(number, isInverted) {
   }
 }
 
-async function getRateMyProfessorScore(professorLastName) {
-  const response = await fetch(`https://professorpeek.onrender.com/${professorLastName}/test`, {
+async function getRateMyProfessorScore(professorLastName, professorFirstName) {
+  // const response = await fetch(`https://professorpeek.onrender.com/${professorLastName}/${professorFirstName}`, {
+  const response = await fetch(`http://127.0.0.1:5000/${professorLastName}/${professorFirstName}`, {
+
       method: "GET",
       headers: {
           "Content-type": "application/json; charset=UTF-8"
@@ -56,14 +58,14 @@ async function getStaffNames() {
               for (let j = 0; j < findInstructors.length; j++) {
                   // If the name is Staff, ignore it
                   if (findInstructors[j].textContent.includes("Staff")) {
-                      console.log("Staff found -ignoring");
+                      // console.log("Staff found -ignoring");
                   } else {
                         // Get p tag for each instructor and get full name and netid.
                         // Start at 1 to skip the "Instructors" text
                         for (let k = 1; k < findInstructors[j].children.length; k++) {
                             const instructorsPTag = findInstructors[j].children[k];
                             if (instructorsPTag.querySelector('.tooltip-iws') === null) {
-                                console.log("No tooltip found");
+                                // console.log("No tooltip found");
                             } else {
                                 const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
                                 const nameAndNetID = tooltipElement.dataset.content;
@@ -87,11 +89,10 @@ async function getStaffNames() {
                                     console.log(`${lastName}: in map with ${rmpData}`);
                                 } else {
                                     try {
-                                        rmpResponse = await getRateMyProfessorScore(lastName);
+                                        rmpResponse = await getRateMyProfessorScore(lastName, firstName);
                                         rmpData = rmpResponse["rating"];
                                         rmp_link = rmpResponse["rmp_link"];
                                         num_ratings = rmpResponse["num_ratings"];
-                                        console.log(num_ratings, lastName);
                                         if (rmpData === 0) {
                                             rmpData = "N/A";
                                         }
@@ -161,7 +162,6 @@ async function getCUReviewsInfo(subject, courseNumber) {
 
   const data_two = await response_two.json();
   const num_reviews = data_two.result.length;
-  console.log(num_reviews);
 
   return [classDifficulty, classRating, classWorkload, num_reviews];
 }
@@ -177,14 +177,10 @@ async function processCourseNames() {
           const splitCourseName = findCourseNames[i].textContent.split(" ");
           const subject = splitCourseName[0];
           const courseNumber = splitCourseName[1];
-          console.log(`Processing: ${subject} ${courseNumber}`);
           const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
           try {
               //   CUReview Stats in Line
               const classInfo = await getCUReviewsInfo(subject, courseNumber);
-              console.log("class info information");
-
-              console.log(classInfo);
               const classInfoText = document.createElement("p");
 
               //   Difficulty Text
@@ -213,8 +209,6 @@ async function processCourseNames() {
 
               //   Find parent node of course name and insert classInfoText after it
               const classSection = findCourseNames[i].parentNode;
-              console.log(classSection);
-              console.log(classSection.textContent);
               classSection.insertAdjacentElement("afterend", classInfoText);
 
               // Create a link to the CUReviews page
@@ -223,8 +217,6 @@ async function processCourseNames() {
               cuReviewsLinkElement.textContent = "(View CUReviews Page)";
               cuReviewsLinkElement.style.color = "blue";
               classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
-
-              console.log(`Added CUReviews Data For: ${subject} ${courseNumber}`)
           } catch (error) {
               console.error(`No CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");

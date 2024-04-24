@@ -246,7 +246,7 @@ async function processCourseNames() {
               for (let j = 0; j < classInfo[4].length; j++) {
                   const review = classInfo[4][j];
                   const reviewText = document.createElement("p");
-                  reviewText.textContent = `${j + 1}. ${review.text} (Overall Rating: ${review.rating})`;
+                  reviewText.textContent = `${j + 1}. ${review.text} (Overall Rating: ${review.rating}, Professor: ${review.professors[0]})`;
                   reviewText.style.color = "black";
                   reviewText.style.display = "none";  // Initially hide the reviews
 

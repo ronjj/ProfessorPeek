@@ -141,7 +141,7 @@ def get_rate_my_professor_score(last_name, first_name):
         data = response.json()
         edges = data['data']['newSearch']['teachers']['edges']
         if len(edges) == 0:
-            return {"rating": 0, "rmp_link": "None", num_ratings: 0}
+            return {"rating": 0, "rmp_link": "None", "num_ratings": 0}
         else:
           result = edges[0]['node']['avgRating']
           legacy_id = edges[0]['node']['legacyId']

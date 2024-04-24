@@ -162,8 +162,9 @@ async function getCUReviewsInfo(subject, courseNumber) {
 
   const data_two = await response_two.json();
   const num_reviews = data_two.result.length;
+  const review_preview = data_two.result.slice(0, 2);
 
-  return [classDifficulty, classRating, classWorkload, num_reviews];
+  return [classDifficulty, classRating, classWorkload, num_reviews, review_preview];
 }
 
 // Get Course Names, Get CUReviews Info, Add Data to Page
@@ -219,6 +220,61 @@ async function processCourseNames() {
               cuReviewsLinkElement.textContent = "(View CUReviews Page)";
               cuReviewsLinkElement.style.color = "blue";
               classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
+
+             // Make a toggle button to show/hide reviews
+              const toggleButton = document.createElement("button");
+              toggleButton.textContent = "Show Recent Reviews";
+              toggleButton.style.backgroundColor = "blue";
+              toggleButton.style.color = "white";
+              toggleButton.style.border = "none";
+              toggleButton.style.borderRadius = "5px";
+              toggleButton.style.marginBottom = "5px";
+              toggleButton.style.marginRight = "5px";
+              toggleButton.style.padding = "7px";
+              toggleButton.style.cursor = "pointer";
+
+              // Append the button to the section
+              classSection.insertAdjacentElement("afterend", toggleButton);
+
+              // Create an array to store the review elements for toggling visibility
+              const reviewElements = [];
+
+              // Iterate through review_preview and get the reviews and ratings
+              // Initialize a variable to hold the last inserted review element. This is needed so reviews are displayed in proper order
+              let lastInsertedReview = null;
+
+              for (let j = 0; j < classInfo[4].length; j++) {
+                  const review = classInfo[4][j];
+                  const reviewText = document.createElement("p");
+                  reviewText.textContent = `${j + 1}. ${review.text} (Overall Rating: ${review.rating})`;
+                  reviewText.style.color = "black";
+                  reviewText.style.display = "none";  // Initially hide the reviews
+
+                  if (lastInsertedReview === null) {
+                      // If no reviews have been inserted, insert the first review directly after classSection
+                      classSection.insertAdjacentElement("afterend", reviewText);
+                  } else {
+                      // Insert subsequent reviews after the last one added
+                      lastInsertedReview.insertAdjacentElement("afterend", reviewText);
+                  }
+                  
+                  // Update the lastInsertedReview to the current one
+                  lastInsertedReview = reviewText;
+                  reviewElements.push(reviewText);  // Store the review element for later use
+              }
+
+              // Function to toggle the display of reviews
+              function toggleReviews() {
+                  const isHidden = reviewElements[0].style.display === "none";
+                  reviewElements.forEach(element => {
+                      element.style.display = isHidden ? "block" : "none";  // Toggle display
+                  });
+                  toggleButton.textContent = isHidden ? "Hide Reviews" : "Show Recent Reviews";  // Toggle button text
+              }
+
+              // Add event listener to the button
+              toggleButton.addEventListener("click", toggleReviews);
+
           } catch (error) {
               console.error(`No CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");

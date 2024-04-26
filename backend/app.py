@@ -158,6 +158,12 @@ def get_rate_my_professor_score(last_name, first_name):
               return resp
             # Incase professor Course Roster name is different from Rate My Professor name, this still returns a rating
             # Example: Course Roster: "Stephen Marschener", Rate My Professor: "Steve Marschener"
+            # There's also a case where it just returns the wrong professor entirely. Jaehee Kim for example since they 
+            # don't have reviews but there are multiple professors with last name Kim.
+            # Another example is Snyder
+
+          # iterate through list again and see if levenshetein distance is close enough for any results. if so, return that element
+          # else return professor not found
           if found == False:
               result = edges[0]['node']['avgRating']
               legacy_id = edges[0]['node']['legacyId']

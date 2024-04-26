@@ -1,13 +1,21 @@
-const findRightColumn = document.getElementsByClassName("col-xs-12 col-sm-3 col-sm-push-9");
-// Find a right column child by class name
-const innerRightColumn = findRightColumn[0].getElementsByClassName("roster-sidenav-tab roster-sidenav-tab-build active");
-// Find child elements that are <scheduler-course ng-repeat="course in currentView.schedule.courses | orderBy:['subject','catalogNbr']" course="course" class="ng-scope ng-isolate-scope" 
-const courseElements = innerRightColumn[0].getElementsByClassName("ng-scope ng-isolate-scope");
+function onDOMReady(fn) {
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+        console.log('Document already loaded, running function immediately.');
+        fn();
+    } else {
+        console.log('Document not yet loaded, setting up DOMContentLoaded listener.');
+        document.addEventListener('DOMContentLoaded', fn);
+    }
+}
 
 
-
-console.log(innerRightColumn.length);
-
-
-
+onDOMReady(function() {
+    setTimeout(function() {
+        const courseElements = document.getElementsByClassName("expander ng-binding");
+        console.log(courseElements, "courseElements found: " + courseElements.length);
+        for (let i = 0; i < courseElements.length; i++) {
+            console.log('Course Element Text:', courseElements[i].children[0] ? courseElements[i].children[0].textContent : 'No child text');
+        }
+    }, 1000); // Delay by 1000 milliseconds (1 second)
+});
 

@@ -82,7 +82,29 @@ async function checkAndLogElements() {
         if (courseRating === 0.0 | courseRating === undefined | courseRating === null) {
             courseElements[i].children[0].textContent = `(N/A) ${courseName} `;
         } else {
-            courseElements[i].children[0].textContent = `(${courseRating}) ${courseName}`;
+            const classInfoText = document.createElement("p");
+              // give p element a class name
+              classInfoText.className = "class-info-text";
+
+              //   Difficulty Text
+              const difficultyText = document.createElement('span');
+              difficultyText.textContent = ` D: ${classInfo[0].toFixed(2)}`;
+              difficultyText.style.color = "white"
+              classInfoText.appendChild(difficultyText);
+
+              // Rating Text
+              const ratingText = document.createElement('span');
+              ratingText.textContent = ` R: ${classInfo[1].toFixed(2)}`;
+              ratingText.style.color = "white";
+              classInfoText.appendChild(ratingText);
+
+              // Workload Text
+              const workloadText = document.createElement('span');
+              workloadText.textContent = ` W: ${classInfo[2].toFixed(2)}`;
+              workloadText.style.color = "white";
+              classInfoText.appendChild(workloadText);
+              courseElements[i].appendChild(classInfoText);
+            // courseElements[i].children[0].textContent = `(${courseRating}) ${courseName}`;
         }
     }
     console.log('Course Rating Dict:', courseRatingDict);

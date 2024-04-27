@@ -236,12 +236,6 @@ async function processCourseNames() {
               // Append the button to the section
               classSection.insertAdjacentElement("afterend", toggleButton);
 
-              // remnant code from trying to collapse disucssion sesctions
-              // const subjectCodeH3Parent = findCourseNames[i].parentElement;
-              // const classParentElement = subjectCodeH3Parent.parentElement;
-              // const sectionsHeader = classParentElement.querySelector("sections");
-              // console.log(sectionsHeader.children.length);
-
               // Create an array to store the review elements for toggling visibility
               const reviewElements = [];
 
@@ -280,6 +274,7 @@ async function processCourseNames() {
 
               // Add event listener to the button
               toggleButton.addEventListener("click", toggleReviews);
+
           } catch (error) {
               console.error(`No CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");
@@ -292,3 +287,43 @@ async function processCourseNames() {
   }
 }
 processCourseNames();
+
+
+function toggleCourseSections() {
+  // Toggle Sections
+  var sections = document.querySelectorAll('div.sections');
+
+  // Iterate through each section
+  sections.forEach(section => {
+      const toggleButton = document.createElement("button");
+      toggleButton.textContent = "Show Groups";
+      toggleButton.style.backgroundColor = "blue";
+      toggleButton.style.color = "white";
+      toggleButton.style.border = "none";
+      toggleButton.style.borderRadius = "5px";
+      toggleButton.style.marginBottom = "5px";
+      toggleButton.style.marginRight = "5px";
+      toggleButton.style.padding = "7px";
+      toggleButton.style.cursor = "pointer";
+      
+      // Append the button to the section
+      section.insertAdjacentElement("beforebegin", toggleButton);
+      
+      // Create an array to store the enrlgrp elements for toggling visibility specific to this section
+      const enrlgrpElements = Array.from(section.querySelectorAll(".enrlgrp"));
+      
+      // Function to toggle the display of enrlgrp elements specific to this section
+      function toggleEnrlgrp() {
+          const isHidden = enrlgrpElements.length > 0 && enrlgrpElements[0].style.display === "none";
+          enrlgrpElements.forEach(element => {
+              element.style.display = isHidden ? "block" : "none";  // Toggle display
+          });
+          toggleButton.textContent = isHidden ? "Hide Groups" : "Show Groups";  // Toggle button text
+      }
+      
+      // Add event listener to the button
+      toggleButton.addEventListener("click", toggleEnrlgrp);    
+  });
+}
+
+toggleCourseSections();

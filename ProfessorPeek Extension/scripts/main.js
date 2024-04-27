@@ -296,11 +296,11 @@ function toggleCourseSections() {
   // Iterate through each section
   sections.forEach(section => {
       const toggleButton = document.createElement("button");
-      toggleButton.textContent = "Show Groups";
-      toggleButton.style.backgroundColor = "blue";
-      toggleButton.style.color = "white";
-      toggleButton.style.border = "none";
-      toggleButton.style.borderRadius = "5px";
+      toggleButton.textContent = "Show Sections";  // Set initial button text to "Show Sections"
+      toggleButton.style.backgroundColor = "white";
+      toggleButton.style.color = "black";
+      toggleButton.style.border = "1px solid black"; // Thin black border
+      toggleButton.style.borderRadius = "5px"; // Rounded corners
       toggleButton.style.marginBottom = "5px";
       toggleButton.style.marginRight = "5px";
       toggleButton.style.padding = "7px";
@@ -312,18 +312,22 @@ function toggleCourseSections() {
       // Create an array to store the enrlgrp elements for toggling visibility specific to this section
       const enrlgrpElements = Array.from(section.querySelectorAll(".enrlgrp"));
       
+      // Initially hide all enrlgrp elements
+      enrlgrpElements.forEach(element => element.style.display = "none");
+
       // Function to toggle the display of enrlgrp elements specific to this section
       function toggleEnrlgrp() {
-          const isHidden = enrlgrpElements.length > 0 && enrlgrpElements[0].style.display === "none";
+          const isHidden = enrlgrpElements[0].style.display === "none";
           enrlgrpElements.forEach(element => {
               element.style.display = isHidden ? "block" : "none";  // Toggle display
           });
-          toggleButton.textContent = isHidden ? "Hide Groups" : "Show Groups";  // Toggle button text
+          toggleButton.textContent = isHidden ? "Hide Sections" : "Show Sections";  // Toggle button text
       }
       
       // Add event listener to the button
       toggleButton.addEventListener("click", toggleEnrlgrp);    
   });
 }
+
 
 toggleCourseSections();

@@ -3,6 +3,8 @@ import requests
 import os
 import json
 from flask_cors import CORS
+from fuzzywuzzy import fuzz
+
 
 # Initialise Flask App
 app = Flask(__name__)
@@ -140,13 +142,13 @@ def get_rate_my_professor_score(last_name, first_name):
         response = requests.post(url, headers=headers, json={'query': query, 'variables': variables})
         data = response.json()
         edges = data['data']['newSearch']['teachers']['edges']
-        found = False
         # Professor not found at all
         if len(edges) == 0:
             return {"rating": 0, "rmp_link": "None", "num_ratings": 0}
         else:
           for edge in edges:
             # Make sure it's the right professor
+            print(edge['node']['firstName'].lower(), first_name.lower(), edge['node']['lastName'].lower(), last_name.lower())
             if edge['node']['firstName'].lower() == first_name.lower() and edge['node']['lastName'].lower() == last_name.lower():
               result = edges[0]['node']['avgRating']
               legacy_id = edges[0]['node']['legacyId']
@@ -154,7 +156,7 @@ def get_rate_my_professor_score(last_name, first_name):
               num_ratings = edges[0]['node']['numRatings']
               resp = make_response({"rating": result, "rmp_link": rmp_link, "num_ratings": num_ratings})
               resp.headers['Access-Control-Allow-Origin'] = '*'
-              found = True
+              print("returing at if")
               return resp
             # Incase professor Course Roster name is different from Rate My Professor name, this still returns a rating
             # Example: Course Roster: "Stephen Marschener", Rate My Professor: "Steve Marschener"
@@ -162,18 +164,22 @@ def get_rate_my_professor_score(last_name, first_name):
             # don't have reviews but there are multiple professors with last name Kim.
             # Another example is Snyder
 
-          # iterate through list again and see if levenshetein distance is close enough for any results. if so, return that element
-          # else return professor not found
-          if found == False:
+            # iterate through list again and see if levenshetein distance is close enough for any results. if so, return that element
+            # else return professor not found
+            elif fuzz.ratio(edge['node']['firstName'].lower(), first_name.lower()) >= 51 and edge['node']['lastName'].lower() == last_name.lower(): 
               result = edges[0]['node']['avgRating']
               legacy_id = edges[0]['node']['legacyId']
               rmp_link = f"https://www.ratemyprofessors.com/professor/{legacy_id}"
               num_ratings = edges[0]['node']['numRatings']
               resp = make_response({"rating": result, "rmp_link": rmp_link, "num_ratings": num_ratings})
               resp.headers['Access-Control-Allow-Origin'] = '*'
+              print("returing at else if")
               return resp
-          return error_message("Professor not found", 404)
+            else: 
+              print("continue")
 
+              continue
+          return {"rating": 0, "rmp_link": "None", "num_ratings": 0}
     else:
         return error_message("Method not allowed", 405)
         

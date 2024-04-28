@@ -186,17 +186,17 @@ async function processCourseNames() {
               // give p element a class name
               classInfoText.className = "class-info-text";
 
-              //   Difficulty Text
-              const difficultyText = document.createElement('span');
-              difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
-              difficultyText.style.color = colorText(classInfo[0].toFixed(2), true);
-              classInfoText.appendChild(difficultyText);
-
               // Rating Text
               const ratingText = document.createElement('span');
               ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
               ratingText.style.color = colorText(classInfo[1].toFixed(2), false);
               classInfoText.appendChild(ratingText);
+              
+              //   Difficulty Text
+              const difficultyText = document.createElement('span');
+              difficultyText.textContent = ` Difficulty: ${classInfo[0].toFixed(2)}`;
+              difficultyText.style.color = colorText(classInfo[0].toFixed(2), true);
+              classInfoText.appendChild(difficultyText);
 
               // Workload Text
               const workloadText = document.createElement('span');

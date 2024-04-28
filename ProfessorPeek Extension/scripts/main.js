@@ -295,38 +295,47 @@ function toggleCourseSections() {
 
   // Iterate through each section
   sections.forEach(section => {
-      const toggleButton = document.createElement("button");
-      toggleButton.textContent = "Show Sections";  // Set initial button text to "Show Sections"
-      toggleButton.style.backgroundColor = "white";
-      toggleButton.style.color = "black";
-      toggleButton.style.border = "1px solid black"; // Thin black border
-      toggleButton.style.borderRadius = "5px"; // Rounded corners
-      toggleButton.style.marginBottom = "5px";
-      toggleButton.style.marginRight = "5px";
-      toggleButton.style.padding = "7px";
-      toggleButton.style.cursor = "pointer";
-      
-      // Append the button to the section
-      section.insertAdjacentElement("beforebegin", toggleButton);
-      
-      // Create an array to store the enrlgrp elements for toggling visibility specific to this section
-      const enrlgrpElements = Array.from(section.querySelectorAll(".enrlgrp"));
-      
-      // Initially hide all enrlgrp elements
-      enrlgrpElements.forEach(element => element.style.display = "none");
+    const toggleButton = document.createElement("button");
+    toggleButton.textContent = "\u{25B6} Show Enrollment Information";  // Set initial button text to "Show Enrollment Information" with a right arrow
+    toggleButton.style.backgroundColor = "transparent";  // No background
+    toggleButton.style.color = "#077f97";  // Blue text
+    toggleButton.style.border = "none";  // No border
+    toggleButton.style.borderRadius = "0";  // No rounded corners
+    toggleButton.style.marginBottom = "5px";
+    toggleButton.style.marginRight = "5px";
+    toggleButton.style.cursor = "pointer";
+    toggleButton.style.textDecoration = "none";  // No underline
+    toggleButton.style.outline = "none";  // Remove focus outline
+    toggleButton.style.fontSize = "12px";  // Optional: set font size
+    toggleButton.style.fontFamily = "Helvetica, Arial, sans-serif";  // Set font to Helvetica, with Arial and sans-serif as fallbacks
 
-      // Function to toggle the display of enrlgrp elements specific to this section
-      function toggleEnrlgrp() {
-          const isHidden = enrlgrpElements[0].style.display === "none";
-          enrlgrpElements.forEach(element => {
-              element.style.display = isHidden ? "block" : "none";  // Toggle display
-          });
-          toggleButton.textContent = isHidden ? "Hide Sections" : "Show Sections";  // Toggle button text
-      }
-      
-      // Add event listener to the button
-      toggleButton.addEventListener("click", toggleEnrlgrp);    
-  });
+
+    // Append the button to the section
+    section.insertAdjacentElement("beforebegin", toggleButton);
+
+    // Create an array to store the enrlgrp elements for toggling visibility specific to this section
+    const enrlgrpElements = Array.from(section.querySelectorAll(".enrlgrp"));
+
+    // Initially hide all enrlgrp elements
+    enrlgrpElements.forEach(element => element.style.display = "none");
+
+    // Function to toggle the display of enrlgrp elements specific to this section
+    function toggleEnrlgrp() {
+        const isHidden = enrlgrpElements[0].style.display === "none";
+        enrlgrpElements.forEach(element => {
+            element.style.display = isHidden ? "block" : "none";  // Toggle display
+        });
+        if (isHidden) {
+            toggleButton.textContent = "\u{25BC} Hide Enrollment Information";  // Text with a down arrow when showing sections
+        } else {
+            toggleButton.textContent = "\u{25B6} Show Enrollment Information";  // Text with a right arrow when hiding sections
+        }
+    }
+
+    // Add event listener to the button
+    toggleButton.addEventListener("click", toggleEnrlgrp);
+
+      });
 }
 
 

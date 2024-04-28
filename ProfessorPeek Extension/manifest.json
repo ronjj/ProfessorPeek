@@ -4,6 +4,12 @@
     "version": "1.4",
     "description": "Add the RateMyProfessor rating and CUReviews rating to the course catalog",
     "default_title": "ProfessorPeek",
+    "action": {
+      "default_popup": "popup/popup.html"
+    },
+    "permissions": [
+      "tabGroups"
+    ],
     "icons": {
         "16": "images/pp-logo-16.png",
         "32": "images/pp-logo-32.png",

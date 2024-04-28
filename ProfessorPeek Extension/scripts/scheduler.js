@@ -86,17 +86,17 @@ async function checkAndLogElements() {
               // give p element a class name
               classInfoText.className = "class-info-text";
 
+            // Rating Text
+            const ratingText = document.createElement('span');
+            ratingText.textContent = ` R: ${classInfo[1].toFixed(2)}`;
+            ratingText.style.color = "white";
+            classInfoText.appendChild(ratingText);
+
               //   Difficulty Text
               const difficultyText = document.createElement('span');
               difficultyText.textContent = ` D: ${classInfo[0].toFixed(2)}`;
               difficultyText.style.color = "white"
               classInfoText.appendChild(difficultyText);
-
-              // Rating Text
-              const ratingText = document.createElement('span');
-              ratingText.textContent = ` R: ${classInfo[1].toFixed(2)}`;
-              ratingText.style.color = "white";
-              classInfoText.appendChild(ratingText);
 
               // Workload Text
               const workloadText = document.createElement('span');

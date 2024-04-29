@@ -340,3 +340,45 @@ function toggleCourseSections() {
 
 
 toggleCourseSections();
+
+function backToTop() {
+  var sections = document.querySelectorAll('div.home');
+
+  // Create an a href element
+  const backToTop = document.createElement("a");
+  
+  // Set the text content
+  backToTop.textContent = "Back to Top";
+  
+  // Set the href attribute
+  backToTop.href = "#";
+  
+  // Apply the style to make it fixed and visually distinct
+  backToTop.style.position = "fixed";
+  backToTop.style.width = "90px"; // Adjusted to match your div style
+  backToTop.style.height = "50px"; // Adjusted to match your div style
+  backToTop.style.backgroundColor = "blue"; // Color from your div style
+  backToTop.style.color = "white";
+  backToTop.style.border = "none";
+  backToTop.style.borderRadius = "5px";
+  backToTop.style.margin = "0"; // Removing margin for fixed positioning
+  backToTop.style.right = "20px"; // Distance from the right edge of the viewport
+  backToTop.style.bottom = "20px"; // Distance from the bottom edge of the viewport
+  backToTop.style.cursor = "pointer";
+  backToTop.style.display = "flex"; // To center text inside
+  backToTop.style.justifyContent = "center"; // Center horizontally
+  backToTop.style.alignItems = "center"; // Center vertically
+  backToTop.style.textDecoration = "none"; // Remove underline from link
+  
+  // Append the element to the body
+  document.body.appendChild(backToTop);
+  
+  // Add an event listener to the element
+  backToTop.addEventListener("click", function(event) {
+      event.preventDefault(); // Prevent default anchor click behavior
+      window.scrollTo({ top: 0, behavior: 'smooth' }); // Smooth scroll to the top
+  });
+  
+}
+
+backToTop();

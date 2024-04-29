@@ -1,26 +1,54 @@
 body {
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* Adjusts distribution of children */
   align-items: center;
-  height: 100vh; /* Ensure it covers the full height */
-  width: 20rem;
-  margin: 0 auto; /* Center the body horizontally */
-  padding: 20px; /* Increased padding for better spacing */
+  height: 100vh;
+  width: 30rem;
+  margin: 0 auto;
+  padding: 20px;
   box-sizing: border-box;
 }
 
 h1, .button-link, p {
-  margin-bottom: 20px; /* Adds bottom margin to all headings, buttons, and paragraphs for spacing */
+  margin-bottom: 10px;
 }
 
-/* Ensure the footer text is placed at the bottom */
+/* Styling for the button container */
+.buttons-container {
+  display: flex;  /* Use flexbox to layout children */
+  justify-content: center;  /* Center the buttons horizontally */
+  align-items: stretch;  /* Align the buttons vertically to the middle */
+  width: 100%;  /* Take the full width of its parent */
+  margin: 10px 0;  /* Margin for spacing around the container */
+}
+
+/* Styling for individual buttons */
+.button-link {
+  display: inline-block;  /* Inline-block for better control over spacing */
+  padding: 10px 20px;  /* Padding inside each button */
+  margin: 0 10px;  /* Space between buttons */
+  background-color: #007BFF;  /* Background color */
+  color: white;  /* Text color */
+  text-decoration: none;  /* No underline */
+  border-radius: 5px;  /* Rounded corners */
+  text-align: center;  /* Center the text inside */
+  font-family: Arial, sans-serif;  /* Font style */
+  font-size: 16px;  /* Font size */
+  transition: background-color 0.3s;  /* Smooth transition for hover effect */
+  cursor: pointer;  /* Pointer cursor on hover */
+}
+
+.button-link:hover {
+  background-color: #0056b3;  /* Darker blue on hover */
+}
+
+
 footer {
-  align-self: stretch; /* Stretch to the full width of the container */
-  text-align: center; /* Center the text */
-  margin-top: auto; /* Pushes the footer to the bottom */
-  font-size: 0.75rem; /* Smaller font size for footer text */
-  color: #666; /* Lighter text color for the footer */
+  align-self: stretch;
+  text-align: center;
+  margin-top: auto;
+  font-size: 0.75rem;
+  color: #666;
 }
 
 ul {
@@ -51,4 +79,65 @@ a {
 
 a:hover {
   background-color: #0056b3;
+}
+
+/* Container for positioning and styling */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 30px; /* Reduced width to 50% of the original 60px */
+  height: 17px; /* Reduced height to 50% of the original 34px */
+}
+
+/* Hides the actual checkbox input */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* Slider styling */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+  border-radius: 17px; /* Full height to keep it perfectly round on the edges */
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 13px; /* Adjusted to fit within the smaller slider */
+  width: 13px; /* Adjusted to maintain the circular shape */
+  left: 2px; /* Reduced space to maintain proportion */
+  bottom: 2px; /* Reduced space to maintain proportion */
+  background-color: white;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:checked + .slider:before {
+  transform: translateX(13px); /* Adjusted to half of the original to fit the new size */
+}
+
+/* Optional: adds a shadow effect on the slider */
+.slider:active:before {
+  width: 15px; /* Slightly larger to give a pressing effect */
+}
+
+/* Styling for label next to each toggle */
+.toggle-container p {
+  display: inline-block;
+  vertical-align: middle; /* Changed to middle for better alignment */
+  margin-left: 10px;
+  font-size: 16px;
 }

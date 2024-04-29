@@ -1,56 +1,54 @@
 body {
-  display: flex; /* Enable flexbox */
-  flex-direction: column; /* Stack children vertically */
-  justify-content: center; /* Center vertically in the container */
-  align-items: center; /* Center horizontally in the container */
-  height: 95vh; /* Full viewport height */
-  width: 20rem; /* Width as specified */
-  margin: 5px; /* Remove default margin */
-  padding: 1rem; /* Add padding around the content */
-  box-sizing: border-box; /* Include padding in width and height */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Adjusts distribution of children */
+  align-items: center;
+  height: 100vh; /* Ensure it covers the full height */
+  width: 20rem;
+  margin: 0 auto; /* Center the body horizontally */
+  padding: 20px; /* Increased padding for better spacing */
+  box-sizing: border-box;
+}
+
+h1, .button-link, p {
+  margin-bottom: 20px; /* Adds bottom margin to all headings, buttons, and paragraphs for spacing */
+}
+
+/* Ensure the footer text is placed at the bottom */
+footer {
+  align-self: stretch; /* Stretch to the full width of the container */
+  text-align: center; /* Center the text */
+  margin-top: auto; /* Pushes the footer to the bottom */
+  font-size: 0.75rem; /* Smaller font size for footer text */
+  color: #666; /* Lighter text color for the footer */
 }
 
 ul {
   list-style-type: none;
-  padding-inline-start: 0;
-  margin: 1rem 0;
-  width: 100%; /* Ensure full width to respect parent's centering */
+  padding: 0;
+  margin-top: 20px; /* Adds top margin for spacing from elements above */
+  width: 100%; /* Full width */
 }
 
 li {
-  padding: 0.25rem;
-  width: 100%; /* Full width to match the ul */
+  padding: 10px 0; /* Adds vertical padding */
+  background-color: #f8f8f8; /* Light background for visibility */
+  border-bottom: 1px solid #ddd; /* Adds a subtle separator */
 }
 
-li:nth-child(odd) {
-  background: #80808030;
-}
-
-li:nth-child(even) {
-  background: #ffffff;
-}
-
-h3, p {
-  margin: 0;
-  text-align: center; /* Center the text within each heading and paragraph */
-}
-
-.button-link {
-  display: block; /* Change to block to make it easier to center */
-  width: auto; /* Auto width based on content */
+a {
+  display: block; /* Makes links full width */
   padding: 10px 20px;
+  margin-bottom: 10px; /* Adds spacing between buttons */
   background-color: #007BFF;
   color: white;
   text-decoration: none;
   border-radius: 5px;
-  font-family: Arial, sans-serif;
-  font-size: 16px;
+  text-align: center;
   transition: background-color 0.3s;
-  border: none;
   cursor: pointer;
 }
 
-.button-link:hover {
+a:hover {
   background-color: #0056b3;
 }
-

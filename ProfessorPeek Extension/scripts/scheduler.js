@@ -110,19 +110,40 @@ async function checkAndLogElements() {
     console.log('Course Rating Dict:', courseRatingDict);
 }
 
+
+
+let modalCheckInterval;
 function checkForModal() {
-    // Use the attribute selector to find the div
     const modal = document.querySelector('div[uib-modal-window="modal-window"]');
     
     if (modal) {
         console.log("Modal found:", modal);
-        // call functions to get professor scores and cureviews info
-        // Perform any action here, such as manipulating the modal or logging more details
+        clearInterval(modalCheckInterval); // Stop checking while the modal is open
+        getStaffNames();
+        processCourseNames();
+        watchModalClose(modal);
     } else {
         console.log("Modal not found.");
     }
 }
-// Check for the modal every 3000 milliseconds (3 seconds)
-setInterval(checkForModal, 3000);
 
+function watchModalClose(modal) {
+    const observer = new MutationObserver(mutations => {
+        for (const mutation of mutations) {
+            if (mutation.removedNodes.length) {
+                for (const node of mutation.removedNodes) {
+                    if (node === modal) {
+                        console.log("Modal closed.");
+                        observer.disconnect(); // Stop watching
+                        modalCheckInterval = setInterval(checkForModal, 3000); // Restart checking for the modal
+                        return;
+                    }
+                }
+            }
+        }
+    });
 
+    observer.observe(document.body, { childList: true, subtree: true });
+}
+
+modalCheckInterval = setInterval(checkForModal, 3000);  // Start the interval to check for the modal

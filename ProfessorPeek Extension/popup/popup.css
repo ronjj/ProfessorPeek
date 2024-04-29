@@ -1,24 +1,56 @@
 body {
-    width: 20rem;
-  }
-  
-  ul {
-    list-style-type: none;
-    padding-inline-start: 0;
-    margin: 1rem 0;
-  }
-  
-  li {
-    padding: 0.25rem;
-  }
-  li:nth-child(odd) {
-    background: #80808030;
-  }
-  li:nth-child(even) {
-    background: #ffffff;
-  }
-  
-  h3,
-  p {
-    margin: 0;
-  }
+  display: flex; /* Enable flexbox */
+  flex-direction: column; /* Stack children vertically */
+  justify-content: center; /* Center vertically in the container */
+  align-items: center; /* Center horizontally in the container */
+  height: 95vh; /* Full viewport height */
+  width: 20rem; /* Width as specified */
+  margin: 5px; /* Remove default margin */
+  padding: 1rem; /* Add padding around the content */
+  box-sizing: border-box; /* Include padding in width and height */
+}
+
+ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+  margin: 1rem 0;
+  width: 100%; /* Ensure full width to respect parent's centering */
+}
+
+li {
+  padding: 0.25rem;
+  width: 100%; /* Full width to match the ul */
+}
+
+li:nth-child(odd) {
+  background: #80808030;
+}
+
+li:nth-child(even) {
+  background: #ffffff;
+}
+
+h3, p {
+  margin: 0;
+  text-align: center; /* Center the text within each heading and paragraph */
+}
+
+.button-link {
+  display: block; /* Change to block to make it easier to center */
+  width: auto; /* Auto width based on content */
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  transition: background-color 0.3s;
+  border: none;
+  cursor: pointer;
+}
+
+.button-link:hover {
+  background-color: #0056b3;
+}
+

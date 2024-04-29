@@ -52,3 +52,64 @@ a {
 a:hover {
   background-color: #0056b3;
 }
+
+/* Container for positioning and styling */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 30px; /* Reduced width to 50% of the original 60px */
+  height: 17px; /* Reduced height to 50% of the original 34px */
+}
+
+/* Hides the actual checkbox input */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* Slider styling */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+  border-radius: 17px; /* Full height to keep it perfectly round on the edges */
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 13px; /* Adjusted to fit within the smaller slider */
+  width: 13px; /* Adjusted to maintain the circular shape */
+  left: 2px; /* Reduced space to maintain proportion */
+  bottom: 2px; /* Reduced space to maintain proportion */
+  background-color: white;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:checked + .slider:before {
+  transform: translateX(13px); /* Adjusted to half of the original to fit the new size */
+}
+
+/* Optional: adds a shadow effect on the slider */
+.slider:active:before {
+  width: 15px; /* Slightly larger to give a pressing effect */
+}
+
+/* Styling for label next to each toggle */
+.toggle-container p {
+  display: inline-block;
+  vertical-align: middle; /* Changed to middle for better alignment */
+  margin-left: 10px;
+  font-size: 16px;
+}

@@ -15,14 +15,14 @@
       },
         "content_scripts": [
           {
-            "js": ["scripts/main.js"],
+            "js": ["scripts/main.js", "scripts/supporting.js"],
             "matches": [
               "https://classes.cornell.edu/browse/roster/*",
               "https://classes.cornell.edu/search/roster/*"
             ]
           },
           {
-            "js": ["scripts/scheduler.js", "scripts/main.js"],
+            "js": ["scripts/scheduler.js", "scripts/main.js", "scripts/supporting.js"],
             "matches": ["https://classes.cornell.edu/scheduler/roster/*"]
         }
     ]

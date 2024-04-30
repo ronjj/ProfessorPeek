@@ -146,10 +146,16 @@ def get_rate_my_professor_score(last_name, first_name):
         if len(edges) == 0:
             return {"rating": 0, "rmp_link": "None", "num_ratings": 0}
         else:
-          for edge in edges:
+          seen_names = []
+
+          # iterate over response from RateMyProfessor. If there is an exact match, return the rating
+          # else, I keep track of all the professors names and similarity ratio then return. If the ratio has a match over 40, I return it,
+          # else, there is no professor
+
+          for index in range(0, len(edges)):
             # Make sure it's the right professor
-            print(edge['node']['firstName'].lower(), first_name.lower(), edge['node']['lastName'].lower(), last_name.lower())
-            if edge['node']['firstName'].lower() == first_name.lower() and edge['node']['lastName'].lower() == last_name.lower():
+            print(edges[index]['node']['firstName'].lower(), first_name.lower(), edges[index]['node']['lastName'].lower(), last_name.lower())
+            if edges[index]['node']['firstName'].lower() == first_name.lower() and edges[index]['node']['lastName'].lower() == last_name.lower():
               result = edges[0]['node']['avgRating']
               legacy_id = edges[0]['node']['legacyId']
               rmp_link = f"https://www.ratemyprofessors.com/professor/{legacy_id}"
@@ -163,23 +169,27 @@ def get_rate_my_professor_score(last_name, first_name):
             # There's also a case where it just returns the wrong professor entirely. Jaehee Kim for example since they 
             # don't have reviews but there are multiple professors with last name Kim.
             # Another example is Snyder
+            else:
+              seen_names.append((fuzz.ratio(edges[index]['node']['firstName'].lower(), first_name.lower()),index, edges[index]['node']['lastName'].lower()))
 
-            # iterate through list again and see if levenshetein distance is close enough for any results. if so, return that element
-            # else return professor not found
-            elif fuzz.ratio(edge['node']['firstName'].lower(), first_name.lower()) >= 51 and edge['node']['lastName'].lower() == last_name.lower(): 
-              result = edges[0]['node']['avgRating']
-              legacy_id = edges[0]['node']['legacyId']
-              rmp_link = f"https://www.ratemyprofessors.com/professor/{legacy_id}"
-              num_ratings = edges[0]['node']['numRatings']
-              resp = make_response({"rating": result, "rmp_link": rmp_link, "num_ratings": num_ratings})
-              resp.headers['Access-Control-Allow-Origin'] = '*'
-              print("returing at else if")
-              return resp
-            else: 
-              print("continue")
-
-              continue
-          return {"rating": 0, "rmp_link": "None", "num_ratings": 0}
+          # sort seen names based on ratio
+          seen_names.sort(key=lambda x: x[0], reverse=True)
+          # If the highest ratio is over 50 and the last name is the same, return the rating
+          if seen_names[0][0] > 50 and seen_names[0][2] == last_name.lower():
+            index = seen_names[0][1]
+            result = edges[index]['node']['avgRating']
+            legacy_id = edges[index]['node']['legacyId']
+            rmp_link = f"https://www.ratemyprofessors.com/professor/{legacy_id}"
+            num_ratings = edges[index]['node']['numRatings']
+            resp = make_response({"rating": result, "rmp_link": rmp_link, "num_ratings": num_ratings})
+            resp.headers['Access-Control-Allow-Origin'] = '*'
+            print("returing at else")
+            return resp
+          
+          else:
+            resp = make_response({"rating": 0, "rmp_link": "None", "num_ratings": 0})
+            resp.headers['Access-Control-Allow-Origin'] = '*'
+            return resp
     else:
         return error_message("Method not allowed", 405)
         

@@ -328,9 +328,6 @@ function toggleCourseSections() {
       });
 }
 
-
-
-
 function backToTop() {
   var sections = document.querySelectorAll('div.home');
 
@@ -371,14 +368,12 @@ function backToTop() {
   
 }
 
-
 // backToTop();
 // getStaffNames();
 // processCourseNames();
 // toggleCourseSections();
 
 function watchForClassListing() {
-    // document.addEventListener('DOMContentLoaded', function() {
         const classListing = document.querySelector('div.class-listing');
         if (classListing) {
             processCourseNames();
@@ -390,8 +385,6 @@ function watchForClassListing() {
             setTimeout(() => watchForClassListing(), 1000);
             console.log("waiting for class-listing");
         }
-    // });
-   
 }
 
 watchForClassListing();

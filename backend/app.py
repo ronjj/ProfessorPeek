@@ -159,7 +159,7 @@ def get_rate_my_professor_score(last_name, first_name):
               result = edges[index]['node']['avgRating']
               legacy_id = edges[index]['node']['legacyId']
               rmp_link = f"https://www.ratemyprofessors.com/professor/{legacy_id}"
-              num_ratings = edges[0]['node']['numRatings']
+              num_ratings = edges[index]['node']['numRatings']
               resp = make_response({"rating": result, "rmp_link": rmp_link, "num_ratings": num_ratings})
               resp.headers['Access-Control-Allow-Origin'] = '*'
               print(f"returning {edges[index]['node']['firstName'].lower()}, {first_name.lower()}, {edges[index]['node']['lastName'].lower()}, {last_name.lower()}")

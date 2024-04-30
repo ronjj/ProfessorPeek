@@ -18,7 +18,6 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
 async function getStaffNames() {
   const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
   if (findMeetingPatterns.length === 0) {
-      console.log("No professor names found");
   } else {
       const professorMap = {};
       for (let i = 0; i < findMeetingPatterns.length; i++) {
@@ -37,6 +36,8 @@ async function getStaffNames() {
                             if (instructorsPTag.querySelector('.tooltip-iws') === null) {
                                 // console.log("No tooltip found");
                             } else {
+                                // ----------------
+                                // Get the name and netid from the tooltip and add RMP Score
                                 const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
                                 const nameAndNetID = tooltipElement.dataset.content;
                                 let firstName = ""
@@ -87,6 +88,7 @@ async function getStaffNames() {
                                 rmp_link_element.target = "_blank"; // Optional: open in a new tab
                                 instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
                               }
+                            //   ------------------
                             }
                         }
                   }
@@ -98,7 +100,7 @@ async function getStaffNames() {
   }
 }
 
-getStaffNames();
+
 
 // Function To Get CUReviews Information For A Course
 async function getCUReviewsInfo(subject, courseNumber) {
@@ -150,6 +152,7 @@ async function processCourseNames() {
   const findCourseNames = document.getElementsByClassName("title-subjectcode");
   if (findCourseNames.length === 0) {
       console.log("No course names found");
+
   } else {
       for (let i = 0; i < findCourseNames.length; i++) {
           // Split coursename at space. element before space is course subject
@@ -326,7 +329,7 @@ function toggleCourseSections() {
 }
 
 
-toggleCourseSections();
+
 
 function backToTop() {
   var sections = document.querySelectorAll('div.home');
@@ -368,21 +371,32 @@ function backToTop() {
   
 }
 
-backToTop();
 
+// backToTop();
+// getStaffNames();
+// processCourseNames();
+// toggleCourseSections();
 
-// Watch for a div.class-listing to be added to the DOM
 function watchForClassListing() {
-    const classListing = document.querySelector('div.class-listing');
-    if (classListing) {
-        processCourseNames();
-        getStaffNames();
-        toggleCourseSections();
-        backToTop();
-    }
-    else {
-        setTimeout(watchForClassListing, 1000);
-        console.log("waiting for class-listing");
-    }
+    // document.addEventListener('DOMContentLoaded', function() {
+        const classListing = document.querySelector('div.class-listing');
+        if (classListing) {
+            processCourseNames();
+            getStaffNames();
+            backToTop();
+            toggleCourseSections();
+        }
+        else {
+            setTimeout(() => watchForClassListing(), 1000);
+            console.log("waiting for class-listing");
+        }
+    // });
+   
 }
+
 watchForClassListing();
+
+
+
+
+

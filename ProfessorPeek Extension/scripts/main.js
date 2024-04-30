@@ -139,6 +139,14 @@ async function getCUReviewsInfo(subject, courseNumber) {
 
 // Get Course Names, Get CUReviews Info, Add Data to Page
 async function processCourseNames() {
+    const downgradedCourses = new Map([
+        ['CS 3700', '4700'],
+        ['CS 3780', '4780'],
+        ['ECE 3200', '4200'],
+        ['ORIE 3741', '4741'],
+        ['STSCI 3740', '4740']
+    ]);
+    
   const findCourseNames = document.getElementsByClassName("title-subjectcode");
   if (findCourseNames.length === 0) {
       console.log("No course names found");
@@ -147,8 +155,17 @@ async function processCourseNames() {
           // Split coursename at space. element before space is course subject
           const splitCourseName = findCourseNames[i].textContent.split(" ");
           const subject = splitCourseName[0];
-          const courseNumber = splitCourseName[1];
+          let courseNumber = splitCourseName[1];
+          if (downgradedCourses.has(subject + " " + courseNumber)) {
+                courseNumber = downgradedCourses.get(subject + " " + courseNumber);
+                console.log(`Downgraded Course Found: ${subject} ${courseNumber}`);
+          }
+          else {
+            courseNumber = splitCourseName[1];
+          }
           const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
+        //   make a dictionary for downgraded courses. ex 4700 -> 3700
+
           try {
               //   CUReview Stats in Line
               const classInfo = await getCUReviewsInfo(subject, courseNumber);

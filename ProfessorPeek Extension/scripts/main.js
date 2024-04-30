@@ -273,7 +273,7 @@ async function processCourseNames() {
       }
   }
 }
-processCourseNames();
+
 
 
 function toggleCourseSections() {
@@ -371,3 +371,18 @@ function backToTop() {
 backToTop();
 
 
+// Watch for a div.class-listing to be added to the DOM
+function watchForClassListing() {
+    const classListing = document.querySelector('div.class-listing');
+    if (classListing) {
+        processCourseNames();
+        getStaffNames();
+        toggleCourseSections();
+        backToTop();
+    }
+    else {
+        setTimeout(watchForClassListing, 1000);
+        console.log("waiting for class-listing");
+    }
+}
+watchForClassListing();

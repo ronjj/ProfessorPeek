@@ -156,13 +156,13 @@ def get_rate_my_professor_score(last_name, first_name):
             # Make sure it's the right professor
             print(edges[index]['node']['firstName'].lower(), first_name.lower(), edges[index]['node']['lastName'].lower(), last_name.lower())
             if edges[index]['node']['firstName'].lower() == first_name.lower() and edges[index]['node']['lastName'].lower() == last_name.lower():
-              result = edges[0]['node']['avgRating']
-              legacy_id = edges[0]['node']['legacyId']
+              result = edges[index]['node']['avgRating']
+              legacy_id = edges[index]['node']['legacyId']
               rmp_link = f"https://www.ratemyprofessors.com/professor/{legacy_id}"
               num_ratings = edges[0]['node']['numRatings']
               resp = make_response({"rating": result, "rmp_link": rmp_link, "num_ratings": num_ratings})
               resp.headers['Access-Control-Allow-Origin'] = '*'
-              print("returing at if")
+              print(f"returning {edges[index]['node']['firstName'].lower()}, {first_name.lower()}, {edges[index]['node']['lastName'].lower()}, {last_name.lower()}")
               return resp
             # Incase professor Course Roster name is different from Rate My Professor name, this still returns a rating
             # Example: Course Roster: "Stephen Marschener", Rate My Professor: "Steve Marschener"

@@ -376,53 +376,45 @@ function backToTop() {
 // toggleCourseSections();
 
 function parseTime(timeStr) {
-    const [time, period] = timeStr.split(/(?=[AP]M$)/i); // Split "9:10AM" into ["9:10", "AM"]
-    let [hours, minutes] = time.split(':').map(Number); // Split "9:10" into [9, 10]
+    if (typeof timeStr !== 'string') {
+        throw new Error('Time must be a string in the format "HH:MMAM" or "HH:MMPM"');
+    }
+    const [time, period] = timeStr.split(/(?=[AP]M$)/i);
+    let [hours, minutes] = time.split(':').map(Number);
 
-    // Convert hour to 24-hour format
     if (period.toUpperCase() === "PM" && hours < 12) hours += 12;
     if (period.toUpperCase() === "AM" && hours === 12) hours = 0;
 
-    return hours * 60 + minutes; // Convert time to minutes from midnight
+    return hours * 60 + minutes;
 }
 
-function filterListByRangeTime(filterTime, filterType, list) {
-    const filterMinutes = parseTime(filterTime.split(' - ')[0]); // Correctly parses the filter time from the input range
-    // console.log("Filter Minutes:", filterMinutes);  // Log the filter minutes for debugging
+function compareTimes(inputTime, filterTime, filterType) {
+    if (typeof inputTime.textContent !== 'string' || typeof filterTime !== 'string') {
+        console.log(inputTime, filterTime); 
+        throw new Error('Both inputTime and filterTime must be strings.');
+    }
+    
+    const inputMinutes = parseTime(inputTime.textContent.split(' - ')[0]);
+    const filterMinutes = parseTime(filterTime.split(' - ')[0]);
 
-    return Array.from(list).filter(item => {
-        const itemText = item.textContent.trim();  // Ensure there's no extra whitespace
-        // console.log("Item Text:", itemText);  // Log the text content of each item
-
-        const itemTime = parseTime(itemText.split(' - ')[0]);
-        // console.log("Item Time Minutes:", itemTime);  // Log the parsed item time in minutes
-
-        // return filterType === "before" ? itemTime < filterMinutes : itemTime > filterMinutes;
-        if (filterType === "before") {
-            if(itemTime < filterMinutes) {
-                // do nothing
-            } else {
-                
-                // hide the elemnt
-            }
-        } else if (filterType === "after") {
-           if (itemTime > filterMinutes) {
-                // do nothing
-           } else {
-                // hide the elemnt
-           }
-        }
-    });
+    if (filterType === "before") {
+        return inputMinutes < filterMinutes;
+    } else if (filterType === "after") {
+        return inputMinutes > filterMinutes;
+    } else {
+        throw new Error("Invalid filter type specified. Use 'before' or 'after'.");
+    }
 }
 
-
-const meetingPatterns = document.querySelectorAll("time.time");
-const filteredList = filterListByRangeTime("3:00pm", "after", meetingPatterns);
-const filteredList2 = filterListByRangeTime("3:00pm", "before", meetingPatterns);
-
-console.log(meetingPatterns.length, "unfiltered");
-console.log(filteredList.length, "filtered after");  
-console.log(filteredList2.length, "filtered before");  
+const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
+for (let i = 0; i < sections.length; i++) {
+    const currentSection = sections[i];
+    const sectionTime = currentSection.querySelector("time.time");
+    if (compareTimes(sectionTime, "3:00pm", "before") === false) {
+        currentSection.style.display = "none";
+        console.log("Hiding section:", currentSection.querySelector("time.time").textContent);
+    }
+}
 
 
 function watchForClassListing() {

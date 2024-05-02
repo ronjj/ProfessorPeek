@@ -406,16 +406,24 @@ function compareTimes(inputTime, filterTime, filterType) {
     }
 }
 
-const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
-for (let i = 0; i < sections.length; i++) {
-    const currentSection = sections[i];
-    const sectionTime = currentSection.querySelector("time.time");
-    if (compareTimes(sectionTime, "3:00pm", "before") === false) {
-        currentSection.style.display = "none";
-        console.log("Hiding section:", currentSection.querySelector("time.time").textContent);
+// filterTime should be in the format 1:00pm
+// beforeOrAfter should be either "before" or "after"
+function applyClassFilter(beforeOrAfter, filterTime) {
+    const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
+    for (let i = 0; i < sections.length; i++) {
+        const currentSection = sections[i];
+        const sectionTime = currentSection.querySelector("time.time");
+        if (sectionTime === null) {
+            // console.log("No time found for section:", currentSection);
+            continue;
+        } else {
+            if (compareTimes(sectionTime, filterTime, beforeOrAfter) === false) {
+                currentSection.style.display = "none";
+                console.log("Hiding section:", currentSection.querySelector("time.time").textContent);
+            }
+        }
     }
 }
-
 
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
@@ -424,6 +432,7 @@ function watchForClassListing() {
             // getStaffNames();
             // backToTop();
             // toggleCourseSections();
+            applyClassFilter("before", "10:00am");
         }
         else {
             setTimeout(() => watchForClassListing(), 1000);

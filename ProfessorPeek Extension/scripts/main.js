@@ -10,7 +10,7 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
       }
   });
   const data = await response.json(); // or response.textContent if you're expecting a string
-  console.log(data);
+//   console.log(data);
   return data;
 }
 
@@ -57,7 +57,7 @@ async function getStaffNames() {
                                     rmpData = professorMap[lastName][0];
                                     rmp_link = professorMap[lastName][1];
                                     num_ratings = professorMap[lastName][2];
-                                    console.log(`${lastName}: in map with ${rmpData}`);
+                                    // console.log(`${lastName}: in map with ${rmpData}`);
                                 } else {
                                     try {
                                         rmpResponse = await getRateMyProfessorScore(lastName, firstName);
@@ -161,7 +161,7 @@ async function processCourseNames() {
           let courseNumber = splitCourseName[1];
           if (downgradedCourses.has(subject + " " + courseNumber)) {
                 courseNumber = downgradedCourses.get(subject + " " + courseNumber);
-                console.log(`Downgraded Course Found: ${subject} ${courseNumber}`);
+                // console.log(`Downgraded Course Found: ${subject} ${courseNumber}`);
           }
           else {
             courseNumber = splitCourseName[1];
@@ -383,7 +383,7 @@ function watchForClassListing() {
         }
         else {
             setTimeout(() => watchForClassListing(), 1000);
-            console.log("waiting for class-listing");
+            // console.log("waiting for class-listing");
         }
 }
 

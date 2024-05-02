@@ -110,3 +110,4 @@ function watchModalClose(modal) {
 }
 
 modalCheckInterval = setInterval(checkForModal, 3000);  // Start the interval to check for the modal
+

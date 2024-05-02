@@ -166,9 +166,11 @@ async function processCourseNames() {
           else {
             courseNumber = splitCourseName[1];
           }
-          const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
-        //   make a dictionary for downgraded courses. ex 4700 -> 3700
 
+
+
+        // Get CUReviews Information and add ratings under the title of the course
+        const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
           try {
               //   CUReview Stats in Line
               const classInfo = await getCUReviewsInfo(subject, courseNumber);
@@ -373,13 +375,32 @@ function backToTop() {
 // processCourseNames();
 // toggleCourseSections();
 
+function filterTime(filterTime, beforeOrAfter) {
+    const meetingPatterns = document.querySelectorAll("time.time");
+    meetingPatterns.forEach(meetingPattern => {
+        const time = meetingPattern.textContent;
+        // console.log(time);
+        if (beforeOrAfter === "before") {
+            if (time < filterTime) {
+                meetingPattern.parentElement.parentElement.style.display = "none";
+            }
+        } else {
+            if (time > filterTime) {
+                meetingPattern.parentElement.parentElement.style.display = "none";
+            }
+        }
+    });
+}
+
+filterTime("10:00am", "before");
+
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
         if (classListing) {
-            processCourseNames();
-            getStaffNames();
-            backToTop();
-            toggleCourseSections();
+            // processCourseNames();
+            // getStaffNames();
+            // backToTop();
+            // toggleCourseSections();
         }
         else {
             setTimeout(() => watchForClassListing(), 1000);

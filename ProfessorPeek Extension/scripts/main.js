@@ -590,6 +590,15 @@ applyFilterButton.addEventListener("click", function() {
 
     if (selectedOptionText === "inbetween") {
         const endTime = endTimeDropdown.value;
+        let startTimeMinutes = parseTime(selectedTime);
+        let endTimeMinutes = parseTime(endTime);
+
+        // 
+        if (endTimeMinutes <= startTimeMinutes) {
+            // alert user that end time must be after start time
+            alert("End time must be after start time");
+            return; // Stop further execution to prevent applying the filter
+        }
         applyClassFilter(selectedOptionText, selectedTime, endTime);
     } else {
         applyClassFilter(selectedOptionText, selectedTime);

@@ -516,10 +516,18 @@ toggleButton.addEventListener("click", function() {
     }
 });
 
-// Update the option click event handlers to set the display text for all options
+
+
 [optionAfter, optionBefore, optionInBetween].forEach(option => {
     option.addEventListener("click", function() {
         displayStatus.textContent = `Option selected: ${this.textContent}`; // Display the chosen option
+        if (this.textContent === "In Between") {
+            endTimeDropdown.style.display = "inline";  // Show the end time dropdown
+        } else {
+            endTimeDropdown.style.display = "none";  // Hide the end time dropdown
+        }
+        // Update displayed option
+        displayStatus.textContent = `Filter type selected: ${this.textContent}`;
         dropdownMenu.style.display = "none"; // Hide the dropdown after selection
     });
 });

@@ -372,68 +372,57 @@ function backToTop() {
 // toggleCourseSections();
 
 function parseTime(timeStr) {
-    if (typeof timeStr !== 'string') {
-        throw new Error('Time must be a string in the format "HH:MMAM" or "HH:MMPM"');
-    }
     const [time, period] = timeStr.split(/(?=[AP]M$)/i);
     let [hours, minutes] = time.split(':').map(Number);
-
     if (period.toUpperCase() === "PM" && hours < 12) hours += 12;
     if (period.toUpperCase() === "AM" && hours === 12) hours = 0;
-
     return hours * 60 + minutes;
 }
 
-function compareTimes(inputTime, filterTime, filterType) {
-    if (typeof inputTime.textContent !== 'string' || typeof filterTime !== 'string') {
-        console.log(inputTime, filterTime); 
-        throw new Error('Both inputTime and filterTime must be strings.');
+function compareTimes(inputTime, filterStartTime, filterEndTime, filterType) {
+    if (typeof inputTime.textContent !== 'string' || typeof filterStartTime !== 'string') {
+        console.log("Input or filter time is not a string:", inputTime, filterStartTime);
+        throw new Error('Both inputTime and filterStartTime must be strings.');
     }
-    
+
     const inputMinutes = parseTime(inputTime.textContent.split(' - ')[0]);
-    const filterMinutes = parseTime(filterTime.split(' - ')[0]);
+    const startFilterMinutes = parseTime(filterStartTime.split(' - ')[0]);
+    const endFilterMinutes = filterEndTime ? parseTime(filterEndTime.split(' - ')[0]) : null;
 
     if (filterType === "before") {
-        return inputMinutes < filterMinutes;
+        return inputMinutes < startFilterMinutes;
     } else if (filterType === "after") {
-        return inputMinutes > filterMinutes;
-    } 
-    else {
-        console.log("this filter type was invalid", filterType)
-        console.log(typeof filterType);
-        throw new Error("Invalid filter type specified. Use 'before' or 'after'.");
+        return inputMinutes > startFilterMinutes;
+    } else if (filterType === "inbetween" && endFilterMinutes !== null) {
+        return inputMinutes >= startFilterMinutes && inputMinutes <= endFilterMinutes;
+    } else {
+        throw new Error("Invalid filter type specified. Use 'before', 'after', or 'in between'.");
     }
 }
 
 // filterTime should be in the format 1:00pm
 // beforeOrAfter should be either "before" or "after"
-function applyClassFilter(beforeOrAfter, filterTime) {
+function applyClassFilter(beforeOrAfter, filterStartTime, filterEndTime = null) {
     const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
 
-    // First, unhide all sections
-    for (let i = 0; i < sections.length; i++) {
-        const currentSection = sections[i];
-        const sectionTime = currentSection.querySelector("time.time");
-        currentSection.style.display = "block";
-    }
+    // Unhide all sections first
+    sections.forEach(section => {
+        section.style.display = "block";
+    });
 
-    // Hide sections based on filter passed in
-    for (let i = 0; i < sections.length; i++) {
-        const currentSection = sections[i];
-        const sectionTime = currentSection.querySelector("time.time");
-        if (sectionTime === null) {
-            // console.log("No time found for section:", currentSection);
-            continue;
-        } else {
-            if (compareTimes(sectionTime, filterTime, beforeOrAfter) === false) {
-                currentSection.style.display = "none";
-                console.log("Hiding section:", currentSection.querySelector("time.time").textContent);
-            }
+    // Apply filtering logic
+    sections.forEach(section => {
+        const sectionTime = section.querySelector("time.time");
+        if (!sectionTime) {
+            return;
         }
-    }
+
+        if (!compareTimes(sectionTime, filterStartTime, filterEndTime, beforeOrAfter)) {
+            section.style.display = "none";
+            console.log("Hiding section:", section.querySelector("time.time").textContent);
+        }
+    });
 }
-
-
 
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
@@ -595,8 +584,13 @@ applyFilterButton.addEventListener("click", function() {
     // remove the space between the time and am in selectedTime
     selectedTime = selectedTime.replace(" ", "");
     console.log("select option", selectedOptionText, "selected time:", selectedTime);
-    applyClassFilter(selectedOptionText, selectedTime);
 
+    if (selectedOptionText === "inbetween") {
+        const endTime = endTimeDropdown.value;
+        applyClassFilter(selectedOptionText, selectedTime, endTime);
+    } else {
+        applyClassFilter(selectedOptionText, selectedTime);
+    }
 });
 
 classListing.appendChild(displayStatus);      // Add the status display to the DOM

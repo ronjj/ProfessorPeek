@@ -408,6 +408,15 @@ function compareTimes(inputTime, filterTime, filterType) {
 // beforeOrAfter should be either "before" or "after"
 function applyClassFilter(beforeOrAfter, filterTime) {
     const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
+
+    // First, unhide all sections
+    for (let i = 0; i < sections.length; i++) {
+        const currentSection = sections[i];
+        const sectionTime = currentSection.querySelector("time.time");
+        currentSection.style.display = "block";
+    }
+
+    // Hide sections based on filter passed in
     for (let i = 0; i < sections.length; i++) {
         const currentSection = sections[i];
         const sectionTime = currentSection.querySelector("time.time");

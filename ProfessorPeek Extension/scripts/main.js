@@ -383,7 +383,7 @@ function compareTimes(inputTime, filterStartTime, filterEndTime, filterType) {
         console.log("Input or filter time is not a string:", inputTime, filterStartTime);
         throw new Error('Both inputTime and filterStartTime must be strings.');
     }
-
+    // input minutes is the string 9:05 - 10:25am from the class listing
     const inputMinutes = parseTime(inputTime.textContent.split(' - ')[0]);
     const startFilterMinutes = parseTime(filterStartTime.split(' - ')[0]);
     const endFilterMinutes = filterEndTime ? parseTime(filterEndTime.split(' - ')[0]) : null;
@@ -393,7 +393,8 @@ function compareTimes(inputTime, filterStartTime, filterEndTime, filterType) {
     } else if (filterType === "after") {
         return inputMinutes > startFilterMinutes;
     } else if (filterType === "inbetween" && endFilterMinutes !== null) {
-        return inputMinutes >= startFilterMinutes && inputMinutes <= endFilterMinutes;
+        const endInputMinutes = parseTime(inputTime.textContent.split(' - ')[1]);
+        return inputMinutes >= startFilterMinutes && endInputMinutes <= endFilterMinutes;
     } else {
         throw new Error("Invalid filter type specified. Use 'before', 'after', or 'in between'.");
     }

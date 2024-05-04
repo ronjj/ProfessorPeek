@@ -455,20 +455,11 @@ const displayStatus = document.createElement("p");
 displayStatus.textContent = "Select an option"; // Default text
 classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
 
-const beforeClassListings = document.createElement("p");
-beforeClassListings.textContent = "Filter Elements: ";
-beforeClassListings.style.color = "black";
-beforeClassListings.style.border = "none";
-beforeClassListings.style.margin = "0";
-beforeClassListings.style.display = "inline-block";
-beforeClassListings.style.textDecoration = "none";
-beforeClassListings.style.outline = "none";
-beforeClassListings.style.fontSize = "12px";
-beforeClassListings.style.fontFamily = "Helvetica, Arial, sans-serif";
+
 
 // Create the button that will toggle the dropdown
 const toggleButton = document.createElement("button");
-toggleButton.textContent = "Toggle Dropdown";
+toggleButton.textContent = "Filter Classes"; // Set the button text
 classListing.appendChild(toggleButton); // Append the button to the body or another container element
 
 // Create the dropdown menu container
@@ -538,7 +529,6 @@ document.addEventListener("click", function(event) {
 classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
 classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
 classListing.appendChild(displayStatus);      // Add the status display to the DOM
-classListing.insertAdjacentElement("beforebegin", beforeClassListings);
 classListing.insertAdjacentElement("beforebegin", dropdownMenu);
 classListing.insertAdjacentElement("beforebegin", toggleButton);
 classListing.insertAdjacentElement("beforebegin", displayStatus);

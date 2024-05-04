@@ -322,7 +322,6 @@ function toggleCourseSections() {
 
     // Add event listener to the button
     toggleButton.addEventListener("click", toggleEnrlgrp);
-
       });
 }
 
@@ -517,10 +516,11 @@ toggleButton.addEventListener("click", function() {
     }
 });
 
-
-
 [optionAfter, optionBefore, optionInBetween].forEach(option => {
     option.addEventListener("click", function() {
+
+        applyFilterButton.style.display = "inline";
+
         // Set the text of the toggleButton to the current selection
         toggleButton.textContent = this.textContent;
         // Adjust visibility of the end time dropdown based on the selection
@@ -529,19 +529,21 @@ toggleButton.addEventListener("click", function() {
         dropdownMenu.style.display = "none";
         // Display the selected filter type
         displayStatus.textContent = `Filter type selected: ${this.textContent}`;
+        displayStatus.className = "selectedOption"; // Set class name for selected option
     });
 });
-
 // Event to hide the dropdown and reset display when clicking outside
 document.addEventListener("click", function(event) {
     if (!dropdownMenu.contains(event.target) && !toggleButton.contains(event.target)) {
         dropdownMenu.style.display = "none";
-        // Reset to default text if no option was actively selected
+        // Check if a selection has been made or reset to default
         if (toggleButton.textContent === "Select Filter Type") {
             displayStatus.textContent = "No option selected";
+            applyFilterButton.style.display = "none"; // Disable the button if no option is selected
         }
     }
 });
+
 
 // ------ code for time dropdowns
 function createTimeOptions() {
@@ -574,6 +576,7 @@ endTimeDropdown.style.margin = "5px";
 
 const applyFilterButton = document.createElement("button");
 applyFilterButton.textContent = "Apply Filter";
+applyFilterButton.style.display = "none";  // Initially disable the button
 applyFilterButton.style.margin = "5px";
 
 

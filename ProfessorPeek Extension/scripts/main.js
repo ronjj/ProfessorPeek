@@ -532,11 +532,47 @@ document.addEventListener("click", function(event) {
 });
 
 
+
+
+// ------ code for time dropdown
+
+function createTimeOptions() {
+    const times = [];
+    for (let hour = 8; hour <= 21; hour++) {  // 8 AM to 9 PM
+        for (let minute = 0; minute < 60; minute += 10) {
+            const time = `${hour % 12 === 0 ? 12 : hour % 12}:${minute.toString().padStart(2, '0')} ${hour < 12 ? 'AM' : 'PM'}`;
+            times.push(time);
+        }
+    }
+    return times;
+}
+
+const timeOptions = createTimeOptions();
+const startTimeDropdown = document.createElement("select");
+const endTimeDropdown = document.createElement("select");
+
+timeOptions.forEach(time => {
+    const startOption = document.createElement("option");
+    startOption.value = startOption.textContent = time;
+    startTimeDropdown.appendChild(startOption);
+
+    const endOption = document.createElement("option");
+    endOption.value = endOption.textContent = time;
+    endTimeDropdown.appendChild(endOption);
+});
+
+startTimeDropdown.style.margin = "5px";
+endTimeDropdown.style.margin = "5px";
+
+
 classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
 classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
 classListing.appendChild(displayStatus);      // Add the status display to the DOM
+classListing.appendChild(startTimeDropdown);   // Add the start time dropdown to the DOM
+classListing.appendChild(endTimeDropdown);     // Add the end time dropdown to the DOM
+
 classListing.insertAdjacentElement("beforebegin", dropdownMenu);
 classListing.insertAdjacentElement("beforebegin", toggleButton);
 classListing.insertAdjacentElement("beforebegin", displayStatus);
-
-
+classListing.insertAdjacentElement("beforebegin", startTimeDropdown);
+classListing.insertAdjacentElement("beforebegin", endTimeDropdown);

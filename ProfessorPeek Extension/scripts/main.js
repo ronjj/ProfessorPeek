@@ -1,5 +1,3 @@
-
-
 async function getRateMyProfessorScore(professorLastName, professorFirstName) {
   const response = await fetch(`https://professorpeek.onrender.com/${professorLastName}/${professorFirstName}`, {
 //   const response = await fetch(`http://127.0.0.1:5000/${professorLastName}/${professorFirstName}`, {
@@ -166,8 +164,6 @@ async function processCourseNames() {
           else {
             courseNumber = splitCourseName[1];
           }
-
-
 
         // Get CUReviews Information and add ratings under the title of the course
         const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
@@ -444,8 +440,21 @@ function watchForClassListing() {
 
 watchForClassListing();
 
+
+
 // Making filter section
 const classListing = document.querySelector('div.class-listing');
+if (classListing === null)  {
+    console.log("No class listing found");
+} else {
+    console.log("Class listing found");
+}
+
+// Create a paragraph to display the chosen option or default message
+const displayStatus = document.createElement("p");
+displayStatus.textContent = "Select an option"; // Default text
+classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
+
 const beforeClassListings = document.createElement("p");
 beforeClassListings.textContent = "Filter Elements: ";
 beforeClassListings.style.color = "black";
@@ -457,5 +466,81 @@ beforeClassListings.style.outline = "none";
 beforeClassListings.style.fontSize = "12px";
 beforeClassListings.style.fontFamily = "Helvetica, Arial, sans-serif";
 
+// Create the button that will toggle the dropdown
+const toggleButton = document.createElement("button");
+toggleButton.textContent = "Toggle Dropdown";
+classListing.appendChild(toggleButton); // Append the button to the body or another container element
+
+// Create the dropdown menu container
+const dropdownMenu = document.createElement("div");
+dropdownMenu.style.display = "none"; // Initially hide the dropdown
+dropdownMenu.style.position = "absolute"; // Position it below the button (adjust as needed)
+dropdownMenu.style.border = "1px solid #ccc";
+dropdownMenu.style.backgroundColor = "#fff";
+dropdownMenu.style.padding = "5px";
+dropdownMenu.style.zIndex = "1"; // Ensure it's above other elements
+dropdownMenu.style.margin = "5px";
+
+// Create options for the dropdown
+const optionAfter = document.createElement("div");
+optionAfter.textContent = "After";
+optionAfter.style.padding = "10px";
+optionAfter.style.cursor = "pointer";
+
+const optionBefore = document.createElement("div");
+optionBefore.textContent = "Before";
+optionBefore.style.padding = "10px";
+optionBefore.style.cursor = "pointer";
+
+// Add options to the dropdown menu
+dropdownMenu.appendChild(optionAfter);
+dropdownMenu.appendChild(optionBefore);
+
+// Append the dropdown menu to the body
+classListing.appendChild(dropdownMenu);
+
+// Function to toggle dropdown visibility
+function toggleDropdown() {
+    if (dropdownMenu.style.display === "none") {
+        dropdownMenu.style.display = "block"; // Show the dropdown
+    } else {
+        dropdownMenu.style.display = "none"; // Hide the dropdown
+    }
+}
+
+// Event listener to open/close the dropdown when the button is clicked
+toggleButton.addEventListener("click", function() {
+    toggleDropdown();
+    if (dropdownMenu.style.display === "block") {
+        displayStatus.textContent = "Select an option"; // Reset to default when opening the dropdown
+    }
+});
+
+// Update the option click event handlers to set the display text
+[optionAfter, optionBefore].forEach(option => {
+    option.addEventListener("click", function() {
+        displayStatus.textContent = `Option selected: ${this.textContent}`; // Display the chosen option
+        dropdownMenu.style.display = "none"; // Hide the dropdown after selection
+    });
+});
+
+// Event to hide the dropdown and reset display when clicking outside
+document.addEventListener("click", function(event) {
+    if (!dropdownMenu.contains(event.target) && !toggleButton.contains(event.target)) {
+        dropdownMenu.style.display = "none";
+        if (displayStatus.textContent === "Select An Option") {
+            displayStatus.textContent = "No option selected"; // Optional: change text if nothing was selected
+        }
+    }
+});
+
+
+classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
+classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
+classListing.appendChild(displayStatus);      // Add the status display to the DOM
 classListing.insertAdjacentElement("beforebegin", beforeClassListings);
+classListing.insertAdjacentElement("beforebegin", dropdownMenu);
+classListing.insertAdjacentElement("beforebegin", toggleButton);
+classListing.insertAdjacentElement("beforebegin", displayStatus);
+
 

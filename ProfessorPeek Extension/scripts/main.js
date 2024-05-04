@@ -462,7 +462,7 @@ if (classListing === null)  {
 
 // Create a paragraph to display the chosen option or default message
 const displayStatus = document.createElement("p");
-displayStatus.textContent = "Select an option"; // Default text
+displayStatus.textContent = "Select A Filter Type"; // Default text
 displayStatus.className = "selectedOption"
 
 classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
@@ -470,7 +470,7 @@ classListing.appendChild(displayStatus); // Append the display element to the sa
 
 // Create the button that will toggle the dropdown
 const toggleButton = document.createElement("button");
-toggleButton.textContent = "Filter Classes"; // Set the button text
+toggleButton.textContent = "Select Filter Type"; // Set the button text
 classListing.appendChild(toggleButton); // Append the button to the body or another container element
 
 // Create the dropdown menu container
@@ -511,11 +511,13 @@ classListing.appendChild(dropdownMenu);
 // Function to toggle dropdown visibility
 function toggleDropdown() {
     if (dropdownMenu.style.display === "none") {
-        dropdownMenu.style.display = "block"; // Show the dropdown
+        dropdownMenu.style.display = "block";
+        toggleButton.textContent = "Select Filter Type"; // Reset the button text when opening the dropdown
     } else {
-        dropdownMenu.style.display = "none"; // Hide the dropdown
+        dropdownMenu.style.display = "none";
     }
 }
+
 
 // Event listener to open/close the dropdown when the button is clicked
 toggleButton.addEventListener("click", function() {
@@ -529,15 +531,14 @@ toggleButton.addEventListener("click", function() {
 
 [optionAfter, optionBefore, optionInBetween].forEach(option => {
     option.addEventListener("click", function() {
-        displayStatus.textContent = `Option selected: ${this.textContent}`; // Display the chosen option
-        if (this.textContent === "In Between") {
-            endTimeDropdown.style.display = "inline";  // Show the end time dropdown
-        } else {
-            endTimeDropdown.style.display = "none";  // Hide the end time dropdown
-        }
-        // Update displayed option
+        // Set the text of the toggleButton to the current selection
+        toggleButton.textContent = this.textContent;
+        // Adjust visibility of the end time dropdown based on the selection
+        endTimeDropdown.style.display = this.textContent === "In Between" ? "inline" : "none";
+        // Hide the dropdown menu after selection
+        dropdownMenu.style.display = "none";
+        // Display the selected filter type
         displayStatus.textContent = `Filter type selected: ${this.textContent}`;
-        dropdownMenu.style.display = "none"; // Hide the dropdown after selection
     });
 });
 
@@ -545,8 +546,9 @@ toggleButton.addEventListener("click", function() {
 document.addEventListener("click", function(event) {
     if (!dropdownMenu.contains(event.target) && !toggleButton.contains(event.target)) {
         dropdownMenu.style.display = "none";
-        if (displayStatus.textContent === "Select An Option") {
-            displayStatus.textContent = "No option selected"; // Optional: change text if nothing was selected
+        // Reset to default text if no option was actively selected
+        if (toggleButton.textContent === "Select Filter Type") {
+            displayStatus.textContent = "No option selected";
         }
     }
 });

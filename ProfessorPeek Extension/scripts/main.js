@@ -456,7 +456,6 @@ displayStatus.textContent = "Select an option"; // Default text
 classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
 
 
-
 // Create the button that will toggle the dropdown
 const toggleButton = document.createElement("button");
 toggleButton.textContent = "Filter Classes"; // Set the button text
@@ -483,9 +482,16 @@ optionBefore.textContent = "Before";
 optionBefore.style.padding = "10px";
 optionBefore.style.cursor = "pointer";
 
+// Create the 'In Between' option for the dropdown
+const optionInBetween = document.createElement("div");
+optionInBetween.textContent = "In Between";
+optionInBetween.style.padding = "10px";
+optionInBetween.style.cursor = "pointer";
+
 // Add options to the dropdown menu
 dropdownMenu.appendChild(optionAfter);
 dropdownMenu.appendChild(optionBefore);
+dropdownMenu.appendChild(optionInBetween);
 
 // Append the dropdown menu to the body
 classListing.appendChild(dropdownMenu);
@@ -507,8 +513,8 @@ toggleButton.addEventListener("click", function() {
     }
 });
 
-// Update the option click event handlers to set the display text
-[optionAfter, optionBefore].forEach(option => {
+// Update the option click event handlers to set the display text for all options
+[optionAfter, optionBefore, optionInBetween].forEach(option => {
     option.addEventListener("click", function() {
         displayStatus.textContent = `Option selected: ${this.textContent}`; // Display the chosen option
         dropdownMenu.style.display = "none"; // Hide the dropdown after selection

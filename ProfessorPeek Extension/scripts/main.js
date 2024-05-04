@@ -424,6 +424,14 @@ function applyClassFilter(beforeOrAfter, filterStartTime, filterEndTime = null) 
     });
 }
 
+function resetFiltering() {
+    const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
+    // Unhide all sections 
+    sections.forEach(section => {
+        section.style.display = "block";
+    });
+}
+
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
         if (classListing) {
@@ -580,6 +588,10 @@ applyFilterButton.textContent = "Apply Filter";
 applyFilterButton.style.display = "none";  // Initially disable the button
 applyFilterButton.style.margin = "5px";
 
+const resetButton = document.createElement("button");
+resetButton.textContent = "Reset Button";
+resetButton.style.margin = "5px";
+
 
 applyFilterButton.addEventListener("click", function() {
     const selectedOption = document.querySelector('.selectedOption').textContent.toLowerCase(); // Assuming you set a class 'selectedOption' to the selected text div
@@ -606,12 +618,19 @@ applyFilterButton.addEventListener("click", function() {
     }
 });
 
+resetButton.addEventListener("click", function() {
+    resetFiltering();
+    
+});
+
 classListing.appendChild(displayStatus);      // Add the status display to the DOM
 classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
 classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
 classListing.appendChild(startTimeDropdown);   // Add the start time dropdown to the DOM
 classListing.appendChild(endTimeDropdown);     // Add the end time dropdown to the DOM
 classListing.appendChild(applyFilterButton);
+classListing.appendChild(resetButton);
+
 
 classListing.insertAdjacentElement("beforebegin", displayStatus);
 classListing.insertAdjacentElement("beforebegin", dropdownMenu);
@@ -619,4 +638,7 @@ classListing.insertAdjacentElement("beforebegin", toggleButton);
 classListing.insertAdjacentElement("beforebegin", startTimeDropdown);
 classListing.insertAdjacentElement("beforebegin", endTimeDropdown);
 classListing.insertAdjacentElement("beforebegin", applyFilterButton);
+classListing.insertAdjacentElement("beforebegin", resetButton);
+
+
 

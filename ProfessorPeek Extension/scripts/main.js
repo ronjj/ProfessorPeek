@@ -397,7 +397,8 @@ function compareTimes(inputTime, filterTime, filterType) {
         return inputMinutes < filterMinutes;
     } else if (filterType === "after") {
         return inputMinutes > filterMinutes;
-    } else {
+    } 
+    else {
         console.log("this filter type was invalid", filterType)
         console.log(typeof filterType);
         throw new Error("Invalid filter type specified. Use 'before' or 'after'.");

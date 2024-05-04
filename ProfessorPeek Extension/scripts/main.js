@@ -398,6 +398,8 @@ function compareTimes(inputTime, filterTime, filterType) {
     } else if (filterType === "after") {
         return inputMinutes > filterMinutes;
     } else {
+        console.log("this filter type was invalid", filterType)
+        console.log(typeof filterType);
         throw new Error("Invalid filter type specified. Use 'before' or 'after'.");
     }
 }
@@ -426,11 +428,10 @@ function applyClassFilter(beforeOrAfter, filterTime) {
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
         if (classListing) {
-            processCourseNames();
+            // processCourseNames();
             // getStaffNames();
             // backToTop();
             // toggleCourseSections();
-            applyClassFilter("before", "10:00am");
         }
         else {
             setTimeout(() => watchForClassListing(), 1000);
@@ -453,6 +454,8 @@ if (classListing === null)  {
 // Create a paragraph to display the chosen option or default message
 const displayStatus = document.createElement("p");
 displayStatus.textContent = "Select an option"; // Default text
+displayStatus.className = "selectedOption"
+
 classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
 
 
@@ -531,11 +534,7 @@ document.addEventListener("click", function(event) {
     }
 });
 
-
-
-
-// ------ code for time dropdown
-
+// ------ code for time dropdowns
 function createTimeOptions() {
     const times = [];
     for (let hour = 8; hour <= 21; hour++) {  // 8 AM to 9 PM
@@ -564,15 +563,33 @@ timeOptions.forEach(time => {
 startTimeDropdown.style.margin = "5px";
 endTimeDropdown.style.margin = "5px";
 
+const applyFilterButton = document.createElement("button");
+applyFilterButton.textContent = "Apply Filter";
+applyFilterButton.style.margin = "5px";
 
+
+applyFilterButton.addEventListener("click", function() {
+    const selectedOption = document.querySelector('.selectedOption').textContent.toLowerCase(); // Assuming you set a class 'selectedOption' to the selected text div
+    const selectedOptionText = selectedOption.split(":")[1].replace(/\s+/g, '');
+    let selectedTime = startTimeDropdown.value; // Assuming you want to use the start time dropdown for this purpose
+    // remove the space between the time and am in selectedTime
+    selectedTime = selectedTime.replace(" ", "");
+    console.log("select option", selectedOptionText, "selected time:", selectedTime);
+    applyClassFilter(selectedOptionText, selectedTime);
+
+});
+
+classListing.appendChild(displayStatus);      // Add the status display to the DOM
 classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
 classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
-classListing.appendChild(displayStatus);      // Add the status display to the DOM
 classListing.appendChild(startTimeDropdown);   // Add the start time dropdown to the DOM
 classListing.appendChild(endTimeDropdown);     // Add the end time dropdown to the DOM
+classListing.appendChild(applyFilterButton);
 
+classListing.insertAdjacentElement("beforebegin", displayStatus);
 classListing.insertAdjacentElement("beforebegin", dropdownMenu);
 classListing.insertAdjacentElement("beforebegin", toggleButton);
-classListing.insertAdjacentElement("beforebegin", displayStatus);
 classListing.insertAdjacentElement("beforebegin", startTimeDropdown);
 classListing.insertAdjacentElement("beforebegin", endTimeDropdown);
+classListing.insertAdjacentElement("beforebegin", applyFilterButton);
+

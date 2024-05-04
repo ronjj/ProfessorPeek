@@ -180,7 +180,7 @@ async function processCourseNames() {
 
               // Rating Text
               const ratingText = document.createElement('span');
-              ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
+              ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)} \u{2605}`;
               ratingText.style.color = colorText(classInfo[1].toFixed(2), false);
               classInfoText.appendChild(ratingText);
               
@@ -238,7 +238,7 @@ async function processCourseNames() {
               for (let j = 0; j < classInfo[4].length; j++) {
                   const review = classInfo[4][j];
                   const reviewText = document.createElement("p");
-                  reviewText.textContent = `${j + 1}. ${review.text} (Overall Rating: ${review.rating}, Professor: ${review.professors[0]})`;
+                  reviewText.textContent = `${j + 1}. ${review.text} (Overall Rating: ${review.rating}\u{2605}, Professor: ${review.professors[0]})`;
                   reviewText.style.color = "black";
                   reviewText.style.display = "none";  // Initially hide the reviews
 
@@ -425,10 +425,12 @@ function applyClassFilter(beforeOrAfter, filterTime) {
     }
 }
 
+
+
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
         if (classListing) {
-            // processCourseNames();
+            processCourseNames();
             // getStaffNames();
             // backToTop();
             // toggleCourseSections();
@@ -442,7 +444,18 @@ function watchForClassListing() {
 
 watchForClassListing();
 
+// Making filter section
+const classListing = document.querySelector('div.class-listing');
+const beforeClassListings = document.createElement("p");
+beforeClassListings.textContent = "Filter Elements: ";
+beforeClassListings.style.color = "black";
+beforeClassListings.style.border = "none";
+beforeClassListings.style.margin = "0";
+beforeClassListings.style.display = "inline-block";
+beforeClassListings.style.textDecoration = "none";
+beforeClassListings.style.outline = "none";
+beforeClassListings.style.fontSize = "12px";
+beforeClassListings.style.fontFamily = "Helvetica, Arial, sans-serif";
 
-
-
+classListing.insertAdjacentElement("beforebegin", beforeClassListings);
 

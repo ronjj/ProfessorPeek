@@ -1,5 +1,3 @@
-
-
 async function getRateMyProfessorScore(professorLastName, professorFirstName) {
   const response = await fetch(`https://professorpeek.onrender.com/${professorLastName}/${professorFirstName}`, {
 //   const response = await fetch(`http://127.0.0.1:5000/${professorLastName}/${professorFirstName}`, {
@@ -10,7 +8,7 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
       }
   });
   const data = await response.json(); // or response.textContent if you're expecting a string
-  console.log(data);
+//   console.log(data);
   return data;
 }
 
@@ -57,7 +55,7 @@ async function getStaffNames() {
                                     rmpData = professorMap[lastName][0];
                                     rmp_link = professorMap[lastName][1];
                                     num_ratings = professorMap[lastName][2];
-                                    console.log(`${lastName}: in map with ${rmpData}`);
+                                    // console.log(`${lastName}: in map with ${rmpData}`);
                                 } else {
                                     try {
                                         rmpResponse = await getRateMyProfessorScore(lastName, firstName);
@@ -161,14 +159,14 @@ async function processCourseNames() {
           let courseNumber = splitCourseName[1];
           if (downgradedCourses.has(subject + " " + courseNumber)) {
                 courseNumber = downgradedCourses.get(subject + " " + courseNumber);
-                console.log(`Downgraded Course Found: ${subject} ${courseNumber}`);
+                // console.log(`Downgraded Course Found: ${subject} ${courseNumber}`);
           }
           else {
             courseNumber = splitCourseName[1];
           }
-          const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
-        //   make a dictionary for downgraded courses. ex 4700 -> 3700
 
+        // Get CUReviews Information and add ratings under the title of the course
+        const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
           try {
               //   CUReview Stats in Line
               const classInfo = await getCUReviewsInfo(subject, courseNumber);
@@ -178,7 +176,7 @@ async function processCourseNames() {
 
               // Rating Text
               const ratingText = document.createElement('span');
-              ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)}`;
+              ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)} \u{2605}`;
               ratingText.style.color = colorText(classInfo[1].toFixed(2), false);
               classInfoText.appendChild(ratingText);
               
@@ -236,7 +234,7 @@ async function processCourseNames() {
               for (let j = 0; j < classInfo[4].length; j++) {
                   const review = classInfo[4][j];
                   const reviewText = document.createElement("p");
-                  reviewText.textContent = `${j + 1}. ${review.text} (Overall Rating: ${review.rating}, Professor: ${review.professors[0]})`;
+                  reviewText.textContent = `${j + 1}. ${review.text} (Overall Rating: ${review.rating}\u{2605}, Professor: ${review.professors[0]})`;
                   reviewText.style.color = "black";
                   reviewText.style.display = "none";  // Initially hide the reviews
 
@@ -324,7 +322,6 @@ function toggleCourseSections() {
 
     // Add event listener to the button
     toggleButton.addEventListener("click", toggleEnrlgrp);
-
       });
 }
 
@@ -373,6 +370,102 @@ function backToTop() {
 // processCourseNames();
 // toggleCourseSections();
 
+function parseTime(timeStr) {
+    const [time, period] = timeStr.split(/(?=[AP]M$)/i);
+    let [hours, minutes] = time.split(':').map(Number);
+    if (period.toUpperCase() === "PM" && hours < 12) hours += 12;
+    if (period.toUpperCase() === "AM" && hours === 12) hours = 0;
+    return hours * 60 + minutes;
+}
+
+function compareTimes(inputTime, filterStartTime, filterEndTime, filterType) {
+    if (typeof inputTime.textContent !== 'string' || typeof filterStartTime !== 'string') {
+        console.log("Input or filter time is not a string:", inputTime, filterStartTime);
+        throw new Error('Both inputTime and filterStartTime must be strings.');
+    }
+    // input minutes is the string 9:05 - 10:25am from the class listing
+    const inputMinutes = parseTime(inputTime.textContent.split(' - ')[0]);
+    const startFilterMinutes = parseTime(filterStartTime.split(' - ')[0]);
+    const endFilterMinutes = filterEndTime ? parseTime(filterEndTime.split(' - ')[0]) : null;
+
+    if (filterType === "before") {
+        return inputMinutes < startFilterMinutes;
+    } else if (filterType === "after") {
+        return inputMinutes > startFilterMinutes;
+    } else if (filterType === "inbetween" && endFilterMinutes !== null) {
+        const endInputMinutes = parseTime(inputTime.textContent.split(' - ')[1]);
+        return inputMinutes >= startFilterMinutes && endInputMinutes <= endFilterMinutes;
+    } else {
+        throw new Error("Invalid filter type specified. Use 'before', 'after', or 'in between'.");
+    }
+}
+
+function checkIfAllUlHidden(children) {
+    const allHidden = Array.from(children).every(ul => {
+        return ul.style.display === 'none' || window.getComputedStyle(ul).display === 'none';
+    });
+
+    // Log the result or handle it as needed
+    console.log("Are all UL elements hidden? " + allHidden);
+    return allHidden;
+}
+
+// filterTime should be in the format 1:00pm
+// beforeOrAfter should be either "before" or "after"
+function applyClassFilter(beforeOrAfter, filterStartTime, filterEndTime = null) {
+    const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
+
+    // Unhide all sections first
+    sections.forEach(section => {
+        section.style.display = "block";
+    });
+
+    // Apply filtering logic
+    sections.forEach(section => {
+        const sectionTime = section.querySelector("time.time");
+        if (!sectionTime) {
+            return;
+        }
+
+        if (!compareTimes(sectionTime, filterStartTime, filterEndTime, beforeOrAfter)) {
+            section.style.display = "none";
+            console.log("Hiding section:", section.querySelector("time.time").textContent);
+        }
+    });
+
+    // go to parent of sections
+    // if every child from index 1 to end has display none, hide the parent
+    sections.forEach(section => {
+        const parent = section.parentElement;
+
+        let hideParent = true;
+        if (checkIfAllUlHidden(parent.querySelectorAll('ul.section.active-tab-details.flaggedSection'))) {
+            hideParent = true;
+        } else {
+            hideParent = false;
+        }
+        if (hideParent) {
+            parent.parentElement.parentElement.parentElement.style.display = "none";
+            console.log("hiding parent", parent.parentElement.parentElement.parentElement.className);
+        }
+    });
+}
+
+function resetFiltering() {
+    const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
+    const nodes = document.querySelectorAll('div.node');
+
+    // Unhide all sections 
+    sections.forEach(section => {
+        section.style.display = "block";
+    });
+
+    // unhide all nodes
+    nodes.forEach(node => {
+        node.style.display = "block";
+    });
+}
+
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
         if (classListing) {
@@ -383,13 +476,198 @@ function watchForClassListing() {
         }
         else {
             setTimeout(() => watchForClassListing(), 1000);
-            console.log("waiting for class-listing");
+            // console.log("waiting for class-listing");
         }
 }
 
 watchForClassListing();
 
 
+// Making filter section
+const classListing = document.querySelector('div.class-listing');
+if (classListing === null)  {
+    console.log("No class listing found");
+} else {
+    console.log("Class listing found");
+}
+
+// Create a paragraph to display the chosen option or default message
+const displayStatus = document.createElement("p");
+displayStatus.textContent = "Select A Filter Type"; // Default text
+displayStatus.className = "selectedOption"
+
+classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
+
+// Create the button that will toggle the dropdown
+const toggleButton = document.createElement("button");
+toggleButton.textContent = "Select Filter Type"; // Set the button text
+classListing.appendChild(toggleButton); // Append the button to the body or another container element
+
+// Create the dropdown menu container
+const dropdownMenu = document.createElement("div");
+dropdownMenu.style.display = "none"; // Initially hide the dropdown
+dropdownMenu.style.position = "absolute"; // Position it below the button (adjust as needed)
+dropdownMenu.style.border = "1px solid #ccc";
+dropdownMenu.style.backgroundColor = "#fff";
+dropdownMenu.style.padding = "5px";
+dropdownMenu.style.zIndex = "1"; // Ensure it's above other elements
+dropdownMenu.style.margin = "5px";
+
+// Create options for the dropdown
+const optionAfter = document.createElement("div");
+optionAfter.textContent = "After";
+optionAfter.style.padding = "10px";
+optionAfter.style.cursor = "pointer";
+
+const optionBefore = document.createElement("div");
+optionBefore.textContent = "Before";
+optionBefore.style.padding = "10px";
+optionBefore.style.cursor = "pointer";
+
+// Create the 'In Between' option for the dropdown
+const optionInBetween = document.createElement("div");
+optionInBetween.textContent = "In Between";
+optionInBetween.style.padding = "10px";
+optionInBetween.style.cursor = "pointer";
+
+// Add options to the dropdown menu
+dropdownMenu.appendChild(optionAfter);
+dropdownMenu.appendChild(optionBefore);
+dropdownMenu.appendChild(optionInBetween);
+
+// Append the dropdown menu to the body
+classListing.appendChild(dropdownMenu);
+
+// Function to toggle dropdown visibility
+function toggleDropdown() {
+    if (dropdownMenu.style.display === "none") {
+        dropdownMenu.style.display = "block";
+        toggleButton.textContent = "Select Filter Type"; // Reset the button text when opening the dropdown
+    } else {
+        dropdownMenu.style.display = "none";
+    }
+}
+
+// Event listener to open/close the dropdown when the button is clicked
+toggleButton.addEventListener("click", function() {
+    toggleDropdown();
+    if (dropdownMenu.style.display === "block") {
+        displayStatus.textContent = "Select an option"; // Reset to default when opening the dropdown
+    }
+});
+
+[optionAfter, optionBefore, optionInBetween].forEach(option => {
+    option.addEventListener("click", function() {
+        applyFilterButton.style.display = "inline";
+
+        // Set the text of the toggleButton to the current selection
+        toggleButton.textContent = this.textContent;
+        // Adjust visibility of the end time dropdown based on the selection
+        endTimeDropdown.style.display = this.textContent === "In Between" ? "inline" : "none";
+        // Hide the dropdown menu after selection
+        dropdownMenu.style.display = "none";
+        // Display the selected filter type
+        displayStatus.textContent = `Filter type selected: ${this.textContent}`;
+        displayStatus.className = "selectedOption"; // Set class name for selected option
+    });
+});
+// Event to hide the dropdown and reset display when clicking outside
+document.addEventListener("click", function(event) {
+    if (!dropdownMenu.contains(event.target) && !toggleButton.contains(event.target)) {
+        dropdownMenu.style.display = "none";
+        // Check if a selection has been made or reset to default
+        if (toggleButton.textContent === "Select Filter Type") {
+            displayStatus.textContent = "No option selected";
+            applyFilterButton.style.display = "none"; // Disable the button if no option is selected
+        }
+    }
+});
+
+// ------ code for time dropdowns
+function createTimeOptions() {
+    const times = [];
+    for (let hour = 8; hour <= 21; hour++) {  // 8 AM to 9 PM
+        for (let minute = 0; minute < 60; minute += 10) {
+            const time = `${hour % 12 === 0 ? 12 : hour % 12}:${minute.toString().padStart(2, '0')} ${hour < 12 ? 'AM' : 'PM'}`;
+            times.push(time);
+        }
+    }
+    return times;
+}
+
+const timeOptions = createTimeOptions();
+const startTimeDropdown = document.createElement("select");
+const endTimeDropdown = document.createElement("select");
+
+timeOptions.forEach(time => {
+    const startOption = document.createElement("option");
+    startOption.value = startOption.textContent = time;
+    startTimeDropdown.appendChild(startOption);
+
+    const endOption = document.createElement("option");
+    endOption.value = endOption.textContent = time;
+    endTimeDropdown.appendChild(endOption);
+});
+
+startTimeDropdown.style.margin = "5px";
+endTimeDropdown.style.margin = "5px";
+
+const applyFilterButton = document.createElement("button");
+applyFilterButton.textContent = "Apply Filter";
+applyFilterButton.style.display = "none";  // Initially disable the button
+applyFilterButton.style.margin = "5px";
+
+const resetButton = document.createElement("button");
+resetButton.textContent = "Reset Button";
+resetButton.style.margin = "5px";
+
+
+applyFilterButton.addEventListener("click", function() {
+    const selectedOption = document.querySelector('.selectedOption').textContent.toLowerCase(); // Assuming you set a class 'selectedOption' to the selected text div
+    const selectedOptionText = selectedOption.split(":")[1].replace(/\s+/g, '');
+    let selectedTime = startTimeDropdown.value; // Assuming you want to use the start time dropdown for this purpose
+    // remove the space between the time and am in selectedTime
+    selectedTime = selectedTime.replace(" ", "");
+    console.log("select option", selectedOptionText, "selected time:", selectedTime);
+
+    if (selectedOptionText === "inbetween") {
+        const endTime = endTimeDropdown.value;
+        let startTimeMinutes = parseTime(selectedTime);
+        let endTimeMinutes = parseTime(endTime);
+
+        // 
+        if (endTimeMinutes <= startTimeMinutes) {
+            // alert user that end time must be after start time
+            alert("End time must be after start time");
+            return; // Stop further execution to prevent applying the filter
+        }
+        applyClassFilter(selectedOptionText, selectedTime, endTime);
+    } else {
+        applyClassFilter(selectedOptionText, selectedTime);
+    }
+});
+
+resetButton.addEventListener("click", function() {
+    resetFiltering();
+    
+});
+
+classListing.appendChild(displayStatus);      // Add the status display to the DOM
+classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
+classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
+classListing.appendChild(startTimeDropdown);   // Add the start time dropdown to the DOM
+classListing.appendChild(endTimeDropdown);     // Add the end time dropdown to the DOM
+classListing.appendChild(applyFilterButton);
+classListing.appendChild(resetButton);
+
+
+classListing.insertAdjacentElement("beforebegin", displayStatus);
+classListing.insertAdjacentElement("beforebegin", dropdownMenu);
+classListing.insertAdjacentElement("beforebegin", toggleButton);
+classListing.insertAdjacentElement("beforebegin", startTimeDropdown);
+classListing.insertAdjacentElement("beforebegin", endTimeDropdown);
+classListing.insertAdjacentElement("beforebegin", applyFilterButton);
+classListing.insertAdjacentElement("beforebegin", resetButton);
 
 
 

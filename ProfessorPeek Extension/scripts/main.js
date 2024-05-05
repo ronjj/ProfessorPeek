@@ -400,6 +400,16 @@ function compareTimes(inputTime, filterStartTime, filterEndTime, filterType) {
     }
 }
 
+function checkIfAllUlHidden(children) {
+    const allHidden = Array.from(children).every(ul => {
+        return ul.style.display === 'none' || window.getComputedStyle(ul).display === 'none';
+    });
+
+    // Log the result or handle it as needed
+    console.log("Are all UL elements hidden? " + allHidden);
+    return allHidden;
+}
+
 // filterTime should be in the format 1:00pm
 // beforeOrAfter should be either "before" or "after"
 function applyClassFilter(beforeOrAfter, filterStartTime, filterEndTime = null) {
@@ -422,13 +432,45 @@ function applyClassFilter(beforeOrAfter, filterStartTime, filterEndTime = null) 
             console.log("Hiding section:", section.querySelector("time.time").textContent);
         }
     });
+
+    // go to parent of sections
+    // if every child from index 1 to end has display none, hide the parent
+    sections.forEach(section => {
+        const sectionTime = section.querySelector("time.time");
+
+        // get full root node of a class section
+        // const parent = section.parentElement.parentElement.parentElement.parentElement;
+
+        const parent = section.parentElement;
+
+        // console.log("Parent of ", sectionTime, "is: ", parent);
+        const children = parent.children;
+
+        let hideParent = true;
+        if (checkIfAllUlHidden(parent.querySelectorAll('ul.section.active-tab-details.flaggedSection'))) {
+            hideParent = true;
+        } else {
+            hideParent = false;
+        }
+        if (hideParent) {
+            parent.parentElement.parentElement.parentElement.style.display = "none";
+            console.log("hiding parent", parent.parentElement.parentElement.parentElement.className);
+        }
+    });
 }
 
 function resetFiltering() {
     const sections = document.querySelectorAll('ul.section.active-tab-details.flaggedSection');
+    const nodes = document.querySelectorAll('div.node');
+
     // Unhide all sections 
     sections.forEach(section => {
         section.style.display = "block";
+    });
+
+    // unhide all nodes
+    nodes.forEach(node => {
+        node.style.display = "block";
     });
 }
 

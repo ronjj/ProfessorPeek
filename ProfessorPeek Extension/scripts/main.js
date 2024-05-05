@@ -498,7 +498,6 @@ displayStatus.className = "selectedOption"
 
 classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
 
-
 // Create the button that will toggle the dropdown
 const toggleButton = document.createElement("button");
 toggleButton.textContent = "Select Filter Type"; // Set the button text
@@ -549,7 +548,6 @@ function toggleDropdown() {
     }
 }
 
-
 // Event listener to open/close the dropdown when the button is clicked
 toggleButton.addEventListener("click", function() {
     toggleDropdown();
@@ -560,7 +558,6 @@ toggleButton.addEventListener("click", function() {
 
 [optionAfter, optionBefore, optionInBetween].forEach(option => {
     option.addEventListener("click", function() {
-
         applyFilterButton.style.display = "inline";
 
         // Set the text of the toggleButton to the current selection
@@ -585,7 +582,6 @@ document.addEventListener("click", function(event) {
         }
     }
 });
-
 
 // ------ code for time dropdowns
 function createTimeOptions() {

@@ -436,15 +436,7 @@ function applyClassFilter(beforeOrAfter, filterStartTime, filterEndTime = null) 
     // go to parent of sections
     // if every child from index 1 to end has display none, hide the parent
     sections.forEach(section => {
-        const sectionTime = section.querySelector("time.time");
-
-        // get full root node of a class section
-        // const parent = section.parentElement.parentElement.parentElement.parentElement;
-
         const parent = section.parentElement;
-
-        // console.log("Parent of ", sectionTime, "is: ", parent);
-        const children = parent.children;
 
         let hideParent = true;
         if (checkIfAllUlHidden(parent.querySelectorAll('ul.section.active-tab-details.flaggedSection'))) {
@@ -477,10 +469,10 @@ function resetFiltering() {
 function watchForClassListing() {
         const classListing = document.querySelector('div.class-listing');
         if (classListing) {
-            // processCourseNames();
-            // getStaffNames();
-            // backToTop();
-            // toggleCourseSections();
+            processCourseNames();
+            getStaffNames();
+            backToTop();
+            toggleCourseSections();
         }
         else {
             setTimeout(() => watchForClassListing(), 1000);
@@ -489,7 +481,6 @@ function watchForClassListing() {
 }
 
 watchForClassListing();
-
 
 
 // Making filter section

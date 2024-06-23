@@ -66,27 +66,24 @@ async function checkAndLogElements() {
         }
         // Update HTML with rating
         if (courseRating === 0.0 | courseRating === undefined | courseRating === null) {
-            courseElements[i].children[0].textContent = `(N/A) ${courseName} `;
+            courseElements[i].children[0].textContent = `(N/A) ${courseName}`;
         } else {
             const classInfoText = document.createElement("p");
               // give p element a class name
               classInfoText.className = "class-info-text";
 
             // Rating Text
-            const ratingText = document.createElement('span');
-            ratingText.textContent = ` R: ${classInfo[1].toFixed(2)}`;
-            ratingText.style.color = "white";
-            classInfoText.appendChild(ratingText);
+            courseElements[i].children[0].textContent = `${courseName} (${courseRating.toFixed(2)}/5) `
 
               //   Difficulty Text
               const difficultyText = document.createElement('span');
-              difficultyText.textContent = ` D: ${classInfo[0].toFixed(2)}`;
+              difficultyText.textContent = ` Diff: ${classInfo[0].toFixed(2)}`;
               difficultyText.style.color = "white"
               classInfoText.appendChild(difficultyText);
 
               // Workload Text
               const workloadText = document.createElement('span');
-              workloadText.textContent = ` W: ${classInfo[2].toFixed(2)}`;
+              workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
               workloadText.style.color = "white";
               classInfoText.appendChild(workloadText);
               courseElements[i].appendChild(classInfoText);

@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "ProfessorPeek",
+  "version": "2",
+  "description": "Professor Peek adds the RateMyProfessor rating and CUReviews rating to the course catalog",
+  "default_title": "ProfessorPeek",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+      "16": "images/pp-logo-16.png",
+      "32": "images/pp-logo-32.png",
+      "48": "images/pp-logo-48.png",
+      "128": "images/pp-logo-128.png"
+    },
+      "content_scripts": [
+        {
+          "js": ["src/main.js", "src/supporting.js"],
+          "matches": [
+            "https://classes.cornell.edu/browse/roster/*",
+            "https://classes.cornell.edu/search/roster/*"
+          ]
+        },
+        {
+          "js": ["src/scheduler.js", "src/main.js", "src/supporting.js"],
+          "matches": ["https://classes.cornell.edu/scheduler/roster/*"]
+        },
+        {
+          "js": ["src/content.jsx"],
+          "matches": ["https://www.google.com/*"]
+        }
+  ]
+}
+

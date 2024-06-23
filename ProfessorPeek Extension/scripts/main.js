@@ -82,9 +82,18 @@ async function getStaffNames() {
                               } else {
                                 const rmp_link_element = document.createElement("a"); // Create an <a> element
                                 rmp_link_element.href = rmp_link; // Set the href attribute to the URL
-                                rmp_link_element.textContent = "(RateMyProfessor Page)"; // Set the link text
+                                rmp_link_element.textContent = "View Professor Ratings"; // Set the link text
                                 rmp_link_element.target = "_blank"; // Optional: open in a new tab
                                 instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
+                                
+                                const br = document.createElement("br");
+                                rmp_link_element.insertAdjacentElement("afterend", br);
+                                
+                                const rmp_leave_review = document.createElement("a"); 
+                                rmp_leave_review.href = convertToReviewLink(rmp_link); 
+                                rmp_leave_review.textContent = "Leave A Review"; 
+                                rmp_leave_review.target = "_blank"; 
+                                br.insertAdjacentElement("afterend", rmp_leave_review);
                               }
                             //   ------------------
                             }
@@ -670,4 +679,19 @@ classListing.insertAdjacentElement("beforebegin", applyFilterButton);
 classListing.insertAdjacentElement("beforebegin", resetButton);
 
 
+function convertToReviewLink(professorLink) {
+    const professorIdMatch = professorLink.match(/\/professor\/(\d+)/);
+    if (professorIdMatch && professorIdMatch[1]) {
+        const professorId = professorIdMatch[1];
+        const reviewLink = `https://www.ratemyprofessors.com/add/professor-rating/${professorId}`;
+        return reviewLink;
+    } else {
+        throw new Error("Invalid professor link");
+    }
+}
+
+// Example usage:
+const professorLink = "https://www.ratemyprofessors.com/professor/1705832";
+const reviewLink = convertToReviewLink(professorLink);
+console.log(reviewLink); // Output: https://www.ratemyprofessors.com/add/professor-rating/1705832
 

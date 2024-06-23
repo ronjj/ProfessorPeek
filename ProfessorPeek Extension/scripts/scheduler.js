@@ -15,7 +15,7 @@ onDOMReady(function() {
         const courseElements = document.getElementsByClassName("expander ng-binding");
         console.log(courseElements, "courseElements found: " + courseElements.length);
         for (let i = 0; i < courseElements.length; i++) {
-            console.log('Course Element Text:', courseElements[i].children[0] ? courseElements[i].children[0].textContent : 'No child text');
+            // console.log('Course Element Text:', courseElements[i].children[0] ? courseElements[i].children[0].textContent : 'No child text');
             classes.push(courseElements[i].children[0].textContent);
         }
         checkAndLogElements();

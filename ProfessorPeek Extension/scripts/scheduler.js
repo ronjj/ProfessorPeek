@@ -25,6 +25,13 @@ onDOMReady(function() {
 const courseRatingDict = {};
 
 async function checkAndLogElements() {
+    const downgradedCourses = new Map([
+        ['CS 3700', '4700'],
+        ['CS 3780', '4780'],
+        ['ECE 3200', '4200'],
+        ['ORIE 3741', '4741'],
+        ['STSCI 3740', '4740']
+    ]);
     const courseElements = document.getElementsByClassName("expander ng-binding");
     // console.log(courseElements, "courseElements found: " + courseElements.length);
     for (let i = 0; i < classes.length; i++) {
@@ -32,14 +39,29 @@ async function checkAndLogElements() {
         // if that child is in a dict, get the rating, else, fetch the rating
         const courseName = courseElements[i].children[0].textContent;
         const courseSubject = courseName.split(" ")[0];
-        const courseNumber = courseName.split(" ")[1];
+        let courseNumber = courseName.split(" ")[1];
+        if (downgradedCourses.has(courseSubject + " " + courseNumber)) {
+            courseNumber = downgradedCourses.get(courseSubject + " " + courseNumber);
+            // console.log(`Downgraded Course Found: ${subject} ${courseNumber}`);
+        }
+        
         if (courseRatingDict[courseName]) {
             // console.log('Rating found in dict:', courseRatingDict[courseName]);
             courseRating = courseRatingDict[courseName];
             continue;
         } else {
-            classInfo = await getCUReviewsInfo(courseSubject, courseNumber);
-            courseRating = classInfo[1];
+            try {
+                classInfo = await getCUReviewsInfo(courseSubject, courseNumber);
+                if (classInfo[1] === null) {
+                    courseRating = 0.0;
+                } else {
+                    courseRating = classInfo[1];
+                }
+            } catch (error){
+                console.error(`Error fetching course rating: for ${courseSubject} ${courseNumber}`, error);
+                continue;
+            }
+            
         }
         // Update HTML with rating
         if (courseRating === 0.0 | courseRating === undefined | courseRating === null) {

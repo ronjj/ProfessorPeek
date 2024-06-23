@@ -22,12 +22,8 @@
           ]
         },
         {
-          "js": ["src/scheduler.js", "src/main.js"],
-          "matches": ["https://classes.cornell.edu/scheduler/roster/*"]
-        },
-        {
-          "js": ["src/content.jsx"],
-          "matches": ["https://www.google.com/*"]
+          "matches": ["https://classes.cornell.edu/scheduler/roster/*"],
+          "js": ["src/main.js", "src/scheduler.js"]
         }
   ]
 }

@@ -21,7 +21,6 @@ async function getStaffNames() {
         const professorMap = {};
         for (let i = 0; i < findMeetingPatterns.length; i++) {
             const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
-
             if (findInstructors.length > 0) {
                 for (let j = 0; j < findInstructors.length; j++) {
                     if (!findInstructors[j].textContent.includes("Staff")) {
@@ -92,7 +91,7 @@ async function getStaffNames() {
 
 
 // Function To Get CUReviews Information For A Course
-async function getCUReviewsInfo(subject, courseNumber) {
+export async function getCUReviewsInfo(subject, courseNumber) {
   const response = await fetch(`https://www.cureviews.org/api/getCourseByInfo`, {
       method: "POST",
       body: JSON.stringify({

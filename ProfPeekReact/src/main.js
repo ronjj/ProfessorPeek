@@ -14,51 +14,47 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
 
 // Get Staff Names
 async function getStaffNames() {
-  const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
-  if (findMeetingPatterns.length === 0) {
-  } else {
-      const professorMap = {};
-      for (let i = 0; i < findMeetingPatterns.length; i++) {
-          const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
-          // If the class name "Instructors" is found, then iterate through each item in findInstructors
-          if (findInstructors.length > 0) {
-              for (let j = 0; j < findInstructors.length; j++) {
-                  // If the name is Staff, ignore it
-                  if (findInstructors[j].textContent.includes("Staff")) {
-                      // console.log("Staff found -ignoring");
-                  } else {
-                        // Get p tag for each instructor and get full name and netid.
-                        // Start at 1 to skip the "Instructors" text
+    const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
+    if (findMeetingPatterns.length === 0) {
+        console.log("No meeting patterns found");
+    } else {
+        const professorMap = {};
+        for (let i = 0; i < findMeetingPatterns.length; i++) {
+            const findInstructors = findMeetingPatterns[i].getElementsByClassName("instructors");
+
+            if (findInstructors.length > 0) {
+                for (let j = 0; j < findInstructors.length; j++) {
+                    if (!findInstructors[j].textContent.includes("Staff")) {
                         for (let k = 1; k < findInstructors[j].children.length; k++) {
                             const instructorsPTag = findInstructors[j].children[k];
-                            if (instructorsPTag.querySelector('.tooltip-iws') === null) {
-                                // console.log("No tooltip found");
-                            } else {
-                                // ----------------
-                                // Get the name and netid from the tooltip and add RMP Score
-                                const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
+                            const tooltipElement = instructorsPTag.querySelector('.tooltip-iws');
+                            
+                            if (tooltipElement) {
                                 const nameAndNetID = tooltipElement.dataset.content;
-                                let firstName = ""
-                                let lastName = ""
+                                let firstName = "";
+                                let lastName = "";
                                 // Split last name. Ex: "Anke Van Zuylen"
                                 if (nameAndNetID.split(" ").length > 3) {
-                                     firstName = nameAndNetID.split(" ")[0].toLowerCase();
-                                     lastName = nameAndNetID.split(" ")[1].toLowerCase() + " " + nameAndNetID.split(" ")[2].toLowerCase();
+                                    firstName = nameAndNetID.split(" ")[0].toLowerCase();
+                                    lastName = nameAndNetID.split(" ")[1].toLowerCase() + " " + nameAndNetID.split(" ")[2].toLowerCase();
                                 } else {
                                     firstName = nameAndNetID.split(" ")[0].toLowerCase();
                                     lastName = nameAndNetID.split(" ")[1].toLowerCase();
                                 }
-                                let rmpData = 0.0
-                                let rmp_link = ""
-                                let num_ratings = 0.0
-                                if (lastName in professorMap) {
+
+                                let rmpData = "N/A";
+                                let rmp_link = "";
+                                let num_ratings = 0;
+
+                                if (professorMap[lastName]) {
                                     rmpData = professorMap[lastName][0];
                                     rmp_link = professorMap[lastName][1];
                                     num_ratings = professorMap[lastName][2];
-                                    // console.log(`${lastName}: in map with ${rmpData}`);
+                                    console.log(`${lastName}: in map with ${rmpData}`);
                                 } else {
+                                    console.log(`${lastName} was not in map. Fetching RMP Score...`);
                                     try {
-                                        rmpResponse = await getRateMyProfessorScore(lastName, firstName);
+                                        const rmpResponse = await getRateMyProfessorScore(lastName, firstName);
                                         rmpData = rmpResponse["rating"];
                                         rmp_link = rmpResponse["rmp_link"];
                                         num_ratings = rmpResponse["num_ratings"];
@@ -68,37 +64,31 @@ async function getStaffNames() {
                                         professorMap[lastName] = [rmpData, rmp_link, num_ratings];
                                     } catch (error) {
                                         console.log(`Error fetching RateMyProfessor score for ${lastName} : ${error.message}`);
-                                        rmpData = "N/A";
                                     }
                                 }
-                              // Update professor name on page
-                              const originalText = tooltipElement.textContent;
-                              tooltipElement.innerHTML = `${originalText} - ${rmpData} (${num_ratings} Ratings)`;
-                              tooltipElement.style.color = colorText(rmpData, false);
-                              if (rmp_link == "None") {
-                                const rmp_link_element = document.createElement("p"); // Create an <p> element
-                                rmp_link_element.textContent = "No Ratings Found"; // Set the text
+
+                                const originalText = tooltipElement.textContent;
+                                tooltipElement.innerHTML = `${originalText} - ${rmpData} (${num_ratings} Ratings)`;
+                                tooltipElement.style.color = colorText(rmpData, false);
+
+                                const rmp_link_element = document.createElement(rmp_link === "None" ? "p" : "a");
+                                rmp_link_element.textContent = rmp_link === "None" ? "No Ratings Found" : "(RateMyProfessor Page)";
+                                if (rmp_link !== "None") {
+                                    rmp_link_element.href = rmp_link;
+                                    rmp_link_element.className = "rmp-link";
+                                    rmp_link_element.target = "_blank";
+                                }
                                 instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
-                              } else {
-                                const rmp_link_element = document.createElement("a"); // Create an <a> element
-                                rmp_link_element.href = rmp_link; // Set the href attribute to the URL
-                                rmp_link_element.textContent = "(RateMyProfessor Page)"; // Set the link text
-                                rmp_link_element.className = "rmp-link"; 
-                                rmp_link_element.target = "_blank"; // Optional: open in a new tab
-                                instructorsPTag.insertAdjacentElement("afterend", rmp_link_element);
-                              }
-                            //   ------------------
                             }
                         }
-                  }
-              }
-          } else {
-              console.log("No professor names found")
-          }
-      }
-  }
+                    }
+                }
+            } else {
+                console.log("No professor names found");
+            }
+        }
+    }
 }
-
 
 
 // Function To Get CUReviews Information For A Course
@@ -265,7 +255,7 @@ async function processCourseNames() {
               toggleButton.addEventListener("click", toggleReviews);
 
           } catch (error) {
-              console.error(`No CUReviews For: ${subject} ${courseNumber}`);
+              console.error(`Error getting CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");
               classInfoText.textContent = `No Class Ratings Found`;
               classInfoText.style.color = "black";
@@ -476,7 +466,7 @@ function watchForClassListing() {
             toggleCourseSections();
         }
         else {
-            setTimeout(() => watchForClassListing(), 1000);
+            setTimeout(() => watchForClassListing(), 5000);
             // console.log("waiting for class-listing");
         }
 }
@@ -705,3 +695,33 @@ function showHoverText() {
 document.addEventListener('DOMContentLoaded', showHoverText);
 
 
+function colorText(number, isInverted) {
+    //   If inverted, low numbers are good and high numbers are bad
+      if (isInverted) {
+        if (number === 0 || number === "N/A") {
+            return "black";
+          }
+          if (number >= 4) {
+            return "red";
+          }
+          if (number >= 3) {
+            return "black";
+          }
+          else {
+            return "green";
+          }
+      } else {
+        if (number === 0 || number === "N/A") {
+            return "black";
+          }
+          if (number >= 4) {
+            return "green";
+          }
+          if (number >= 3) {
+            return "black";
+          }
+          else {
+            return "red";
+          }
+      }
+    }

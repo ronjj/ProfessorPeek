@@ -19,7 +19,7 @@ onDOMReady(function() {
             classes.push(courseElements[i].children[0].textContent);
         }
         checkAndLogElements();
-    }, 1000); // Delay by 1000 milliseconds (1 second)
+    }, 2000); // Delay by 1000 milliseconds (1 second)
 });
 
 const courseRatingDict = {};
@@ -46,11 +46,12 @@ async function checkAndLogElements() {
         }
         
         if (courseRatingDict[courseName]) {
-            // console.log('Rating found in dict:', courseRatingDict[courseName]);
+            console.log('Rating found in dict:', courseRatingDict[courseName]);
             courseRating = courseRatingDict[courseName];
             continue;
         } else {
             try {
+                console.log(`Fetching course rating for ${courseSubject} ${courseNumber}`);
                 classInfo = await getCUReviewsInfo(courseSubject, courseNumber);
                 if (classInfo[1] === null) {
                     courseRating = 0.0;

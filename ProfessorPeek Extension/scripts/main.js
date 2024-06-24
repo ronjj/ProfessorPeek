@@ -268,34 +268,58 @@ async function processCourseNames() {
               // Add event listener to the button
               toggleButton.addEventListener("click", toggleReviews);
 
+
+            //   Bookmarking logic
+            const parentSubjectItem = findCourseNames[i].parentNode;
+            const classNodeItem = parentSubjectItem.parentNode;
+            //   find the child element with class name share
+            const shareElement = parentSubjectItem.querySelector(".share");
+            //   create a new button element that is going to be placed before share
+            const bookmarkButton = document.createElement("button");
+            bookmarkButton.textContent = "BK";
+            bookmarkButton.style.backgroundColor = "blue";
+            bookmarkButton.style.color = "white";
+            bookmarkButton.style.border = "none";
+            bookmarkButton.style.borderRadius = "5px";
+
+            //   Append the button to the section
+            shareElement.insertAdjacentElement("beforeend", bookmarkButton);
+
+            // function to save the course to local storage
+            function saveCourse() {
+                const courseName = findCourseNames[i].textContent;
+                const courseDescription = classNodeItem.querySelector(".course-descr").textContent;
+                const courseRating = classInfo[1];
+                const courseDifficulty = classInfo[0];
+                const courseWorkload = classInfo[2];
+                const courseRatings = classInfo[3];
+                const courseReviews = classInfo[4];
+                const courseData = {
+                    courseName: courseName,
+                    courseDescription: courseDescription,
+                    rating: courseRating,
+                    difficulty: courseDifficulty,
+                    workload: courseWorkload,
+                    num_ratings: courseRatings,
+                    reviews: courseReviews
+                };
+                chrome.storage.sync.set({ courseName: courseData }).then(() => {
+                    console.log(`Course ${courseName} saved to local storage`);
+                  });
+                // print out all items in local storage
+                chrome.storage.sync.get(console.log);
+
+            }
+            bookmarkButton.addEventListener("click", saveCourse);
+
           } catch (error) {
               console.error(`No CUReviews For: ${subject} ${courseNumber}`);
               const classInfoText = document.createElement("p");
               classInfoText.textContent = `No Class Ratings Found`;
               classInfoText.style.color = "black";
               const classSection = findCourseNames[i].parentNode;
-              classSection.insertAdjacentElement("afterend", classInfoText);
+              classSection.insertAdjacentElement("beforebegin", classInfoText);
           }
-
-        //   Bookmarking logic
-        const parentSubjectItem = findCourseNames[i].parentNode;
-        //   find the child element with class name share
-        const shareElement = parentSubjectItem.querySelector(".share");
-        //   create a new button element that is going to be placed before share
-        const bookmarkButton = document.createElement("button");
-        bookmarkButton.textContent = "BK";
-        bookmarkButton.style.backgroundColor = "blue";
-        bookmarkButton.style.color = "white";
-        bookmarkButton.style.border = "none";
-        bookmarkButton.style.borderRadius = "5px";
-
-        //   Append the button to the section
-        shareElement.insertAdjacentElement("beforeend", bookmarkButton);
-
-//         'beforebegin': Before the targetElement itself.
-// 'afterbegin': Just inside the targetElement, before its first child.
-// 'beforeend': Just inside the targetElement, after its last child.
-// 'afterend': After the targetElement itself.
 
       }
   }
@@ -704,9 +728,3 @@ function convertToReviewLink(professorLink) {
         throw new Error("Invalid professor link");
     }
 }
-
-// Example usage:
-const professorLink = "https://www.ratemyprofessors.com/professor/1705832";
-const reviewLink = convertToReviewLink(professorLink);
-console.log(reviewLink); // Output: https://www.ratemyprofessors.com/add/professor-rating/1705832
-

@@ -156,7 +156,6 @@ async function processCourseNames() {
   const findCourseNames = document.getElementsByClassName("title-subjectcode");
   if (findCourseNames.length === 0) {
       console.log("No course names found");
-
   } else {
       for (let i = 0; i < findCourseNames.length; i++) {
           // Split coursename at space. element before space is course subject
@@ -277,11 +276,30 @@ async function processCourseNames() {
               const classSection = findCourseNames[i].parentNode;
               classSection.insertAdjacentElement("afterend", classInfoText);
           }
+
+        //   Bookmarking logic
+        const parentSubjectItem = findCourseNames[i].parentNode;
+        //   find the child element with class name share
+        const shareElement = parentSubjectItem.querySelector(".share");
+        //   create a new button element that is going to be placed before share
+        const bookmarkButton = document.createElement("button");
+        bookmarkButton.textContent = "BK";
+        bookmarkButton.style.backgroundColor = "blue";
+        bookmarkButton.style.color = "white";
+        bookmarkButton.style.border = "none";
+        bookmarkButton.style.borderRadius = "5px";
+
+        //   Append the button to the section
+        shareElement.insertAdjacentElement("beforeend", bookmarkButton);
+
+//         'beforebegin': Before the targetElement itself.
+// 'afterbegin': Just inside the targetElement, before its first child.
+// 'beforeend': Just inside the targetElement, after its last child.
+// 'afterend': After the targetElement itself.
+
       }
   }
 }
-
-
 
 function toggleCourseSections() {
   // Toggle Sections

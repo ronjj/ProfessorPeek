@@ -95,7 +95,6 @@ async function getStaffNames() {
                                 rmp_leave_review.target = "_blank"; 
                                 br.insertAdjacentElement("afterend", rmp_leave_review);
                               }
-                            //   ------------------
                             }
                         }
                   }
@@ -106,8 +105,6 @@ async function getStaffNames() {
       }
   }
 }
-
-
 
 // Function To Get CUReviews Information For A Course
 async function getCUReviewsInfo(subject, courseNumber) {

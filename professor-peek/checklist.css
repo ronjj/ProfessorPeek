@@ -1,0 +1,50 @@
+.checklist-container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: calc(100% - 22px);
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
+  li.completed span {
+    text-decoration: line-through;
+    color: grey;
+  }
+  
+  li button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  li button:hover {
+    background-color: darkred;
+  }
+  

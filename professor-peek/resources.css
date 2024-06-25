@@ -1,0 +1,82 @@
+  
+  .button-link, p {
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for the button container */
+  .buttons-container {
+    display: flex;  /* Use flexbox to layout children */
+    justify-content: center;  /* Center the buttons horizontally */
+    align-items: stretch;  /* Align the buttons vertically to the middle */
+    width: 100%;  /* Take the full width of its parent */
+    margin: 10px 0;  /* Margin for spacing around the container */
+  }
+  
+  /* Styling for individual buttons */
+  .button-link {
+    display: inline-block;  /* Inline-block for better control over spacing */
+    padding: 10px 20px;  /* Padding inside each button */
+    margin: 0 10px;  /* Space between buttons */
+    background-color: #007BFF;  /* Background color */
+    color: white;  /* Text color */
+    text-decoration: none;  /* No underline */
+    border-radius: 5px;  /* Rounded corners */
+    text-align: center;  /* Center the text inside */
+    font-family: Arial, sans-serif;  /* Font style */
+    font-size: 16px;  /* Font size */
+    transition: background-color 0.3s;  /* Smooth transition for hover effect */
+    cursor: pointer;  /* Pointer cursor on hover */
+  }
+  
+  .button-link:hover {
+    background-color: #0056b3;  /* Darker blue on hover */
+  }
+  
+  /* Styling for the resources container */
+  .resources-container {
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .resources-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .sub-header {
+    margin-bottom: 20px;
+  }
+  
+  .sub-header h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .sub-header ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sub-header ul li {
+    margin-bottom: 5px;
+  }
+  
+  .sub-header ul li a {
+    text-decoration: none;
+    color: #007BFF;
+    transition: color 0.3s;
+  }
+  
+  .sub-header ul li a:hover {
+    color: #0056b3;
+  }
+  
+  footer {
+    align-self: stretch;
+    text-align: center;
+    margin-top: auto;
+    font-size: 0.75rem;
+    color: #666;
+  }
+  

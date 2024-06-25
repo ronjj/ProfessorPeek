@@ -4,7 +4,7 @@ export const config: PlasmoCSConfig = {
   matches: ["https://classes.cornell.edu/browse/roster/*", "https://classes.cornell.edu/search/roster/*"]
 }
 
-async function getRateMyProfessorScore(professorLastName, professorFirstName) {
+export async function getRateMyProfessorScore(professorLastName, professorFirstName) {
     const response = await fetch(`https://professorpeek.onrender.com/${professorLastName}/${professorFirstName}`, {
   //   const response = await fetch(`http://127.0.0.1:5000/${professorLastName}/${professorFirstName}`, {
   
@@ -19,7 +19,7 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
   }
   
   // Get Staff Names
-  async function getStaffNames() {
+  export async function getStaffNames() {
     const findMeetingPatterns = document.getElementsByClassName("meeting-pattern");
     if (findMeetingPatterns.length === 0) {
     } else {
@@ -113,7 +113,7 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
   }
   
   // Function To Get CUReviews Information For A Course
-  async function getCUReviewsInfo(subject, courseNumber) {
+export async function getCUReviewsInfo(subject, courseNumber) {
     const response = await fetch(`https://www.cureviews.org/api/getCourseByInfo`, {
         method: "POST",
         body: JSON.stringify({
@@ -150,7 +150,7 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
   }
   
   // Get Course Names, Get CUReviews Info, Add Data to Page
-  async function processCourseNames() {
+export async function processCourseNames() {
       const downgradedCourses = new Map([
           ['CS 3700', '4700'],
           ['CS 3780', '4780'],
@@ -287,7 +287,7 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
     }
   }
   
-  
+
   
   function toggleCourseSections() {
     // Toggle Sections
@@ -485,6 +485,7 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
               getStaffNames();
               backToTop();
               toggleCourseSections();
+              makeFilter();
           }
           else {
               setTimeout(() => watchForClassListing(), 1000);
@@ -494,192 +495,184 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
   
   watchForClassListing();
   
+  async function makeFilter() {
+    
+    // Making filter section
+    const classListing = document.querySelector('div.class-listing');
+    if (classListing === null)  {
+        console.log("No class listing found");
+    } else {
+        console.log("Class listing found");
+    }
+    
+    // Create a paragraph to display the chosen option or default message
+    const displayStatus = document.createElement("p");
+    displayStatus.textContent = "Select A Filter Type"; // Default text
+    displayStatus.className = "selectedOption"
+    
+    classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
+    
+    // Create the button that will toggle the dropdown
+    const toggleButton = document.createElement("button");
+    toggleButton.textContent = "Select Filter Type"; // Set the button text
+    classListing.appendChild(toggleButton); // Append the button to the body or another container element
+    
+    // Create the dropdown menu container
+    const dropdownMenu = document.createElement("div");
+    dropdownMenu.style.display = "none"; // Initially hide the dropdown
+    dropdownMenu.style.position = "absolute"; // Position it below the button (adjust as needed)
+    dropdownMenu.style.border = "1px solid #ccc";
+    dropdownMenu.style.backgroundColor = "#fff";
+    dropdownMenu.style.padding = "5px";
+    dropdownMenu.style.zIndex = "1"; // Ensure it's above other elements
+    dropdownMenu.style.margin = "5px";
+    
+    // Create options for the dropdown
+    const optionAfter = document.createElement("div");
+    optionAfter.textContent = "After";
+    optionAfter.style.padding = "10px";
+    optionAfter.style.cursor = "pointer";
+    
+    const optionBefore = document.createElement("div");
+    optionBefore.textContent = "Before";
+    optionBefore.style.padding = "10px";
+    optionBefore.style.cursor = "pointer";
+    
+    // Create the 'In Between' option for the dropdown
+    const optionInBetween = document.createElement("div");
+    optionInBetween.textContent = "In Between";
+    optionInBetween.style.padding = "10px";
+    optionInBetween.style.cursor = "pointer";
+    
+    // Add options to the dropdown menu
+    dropdownMenu.appendChild(optionAfter);
+    dropdownMenu.appendChild(optionBefore);
+    dropdownMenu.appendChild(optionInBetween);
+    
+    // Append the dropdown menu to the body
+    classListing.appendChild(dropdownMenu);
+    
+    // Function to toggle dropdown visibility
+    function toggleDropdown() {
+        if (dropdownMenu.style.display === "none") {
+            dropdownMenu.style.display = "block";
+            toggleButton.textContent = "Select Filter Type"; // Reset the button text when opening the dropdown
+        } else {
+            dropdownMenu.style.display = "none";
+        }
+    }
+    
+    // Event listener to open/close the dropdown when the button is clicked
+    toggleButton.addEventListener("click", function() {
+        toggleDropdown();
+        if (dropdownMenu.style.display === "block") {
+            displayStatus.textContent = "Select an option"; // Reset to default when opening the dropdown
+        }
+    });
+    
+    [optionAfter, optionBefore, optionInBetween].forEach(option => {
+        option.addEventListener("click", function() {
+            applyFilterButton.style.display = "inline";
+    
+            // Set the text of the toggleButton to the current selection
+            toggleButton.textContent = this.textContent;
+            // Adjust visibility of the end time dropdown based on the selection
+            endTimeDropdown.style.display = this.textContent === "In Between" ? "inline" : "none";
+            // Hide the dropdown menu after selection
+            dropdownMenu.style.display = "none";
+            // Display the selected filter type
+            displayStatus.textContent = `Filter type selected: ${this.textContent}`;
+            displayStatus.className = "selectedOption"; // Set class name for selected option
+        });
+    });
+    // Event to hide the dropdown and reset display when clicking outside
+    document.addEventListener("click", function(event) {
+        if (!dropdownMenu.contains(event.target) && !toggleButton.contains(event.target)) {
+            dropdownMenu.style.display = "none";
+            // Check if a selection has been made or reset to default
+            if (toggleButton.textContent === "Select Filter Type") {
+                displayStatus.textContent = "No option selected";
+                applyFilterButton.style.display = "none"; // Disable the button if no option is selected
+            }
+        }
+    });
+    
   
-  // Making filter section
-  const classListing = document.querySelector('div.class-listing');
-  if (classListing === null)  {
-      console.log("No class listing found");
-  } else {
-      console.log("Class listing found");
+    
+    const timeOptions = createTimeOptions();
+    const startTimeDropdown = document.createElement("select");
+    const endTimeDropdown = document.createElement("select");
+    
+    timeOptions.forEach(time => {
+        const startOption = document.createElement("option");
+        startOption.value = startOption.textContent = time;
+        startTimeDropdown.appendChild(startOption);
+    
+        const endOption = document.createElement("option");
+        endOption.value = endOption.textContent = time;
+        endTimeDropdown.appendChild(endOption);
+    });
+    
+    startTimeDropdown.style.margin = "5px";
+    endTimeDropdown.style.margin = "5px";
+    
+    const applyFilterButton = document.createElement("button");
+    applyFilterButton.textContent = "Apply Filter";
+    applyFilterButton.style.display = "none";  // Initially disable the button
+    applyFilterButton.style.margin = "5px";
+    
+    const resetButton = document.createElement("button");
+    resetButton.textContent = "Reset";
+    resetButton.style.margin = "5px";
+    
+    
+    applyFilterButton.addEventListener("click", function() {
+        const selectedOption = document.querySelector('.selectedOption').textContent.toLowerCase(); // Assuming you set a class 'selectedOption' to the selected text div
+        const selectedOptionText = selectedOption.split(":")[1].replace(/\s+/g, '');
+        let selectedTime = startTimeDropdown.value; // Assuming you want to use the start time dropdown for this purpose
+        // remove the space between the time and am in selectedTime
+        selectedTime = selectedTime.replace(" ", "");
+        console.log("select option", selectedOptionText, "selected time:", selectedTime);
+    
+        if (selectedOptionText === "inbetween") {
+            const endTime = endTimeDropdown.value;
+            let startTimeMinutes = parseTime(selectedTime);
+            let endTimeMinutes = parseTime(endTime);
+    
+            // 
+            if (endTimeMinutes <= startTimeMinutes) {
+                // alert user that end time must be after start time
+                alert("End time must be after start time");
+                return; // Stop further execution to prevent applying the filter
+            }
+            applyClassFilter(selectedOptionText, selectedTime, endTime);
+        } else {
+            applyClassFilter(selectedOptionText, selectedTime);
+        }
+    });
+    
+    resetButton.addEventListener("click", function() {
+        resetFiltering();
+        
+    });
+    classListing.appendChild(displayStatus);      // Add the status display to the DOM
+    classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
+    classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
+    classListing.appendChild(startTimeDropdown);   // Add the start time dropdown to the DOM
+    classListing.appendChild(endTimeDropdown);     // Add the end time dropdown to the DOM
+    classListing.appendChild(applyFilterButton);
+    classListing.appendChild(resetButton);
+    
+    
+    classListing.insertAdjacentElement("beforebegin", displayStatus);
+    classListing.insertAdjacentElement("beforebegin", dropdownMenu);
+    classListing.insertAdjacentElement("beforebegin", toggleButton);
+    classListing.insertAdjacentElement("beforebegin", startTimeDropdown);
+    classListing.insertAdjacentElement("beforebegin", endTimeDropdown);
+    classListing.insertAdjacentElement("beforebegin", applyFilterButton);
+    classListing.insertAdjacentElement("beforebegin", resetButton);
   }
-  
-  // Create a paragraph to display the chosen option or default message
-  const displayStatus = document.createElement("p");
-  displayStatus.textContent = "Select A Filter Type"; // Default text
-  displayStatus.className = "selectedOption"
-  
-  classListing.appendChild(displayStatus); // Append the display element to the same container as the dropdown
-  
-  // Create the button that will toggle the dropdown
-  const toggleButton = document.createElement("button");
-  toggleButton.textContent = "Select Filter Type"; // Set the button text
-  classListing.appendChild(toggleButton); // Append the button to the body or another container element
-  
-  // Create the dropdown menu container
-  const dropdownMenu = document.createElement("div");
-  dropdownMenu.style.display = "none"; // Initially hide the dropdown
-  dropdownMenu.style.position = "absolute"; // Position it below the button (adjust as needed)
-  dropdownMenu.style.border = "1px solid #ccc";
-  dropdownMenu.style.backgroundColor = "#fff";
-  dropdownMenu.style.padding = "5px";
-  dropdownMenu.style.zIndex = "1"; // Ensure it's above other elements
-  dropdownMenu.style.margin = "5px";
-  
-  // Create options for the dropdown
-  const optionAfter = document.createElement("div");
-  optionAfter.textContent = "After";
-  optionAfter.style.padding = "10px";
-  optionAfter.style.cursor = "pointer";
-  
-  const optionBefore = document.createElement("div");
-  optionBefore.textContent = "Before";
-  optionBefore.style.padding = "10px";
-  optionBefore.style.cursor = "pointer";
-  
-  // Create the 'In Between' option for the dropdown
-  const optionInBetween = document.createElement("div");
-  optionInBetween.textContent = "In Between";
-  optionInBetween.style.padding = "10px";
-  optionInBetween.style.cursor = "pointer";
-  
-  // Add options to the dropdown menu
-  dropdownMenu.appendChild(optionAfter);
-  dropdownMenu.appendChild(optionBefore);
-  dropdownMenu.appendChild(optionInBetween);
-  
-  // Append the dropdown menu to the body
-  classListing.appendChild(dropdownMenu);
-  
-  // Function to toggle dropdown visibility
-  function toggleDropdown() {
-      if (dropdownMenu.style.display === "none") {
-          dropdownMenu.style.display = "block";
-          toggleButton.textContent = "Select Filter Type"; // Reset the button text when opening the dropdown
-      } else {
-          dropdownMenu.style.display = "none";
-      }
-  }
-  
-  // Event listener to open/close the dropdown when the button is clicked
-  toggleButton.addEventListener("click", function() {
-      toggleDropdown();
-      if (dropdownMenu.style.display === "block") {
-          displayStatus.textContent = "Select an option"; // Reset to default when opening the dropdown
-      }
-  });
-  
-  [optionAfter, optionBefore, optionInBetween].forEach(option => {
-      option.addEventListener("click", function() {
-          applyFilterButton.style.display = "inline";
-  
-          // Set the text of the toggleButton to the current selection
-          toggleButton.textContent = this.textContent;
-          // Adjust visibility of the end time dropdown based on the selection
-          endTimeDropdown.style.display = this.textContent === "In Between" ? "inline" : "none";
-          // Hide the dropdown menu after selection
-          dropdownMenu.style.display = "none";
-          // Display the selected filter type
-          displayStatus.textContent = `Filter type selected: ${this.textContent}`;
-          displayStatus.className = "selectedOption"; // Set class name for selected option
-      });
-  });
-  // Event to hide the dropdown and reset display when clicking outside
-  document.addEventListener("click", function(event) {
-      if (!dropdownMenu.contains(event.target) && !toggleButton.contains(event.target)) {
-          dropdownMenu.style.display = "none";
-          // Check if a selection has been made or reset to default
-          if (toggleButton.textContent === "Select Filter Type") {
-              displayStatus.textContent = "No option selected";
-              applyFilterButton.style.display = "none"; // Disable the button if no option is selected
-          }
-      }
-  });
-  
-  // ------ code for time dropdowns
-  function createTimeOptions() {
-      const times = [];
-      for (let hour = 8; hour <= 21; hour++) {  // 8 AM to 9 PM
-          for (let minute = 0; minute < 60; minute += 10) {
-              const time = `${hour % 12 === 0 ? 12 : hour % 12}:${minute.toString().padStart(2, '0')} ${hour < 12 ? 'AM' : 'PM'}`;
-              times.push(time);
-          }
-      }
-      return times;
-  }
-  
-  const timeOptions = createTimeOptions();
-  const startTimeDropdown = document.createElement("select");
-  const endTimeDropdown = document.createElement("select");
-  
-  timeOptions.forEach(time => {
-      const startOption = document.createElement("option");
-      startOption.value = startOption.textContent = time;
-      startTimeDropdown.appendChild(startOption);
-  
-      const endOption = document.createElement("option");
-      endOption.value = endOption.textContent = time;
-      endTimeDropdown.appendChild(endOption);
-  });
-  
-  startTimeDropdown.style.margin = "5px";
-  endTimeDropdown.style.margin = "5px";
-  
-  const applyFilterButton = document.createElement("button");
-  applyFilterButton.textContent = "Apply Filter";
-  applyFilterButton.style.display = "none";  // Initially disable the button
-  applyFilterButton.style.margin = "5px";
-  
-  const resetButton = document.createElement("button");
-  resetButton.textContent = "Reset Button";
-  resetButton.style.margin = "5px";
-  
-  
-  applyFilterButton.addEventListener("click", function() {
-      const selectedOption = document.querySelector('.selectedOption').textContent.toLowerCase(); // Assuming you set a class 'selectedOption' to the selected text div
-      const selectedOptionText = selectedOption.split(":")[1].replace(/\s+/g, '');
-      let selectedTime = startTimeDropdown.value; // Assuming you want to use the start time dropdown for this purpose
-      // remove the space between the time and am in selectedTime
-      selectedTime = selectedTime.replace(" ", "");
-      console.log("select option", selectedOptionText, "selected time:", selectedTime);
-  
-      if (selectedOptionText === "inbetween") {
-          const endTime = endTimeDropdown.value;
-          let startTimeMinutes = parseTime(selectedTime);
-          let endTimeMinutes = parseTime(endTime);
-  
-          // 
-          if (endTimeMinutes <= startTimeMinutes) {
-              // alert user that end time must be after start time
-              alert("End time must be after start time");
-              return; // Stop further execution to prevent applying the filter
-          }
-          applyClassFilter(selectedOptionText, selectedTime, endTime);
-      } else {
-          applyClassFilter(selectedOptionText, selectedTime);
-      }
-  });
-  
-  resetButton.addEventListener("click", function() {
-      resetFiltering();
-      
-  });
-  
-  classListing.appendChild(displayStatus);      // Add the status display to the DOM
-  classListing.appendChild(toggleButton);        // Add the toggle button to the DOM
-  classListing.appendChild(dropdownMenu);       // Add the dropdown menu to the DOM
-  classListing.appendChild(startTimeDropdown);   // Add the start time dropdown to the DOM
-  classListing.appendChild(endTimeDropdown);     // Add the end time dropdown to the DOM
-  classListing.appendChild(applyFilterButton);
-  classListing.appendChild(resetButton);
-  
-  
-  classListing.insertAdjacentElement("beforebegin", displayStatus);
-  classListing.insertAdjacentElement("beforebegin", dropdownMenu);
-  classListing.insertAdjacentElement("beforebegin", toggleButton);
-  classListing.insertAdjacentElement("beforebegin", startTimeDropdown);
-  classListing.insertAdjacentElement("beforebegin", endTimeDropdown);
-  classListing.insertAdjacentElement("beforebegin", applyFilterButton);
-  classListing.insertAdjacentElement("beforebegin", resetButton);
+
   
   
   function convertToReviewLink(professorLink) {
@@ -692,12 +685,18 @@ async function getRateMyProfessorScore(professorLastName, professorFirstName) {
           throw new Error("Invalid professor link");
       }
   }
-  
-  // Example usage:
-  const professorLink = "https://www.ratemyprofessors.com/professor/1705832";
-  const reviewLink = convertToReviewLink(professorLink);
-  console.log(reviewLink); // Output: https://www.ratemyprofessors.com/add/professor-rating/1705832
-  
+    // ------ code for time dropdowns
+    function createTimeOptions() {
+        const times = [];
+        for (let hour = 8; hour <= 21; hour++) {  // 8 AM to 9 PM
+            for (let minute = 0; minute < 60; minute += 10) {
+                const time = `${hour % 12 === 0 ? 12 : hour % 12}:${minute.toString().padStart(2, '0')} ${hour < 12 ? 'AM' : 'PM'}`;
+                times.push(time);
+            }
+        }
+        return times;
+    }
+    
   function colorText(number, isInverted) {
     //   If inverted, low numbers are good and high numbers are bad
       if (isInverted) {

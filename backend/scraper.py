@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 # Scraper For Getting Courses From Cornell Course Catalog
 
+# Get all subject codes from main course roster page
 def getSubjectCodes():
     URL = "https://classes.cornell.edu/browse/roster/FA24"
     page = requests.get(URL)
@@ -15,11 +16,22 @@ def getSubjectCodes():
 
     return a_tags_text
 
-print(getSubjectCodes())
+def getCoursesForSubject(subject):
+    URL = f"https://classes.cornell.edu/browse/roster/FA24/subject/{subject}"
+    page = requests.get(URL)
+    soup = BeautifulSoup(page.content, "html.parser")
 
+    classes = []
+    nodes = soup.find_all('div', class_='node')
+    for node in nodes:
+        try:
+            title = node.find('div', class_='title-subjectcode').text.strip()
+            description = node.find('p', class_='course-descr').text.strip()
+            classes.append({'title': title, 'description': description})
+        except:
+            continue
 
+    return classes
 
-
-
-
+print(getCoursesForSubject('CS'))
 

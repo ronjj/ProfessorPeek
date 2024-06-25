@@ -1,0 +1,52 @@
+Code: ALS 1110
+Title: Introduction to Digital Agriculture
+Description: The goal of this course is to expose students to the breadth and diversity of applications of digital tools in modern agriculture with special emphasis on food production systems. We will explore and discuss the main drivers of the digital transformation in agriculture at a local and global scale. Special emphasis will be placed on the integration of basic concepts of systems biology, data science, and engineering. The socio-economic implications of deployment and utilization of digital tools will be covered. Examples of development, deployment, and post-implementation assessment of digital tools for improving the sustainability of plant and animal food production systems will be discussed. Ultimately, students will recognize the need for interdisciplinary efforts to propel the digital transformation of food production agriculture while benefiting society and the planet.
+
+Code: ALS 1210
+Title: Data Democratization
+Description: Access to quality data and information is at the heart of an informed and engaged populace. However, the skills required to process and make sense of data have historically been disproportionately held by state and corporate actors who often possess more resources to collect, store and analyze data than everyday people. This is particularly true in the context of surveillance technology, where use of data collected from such means is not equitably distributed, or equally advantageous. Through a framework of data democratization, this class will equip students with the skills needed to critically interrogate and use authentic data from a variety of open data sources to inform their personal decisions, including civic engagement and issue advocacy.
+
+Code: ALS 2400
+Title: Developing a Reflective Tutoring Practice
+Description: This course provides tutors with an opportunity to reflect on and refine their own tutoring practice, in the context of literature and theory about peer teaching and learning in an inclusive environment. Participants complete readings, participate in group discussions with hands-on practice and role-playing, conduct peer observations and debrief about those observations, and practice reflective journaling. Most sessions include discussion or sharing of e-Portfolios. Topics discussed in class include developing an active, student-centered tutoring practice, fostering a growth mindset and enhancing resilience in tutors and tutees, managing the unexpected, problem-solving, leading groups, and communicating productively across difference.
+
+Code: ALS 4970
+Title: Independent Study in Agriculture and Life Sciences
+Description: Independent study for undergraduate students.
+
+Code: ALS 4990
+Title: Undergraduate Research in Agriculture and Life Sciences
+Description: Independent research for undergraduate students.
+
+Code: ALS 4998
+Title: Engaged Learning About Policy Making in Washington D.C.
+Description: The core course at Cornell in Washington is an experiential learning class that focuses on engaging with the professional experience of being in DC. Its primary purposes are to give students to build their understanding of their internship work by analyzing and reflecting on that work, understanding the context and structures of the policy and political world with which they are engaging, and learning and practicing the professional forms of writing that that world uses. This process occurs through readings, written assignments, guest speakers, and signature events.
+
+Code: ALS 5211
+Title: Career Readiness: Engaged Learning for CALS Professional Master's Students
+Description: This course will provide CALS professional master's students with career readiness, an integral part of achieving success upon degree completion. Career readiness can be defined as the attainment and demonstration of competencies that broadly prepare graduates for a successful career transition. This course will be taught with the Engaged Learning framework, which will give students the opportunity to integrate professional development skills into career and life experiences.
+
+Code: ALS 5780
+Title: International Teaching Assistant Program Course
+Description: The International Teaching Assistant Program's (ITAP) foundational course, ALS 5780, provides an opportunity for multilingual graduate students to develop the oral communication skills necessary to be successful in their graduate programs, with emphasis on the skills they may need for teaching in the Cornell classroom. Through weekly classes, conferences with instructors, peer feedback and weekly assignments, students will work on advancing their oral English comprehensibility, pronunciation accuracy and improve their impromptu speaking skills. This course is designed for those working towards meeting the Language Proficiency requirement for teaching at Cornell University.
+
+Code: ALS 5790
+Title: International Teaching Assistant Development Program Course II
+Description: The International Teaching Assistant Program (ITAP) supports all multilingual graduate students who are currently teaching or plan to teach in the future. Designed as a follow-up to ITAP's foundational course, this course involves highly interactive seminars, consultations with the instructor, and the development of a personalized set of language priorities to help students expand their spoken English proficiency.
+
+Code: ALS 5800
+Title: International Teaching Assistant Program: Directed Study
+Description: The International Teaching Assistant Program's Directed Study course, ALS 5800, is designed for multilingual graduate students working toward meeting the Language Proficiency requirement for teaching at Cornell University. Through regular interaction with the instructor, participants will set goals and develop a personal plan of study to advance their English oral communication skills.
+
+Code: ALS 5900
+Title: Project Development: CALS Professional Master's Programs
+Description: This course is the first in a sequence of two courses: ALS 5900, ALS 5910. Professional Master's students enrolled in this course will work with their advisor on the initial development of a final project to fulfill the requirements of their degree. This project may be an action program, the development of a plan to address a pertinent problem, the development of materials or methodology suited to the student's situation, or the development and execution of research appropriate to the profession. The project highlights the integration of coursework and skills acquired during the degree program.
+
+Code: ALS 5910
+Title: Project Completion: CALS Professional Master's Programs
+Description: This course is the last in a sequence of two courses: ALS 5900, ALS 5910. Professional Master's students enrolled in this course will work with their advisor to finalize a project in fulfillment of the requirements of their degree. The student will analyze and summarize the results of their work. The successful completion of this course indicates the degree project has been finished, reviewed, and approved by the student's field.
+
+Code: ALS 6014
+Title: Theater Techniques for Enhancing Teaching and Public Speaking
+Description: This seven-week course uses theater techniques to help graduate students enhance their classroom teaching and public speaking in both formal and informal environments. Using the storytelling and character-development techniques of theatrical improvisation, participants will build decision-making skills and their ability to think creatively under pressure through engaging exercises. The goals for this course are to enhance teaching presence in the classroom, form a learning community, and build the confidence necessary to connect with a variety of audiences in a range of educational settings. Participants will design and present a short lesson or talk.
+

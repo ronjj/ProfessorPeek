@@ -1,0 +1,16 @@
+Code: AS 1102
+Title: AS Advising Seminar
+Description: A course for students new to Cornell centered on interacting with their faculty advisor and other students in a small-group setting. Through exercises and/or short assignments, students will build awareness of resources to help them navigate their new environment. The seminar will facilitate a sense of community and identity as an A&S student and provide a forum for faculty advisors to actively engage with their advisees throughout the first semester. Students will also have opportunities to attend workshops on a range of topics, including career development, building study skills, navigating the academic landscape, special academic programs, and thriving at Cornell.
+
+Code: AS 3112
+Title: Milstein Independent Study
+Description: Independent study course for Milstein Program students.
+
+Code: AS 3113
+Title: Milstein Studio
+Description: MStudio brings world-class speakers, faculty innovators, leading industry voices, and extraordinary Cornell alums to campus for public talks and conversations on tech and humanities as well as special immersive skills-based "short courses".
+
+Code: AS 3200
+Title: Milstein Junior Project
+Description: Milstein Scholars undertake a year-long, independent study to deepen their understanding of the issues, topics, and technologies that interest them. What form these projects take -- research essay, video art, app development, etc. -- is up to the Scholar and their collaborators. Working with a faculty mentor in the field, juniors define and scope their projects in the fall and execute in the spring semester. This course culminates with the Milstein Expo in May.
+

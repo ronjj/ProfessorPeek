@@ -1,0 +1,124 @@
+Code: ARKEO 1200
+Title: Ancient Peoples and Places
+Description: A broad introduction to archaeology-the study of material remains to answer questions about the human past. Case studies highlight the variability of ancient societies and illustrate the varied methods and interpretive frameworks archaeologists use to reconstruct them. This course can serve as a platform for both archaeology and anthropology undergraduate majors.
+
+Code: ARKEO 1702
+Title: Great Discoveries in Greek and Roman Archaeology
+Description: This introductory course surveys the archaeology of the ancient Greek and Roman world. Each week, we will explore a different archaeological discovery that transformed scholars' understanding of the ancient world. From early excavations at sites such as Pompeii and Troy, to modern field projects across the Mediterranean, we will discover the rich cultures of ancient Greece and Rome while also exploring the history, methods, and major intellectual goals of archaeology.
+
+Code: ARKEO 2235
+Title: Archaeology of Indigenous North America
+Description: This introductory course surveys archaeology's contributions to the study of American Indian cultural diversity and change in North America north of Mexico. Lectures and readings will examine topics ranging from the debate over when the continent was first inhabited to present-day conflicts between Native Americans and archaeologists over excavation and the interpretation of the past. We will review important archaeological sites such as Chaco Canyon, Cahokia, Lamoka Lake, and the Little Bighorn battlefield. A principal focus will be on major transformations in lifeways such as the adoption of agriculture, the development of political-economic hierarchies, and the disruptions that accompanied the arrival of Europeans to the continent.
+
+Code: ARKEO 2522
+Title: Drinking through the Ages: Intoxicating Beverages in Near Eastern and World History
+Description: This course examines the production and exchange of wine, beer, coffee and tea, and the social and ideological dynamics involved in their consumption. We start in ancient Egypt and Mesopotamia, and end with tea and coffee in the Arab and Ottoman worlds. Archaeological and textual evidence will be used throughout to show the centrality of drinking in daily, ritual and political life.
+
+Code: ARKEO 3000
+Title: Undergraduate Independent Study in Archaeology and Related Fields
+Description: Undergraduate students pursue topics of particular interest under the guidance of a faculty member.
+
+Code: ARKEO 3010
+Title: The Archaeology of the City of Rome
+Description: This course tells the history of the Roman empire through the urban development of its capital from the early 1st millennium BCE to the advent of Christian emperors in the 4th century CE. What does the archeology reveal about how the geography and environment of this site, its society and political systems, military conquests, economy, infrastructure, resources, and technologies interacted to create the center of an empire? Special focus is on how the appropriation of other peoples and cultures shaped the metropolis itself. Did it manage to integrate individuals from Africa, the Near East, from North of the Alps and Britain, and if so, how? The history of excavations and the reception of the city's architecture in the 19th and 20th centuries will provide a critical lens for analyzing some of the master narratives associated with ancient Rome and its ruins.
+
+Code: ARKEO 3090
+Title: Introduction to Dendrochronology
+Description: Introduction and training in dendrochronology (tree-ring dating) and its applications in archaeology, art history, climate and environment through lab work and participation in ongoing research projects using ancient to modern wood samples from around the world. Supervised reading and laboratory/project work. Possibilities exists for summer fieldwork in the Mediterranean, Mexico, and New York State.
+
+Code: ARKEO 3200
+Title: Heritage Forensics
+Description: This course provides students with an orientation to the new technologies reshaping the effort to preserve cultural heritage. The course introduces students to the tools that Geographic Information Systems (GIS) and remote sensing (especially aerial and satellite imaging) provide for advancing heritage preservation and detecting cultural erasure. Our focus will be on contexts where heritage has emerged as a site of conflict, from Bosnia to Syria to Ukraine. Students will develop proficiency in a range of spatial technologies and their application to the human past. The course will culminate in projects that use new technologies to save heritage at risk.
+
+Code: ARKEO 3230
+Title: Humans and Animals
+Description: Human-animal relationships are often seen in utilitarian, nutritional terms, particularly in archaeology. But animals and meat have significance far beyond their economic value. This course focuses on a broad range of these non-dietary roles of animals in human societies, past and present. This includes the fundamental shift in human-animal relations associated with domestication; the varied meanings of wild and domestic animals; as well as the importance of animals as wealth, as objects of sacrifice, as totems or metaphors for humans, and as symbols in art. Meat can be used in feasting and meat sharing to create, cement, and manipulate social relationships. This course is open to students of archaeology, cultural anthropology, and other disciplines with an interest in human-animal relations.
+
+Code: ARKEO 3520
+Title: Kingship and Statecraft in Asia: Angkor and Beyond
+Description: Kingship plays an outsize role in Asian countries today, in both democratic and authoritarian countries. Even in countries that abolished the monarchy, the legacy of kingship is very much at play. In this course we will study Asia's kingdoms, states, and empires, with attention to both tradition and present-day modern states. Focusing on kingship as both ideology and practice, we will study how states and monarchic traditions first came to be, including as Stranger-Kings, Buddhist monarchs, secondary state formation, local adaptations of foreign models, and more. We will examine examples such as China, from the ancient states and early empires to the legacy of empire there today; Cambodia and its Angkor empire modeled on Indian traditions; as well as Burma, Thailand, Japan, and other parts of Asia. Using readings, films, lectures and guest presentations, we will re-examine the role of kingship in Asia so as to enable a new understanding of both ancient, historical, and contemporary Asia.
+
+Code: ARKEO 4200
+Title: Field Methods in Community-Engaged Archaeology
+Description: Community-engaged archaeology brings together knowledgeable communities located within and beyond academic institutions who collaborate to produce higher-quality accounts of the past. In this course, students will build their archaeological fieldwork and laboratory skills while contributing to strong university-community relationships in the local area. Drawing on historical documents, previous scholarship, expert collaborators, and archaeological investigation, students in this course contribute to the understanding of regional sites and landmarks. The topic for Fall 2022 addresses the Underground Railroad through a partnership between Ithaca's historic St. James AME Church, the Cornell Institute of Archaeology and Material Studies, and local schools. Students in this course will study archaeological evidence related to the everyday experiences of people who formed part of a congregation active in the Underground Railroad during the early- to mid-19th century.
+
+Code: ARKEO 4233
+Title: Greek and Roman Art and Archaeology
+Description: Topics Rotate. Fall 2024 topic: Funerary Culture in the Greco-Roman East. Tombs, grave goods, and funerary rituals are often thought to offer traces into the world of the living (the tomb as a house being a prominent metaphor), their concepts of the body, or their emotions. How, if at all, did such traditions change under imperial rule? Focusing on the Greek and Roman East means to zoom in to areas such as Greece, Anatolia, the Levant to the Middle East, or Egypt that feature century- if not millennia-old traditions which, if at all, transformed to different degrees under Roman rule. This seminar investigates opportunities and challenges of researching such constellations. Analysis of different traditions of scholarship that to this day shape our records will be critical, as well as discussion of scientific (and contested) methodologies of how to deal with human remains.
+
+Code: ARKEO 4246
+Title: Human Osteology
+Description: This is an intensive laboratory course in the study of human skeletal remains. A detailed knowledge of skeletal anatomy is fundamental to forensic anthropology, bioarchaeology, and the medical sciences. This course teaches students how to identify all 206 bones and 32 teeth of the human skeleton, in both complete and fragmentary states. Students will also learn osteological methods for establishing a biological profile and documenting skeletal trauma and pathological lesions. Hands-on laboratory training will be supplemented by case studies that demonstrate the importance of human osteology for criminal investigations in the present and the study of health and violence in the past. The ethics of working with human remains are also discussed.
+
+Code: ARKEO 4256
+Title: Time and History in Ancient Mexico
+Description: An introduction to belief systems in ancient Mexico and Central America, emphasizing the blending of religion, astrology, myth, history, and prophecy. Interpreting text and image in pre-Columbian books and inscriptions is a major focus.
+
+Code: ARKEO 4272
+Title: Archaeology of Colonialism and Cultural Entanglement
+Description: This seminar uses archaeology to examine engagements between settlers and indigenous peoples throughout world history. Archaeology provides a perspective on settler-indigenous encounters that both supplements and challenges conventional models.  We will assess the strengths and weaknesses of various theories of cultural engagement, examine methodologies, and explore a series of archaeological case studies, using examples from both the ancient world and the European expansion over the past 600 years. The seminar provides a comparative perspective on indigenous-colonial relationships, in particular exploring the hard-fought spaces of relative autonomy created and sustained by indigenous peoples.
+
+Code: ARKEO 4981
+Title: Honors Thesis Research
+Description: Independent work under the close guidance of a faculty member.
+
+Code: ARKEO 4982
+Title: Honors Thesis Write-Up
+Description: The student, under faculty direction, will prepare a senior thesis.
+
+Code: ARKEO 6000
+Title: Graduate Independent Study in Archaeology
+Description: Graduate students pursue advanced topics of particular interest under the guidance of faculty member(s).
+
+Code: ARKEO 6110
+Title: The Archeology of the City of Rome
+Description: This course tells the history of the Roman empire through the urban development of its capital from the early 1st millennium BCE to the advent of Christian emperors in the 4th century CE. What does the archeology reveal about how the geography and environment of this site, its society and political systems, military conquests, economy, infrastructure, resources, and technologies interacted to create the center of an empire? Special focus is on how the appropriation of other peoples and cultures shaped the metropolis itself. Did it manage to integrate individuals from Africa, the Near East, from North of the Alps and Britain, and if so, how? The history of excavations and the reception of the city's architecture in the 19th and 20th centuries will provide a critical lens for analyzing some of the master narratives associated with ancient Rome and its ruins.
+
+Code: ARKEO 6230
+Title: Humans and Animals
+Description: Human-animal relationships are often seen in utilitarian, nutritional terms, particularly in archaeology. But animals and meat have significance far beyond their economic value. This course focuses on a broad range of these non-dietary roles of animals in human societies, past and present. This includes the fundamental shift in human-animal relations associated with domestication; the varied meanings of wild and domestic animals; as well as the importance of animals as wealth, as objects of sacrifice, as totems or metaphors for humans, and as symbols in art. Meat can be used in feasting and meat sharing to create, cement, and manipulate social relationships. This course is open to students of archaeology, cultural anthropology, and other disciplines with an interest in human-animal relations.
+
+Code: ARKEO 6233
+Title: Greek and Roman Art and Archaeology
+Description: Topics Rotate. Fall 2024 topic: Funerary Culture in the Greco-Roman East. Tombs, grave goods, and funerary rituals are often thought to offer traces into the world of the living (the tomb as a house being a prominent metaphor), their concepts of the body, or their emotions. How, if at all, did such traditions change under imperial rule? Focusing on the Greek and Roman East means to zoom in to areas such as Greece, Anatolia, the Levant to the Middle East, or Egypt that feature century- if not millennia-old traditions which, if at all, transformed to different degrees under Roman rule. This seminar investigates opportunities and challenges of researching such constellations. Analysis of different traditions of scholarship that to this day shape our records will be critical, as well as discussion of scientific (and contested) methodologies of how to deal with human remains.
+
+Code: ARKEO 6530
+Title: Kingship and Statecraft in Asia: Angkor and Beyond
+Description: Kingship plays an outsize role in Asian countries today, in both democratic and authoritarian countries. Even in countries that abolished the monarchy, the legacy of kingship is very much at play. In this course we will study Asia's kingdoms, states, and empires, with attention to both tradition and present-day modern states. Focusing on kingship as both ideology and practice, we will study how states and monarchic traditions first came to be, including as Stranger-Kings, Buddhist monarchs, secondary state formation, local adaptations of foreign models, and more. We will examine examples such as China, from the ancient states and early empires to the legacy of empire there today; Cambodia and its Angkor empire modeled on Indian traditions; as well as Burma, Thailand, Japan, and other parts of Asia. Using readings, films, lectures and guest presentations, we will re-examine the role of kingship in Asia so as to enable a new understanding of both ancient, historical, and contemporary Asia.
+
+Code: ARKEO 6620
+Title: Perspectives on Preservation
+Description: Introduction to the theory, history, and practice of Historic Preservation Planning in America, with an emphasis on understanding the development and implementation of a preservation project. The course discusses projects ranging in scale and character from individual buildings to districts to cultural landscapes; as well as topics such as preservation economics, government regulations, significance and authenticity, and the politics of identifying and conserving cultural and natural resources.
+
+Code: ARKEO 6701
+Title: Advanced Readings in Archaeology
+Description: Introduction to core readings in Greek and Roman art and archaeology.
+
+Code: ARKEO 6755
+Title: Archaeological Dendrochronology
+Description: An introduction to the field of Dendrochronology and associated topics with an emphasis on their applications in the field of archaeology and related heritage-buildings fields. Course aimed at graduate level with a focus on critique of scholarship in the field and work on a project as part of the course.
+
+Code: ARKEO 7000
+Title: CIAMS Core Seminar in Archaeological Theory and Method
+Description: Archaeology studies the past through its material remains. In doing so, it builds on wide-ranging theories and methods to develop its own disciplinary toolbox. This graduate seminar explores this toolbox, treating a topic of broad theoretical and/or methodological interest such as emerging topics in archaeological thought, the history of archaeological theory, key archaeological methods, themes that tie archaeology to the wider domain of the humanities and social sciences, or some combination of the above. The seminar is taught by various members of the Archaeology faculty, each of whom offers their own version of the seminar. The seminar is required for incoming CIAMS M.A. students, and needed for CIAMS membership for Ph.D. students.
+
+Code: ARKEO 7200
+Title: Field Methods in Community-Engaged Archaeology
+Description: Community-engaged archaeology brings together knowledgeable communities located within and beyond academic institutions who collaborate to produce higher-quality accounts of the past. In this course, students will build their archaeological fieldwork and laboratory skills while contributing to strong university-community relationships in the local area. Drawing on historical documents, previous scholarship, expert collaborators, and archaeological investigation, students in this course contribute to the understanding of regional sites and landmarks. The topic for Fall 2022 addresses the Underground Railroad through a partnership between Ithaca's historic St. James AME Church, the Cornell Institute of Archaeology and Material Studies, and local schools. Students in this course will study archaeological evidence related to the everyday experiences of people who formed part of a congregation active in the Underground Railroad during the early- to mid-19th century.
+
+Code: ARKEO 7246
+Title: Human Osteology
+Description: This is an intensive laboratory course in the study of human skeletal remains. A detailed knowledge of skeletal anatomy is fundamental to forensic anthropology, bioarchaeology, and the medical sciences. This course teaches students how to identify all 206 bones and 32 teeth of the human skeleton, in both complete and fragmentary states. Students will also learn osteological methods for establishing a biological profile and documenting skeletal trauma and pathological lesions. Hands-on laboratory training will be supplemented by case studies that demonstrate the importance of human osteology for criminal investigations in the present and the study of health and violence in the past. The ethics of working with human remains are also discussed.
+
+Code: ARKEO 7250
+Title: Time and History in Ancient Mexico
+Description: Explores the ways Mesoamericans understood the world and their place in it, and the ways they constructed history as these are reflected in the few books that have survived from the period before the European invasion. Examines the structure of writing and systems of notation, especially calendars, and considers their potential for illuminating Mesoamerican world views and approaches to history. Primary focus is detailed analysis of five precolumbian books: Codex Borgia, a central Mexican manual of divinatory ritual; Codex Boturini, a history of migration in central Mexico; Codex Nuttall, a Mixtec dynastic history; and two Maya books of astrology and divination, Codex Dresden and Codex Madrid.
+
+Code: ARKEO 7272
+Title: Archaeology of Colonialism and Cultural Entanglement
+Description: This seminar uses archaeology to examine engagements between settlers and indigenous peoples throughout world history. Archaeology provides a perspective on settler-indigenous encounters that both supplements and challenges conventional models.  We will assess the strengths and weaknesses of various theories of cultural engagement, examine methodologies, and explore a series of archaeological case studies, using examples from both the ancient world and the European expansion over the past 600 years. The seminar provides a comparative perspective on indigenous-colonial relationships, in particular exploring the hard-fought spaces of relative autonomy created and sustained by indigenous peoples.
+
+Code: ARKEO 8901
+Title: Master's Thesis
+Description: Students, working individually with faculty member(s), prepare a master's thesis in archaeology.
+

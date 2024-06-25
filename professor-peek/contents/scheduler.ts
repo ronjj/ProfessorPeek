@@ -57,7 +57,7 @@ const courseRatingDict = {};
             } else {
                 try {
                     console.log(`Fetching course rating for ${courseSubject} ${courseNumber}`);
-                    let classInfo = await getCUReviewsInfo(courseSubject, courseNumber);
+                    classInfo = await getCUReviewsInfo(courseSubject, courseNumber);
                     if (classInfo[1] === null) {
                         courseRating = 0.0;
                     } else {
@@ -78,17 +78,17 @@ const courseRatingDict = {};
                   classInfoText.className = "class-info-text";
     
                 // Rating Text
-                courseElements[i].children[0].textContent = `${courseName} (${courseRating}/5) `
+                courseElements[i].children[0].textContent = `${courseName} (${courseRating.toFixed(2)}/5) `
     
                   //   Difficulty Text
                   const difficultyText = document.createElement('span');
-                  difficultyText.textContent = ` Diff: ${classInfo[0]}`;
+                  difficultyText.textContent = ` Diff: ${classInfo[0].toFixed(2)}`;
                   difficultyText.style.color = "white"
                   classInfoText.appendChild(difficultyText);
     
                   // Workload Text
                   const workloadText = document.createElement('span');
-                  workloadText.textContent = ` Workload: ${classInfo[2]}`;
+                  workloadText.textContent = ` Workload: ${classInfo[2].toFixed(2)}`;
                   workloadText.style.color = "white";
                   classInfoText.appendChild(workloadText);
                   courseElements[i].appendChild(classInfoText);

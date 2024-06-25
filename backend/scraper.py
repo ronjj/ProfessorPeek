@@ -70,7 +70,7 @@ def getCoursesForSubjectDetailed(subject, semester, create_text_file=False):
             # Get course details from the individual course page
             course_title = course_soup.find('div', class_='title-coursedescr').find('a').text.strip()
             course_description = course_soup.find('p', class_='catalog-descr').text.strip()
-            classes.append({'code': course_code, 'title': course_title, 'description': course_description})
+            classes.append({'code': course_code, 'title': course_title, 'description': course_description, 'url': course_page_url})
         except Exception as e:
             print(f"An error occurred: {e}")
             continue
@@ -94,6 +94,7 @@ def getCoursesForSubjectDetailed(subject, semester, create_text_file=False):
             print(f"Code: {cls['code']}")
             print(f"Title: {cls['title']}")
             print(f"Description: {cls['description']}")
+            print(f"URL: {cls['url']}")
             print("\n")
 
 

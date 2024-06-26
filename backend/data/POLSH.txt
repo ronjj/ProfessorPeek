@@ -1,0 +1,8 @@
+Code: POLSH 1131
+Title: Elementary Polish I
+Description: In this course, students will work on their four language skills: listing, speaking, reading, and writing as well as cultural competence. We will focus on practical communication. The instructor uses communicative language teaching (CLT) with an emphasis on structured input.
+
+Code: POLSH 2033
+Title: Intermediate Polish I
+Description: In this course, students continue working on their ability to speak, write, read, and understand contemporary Polish.  Students will also enhance their intercultural competency.  The instructor uses communicative language teaching with emphasis on structured input.  Students use the textbook and workbook "Hurra!  Po polsku 2" supplemented by Polish-English chapter dictionaries.  This class covers chapters 1-10.  If a student is not sure of his or her language level, he or she can contact the Polish instructor, Ewa Bachminska, at eb583@cornell.edu.
+

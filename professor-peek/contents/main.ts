@@ -290,6 +290,7 @@ export async function processCourseNames() {
 
   
   function toggleCourseSections() {
+    console.log("------------------Toggling Course Sections");
     // Toggle Sections
     var sections = document.querySelectorAll('div.sections');
   

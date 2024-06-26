@@ -1,0 +1,316 @@
+Code: ARCH 1101
+Title: Design I
+Description: Introduction to design as a conceptual discipline directed at the analysis, interpretation, synthesis, and transformation of the physical environment. Exercises are aimed at developing an understanding of the issues, elements, and processes of environmental design.
+
+Code: ARCH 1301
+Title: Introduction to Architecture
+Description: Intended to familiarize non-architecture students with the art and science of architecture. The fundamentals of plan, section, and elevation, the primary elements that comprise an architectural form; basic organizational principles; the ways in which we perceive architectural space; and the various concepts of function in relation to form will be included among the topics to be covered, using examples from numerous times and cultures as well as from contemporary Cornell campus.
+
+Code: ARCH 1501
+Title: Representation I: Freehand Architectural Drawing
+Description: Introduction to freehand drawing as an analytical tool within the design process.
+
+Code: ARCH 1611
+Title: Environmental Systems I: Introduction to Sustainable Design
+Description: This course examines the relationships between building, site, landscape and sustainability through the lens of ecology and systems thinking. Topics include: basic concepts of sustainability, energetic processes, climate, spatial data visualization, global warming, solar geometry, landscape processes, microclimates, site strategies and grading, building footprint & sustainable building metrics.
+
+Code: ARCH 1901
+Title: FWS: Topics in Architecture
+Description: This First-Year Writing Seminar is devoted to topics related to architecture.
+
+Code: ARCH 2101
+Title: Design III
+Description: Students develop an understanding of context and precedent in the construction of architectural form, and are introduced to contextual and programmatic densities in addition to circulatory, spatial, and organizational strategies in the design process.
+
+Code: ARCH 2502
+Title: Representation II: Media of Representation
+Description: The understanding of representational and fabrication techniques as generative tools in the design process.
+
+Code: ARCH 2613
+Title: Structural Systems
+Description: Behavior and design of overall structural systems for buildings. Particular focus on systems used for resisting lateral loads (rigid frames, braced frames and shear walls) and for spanning long distances (trusses and space frames; cables and membranes; and arches, domes, and shells).
+
+Code: ARCH 2802
+Title: History of Architecture II
+Description: The history of the built environment as social and cultural expression from more recent times to the present. Architecture and urban design themes, theories, and ideas are addressed in greater detail leading to the present time.
+
+Code: ARCH 3101
+Title: Design V
+Description: Design and development of complex architectural projects situated in urban contexts and developed with regard to program, site, building, and representation.
+
+Code: ARCH 3102
+Title: Design VI
+Description: Design and development of complex architectural projects situated in urban contexts and developed with regard to program, site, building, and representation.
+
+Code: ARCH 3105
+Title: NOMA Student Design Competition
+Description: In this class, a group of students form a design team that competes in the NOMA Student Design Competition in response to a specific brief.
+
+Code: ARCH 3117
+Title: Contemporary Italian Culture - Italian Cinema
+Description: This course examines the cinematic representation of Italy with particular emphasis to the use of settings and space. We will explore how the visions of urban and rural spaces reflect the evolving cultural, social and political fabric of a nation in a period of rapid and often traumatic historical change. The course will feature screening of films set in several Italian locations, from Rome to Milan, from Naples to Venice, from Sicily to the Apennines, and represent different moments of Italian contemporary history. We will take advantage of the unique opportunity to study this cinema while residing in Rome and traveling in Italy, through the experience of the real settings that have figured so prominently in Italian cinema. Each session consists of an in-class lecture and a film screening. The course will also include one or two guest lecturers each semester.
+
+Code: ARCH 3197
+Title: Special Investigations in Architectural Design
+Description: Independent study.
+
+Code: ARCH 3301
+Title: Architectural Analysis II: Architecture, the City, and Landscape
+Description: Agendas and approaches to the making and reading of urban conditions and landscape designs. The analysis of canonical works and texts, with emphasis on architecture within and without the city as vehicles of study, and with frequent reference to urban and landscape theories and designs, as well as to representations of the city and garden from other media and disciplines.
+
+Code: ARCH 3308
+Title: Special Topics in the Theory of Architecture I
+Description: This course addresses pertinent issues relative to the subject of Theory of Architecture. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 3397
+Title: Special Investigations in the Theory of Architecture I
+Description: Independent study.
+
+Code: ARCH 3497
+Title: Special Investigations in Architecture, Culture, and Society
+Description: Independent study.
+
+Code: ARCH 3702
+Title: Visual Imaging in the Electronic Age
+Description: Interdisciplinary survey course designed to introduce students in the creative arts, science, and engineering to the concepts of 2D and 3D digital pictorial representation and display. It is a concept course that concentrates on "why" rather than "how." Topics include perspective representations, display technology, how television works, bandwidth concepts, digital photography, computer graphics modeling and rendering, color perception, 3D data acquisition, volumetric imaging, and historical precedents, primarily from the art world.
+
+Code: ARCH 3819
+Title: Special Topics in the History of Architecture and Urbanism
+Description: This course addresses pertinent issues relative to the subject of History of Architecture and Urbanism. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 3820
+Title: The Topography and Urban History of Rome in Antiquity and the Middle Ages
+Description: Rome is a prisoner of its past. The entire city confronts the student with almost 30 centuries of urban and architectural history. This course intends to reconstruct the urban history of Rome from its origins through the Middle Ages (10th century bc-12th century ad). The purpose of this course will be to discover the layers of Rome, combining archaeology with literature, architecture, and urban history with art history. The goal is a thorough and direct knowledge of the Roman and Medieval urban landscape and the way this landscape has sometimes survived until today. Special attention will be given to Roman and Medieval building typology, both private and public, and the development of the urban infrastructure (street system, water supply, fortifications, etc.). Strong emphasis will be placed upon continuity, use/reuse, and transformation of buildings and spaces, etc. Every week one or two different "regions" will be explored that are typical for a particular moment of the urban history. Visits to sites outside Rome also will be used to address the issue of urban history in Italy in antiquity and the Middle Ages.
+
+Code: ARCH 3823
+Title: Urban Design, Architecture, and Art in Renaissance and Baroque Rome
+Description: This course focuses on the Renaissance and Baroque phases (15th-18th centuries) of Rome's history. The first class sessions will survey the city's urban history and form from its origins to the present, and we will often turn our attention to earlier and later developments, without an understanding of which the Renaissance and Baroque periods would be only partially intelligible. While the history of urban and architectural design will be our main focus, we will also look at key episodes of painting and sculpture, especially by artists who are also among the principal  architects of these periods (Michelangelo, Bernini).
+
+Code: ARCH 3897
+Title: Special Investigations in History of Architecture and Urbanism
+Description: Independent study.
+
+Code: ARCH 4101
+Title: Design VII
+Description: Advanced programs in architectural design, with options in, but not limited to, urban design, architectural technology, computational design, ecology, culture, and representation.
+
+Code: ARCH 4102
+Title: Design VIII
+Description: Advanced programs in architectural design, with options including, but not limited to, urban design, architectural technology, computational design, ecology, culture, and representation.
+
+Code: ARCH 4408
+Title: Special Topics in Architecture, Culture, and Society
+Description: This course addresses pertinent issues relative to the subject of Architecture, Culture and Society. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 4508
+Title: Special Investigations in Visual Representation
+Description: Independent study.
+
+Code: ARCH 4509
+Title: Special Topics in Visual Representation I
+Description: This course addresses pertinent issues relative to the subject of Visual Representation. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 4601
+Title: Ecological Literacy and Design
+Description: This course is a design-oriented lecture/seminar course for students who are concerned about the role they play as design professionals in affecting the biophysical world. The course's prime objective is to develop a new worldview founded on a broader sensitivity for things living and an accompanying set of meaningful environmental ethics. The course's secondary objectives are to develop a deeper knowledge of environmental issues, construct conceptual frameworks for analysis of these issues and to demonstrate how ecological knowledge can be applied to design.
+
+Code: ARCH 4605
+Title: Special Topics in Construction
+Description: This course addresses pertinent issues relative to the subject of Construction. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 4697
+Title: Special Investigations in Construction
+Description: Independent study.
+
+Code: ARCH 4698
+Title: Special Investigations in Environmental Systems and Conservation
+Description: Independent study.
+
+Code: ARCH 4699
+Title: Special Investigations in Structures
+Description: Independent study.
+
+Code: ARCH 5101
+Title: Design IX
+Description: Advanced programs in architectural design, with options in, but not limited to, urban design, architectural technology, computational design, ecology, culture, and representation.
+
+Code: ARCH 5111
+Title: Core Design Studio I: Fundamentals
+Description: Introduction to fundamental concepts of architectural design and representation, including preliminary notions of site, program, and context. Emphasis on interpretive, analytical, and generative uses of drawing, physical modeling, and digital media in the design process. Focus on issues of context, program and architectonics in the design of a building; introduction to site planning.
+
+Code: ARCH 5113
+Title: Core Design Studio III: Engaged Practices
+Description: These studios use an expanded form of design practice to address meta-issues in contemporary society. They recognize that architectural production is becoming increasingly heterogeneous and networked, and that real-world projects are seldom defined by site boundaries, or the work of a single profession. Design research and speculation are used to situate projects within larger social, political and environmental systems, creatively and inclusively engage the perspectives of other actors shaping the built environment, and opportunistically orchestrate real world processes and interactions.
+
+Code: ARCH 5115
+Title: Vertical Design Option Studio
+Description: The New York City vertical studios engage contemporary issues through examining urban and infrastructural issues in relation to ecological, technical, and cultural practices.
+
+Code: ARCH 5116
+Title: Vertical Design Option Studio II
+Description: The vertical studios are topical in nature and engage contemporary issues in architectural practice and research.
+
+Code: ARCH 5201
+Title: Professional Practice
+Description: Examination of organizational and management theories and practices for delivering professional design services. Includes a historic overview of the profession and a review of the architect's responsibilities from the pre-contract phase through cost estimating and specifications to construction. Application of computer technology in preparing specifications.
+
+Code: ARCH 5203
+Title: Multicultural Work Environments
+Description: Independent study. Promotes an understanding of the cultural assumptions we bring to the work environment and the effects of cultural differences on the ways in which architecture is practiced. A 5-10 page paper relates the experience of the internship to one or more texts approved by the instructor. Course may be taken more than once, but a maximum of 1 credit may be used to fulfill departmental free elective distribution requirement.
+
+Code: ARCH 5301
+Title: Theories and Analyses of Architecture I
+Description: Introduces students to influential critical and creative themes in modern architecture. Topics cover influential 20th-century discourses and practices prior to the 1990s, the questions and contexts that they engage, and their implications for contemporary thinking and design. Discussions and assignments aim at developing critical and graphical readings of both works and writings as integral to the design process.
+
+Code: ARCH 5402
+Title: Architecture, Culture, and Society
+Description: Social and cultural values are both reflected in buildings, landscapes, and cities, and constructed by them. At the same time, this articulation of people and built environments is framed by general socio-economic and political systems of ordering that often transcend locale. This course explores how these complexities might impact design practice, drawing on concepts and methods from disciplines such as anthropology, geography and cultural studies, as well as architectural history and theory, and referring to examples from around the world.
+
+Code: ARCH 5511
+Title: Constructed Drawing I
+Description: Focuses on bridging hand-drawing and sketching with digital representation as vehicles for design thinking and perception. Observational, analytical, and transformational exercises develop creative proficiency in freehand drawing and orthographic projection as well as computational thinking. Develops understanding of, and proficiency in, projective drawing, in both analog and digital forms. Students are introuced to a variety of digital representation applications, including modeling, rendering, animation, and scripting.
+
+Code: ARCH 5611
+Title: Environmental Systems I: Introduction to Sustainable Design
+Description: This course examines the relationships between building, site, landscape and sustainability through the lens of ecology and systems thinking. Topics include: basic concepts of sustainability, energetic processes, climate, spatial data visualization, global warming, solar geometry, landscape processes, microclimates, site strategies and grading, building footprint & sustainable building metrics.
+
+Code: ARCH 5613
+Title: Structural Systems
+Description: Behavior and design of overall structural systems for buildings. Particular focus on systems used for resisting lateral loads (rigid frames, braced frames and shear walls) and for spanning long distances (trusses and space frames; cables and membranes; and arches, domes, and shells).
+
+Code: ARCH 5614
+Title: Building Technology I: Materials and Methods
+Description: Building construction is examined from the following standpoints: life safety (including fire safety and zoning constraints on site planning); building service systems (plumbing, electrical, vertical transportation, security, fire protection); materials, sustainability, and life-cycle analysis; accessibility; technical documentation and outline specifications.
+
+Code: ARCH 5802
+Title: History of Architecture II
+Description: The history of the built environment as social and cultural expression from the modern period to the present day is studied through selected examples from across the world. Architecture and urban design themes, theories, and ideas are explored through texts, artifacts, buildings, cities, and landscapes.
+
+Code: ARCH 5819
+Title: Special Topics in the History of Architecture and Urbanism
+Description: This course addresses pertinent issues relative to the subject of History of Architecture and Urbanism. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 5902
+Title: Design X Thesis
+Description: An independent design project on a topic selected and developed by the student. Marking the transition between academic and professional practices, the thesis project is an opportunity for each student to define an individual position with regard to the discipline of architecture.
+
+Code: ARCH 5903
+Title: Design IX Expanded Design Thesis
+Description: The expanded design thesis is designed for undergraduate students who wish to pursue a yearlong investigation. The expanded thesis must include substantial research and the completed work should be of wider scope and greater depth than is normal for a one-semester thesis. The thesis topic should extend the student's work already begun in a course or a sequence of courses taken before the fifth year.
+
+Code: ARCH 5911
+Title: Prethesis Methods Workshop
+Description: This course offers a synthesis of design and research methods for the development of an independent thesis proposal. Course work includes exposure to different theories and practices of design inquiry, explorations of critical positions for individual development, and preparation of a document encapsulating research leading to a thesis proposition. For students matriculating in Summer 2023 and beyond, successful completion of the course, which includes approval of the thesis document, is a prerequisite for advancement into ARCH 5902 - Design X Thesis.
+
+Code: ARCH 6109
+Title: Special Problems in Design
+Description: Independent study.
+
+Code: ARCH 6131
+Title: Critical Introduction to Urban Data
+Description: The first course in the methods sequence introduces concepts and applications for urban data: where it comes from, its sources and applications. It stresses a critical-making approach in which projects build essential skills while also fostering critical discussion about the possibilities and limits of the tools, the uses and misuses of data, and alternate modes of data gathering, including field work, qualitative sources, and analog methods.
+
+Code: ARCH 6307
+Title: Special Investigations in the Theory of Architecture II
+Description: Independent study.
+
+Code: ARCH 6308
+Title: Special Topics in the Theory of Architecture II
+Description: This course addresses pertinent issues relative to the subject of Theory of Architecture. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 6331
+Title: Theories and Analysis I: Introduction
+Description: The seminar explores and develops some of the program's central concepts including ecology, infrastructure, urbanism, urban system, histories and theories of planetary change. Emphasis is on developing a critical awareness these topics: narratives; global perspectives; questions of ecology and urbanism as they intersect with power, colonialism, extraction, intersectional environmentalism, and modes of thought related to urban technology.
+
+Code: ARCH 6408
+Title: Special Topics in Architecture, Culture, and Society
+Description: This course addresses pertinent issues relative to the subject of Architecture, Culture and Society. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. For precise content, please see the Architecture Department webpage.
+
+Code: ARCH 6409
+Title: Graduate Investigations in Architecture, Culture, and Society
+Description: Independent study.
+
+Code: ARCH 6509
+Title: Special Topics in Visual Representation II
+Description: This course addresses pertinent issues relative to the subject of Visual Representation. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 6605
+Title: Special Topics in Construction
+Description: This course addresses pertinent issues relative to the subject of Construction. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. For precise content, please see the Architecture Department webpage.
+
+Code: ARCH 6609
+Title: Special Investigations in Structures
+Description: Independent study.
+
+Code: ARCH 6800
+Title: State of the Discipline
+Description: This seminar will provide a survey of architectural historiography paying particular attention to the paradigm shifts of recent decades. Through the critical readings of important texts we will discuss the current state of the field while simultaneously reconsidering our position in it. The course will address how we apply theory to practice, develop research strategies that maximize methodological alliances, imbue the study of the past with contemporary relevance, and contribute as much to other disciplines as we borrow from them.
+
+Code: ARCH 6819
+Title: Seminar in Special Topics in the History of Architecture and Urbanism
+Description: This course addresses pertinent issues relative to the subject of History of Architecture and Urbanism. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: ARCH 7101
+Title: Problems in Architecture Design
+Description: Independent study.
+
+Code: ARCH 7112
+Title: Design B: Topic Studio
+Description: Advanced programs in architectural design, with options in, but not limited to, urban design, architectural technology, computational design, ecology, culture, and representation.
+
+Code: ARCH 7113
+Title: Design C: Topic Studio
+Description: Advanced programs in architectural design, with options in, but not limited to, urban design, architectural technology, computational design, ecology, culture, and representation.
+
+Code: ARCH 7131
+Title: Studio I: Foundation
+Description: The introductory practicum is a workshop-based studio that introduces students to skills, techniques, methods, for coming to know the city. Design here is a means to develop/explore/become familiar with the tools, skills, approaches and capacities that will form the basis for subsequent studio work. Urban systems are introduced through design modules and attendant skills: Mapping Urban Knowledges (creative engagement with urban systems); Engaging Urban Knowledges (introduction to engaging communities); Projecting Urban Knowledges (future planning/scenario building).
+
+Code: ARCH 7151
+Title: Design Topic Research Studio: Matter Design Computation
+Description: The research studio is topical in nature and engages fundamental concepts in matter design computation.
+
+Code: ARCH 7809
+Title: Graduate Independent Study in the History of Architecture and Urbanism
+Description: Independent study.
+
+Code: ARCH 8151
+Title: Design Topic Research Studio III: Matter Design Computation
+Description: Pre-thesis research on an independent design project on a topic selected and developed by the student in preparation for ARCH 8905.
+
+Code: ARCH 8903
+Title: Projects in Advanced Architectural Design
+Description: Final project documentation drawing on work from ARCH 7111, ARCH 7112, and ARCH 7113 design studios as well as from the four courses representing the student's territory of investigation (TI) — discourse, ecology, representation, or urbanism — that demonstrate expertise in the student's TI.
+
+Code: ARCH 8905
+Title: Independent Design Thesis: Matter Design Computation
+Description: An independent design project on a topic selected and developed by the student and researched in ARCH 8151. Marking the transition between academic and professional practices, the objective of the thesis project is for each student to define an individual position with regard to the discipline and practice of architecture in the context of matter design computation.
+
+Code: ARCH 8906
+Title: Thesis in Advanced Architectural Design I
+Description: Independent study.
+
+Code: ARCH 8907
+Title: Thesis in Advanced Architectural Design II
+Description: Independent study.
+
+Code: ARCH 8911
+Title: Proseminar in Design Research
+Description: This course offers a synthesis of design and research methods for the development of an independent thesis proposal. Course work includes exposure to different theories and practices of design inquiry, explorations of critical positions for individual development, and preparation of a document encapsulating research leading to a thesis proposition. Successful completion of the course, which includes approval of the thesis document, is a prerequisite for advancement into ARCH 8912 - Independent Design Thesis.
+
+Code: ARCH 8912
+Title: Independent Design Thesis
+Description: An independent design project on a topic selected and developed by the student and researched in ARCH 8911. Marking the transition between academic and professional practices, the thesis project is an opportunity for each student to define an individual position with regard to the discipline of architecture.
+
+Code: ARCH 8920
+Title: M.A. Essay Research
+Description: Independent research for the M.A. essay.
+
+Code: ARCH 8921
+Title: M.A. Essay in the History of Architecture and Urbanism
+Description: Independent preparation of the M.A. essay,
+
+Code: ARCH 9901
+Title: Ph.D. Dissertation in the History of Architecture and Urbanism
+Description: Independent study for the doctoral degree.
+

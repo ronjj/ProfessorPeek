@@ -1,0 +1,12 @@
+Code: SANSK 1131
+Title: Elementary Sanskrit I
+Description: An introduction to the essentials of Sanskrit grammar. Designed to enable the student to read classical and epic Sanskrit as soon as possible.
+
+Code: SANSK 2251
+Title: Intermediate Sanskrit I
+Description: Readings from simple Sanskrit poetry: the Mahabharata and the Ramayana.
+
+Code: SANSK 3301
+Title: Advanced Sanskrit I
+Description: Selected readings in Sanskrit literary and philosophical texts.
+

@@ -1,0 +1,12 @@
+Code: URDU 2225
+Title: Intermediate Urdu Reading and Writing I
+Description: This course is designed to develop competence in Urdu reading and writing for students with a first-year knowledge of Hindi and knowledge of Urdu script. The goal of this course is to improve listening, speaking, reading and writing abilities in Urdu. By the end of the course, students will have the ability to read articles, write short stories and translate Urdu writings. May be taken concurrently with Intermediate Hindi.
+
+Code: URDU 3325
+Title: Literary Reading and Writing in Advanced Urdu
+Description: Designed for those students who have either taken Intermediate Urdu or are at the same level of competency in reading and writing skills. The goals of this class are to improve Urdu literary reading and writing abilities, primarily through reading various forms of Urdu prose. In addition, students learn about various genres of Urdu poetry and watch video clips and lectures that enhance listening and speaking abilities as well as the understanding and appreciation of Urdu culture.
+
+Code: URDU 5509
+Title: Graduate Studies in Urdu
+Description: Topics vary by semester in relation to student needs.
+

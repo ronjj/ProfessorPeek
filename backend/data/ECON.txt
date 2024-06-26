@@ -1,0 +1,220 @@
+Code: ECON 1001
+Title: Principles of Micro-Economics Supplement
+Description: Reviews lecture material presented in ECON 1110 lectures; provides problem-solving techniques, study tips, and additional problems to prepare for exams and problem sets; provides additional time for questions and discussion of concepts. Provides additional instruction for students who need reinforcement.
+
+Code: ECON 1002
+Title: Principles of Macro-Economics Supplement
+Description: Reviews lecture material presented in ECON 1120 lectures; provides problem-solving techniques, study tips, and additional problems to prepare for exams and problem sets; provides additional time for questions and discussion of concepts. Provides additional instruction for students who need reinforcement.
+
+Code: ECON 1110
+Title: Introductory Microeconomics
+Description: Explanation and evaluation of how the price system operates in determining what goods are produced, how goods are produced, who receives income, and how the price system is modified and influenced by private organizations and government policy.
+
+Code: ECON 1120
+Title: Introductory Macroeconomics
+Description: Analysis of aggregate economic activity in relation to the level, stability, and growth of national income. Topics may include the determination and effects of unemployment, inflation, balance of payments, deficits, and economic development, and how these may be influenced by monetary, fiscal, and other policies.
+
+Code: ECON 2040
+Title: Networks
+Description: This interdisciplinary course examines network structures and how they matter in everyday life. The course examines how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects each of these worlds. Tools of graph theory and game theory are taught and then used to analyze networks. Topics covered include the web, the small world phenomenon, markets, neural networks, contagion, search and the evolution of networks.
+
+Code: ECON 2100
+Title: Teaching and Learning Economics
+Description: This course teaches students what they need to know in order to be excellent course assistants (CA's) in economics courses at Cornell. We will meet for an hour each week to talk about how students learn economics, and how best to help them learn. Students in this course will get concrete guidance on what to do as a CA, and we'll discuss the research behind this guidance. Students will be expected to do some reading outside class and either write a research paper on economic education or develop new teaching materials that can be incorporated into an economics course. Students will also facilitate small group activities in lecture courses (3 hours per week) and help other students in the Economics Support Center (2 hours per week).
+
+Code: ECON 3030
+Title: Intermediate Microeconomic Theory
+Description: The pricing processes in a private enterprise economy are analyzed under varying competitive conditions, and their role in the allocation of resources and the functional distribution of national income is considered.
+
+Code: ECON 3040
+Title: Intermediate Macroeconomic Theory
+Description: Introduces the theory of national income and determination and economic growth in alternative models of the national economy. Examines the interaction and relation of these models to empirical aggregate economic data. Reviews national accounts, output and employment determination, price stability and economic growth, in the context of alternative government policy programs and the impact of globalization.
+
+Code: ECON 3110
+Title: Probability Models and Inference for the Social Sciences
+Description: This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, sampling distributions and hypothesis testing.
+
+Code: ECON 3120
+Title: Applied Econometrics
+Description: Introduction to the theory and application of econometric techniques. Emphasis is on both development of techniques and applications of econometrics to economic questions. Topics include estimation and inference in bivariate and multiple regression models, instrumental variables, regression with qualitative information, heteroskedasticity, and serial correlation. Students are expected to apply techniques through regular empirical exercises with economic data.
+
+Code: ECON 3130
+Title: Statistics and Probability
+Description: Provides an introduction to statistical inference and to principles of probability. It includes descriptive statistics, principles of probability, discrete and continuous distributions, and hypothesis testing (of sample means, proportions, variance). Regression analysis and correlation are introduced.
+
+Code: ECON 3171
+Title: Causal Reasoning and Policy Evaluation I
+Description: This course covers methods used by social scientists to identify causal relationships in data, with a focus on evaluating the effects of real-world policies. Many social science analyses--including in the economics fields of public, labor, health, and development-aim to answer these types of policy-related causal questions: What is the effect of having health insurance on someone's health? Does the death penalty reduce crime? Will lowering class sizes increase students' academic achievement? The goal of this course is to train you to become both a high-quality consumer and producer of this type of research. You will learn about several research designs and data analysis methods for identifying causal relationships in data, read and assess empirical papers that apply these methods, and apply these methods to datasets yourself.
+
+Code: ECON 3250
+Title: Economics of the U.S. Social Safety Net
+Description: This course provides an overview of the major programs that make up the social safety net in the United States. We will review the economic rationale behind social programs, identify the economic consequences of these programs, and assess the empirical research on these topics. A major emphasis of the course will be on understanding the strengths and limitations of the core methodologies used in the existing economics literature.
+
+Code: ECON 3465
+Title: Bridging the Divide: Labor Market Reforms and Place-Based Policies
+Description: Should policy interventions target inequality between workers or disparities between places? Inequality has risen in most developed countries in recent decades. While top incomes have grown significantly, incomes at the bottom of the distribution have increased much less. In light of these trends, this course examines the role of labor market and place-based policies in reducing inequality, and discusses the trade-offs that arise between reducing inequality and promoting economic activity.
+
+Code: ECON 3486
+Title: Field Experiments in Economics and Business
+Description: Field experiments are ubiquitous in both academic economics and the corporate world. They are highly effective tools for both researchers and business leaders to assess the effectiveness of different interventions and are used to test theories, inform policy and enhance business strategies. Modern digital tools have made it increasingly easy to conduct field experiments and collect high-quality data on a large scale. This course will cover the foundational methods of designing and analyzing field experiments, and discuss seminal field experimental work in economics and business. As part of this course, students will conduct their own online field experiment.
+
+Code: ECON 3545
+Title: Money and Finance in the Digital Age
+Description: This course will provide an overview of new financial technologies (Fintech), cryptocurrencies, central bank digital currencies, and decentralized finance (DeFi). The implications of these novel technologies for the future of financial markets, central banking, and international finance will be examined. The course will also cover basic analytical models in open economy macroeconomics and international finance, focusing on capital flows and exchange rate dynamics.
+
+Code: ECON 3610
+Title: The Economics of Consumer Policy
+Description: Familiarizes students with the economic analysis of consumer policy issues. Uses the tools of microeconomic analysis to investigate the interaction between government and the marketplace, with an emphasis on how that interaction affects consumers. Examines the rationale for and effects of regulation of industry. Considers alternative theories of regulation, including the capture, economic, and public interest theories. Applies those theories to specific types of regulation, including economic regulation of specific industries (e.g., telecommunications, electricity, trucking, railroads, postal services) as well as to broader social regulation (e.g., health, safety, environmental). The effects of regulatory reform in numerous industries are also examined. An attempt is made to examine current topics relating to consumer policy.
+
+Code: ECON 3720
+Title: The Economics of Health Care Markets
+Description: Health care systems and health policy are undergoing rapid change as medical technology advances and costs rise. Debates concerning the delivery, regulation and financing of health care have intensified. This course uses basic economic tools to analyze central questions in health care today, as well as fundamental issues in health policy: For example, what is the current role of the government in the health sector, and what should it be? What is the social insurance role of the government, and how is it played out in policies that impact the health of the population? How is health insurance structured, and what are the implications of having employers be the providers of private health insurance? This course is about applying economic tools of policy analysis to gain insight into the workings of the health care system and to analyze current issues in health policy. It is mainly a U.S. institutions-based course, with some international comparisons. It should be of interest to students preparing for all kinds of careers in health care, and to others with an interest in important public policy issues.
+
+Code: ECON 3760
+Title: Economics of Education
+Description: The economics of education is about understanding how and why people make decisions to invest in education, the effect of education on long-term social and economic outcomes, the behavior of those institutions that "produce" education, and how best to design and implement public policies affecting the level and distribution of education resources. The basic tools of economics provide a framework to evaluate education policies including K-12 school finance, student financial aid, and college admissions. Throughout the course, there will be an emphasis on examining empirical tests of the economic theory and measuring the effects of policy initiatives on educational outcomes.
+
+Code: ECON 3801
+Title: Introduction to Game Theory and Strategic Thinking
+Description: Some knowledge of game-theory is essential in today's age of complex decision-making, diplomacy, and corporate strategizing. This course is an introduction to the basic principles of game theory and rational choice. The course is designed for students with an interest in economics, political strategy, moral philosophy, and algorithmic reasoning. Important ideas and concepts, with real-life illustrations, will be discussed. Over the semester students will learn the essential ideas of Nash, Schelling and others, different conceptualizations of equilibrium, such as the Nash equilibrium and subgame perfection, and how they apply to different contexts, such as competition among firms, war, and diplomacy. The course will help us understand everyday phenomena, such as addiction, procrastination and moral dilemmas, and show how reasoning can be a critical input for personal happiness. Students will be introduced to some unresolved paradoxes of rational behavior and encouraged to try to solve them on their own.
+
+Code: ECON 3805
+Title: Competition Law and Policy
+Description: This course will examine issues that arise when a country attempts to implement and maintain a "competition policy" as a way of promoting economic growth and efficiency. The basic reading material will start with actual cases (most of them arising under U.S. antitrust law), and use those cases to probe the legal, economic and broad policy issues that the cases raise.
+
+Code: ECON 3910
+Title: Health, Poverty, and Inequality: A Global Perspective
+Description: Course focuses on global health challenges, and how they are related to poverty and inequality.
+
+Code: ECON 4010
+Title: Economics of Organizations
+Description: Why do most economic activities happen within managed organizations (i.e., firms) and not in markets (i.e., purchased from others)? More fundamentally, what is a firm? This course provides an introduction to *organizational economics* that seeks to understand the nature and workings of organizations—a collection of different people with dispersed information, responsibilities and non-aligned interests. You will learn about the theories of the boundaries of the firm that help unravel the neoclassical economics' "blackbox" view of the firm and the theories on the provision of incentives that ultimately shape firms. While the class takes a predominantly theoretical approach, you will also learn how the theories are in conversation with empirical evidence.
+
+Code: ECON 4140
+Title: Methods and Computation in Program Evaluation
+Description: Introduces fundamental frameworks for program evaluation and causal inference in empirical research and the industry, and studies how modern predictive machine learning methods can be applied to get more credible estimates of causal effects. Problems are formulated and discussed in terms of formal econometric models, but the focus will be the applied and practical perspectives, especially in economics. Requires statistic and econometric knowledge at the level of ECON 3140 or equivalent, and programing experience in R or Python.
+
+Code: ECON 4290
+Title: Economic Analysis of Politics
+Description: This is an advanced course intended for upper level economics undergraduates who enjoy learning about and analyzing economic models. The course provides an introduction to the economic analysis of politics. Part I discusses collective choice and introduces some core ideas from social choice theory. Part II provides an overview of economic theories of political behavior. Part III discusses how political decisions are distorted away from those that would be made by the benevolent governments from public economics textbooks. Part IV offers economic perspectives on a number of contemporary issues in American politics.
+
+Code: ECON 4410
+Title: Quantitative Models for the Labor Market
+Description: In this course we will study two major features of modern economies. The first is the large dispersion across households in income and wealth, the second is the existence of persistent unemployment. We will be interested in understanding the models and tools that economists have developed to represent these phenomena, as well as in using these models to analyze the welfare implications of various government interventions. Topics to be covered include: Dynamic programming. Solution Methods of General Equilibrium models. Heterogeneous-agent macroeconomic models. Search, matching and equilibrium unemployment.
+
+Code: ECON 4545
+Title: Advanced International Finance and Macroeconomics
+Description: This course introduces and develops the leading modern theories of economies open to trade in financial assets and real goods. The goal is to understand how cross-country linkages in influence macroeconomic developments within individual countries; how financial markets distribute risk and wealth around the world; and how trade changes the effectiveness of national monetary and fiscal policies. In exploring these questions, we emphasize the role that exchange rates and exchange rate policy take in shaping the consequences of international linkages. We apply our theories to current and recent events, including growing geoeconomic conflict between Eastern and Western countries, hyperinflation in Argentina, Brexit, and recent Euro-area debt crises.
+
+Code: ECON 4610
+Title: Industrial Organization I
+Description: This course takes a game theoretic approach to the study of markets and market power. Topics include pricing, collusion, entry, product differentiation, advertising, and bargaining.
+
+Code: ECON 4903
+Title: Quantitative Analysis of Economic Data
+Description: The course will appeal to students who have strong quantitative skills and would like to see applications of economic theory to analyze issues prominent in major public debates. Currently, we offer a very limited number of advanced courses that require students to do independent research, discuss their ideas in teams, present their work, and write a research proposal.
+
+Code: ECON 4907
+Title: The Economics of Asymmetric Information and Contracts
+Description: This course provides an introduction to the economics of asymmetric information, contracts and mechanism design. Topics covered include: bilateral contracting problems with moral hazard and/or adverse selection, bargaining with asymmetric information, the design of optimal auctions and other multilateral mechanisms, signaling and incomplete contacts. Prerequisites include intermediate microeconomics and statistics. The student is expected to be comfortable with basic probability (random variables, expectation, independence, and conditional probability) and calculus.
+
+Code: ECON 4998
+Title: Cross-Cultural Work Experiences
+Description: This independent study course offers economics majors (i.e., undergraduates whose applications to affiliate with the economics major have been approved) an opportunity to reflect on concepts from economics as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the economics major.
+
+Code: ECON 4999
+Title: Independent Study in Economics
+Description: Independent study.
+
+Code: ECON 6090
+Title: Microeconomic Theory I
+Description: Topics in consumer and producer theory.
+
+Code: ECON 6130
+Title: Macroeconomics I
+Description: Covers the following topics: static general equilibrium; intertemporal general equilibrium: infinitely lived agents models and overlapping generations models; welfare theorems; equivalence between sequential markets and Arrow-Debreu Markets; Ricardian proposition; Modigliani-Miller theorem; asset pricing; recursive competitive equilibrium; the Neoclassical Growth Model; calibration; and introduction to dynamic programming.
+
+Code: ECON 6170
+Title: Intermediate Mathematical Economics I
+Description: Covers selected topics in matrix algebra (vector spaces, matrices, simultaneous linear equations, characteristic value problem), calculus of several variables (elementary real analysis, partial differentiation) convex analysis (convex sets, concave functions, quasi-concave functions), classical optimization theory (unconstrained maximization, constrained maximization), Kuhn-Tucker optimization theory (concave programming, quasi-concave programming).
+
+Code: ECON 6190
+Title: Econometrics I
+Description: Gives the probabilistic and statistical background for meaningful application of econometric techniques. Topics include probability theory probability spaces, random variables, distributions, moments, transformations, conditional distributions, distribution theory and the multivariate normal distribution, convergence concepts, laws of large numbers, central limit theorems, Monte Carlo simulation; statistics: sample statistics, sufficiency, exponential families of distributions. Further topics in statistics are considered in ECON 6200.
+
+Code: ECON 6590
+Title: Empirical Strategies for Policy Analysis
+Description: Focuses on empirical strategies to identify the causal effects of public policies and programs. The course uses problem sets based on real-world examples and data to examine techniques for analyzing nonexperimental data including control function approaches, matching methods, panel-data methods, selection models, instrumental variables, and regression-discontinuity methods. The emphasis throughout, however, is on the critical role of research design in facilitating credible causal inference. The course aids students in both learning to implement a variety of statistical tools using large data sets, and in learning to select which tools are best suited to a given research project.
+
+Code: ECON 6910
+Title: Foundations of the Social Sciences
+Description: Social science research almost always combines empirical observation (data), the construction of concepts (language), and the logical analysis of the relations between observations and concepts (statistics).  This course examines the relations between these three dimensions as the analyst moves from one to the other both as practice and in the crafting of a formal summary of findings and argument. We will be particularly interested in the foundational assumptions that underpin the connections between empirical reality, language, and statistical analysis. While these foundational assumptions are often taken for granted by social scientists, they vary dramatically between social science disciplines.  The implicit contradiction between that variance and their doxic acceptance within disciplines will be a primary focus of the course.
+
+Code: ECON 6990
+Title: Readings in Economics
+Description: Independent study.
+
+Code: ECON 7245
+Title: Topics in Econometrics and Machine Learning
+Description: This course discusses recent developments in Econometrics and Machine Learning. The topics covered will vary every year.
+
+Code: ECON 7335
+Title: Introduction to Information Economics
+Description: Many economic decisions have to be made in settings in which many interacting agents have imperfect and diverse information about pay-off relevant variables. This course gives an overview of existing research in macroeconomics and finance that deviates from settings with perfectly informed rational agents. The course will cover both methodological and substantial aspects of the existing literature.
+
+Code: ECON 7420
+Title: Seminar in Labor Economics I
+Description: Includes reading and discussion of selected topics in labor economics. Stresses applications of economic theory and econometrics to the labor market and human resource areas.
+
+Code: ECON 7510
+Title: Industrial Organization and Regulation I
+Description: This course offers a graduate-level introduction to theoretical models in industrial organization. It is designed to prepare researchers to identify interesting questions and rigorously motivate empirical work. Topics include supermodular games, collusion, bargaining, auctions, industry dynamics, and productivity.
+
+Code: ECON 7660
+Title: Microeconomics of International Development
+Description: This course introduces students to the key theories, canonical papers, and current frontiers in the microeconomics of international development. We cover topics related to agricultural household models, consumption smoothing, labor markets, trade and search, relational contracts, and public finance. Paired with AEM 7621 to form a graduate sequence in development economics.
+
+Code: ECON 7670
+Title: Topics in International Finance
+Description: This course will provide a selective overview of topics at the cutting-edge of academic research and policy debates about the international monetary and financial system. Main areas will include the effects of financial globalization on growth, volatility, and the transmission of business cycles, as well as the determinants of capital flows and exchange rates. The course will cover topics at the intersection of international finance and macroeconomics, with particular emphasis on the implications for monetary policy and financial regulation. New research related to Fintech, cryptocurrencies, and central bank digital currencies will also be covered. This course is intended for advanced Ph.D. students, especially those in search of thesis topics, and will require extensive student involvement in preparing research proposals and critiques of existing literature. Students will develop their own research ideas during the course and are required to write a substantive research paper.
+
+Code: ECON 7740
+Title: Law and Economics: A Game-Theoretic Approach
+Description: This course introduces graduate students to the main concepts and ideas of law and economics, founded on elementary game theory. These ideas are then applied to contemporary policy concerns, from promoting economic development and designing welfare interventions in developing countries, to controlling corruption and financial fraud. The defining feature of the course is the structuring of these topics within a common conceptual framework, and training students to develop these ideas further and apply them to new research questions.
+
+Code: ECON 7841
+Title: Econometrics Workshop
+Description: Research workshop featuring guest lecturers.
+
+Code: ECON 7842
+Title: Microeconomic Theory Workshop
+Description: Research workshop featuring guest lecturers.
+
+Code: ECON 7843
+Title: Industrial Organization Workshop
+Description: Research workshop featuring guest lecturers.
+
+Code: ECON 7845
+Title: Workshop in Labor Economics
+Description: Research workshop featuring guests lecturers. Presentations of completed papers and work in progress by faculty members, advanced graduate students, and speakers from other universities. Focuses on the formulation, design, and execution of dissertations.
+
+Code: ECON 7846
+Title: S.C. Tsiang Macroeconomics Workshop
+Description: Research workshop featuring guest lecturers.
+
+Code: ECON 7847
+Title: Development Workshop
+Description: Research workshop featuring guest lecturers.
+
+Code: ECON 7848
+Title: Public Economics Workshop
+Description: Research workshop featuring guest lecturers.
+
+Code: ECON 7849
+Title: Behavioral Economics Workshop
+Description: Research workshop featuring guest lecturers.
+
+Code: ECON 7850
+Title: Third Year Research Seminar
+Description: Ph.D. students in the Field of Economics are required to take this year-long research seminar, and receive a grade of Satisfactory, in order to remain in good standing in the Ph.D. program. Students present and discuss each second-year paper, which must be completed before the semester opens and Economics 7850 meets for the first time. Students also present at least two additional papers or paper plans. These are intended to be part of the core of the student's thesis proposal, which must be given as part of the student's A Exam prior to the start of the fourth year of graduate study in the economics Ph.D. program. Economics 7851 ends with a mini-conference, attended by faculty and other Ph.D. students, in which each student makes a formal presentation in standard economics conference format, and each student discusses one of these presentations. Professional writing and presentation coaching is also provided.
+

@@ -1,0 +1,20 @@
+Code: INDO 1100
+Title: Elements of Indonesian Language and Culture
+Description: This course is for students with no previous knowledge of Indonesian or Malay language. Students will learn enough phrases to be able to handle very simple interactions, express very simple needs, and behave appropriately in Indonesian settings. Cultural information will be taught in English. Indonesianists of Cornell share fun information about their fields of expertise regarding Indonesia.  80% of the course, the Bahasa Indonesia language component, will be practiced.
+
+Code: INDO 1121
+Title: Elementary Indonesian I
+Description: Gives a thorough grounding in basic speaking, listening, reading and writing skills.
+
+Code: INDO 2201
+Title: Intermediate Indonesian I
+Description: Develops all four skills: reading, writing, speaking, and listening comprehension.
+
+Code: INDO 3301
+Title: Advanced Indonesian I
+Description: Practical language course at a high intermediate and low advanced level in which students read and discuss selected materials on issues of their academic interests, write essays, and make oral presentations.
+
+Code: INDO 4401
+Title: Advanced Indonesian for Research I
+Description: A critical academic language course at a higher advanced level that sharpens students' proficiency of integrated language skills from an advanced high or above level, based on the ACTFL proficiency benchmarks. Students read, discuss, debate and explore hypotheses on issues from specialized disciplines to broader abstract ideas.
+

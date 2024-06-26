@@ -1,0 +1,96 @@
+Code: AEP 1100
+Title: Lasers and Photonics
+Description: Lasers have had an enormous impact on communications, medicine, remote sensing, and material processing. This course reviews the properties of light that are essential to understanding the underlying principles of lasers and these photonic technologies. There also is a strong, hands-on laboratory component in which the students build and operate a nitrogen laser and participate in several demonstration experiments such as holography, laser processing of materials, optical tweezers, and fiber optics.
+
+Code: AEP 1200
+Title: Introduction to Nanoscience and Nanoengineering
+Description: Lecture/laboratory course designed to introduce first-year students to some of the ideas and concepts of nanoscience and nanotechnology with stronger emphasis on nanobiotechnology in the spring semester. Topics include nanoscience and nanotechnology-what they are and why they are of interest; atoms and molecules; the solid state; surfaces; behavior of light and material particles when confined to nanoscale dimensions; scanning tunneling microscopy (STM), atomic force microscopy (AFM), scanning electron microscopy (SEM); microelectromechanical systems (MEMS) design; basic micromachining and chemical synthesis methods, i.e., "top-down" and "bottom-up" approaches to nanofabrication; how to manipulate structures on the nanoscale; physical laws and limits they place on the nanoworld; some far-out ideas. In the laboratory, students construct a simple STM to record atomic resolution images; learn through hands on experience the basic workings of an SEM; use a MEMS computer-aided design software package to model the entire manufacturing sequence of a simple MEMS device, examine the simulated behavior of the device and compare it with real behavior; investigate the optical properties of quantum dots and the unexpected properties of fluids that flow through narrow channels.
+
+Code: AEP 2170
+Title: Physics II: Electricity and Magnetism
+Description: Second in a three semester introductory physics sequence. Explores quantitative modeling of the physical world through a study of electricity and magnetism. More mathematical and abstract than a typical introductory electricity and magnetism course. Topics include electrostatics, behavior of matter in electric fields, circuits, magnetic fields, Faraday's law, AC circuits, and electromagnetic waves. Makes substantial use of vector calculus. At the level of Electricity and Magnetism by Purcell.
+
+Code: AEP 3330
+Title: Mechanics of Particles and Solid Bodies
+Description: Newtonian mechanics, especially with dissipative forces; objects rotating around a constant direction and possibly translating, using both torque and energy; coupled and damped-driven linear oscillations and an introduction to nonlinear systems; an introduction to variational calculus; Lagrangian and Hamiltonian formalism for generalized coordinates; central-force motion and a brief introduction to scattering; non-inertial reference systems; 3D motion of rigid bodies. (At the level of Classical Dynamics by Marion and Thornton and Classical Mechanics by John Taylor).
+
+Code: AEP 3560
+Title: Intermediate Electrodynamics
+Description: Second course in theory of electromagnetism: Magnetic materials, Faraday's law, Maxwell equations, electromagnetic waves, reflection and transmission, guided waves, and radiation.
+
+Code: AEP 3610
+Title: Introductory Quantum Mechanics
+Description: Introductory course in quantum mechanics. Topics include Schrodinger's equation and the statistical interpretation of the wavefunction, potentials in 1 to 3 dimensions, Dirac notation and Hilbert space, ladder operators for harmonic potentials and angular momentum, exact solutions for the hydrogen atom and spin systems. Emphasis is on developing both an intuitive understanding of quantum mechanics and how to apply it rigorously.
+
+Code: AEP 3630
+Title: Electronic Circuits
+Description: Practical electronics as encountered in a scientific or engineering research/development environment. Analyze, design, build, and test circuits using discrete components and integrated circuits. Analog circuits: resistors, capacitors, operational amplifiers, feedback amplifiers, oscillators, comparators, passive and active filters, diodes, and transistor switches and amplifiers. Digital circuits: combinational and sequential logic (gates, flipflops, registers, counters, timers), analog to digital (ADC) and digital to analog (DAC) conversion, signal averaging, and computer architecture and interfacing. Additional topics may include analog and digital signal processing, light wave communications, transducers, noise reduction techniques, and computer-aided circuit design. At the level of Art of Electronics by Horowitz and Hill.
+
+Code: AEP 4200
+Title: Intermediate Mathematical Physics
+Description: Covers Fourier and Laplace transforms, ordinary and partial differential equations, separation of variables, Method of Frobenius, Laplace transform techniques. Green's functions, wave and diffusion equations, Solutions to Laplace's Equation, Hermitian Operators, Sturm-Liouville operators, Bessel functions, Legendre Polynomials, spherical harmonics.
+
+Code: AEP 4230
+Title: Statistical Thermodynamics
+Description: Quantum statistical basis for equilibrium thermodynamics, microcanonical, canonical and grand canonical ensembles, and partition functions. Classical and quantum ideal gases, paramagnetic and multiple-state systems. Maxwell-Boltzmann, Fermi-Dirac, and Bose-Einstein statistics and applications. Introduction to systems of interacting particles. At the level of Introductory Statistical Mechanics by Bowley and Sanchez.
+
+Code: AEP 4380
+Title: Computational Engineering Physics
+Description: Introduction to Numerical computation (e.g., derivatives, integrals, differential equations, matrices, boundary-value problems, FFT's, Monte Carlo methods) as applied to engineering physics problems that cannot be solved analytically (e.g., chaotic systems, three-body problem, electrostatic fields, quantum energy levels). C/C++ computer programming required (some Matlab, Python, etc.). Some prior exposure to programming assumed but no previous experience with C/C++ assumed.
+
+Code: AEP 4500
+Title: Introductory Solid State Physics
+Description: Introduction to the physics of crystalline solids. Covers crystal structures; diffraction; electronic states and density functional theory; lattice vibrations; and metals, insulators, and semiconductors. Covers optical properties, magnetism, and superconductivity as time allows. The majority of the course addresses the foundations of the subject, but time is devoted to modern and/or technologically important topics such as quantum size effects. At the level of Introduction to Solid State Physics by Kittel or Solid State Physics by Ashcroft and Mermin.
+
+Code: AEP 4812
+Title: Quantum Information Processing
+Description: Hardware that exploits quantum phenomena can dramatically alter the nature of computation. Though constructing a general purpose quantum computer remains a formidable technological challenge, there has been much recent experimental progress. In addition, the theory of quantum computation is of interest in itself, offering new perspectives on the nature of computation and information, as well as providing novel insights into the conceptual puzzles posed by quantum theory. This course is intended for physicists, unfamiliar with computational complexity theory or cryptography, and for computer scientists and mathematicians with prior exposure to quantum mechanics. Topics include: simple quantum algorithms, error correction, cryptography, teleportation, and uses of quantum computing devices either currently available or to be available in the near future.
+
+Code: AEP 4900
+Title: Undergraduate Research in Engineering Physics
+Description: Laboratory or theoretical work in any branch of engineering physics under the direction of a member of the faculty. The study can take a number of forms; for example, design of laboratory apparatus, performance of laboratory measurements, computer simulation or software developments, theoretical design and analysis. Details TBD with respective faculty member.
+
+Code: AEP 4910
+Title: Honors Research in Engineering Physics
+Description: Laboratory or theoretical work in any branch of engineering physics under the direction of a member of the faculty. The study can take a number of forms; for example, design of laboratory apparatus, performance of laboratory measurements, computer simulation or software developments, theoretical design and analysis. A written report, an oral presentation and at least a grade of A- is required for successful completion of the Engineering Physics honors requirement.
+
+Code: AEP 5200
+Title: Intermediate Mathematical Physics
+Description: Covers Fourier and Laplace transforms, ordinary and partial differential equations, separation of variables, Method of Frobenius, Laplace transform techniques. Green's functions, wave and diffusion equations, Solutions to Laplace's Equation, Hermitian Operators, Sturm-Liouville operators, Bessel functions, Legendre Polynomials, spherical harmonics.
+
+Code: AEP 5230
+Title: Statistical Thermodynamics
+Description: Quantum statistical basis for equilibrium thermodynamics, microcanonical, canonical and grand canonical ensembles, and partition functions. Classical and quantum ideal gases, paramagnetic and multiple-state systems. Maxwell-Boltzmann, Fermi-Dirac, and Bose-Einstein statistics and applications. Introduction to systems of interacting particles. At the level of Introductory Statistical Mechanics by Bowley and Sanchez.
+
+Code: AEP 5330
+Title: Mechanics of Particles and Solid Bodies
+Description: Newtonian mechanics, especially with dissipative forces; objects rotating around a constant direction and possibly translating, using both torque and energy; coupled and damped-driven linear oscillations and an introduction to nonlinear systems; an introduction to variational calculus; Lagrangian and Hamiltonian formalism for generalized coordinates; central-force motion and a brief introduction to scattering; non-inertial reference systems; 3D motion of rigid bodies. (At the level of Classical Dynamics by Marion and Thornton and Classical Mechanics by John Taylor).
+
+Code: AEP 5380
+Title: Computational Engineering Physics
+Description: Introduction to Numerical computation (e.g., derivatives, integrals, differential equations, matrices, boundary-value problems, FFT's, Monte Carlo methods) as applied to engineering physics problems that cannot be solved analytically (e.g., chaotic systems, three-body problem, electrostatic fields, quantum energy levels). C/C++ computer programming required (some Matlab, Python, etc.). Some prior exposure to programming assumed but no previous experience with C/C++ assumed.
+
+Code: AEP 5502
+Title: Introductory Solid State Physics
+Description: Introduction to the physics of crystalline solids. Covers crystal structures; diffraction; electronic states and density functional theory; lattice vibrations; and metals, insulators, and semiconductors. Covers optical properties, magnetism, and superconductivity as time allows. The majority of the course addresses the foundations of the subject, but time is devoted to modern and/or technologically important topics such as quantum size effects. At the level of Introduction to Solid State Physics by Kittel or Solid State Physics by Ashcroft and Mermin.
+
+Code: AEP 5560
+Title: Intermediate Electrodynamics
+Description: Second course in theory of electromagnetism: Magnetic materials, Faraday's law, Maxwell equations, electromagnetic waves, reflection and transmission, guided waves, and radiation.
+
+Code: AEP 5610
+Title: Introductory Quantum Mechanics
+Description: Introductory course in quantum mechanics. Topics include Schrodinger's equation and the statistical interpretation of the wavefunction, potentials in 1 to 3 dimensions, Dirac notation and Hilbert space, ladder operators for harmonic potentials and angular momentum, exact solutions for the hydrogen atom and spin systems. Emphasis is on developing both an intuitive understanding of quantum mechanics and how to apply it rigorously.
+
+Code: AEP 7510
+Title: M.Eng. Project
+Description: Independent study under the direction of a member of the university faculty. Students participate in an independent research project through work on a special problem related to their field of interest. A formal and complete research report is required.
+
+Code: AEP 7530
+Title: Special Topics Seminar in Applied Physics
+Description: Special topics in applied science, with focus on areas of applied physics and engineering that are of current interest. Subjects chosen are presented in a seminar format by the students. A major goal of this course is to provide training and experience planning, preparing, and presenting proposals, progress reports, technical talks, and research papers.
+
+Code: AEP 7681
+Title: Quantum Information Processing
+Description: Hardware that exploits quantum phenomena can dramatically alter the nature of computation. Though constructing a general purpose quantum computer remains a formidable technological challenge, there has been much recent experimental progress. In addition, the theory of quantum computation is of interest in itself, offering new perspectives on the nature of computation and information, as well as providing novel insights into the conceptual puzzles posed by quantum theory. This course is intended for physicists, unfamiliar with computational complexity theory or cryptography, and for computer scientists and mathematicians with prior exposure to quantum mechanics. Topics include: simple quantum algorithms, error correction, cryptography, teleportation, and uses of quantum computing devices either currently available or to be available in the near future.
+

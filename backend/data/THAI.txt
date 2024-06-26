@@ -1,0 +1,20 @@
+Code: THAI 1121
+Title: Elementary Thai I
+Description: This beginning level course provides a solid grounding in all four language skills (listening, speaking, reading, and writing) with an emphasis on speaking and listening comprehension.  The aim is to enable learners to think in Thai and learn to converse and "get around" in certain basic situations in daily life.
+
+Code: THAI 2201
+Title: Intermediate Thai I
+Description: Continues to develop and comprehensively extends the four language skills acquired at the Elementary level (listening, speaking, reading, and writing).
+
+Code: THAI 3301
+Title: Advanced Thai I
+Description: Develops advanced speaking skill with emphasis on selected readings in Thai from various fields, for example, History, Anthropology, Government, Economics, Agriculture, as well as other professional schools.  The readings are supplemented with visual materials such as video clips and films.
+
+Code: THAI 3303
+Title: Thai Literature I
+Description: Reading of significant novels, short stories, and poetry written since 1850 and other classical works.
+
+Code: THAI 5509
+Title: Graduate Studies in Thai
+Description: Topics vary by semester in relation to student needs.
+

@@ -1,0 +1,24 @@
+Code: HEBRW 1101
+Title: Elementary Modern Hebrew I
+Description: Intended for beginners. Provides a thorough grounding in reading, writing, grammar, oral comprehension, and speaking. Students who complete the course are able to function in basic situations in a Hebrew-speaking environment.
+
+Code: HEBRW 1103
+Title: Elementary Modern Hebrew III
+Description: Sequel to HEBRW 1101-HEBRW 1102. Continued development of reading, writing, grammar, oral comprehension, and speaking skills.
+
+Code: HEBRW 3101
+Title: Advanced Modern Hebrew I
+Description: This constitutes the first course in our third year of the Modern Hebrew language sequence.  Development of speech proficiency will be emphasized. Over the course of the semester, students will develop reading comprehension through reading a variety of fiction and nonfiction texts, listening comprehension through screening of filmic works and episodes drawn from popular television series, writing through communication about what is read and screened, as well as more personal topics, and speech through in class discussion and oral presentations.  Readings will include authentic and partially adapted contemporary short stories, poems and newspaper articles.
+
+Code: HEBRW 3103
+Title: Advanced Hebrew Through Media
+Description: This course is intended to continue the development of all aspects of Hebrew language skills. Emphasis, however, will be placed on speaking skills and understanding through the use of various outlets in Israeli media: television, film, online sources, newspapers, songs and literature. The use of text and media material relevant to Israeli contemporary society and culture will help the students to gain better understanding of Israeli society and culture.
+
+Code: HEBRW 5509
+Title: Graduate Studies in Hebrew
+Description: Topics vary by semester in relation to student needs.
+
+Code: HEBRW 5510
+Title: Graduate Studies in Hebrew
+Description: Topics vary by semester in relation to student needs.
+

@@ -1,0 +1,136 @@
+Code: NES 1602
+Title: Great Discoveries in Greek and Roman Archaeology
+Description: This introductory course surveys the archaeology of the ancient Greek and Roman world. Each week, we will explore a different archaeological discovery that transformed scholars' understanding of the ancient world. From early excavations at sites such as Pompeii and Troy, to modern field projects across the Mediterranean, we will discover the rich cultures of ancient Greece and Rome while also exploring the history, methods, and major intellectual goals of archaeology.
+
+Code: NES 1921
+Title: FWS: Radical Love: The Mystical Traditions of Islam
+Description: The eleventh century Muslim poet Rumi called love "the water of life." While Islam today is often viewed through the lens of politics and violence, this class will provide an introduction to the mystical traditions of Islam with a particular focus on the importance of love.  Other themes will include mystical understandings of the body, the self, the natural world, sexuality, the role of music and art in becoming close to the divine, and more. We will be writing about many of these themes, and will read works of poetry and philosophy, passages from the Quran, and histories of mystical movements past and present. In doing so, we will be able to understand how mystical love operates not just as a metaphor, but a way of life.
+
+Code: NES 2201
+Title: Intermediate Urdu Reading and Writing I
+Description: This course is designed to develop competence in Urdu reading and writing for students with a first-year knowledge of Hindi and knowledge of Urdu script. The goal of this course is to improve listening, speaking, reading and writing abilities in Urdu. By the end of the course, students will have the ability to read articles, write short stories and translate Urdu writings. May be taken concurrently with Intermediate Hindi.
+
+Code: NES 2488
+Title: Israel: History, Culture, Society
+Description: This course is an introductory survey to various aspects of Israeli culture, society, and history. Through a close examination of various media (film, music, literature) as well as key events and social and political facts, students explore a range of phenomena related to Israeli social practices and its political system, alongside a chronological overview of changes in Israeli culture and society over time. Topics covered may include geography, immigration, demographics, inequality, Israeli-Palestinian conflict, Hebrew language, gender, literature, film, among others.
+
+Code: NES 2522
+Title: Drinking through the Ages: Intoxicating Beverages in Near Eastern and World History
+Description: This course examines the production and exchange of wine, beer, coffee and tea, and the social and ideological dynamics involved in their consumption. We start in ancient Egypt and Mesopotamia, and end with tea and coffee in the Arab and Ottoman worlds. Archaeological and textual evidence will be used throughout to show the centrality of drinking in daily, ritual and political life.
+
+Code: NES 2599
+Title: Medicine, Magic and Science in the Ancient Near East
+Description: This course explores the history of medicine and other sciences in the ancient Near East, broadly defined. In addition to medicine, the other scientific disciplines covered in this course include mathematics, astrology, astronomy, alchemy, zoology, among others. Geographically, the course traces the transmission of scientific knowledge in ancient Babylonia, Iran, Egypt, Israel, Turkey, and beyond. As such, the course offers students a tour of different ancient civilizations and corpora. Students read selections from cuneiform Akkadian tablets, Egyptian Christian Coptic spellbooks, rabbinic sources such as the Talmud, among many other works. At the same time, students will be required to critically engage recent scholarship in the history of science and medicine as a way to help frame their analyses of the ancient materials. The course interrogates how ancient civilizations transmitted and received scientific knowledge, as well as the relationship between what we today tend to call science, medicine, magic, and religion. This course is intended not only for students in the Humanities and Social Sciences, but also for those majoring in science or medicine.
+
+Code: NES 2627
+Title: Introduction to Islam
+Description: This course is an introduction to the study of Islam and Islamic history. Organised historically, the lecture series will begin with the career of the Prophet Muhammad, before charting the course of the Islamic Conquests, the establishment, zenith and collapse of various Islamic Empires, ending with European colonialism. Along the way, this geopolitical and historical overview will provide a backdrop to our exploration of changes and developments in Islamic thought and practice. In particular, we will focus on the emergence of the Sunni-Shi'i conflict, the rise of Sufism and Salafism, as well as how scholars across time and space thought and wrote about questions of ideal Islamic governance, the religious authority of the caliph, women's role in society and public space, slavery, the ethics of living under non-Muslim rule and the place of non-Muslims in Islamic society.
+
+Code: NES 2674
+Title: History of the Modern Middle East
+Description: This course examines major trends in the evolution of the Middle East in the modern era. Focusing on the 19th and 20th centuries and ending with the "Arab Spring," we will consider Middle East history with an emphasis on five themes: imperialism, nationalism, modernization, Islam, and revolution. Readings will be supplemented with translated primary sources, which will form the backbone of class discussions.
+
+Code: NES 2697
+Title: History of the Israeli-Palestinian Conflict
+Description: This course examines the history of the conflict between two peoples with claims to the same land (Palestine/Israel), from the rise of their national movements at the turn of the 20th century and their eventual clash down to the present crisis. We will investigate the various stable and shifting elements in the evolution of the conflict including conflicting Israeli and Palestinian narratives and mythologies about the nature of the conflict. Among many issues to be addressed are: the relationship of this conflict to the history of European colonialism in the Middle East, the emergence of Pan-Arabism and Islamism, the various currents in Zionism and its relationship to Judaism, the implication of great power rivalry in the Middle East, the different causes and political repercussions of the four Arab-Israeli wars, efforts at peacemaking including Oslo and Camp David, and the significance of the two Palestinian uprisings.
+
+Code: NES 2724
+Title: The Jewish Bible-Old Testament in Context
+Description: The Hebrew Bible (Old Testament) is a repository of ancient Israelite religious, political, social, historical, and literary traditions. For the modern reader these ancient traditions are often obscured by a focus on the text as revelation. The purpose of this course is to introduce students to the biblical world by reading the Hebrew Bible in translation, on its own terms, as a body of literature that evolved in an ancient Near Eastern context. The Bible itself will be the primary text for the course, but students will also be exposed to the rich and diverse textual traditions of the ancient Near East, including Mesopotamia, Egypt, Moab, and Ugarit. In addition, this course will explore the impact of early biblical interpretation on shaping the monotheistic traditions inherited in the West. As participants in a secular course on the Bible, students will be challenged to question certain cultural assumptions about the composition and authorship of the Bible, and will be expected to differentiate between a text's content and its presumed meaning.
+
+Code: NES 2754
+Title: Wondrous Literatures of the Near East
+Description: This course examines Near East's rich and diverse literary heritage. We will read a selection of influential and wondrous texts from ancient to modern times, spanning geographically from the Iberian peninsula to Iran. We will explore a range of ancient myths of creation and destruction. We will also trace encounters with otherness in travel narratives. Together we will read and discuss such ancient works as the "The Story of Sinuhe" and "The Epic of Gilgamesh," as well as selections from the Hebrew Bible, New Testament and Qur'an. We will explore medieval works such as the "Travels" of Ibn Battuta, the "Shahnameh" of Ferdowsi, and "The Arabian Nights." We will also read Orhan Pamuk's My Name is Red, and Sonia Nimr's Wondrous Journeys in Strange Lands, as well as excerpts from Yochi Brandes's The Orchard. Students will also have the opportunity to research and analyze primary source materials in the collections of Cornell Rare Books and Manuscript Collection, and the Johnson Art Museum. All material is in English translation.
+
+Code: NES 3204
+Title: Heritage Forensics
+Description: This course provides students with an orientation to the new technologies reshaping the effort to preserve cultural heritage. The course introduces students to the tools that Geographic Information Systems (GIS) and remote sensing (especially aerial and satellite imaging) provide for advancing heritage preservation and detecting cultural erasure. Our focus will be on contexts where heritage has emerged as a site of conflict, from Bosnia to Syria to Ukraine. Students will develop proficiency in a range of spatial technologies and their application to the human past. The course will culminate in projects that use new technologies to save heritage at risk.
+
+Code: NES 3325
+Title: Literary Reading and Writing in Advanced Urdu
+Description: Designed for those students who have either taken Intermediate Urdu or are at the same level of competency in reading and writing skills. The goals of this class are to improve Urdu literary reading and writing abilities, primarily through reading various forms of Urdu prose. In addition, students learn about various genres of Urdu poetry and watch video clips and lectures that enhance listening and speaking abilities as well as the understanding and appreciation of Urdu culture.
+
+Code: NES 3411
+Title: Jewish Family and Marriage Law
+Description: Through the centuries, Rabbinic Judaism developed an elaborate set of rules for governing marriage and family life, grounded in the Hebrew Bible and adapted to the realities of life in diaspora. This complex and sophisticated system helps to explain the continuity of Jewish collective identity in the sustained absence of a shared territorial homeland. We will study together part of the Talmudic tractate Yevamot (concerning the Levirate marriage) and relevant passages from the code known as Shulchan Aruch, along with scholarship in English. Some reading knowledge of Rabbinic Hebrew-Aramaic required.
+
+Code: NES 3539
+Title: Islamic Spain: Culture and Society
+Description: This course examines the culture and society of al-Andalus (Islamic Spain) from 711, when Islam arrived in Iberia, until 1492 and the demise of Nasrid Granada. Through extensive discussion and analysis of Arabic, Latin, and Hebrew primary documents and literary texts of various genres (in translation), the course challenges ideological bases of conventional thinking regarding the social, political, and cultural identity of medieval "Spain." Among other things, the class investigates the origins of lyric poetry, the relationships among the various confessional and ethnic communities in al-Andalus and the problems involved in Mozarabic Christian and Andalusi Jewish subcultural adaptations of Andalusi Arabo-Islamic culture.
+
+Code: NES 3686
+Title: Feminism and Islam in North Africa
+Description: The course is a survey of Feminist Islamic thinkers from Morocco, Algeria, Tunisia and Egypt, and their diaspora, featuring both French and Arabic texts in English translation. The purpose of the course is to critically explore the competing treatment of major gendered tropes in a Muslim context (the veil, the harem, polygamy, etc.) by North African thinkers, through their examination of qur'anic surats/hadiths, the evolution of tafsirs (tradion of qur'anic exegesis) as well as their conflicting approaches to secular western feminism. Readings might include: Fatema Mernissi, Asmaa Lamrabet, Qasim Amin, Naguib Mahfoud, Assia Djebar, Mona Eltahawy, and Nawal El-Saadawi.
+
+Code: NES 3720
+Title: Women and Gender in Biblical Israel
+Description: This course focuses on how Biblical texts represent women in ancient Israel, and how the Bible's representations constitute both a fabrication and a manifestation of social life on the ground.  We will use biblical, archaeological, and ancient Near Eastern textual evidence to consider the complicated relationship between ancient society and the textual and material records from which we reconstruct it. In addition, this course will examine how women's roles in the Hebrew Bible have been understood and integrated in later Jewish and Christian thought, and how these discourses shape contemporary American attitudes towards women, sexuality, and gender.
+
+Code: NES 3787
+Title: Interpreting the Qur'an
+Description: The Qur'an is a cornucopia of stories, laws, apocalyptic visions, Paradisical landscapes and stark warnings. This course presents students with the opportunity not only to read the Qur'an in translation in its entirety, but also to explore different ways in which the Qur'anic text has been and can be interpreted, and the different religious, social and ethical questions that derive from different methods of interpretation. Across the course, students will be asked to explore questions, such as: how does dating the Qur'an impact interpretation? How does the debate concerning Qur'anic (un)createdness impact its interpretation? Is it possible to use extra-Qur'anic material to interpret the Qur'an? How can the Qur'an be read as a literary text? Or as a source of law? Or as a source for history? What is the Qur'an's own view of the past, present and future? How do feminist and queer Muslims read and interpret the Qur'an? This course is secular and academic in nature. We will study a wide range of religious and secular/academic approaches to interpreting the Qur'an, some of which may challenge widely-held assumptions about the Qur'an's authorship, dating, composition and interpretation.
+
+Code: NES 3880
+Title: Islam and the Ethnographic Imagination
+Description: How does one study Islam from an anthropological perspective?  Through close readings of recent ethnographies, canonical texts, theoretical works, and critiques of the genre, we will understand the major debates and intellectual trends that have defined the anthropology of Islam from its earliest inception through the present day. Geographic areas covered include South Asia, the Middle East, Southeast Asia, America, North Africa, and West Africa.
+
+Code: NES 4196
+Title: From the Bible to the Museum: Jewish Memory and Public History
+Description: How has the remembrance of the past shaped the evolution of Jewish religion, identity, and culture from Biblical times to the present? How have the creation, dissemination, and preservation of Jewish memory changed over time? How is Jewish history used in political discourse in contemporary society in the U.S. and around the Globe? How can the historical tools be utilized to generate a sophisticated and discerning public engagement with the complexities of the Jewish past? In this course, students will explore these questions through seminar discussions, attending, evaluating, and critiquing exhibits and cultural events and watching films that put Jewish history on display, and by deploying their own research, writing, and creative skills to produce public facing final projects or a traditional research paper.
+
+Code: NES 4584
+Title: Bordering Humanity: Race and Migration in the Modern Middle East and North Africa
+Description: This course is an historical introduction to the study of borders, race, and migration in the modern Middle East and North Africa. We will explore the fundamental migration events that have shaped the Middle Eastern and North African history, including global settler movements, enslavement and forced migration, partitions and population transfers, and contemporary refugee crises. We will discuss how race and migration shaped successive border regimes and competing world orders from the 19th century to the present. Analyzing a diverse array of primary sources from legal texts and maps to poetry and literature, we will pursue answers to questions such as: What are the legal, social, and political structures which govern international migration? What laws, ideas, and affects construct political borders? What happens to those who breach them? How do the legacies of racial slavery, settler colonialism, and ethno-nationalism unsettle the borders of contemporary Middle East and North Africa?
+
+Code: NES 4672
+Title: Nationalism(s) in the Arab World
+Description: This seminar examines the emergence of national identities, nationalist movements, and nation-states in the modern Arab world. First, we will examine various approaches to the question of nationalism, using Benedict Anderson's Imagined Communities as our basic reference. We will then test the applicability of these general theories to the Arab World through our examination of specific case studies.
+
+Code: NES 4991
+Title: Independent Study, Undergraduate Level
+Description: For undergraduates who wish to obtain research experience or do extensive reading on a special topic. Students select a topic in consultation with the faculty member who has agreed to supervise the course. For undergraduates who wish to obtain research experience or do extensive reading on a special topic. Students select a topic in consultation with the faculty member who has agreed to supervise the course.
+
+Code: NES 4998
+Title: Senior Honors Essay
+Description: Each fall, a small number of highly qualified seniors enter the Near Eastern Studies Honors Program. The Honors Program is open to NES majors who have done superior work and who wish to devote a substantial part of their senior year to advanced, specialized, independent research and writing of a thesis. Successfully completing an honors thesis will require sustained interest, exceptional ability, diligence, and enthusiasm. Students must also take two honors courses NES 4998 in fall and NES 4999 in spring, in addition to the regular major requirements. While admission to the Honors Program and completion of a thesis do not guarantee that students will be awarded honors in Near Eastern Studies, most students find the experience as intellectually rewarding as it is rigorous.
+
+Code: NES 4999
+Title: Senior Honors Essay
+Description: Each fall, a small number of highly qualified seniors enter the Near Eastern Studies Honors Program. The Honors Program is open to NES majors who have done superior work and who wish to devote a substantial part of their senior year to advanced, specialized, independent research and writing of a thesis.  Successfully completing an honors thesis will require sustained interest, exceptional ability, diligence, and enthusiasm. Students must also take two honors courses NES 4998 in fall and NES 4999 in spring, in addition to the regular major requirements. While admission to the Honors Program and completion of a thesis do not guarantee that students will be awarded honors in Near Eastern Studies, most students find the experience as intellectually rewarding as it is rigorous.
+
+Code: NES 6411
+Title: Jewish Family and Marriage Law
+Description: Through the centuries, Rabbinic Judaism developed an elaborate set of rules for governing marriage and family life, grounded in the Hebrew Bible and adapted to the realities of life in diaspora. This complex and sophisticated system helps to explain the continuity of Jewish collective identity in the sustained absence of a shared territorial homeland. We will study together part of the Talmudic tractate Yevamot (concerning the Levirate marriage) and relevant passages from the code known as Shulchan Aruch, along with scholarship in English. Some reading knowledge of Rabbinic Hebrew-Aramaic required.
+
+Code: NES 6539
+Title: Islamic Spain: Culture and Society
+Description: This course examines the culture and society of al-Andalus (Islamic Spain) from 711, when Islam arrived in Iberia, until 1492 and the demise of Nasrid Granada. Through extensive discussion and analysis of Arabic, Latin, and Hebrew primary documents and literary texts of various genres (in translation), the course challenges ideological bases of conventional thinking regarding the social, political, and cultural identity of medieval "Spain." Among other things, the class investigates the origins of lyric poetry, the relationships among the various confessional and ethnic communities in al-Andalus and the problems involved in Mozarabic Christian and Andalusi Jewish subcultural adaptations of Andalusi Arabo-Islamic culture.
+
+Code: NES 6584
+Title: Bordering Humanity: Race and Migration in the Modern Middle East and North Africa
+Description: This course is an historical introduction to the study of borders, race, and migration in the modern Middle East and North Africa. We will explore the fundamental migration events that have shaped the Middle Eastern and North African history, including global settler movements, enslavement and forced migration, partitions and population transfers, and contemporary refugee crises. We will discuss how race and migration shaped successive border regimes and competing world orders from the 19th century to the present. Analyzing a diverse array of primary sources from legal texts and maps to poetry and literature, we will pursue answers to questions such as: What are the legal, social, and political structures which govern international migration? What laws, ideas, and affects construct political borders? What happens to those who breach them? How do the legacies of racial slavery, settler colonialism, and ethno-nationalism unsettle the borders of contemporary Middle East and North Africa?
+
+Code: NES 6672
+Title: Nationalism(s) in the Arab World
+Description: This seminar examines the emergence of national identities, nationalist movements, and nation-states in the modern Arab world. First, we will examine various approaches to the question of nationalism, using Benedict Anderson's Imagined Communities as our basic reference. We will then test the applicability of these general theories to the Arab World through our examination of specific case studies.
+
+Code: NES 6720
+Title: Women and Gender in Biblical Israel
+Description: This course focuses on how Biblical texts represent women in ancient Israel, and how the Bible's representations constitute both a fabrication and a manifestation of social life on the ground. We will use biblical, archaeological, and ancient Near Eastern textual evidence to consider the complicated relationship between ancient society and the textual and material records from which we reconstruct it. In addition, this course will examine how women's roles in the Hebrew Bible have been understood and integrated in later Jewish and Christian thought, and how these discourses shape contemporary American attitudes towards women, sexuality, and gender.
+
+Code: NES 6722
+Title: Graduate Colloquium
+Description: A series of lectures on a range of themes in the discipline sponsored by the Department of Near Eastern Studies. Presentations include lectures by invited speakers and works in progress presented by faculty and graduate students.
+
+Code: NES 6787
+Title: Interpreting the Qur'an
+Description: The Qur'an is a cornucopia of stories, laws, apocalyptic visions, Paradisical landscapes and stark warnings. This course presents students with the opportunity not only to read the Qur'an in translation in its entirety, but also to explore different ways in which the Qur'anic text has been and can be interpreted, and the different religious, social and ethical questions that derive from different methods of interpretation. Across the course, students will be asked to explore questions, such as: how does dating the Qur'an impact interpretation? How does the debate concerning Qur'anic (un)createdness impact its interpretation? Is it possible to use extra-Qur'anic material to interpret the Qur'an? How can the Qur'an be read as a literary text? Or as a source of law? Or as a source for history? What is the Qur'an's own view of the past, present and future? How do feminist and queer Muslims read and interpret the Qur'an? This course is secular and academic in nature. We will study a wide range of religious and secular/academic approaches to interpreting the Qur'an, some of which may challenge widely-held assumptions about the Qur'an's authorship, dating, composition and interpretation.
+
+Code: NES 6880
+Title: Islam and the Ethnographic Imagination
+Description: How does one study Islam from an anthropological perspective? Through close readings of recent ethnographies, canonical texts, theoretical works, and critiques of the genre, we will understand the major debates and intellectual trends that have defined the anthropology of Islam from its earliest inception through the present day. Geographic areas covered include South Asia, the Middle East, Southeast Asia, America, North Africa, and West Africa.
+
+Code: NES 6991
+Title: Independent Study: Graduate Level
+Description: For graduate students who wish to do intensive reading on a focused topic. Students select a topic in consultation with the faculty member that has agreed to supervise the course.
+

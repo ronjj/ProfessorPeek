@@ -124,7 +124,7 @@ function watchModalClose(modal) {
                     if (node === modal) {
                         console.log("Modal closed.");
                         observer.disconnect(); // Stop watching
-                        modalCheckInterval = setInterval(checkForModal, 3000); // Restart checking for the modal
+                        modalCheckInterval = setInterval(checkForModal, 2000); // Restart checking for the modal
                         return;
                     }
                 }
@@ -135,7 +135,7 @@ function watchModalClose(modal) {
     observer.observe(document.body, { childList: true, subtree: true });
 }
 
-modalCheckInterval = setInterval(checkForModal, 3000);  // Start the interval to check for the modal
+modalCheckInterval = setInterval(checkForModal, 2000);  // Start the interval to check for the modal
 
 
 

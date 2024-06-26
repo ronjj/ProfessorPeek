@@ -1,0 +1,188 @@
+Code: PHIL 1100
+Title: Introduction to Philosophy
+Description: A general introduction to some of the main topics, texts, and methods of philosophy. Topics may include the existence of God, the nature of mind and its relation to the body, causation, free will, knowledge and skepticism, and justice and moral obligation. Readings may be drawn from the history of philosophy and contemporary philosophical literature.
+
+Code: PHIL 1110
+Title: FWS: Philosophy in Practice
+Description: This First-Year Writing Seminar is about using philosophy and everyday life and provides the opportunity to write extensively about these issues.  Topics vary by section.
+
+Code: PHIL 1111
+Title: FWS: Philosophical Problems
+Description: This First-Year Writing Seminar discusses problems in philosophy and gives the opportunity to write about them.  Topics vary by section.
+
+Code: PHIL 1112
+Title: FWS: Philosophical Conversations
+Description: This First-Year Writing Seminar offers the opportunity to discuss and write about philosophy.  Topics vary by section.
+
+Code: PHIL 1620
+Title: Introduction to Cognitive Science
+Description: This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.
+
+Code: PHIL 1621
+Title: WIM: Introduction to Cognitive Science
+Description: This section is highly recommended for students who are interested in learning about the topics covered in the main course through writing and discussion.
+
+Code: PHIL 1650
+Title: Philosophy of Race
+Description: This course offers an introduction to the philosophy of race. It canvasses key debates in the field concerning the metaphysical status of race, the relationship between the concept of race and racism (and the nature of the latter), the first-person reality of race, and the connections and disconnections between racial, ethnic, and national identities.
+
+Code: PHIL 1950
+Title: Controversies About Inequality
+Description: In recent years, poverty and inequality have become increasingly common topics of public debate, as academics, journalists, and politicians attempt to come to terms with growing income inequality, with the increasing visibility of inter-country differences in wealth and income, and with the persistence of racial, ethnic, and gender stratification. This course introduces students to ongoing social scientific debates about the sources and consequences of inequality, as well as the types of public policy that might appropriately be pursued to reduce (or increase) inequality. These topics will be addressed in related units, some of which include guest lectures by faculty from other universities (funded by the Center for the Study of Inequality). Each unit culminates with a highly spirited class discussion and debate.
+
+Code: PHIL 1960
+Title: Law, Society, and Morality
+Description: An introduction to leading topics in legal theory and political philosophy such as: what the laws should be, how they shape and are shaped by society, how they are and should be interpreted, the proper role of ethical and religious outlooks in lawmaking, the obligation to obey the law, and the relationship between private life and public legislation.
+
+Code: PHIL 2200
+Title: Greek and Roman Philosophy
+Description: An introductory survey of ancient Greek philosophy from the so-called Presocratics (6th century BCE) through the Hellenistic period (1st century BCE) with special emphasis on the thought of Socrates, Plato, and Aristotle.
+
+Code: PHIL 2260
+Title: Slavery in Philosophy
+Description: This course examines slavery as a topic of philosophical analysis. Surveying a range of ancient and modern discourses, we will think together about the following questions: What is slavery? What is a slave? Who can be a slave? Why does slavery exist? What is the relationship between slavery and race? Slavery and gender? Slavery and religion? We will encounter several views on these questions, paying close attention to the ways they emerged in their historical contexts. We will begin with a study of slavery in the ancient world, focusing on Greece and Rome. Ancient Greek and Roman accounts of slavery and freedom form much of the foundation for how slavery was understood in the medieval and early modern world. These beginnings will give us the conceptual tools necessary for us to analyze and understand the enslavement of Indigenous peoples and Africans by Europeans and the American anti-slavery movement. The course ends by considering slavery's enduring legacy in the modern university.
+
+Code: PHIL 2310
+Title: Introduction to Deductive Logic
+Description: Covers sentential languages, the truth-functional connectives, and their logic; first-order languages, the quantifiers "every" and "some," and their logic.
+
+Code: PHIL 2410
+Title: Ethics
+Description: This will be a lecture course on classic and contemporary work on central topics in ethics. The first third of the course will focus on metaethics: we will examine the meaning of moral claims and ask whether there is any sense in which moral principles are objectively valid. The second third of the course will focus on normative ethics: what makes our lives worth living, what makes our actions right or wrong, and what do we owe to others? The final third of the course will focus on moral character: what is moral praiseworthiness, and how important is it? Can we be held responsible for what we do? When and why?
+
+Code: PHIL 2430
+Title: Moral Dilemmas in the Law
+Description: The course concerns the principles and philosophical arguments underlying conflicts and moral dilemmas of central and ongoing concern to society as they arise within legal contexts. We consider questions such as what justifies using state power to punish people for wrongdoing, what kinds of conduct are rightly criminalized, what justifies the Supreme Court's power to strike down Congressional legislation, what justifies the right to private property and its boundaries, what is the right to privacy and why it is important, what are human rights, and what is the morality and law of war. Throughout we will be reading legal cases and philosophical commentaries that engage with the deep issues that the cases pose.
+
+Code: PHIL 2621
+Title: Minds and Machines
+Description: Throughout history, metaphors drawn from technology of the time have been proposed to understand how the mind works. While Locke likened the newborn's mind to a blank slate, Freud compared the mind to hydraulic and electro-magnetic systems. More recently, many have endorsed Turing's proposal that the mind is a computer. Why is this idea attractive and what exactly is a computer? Is it at all plausible that the cells of your brain are computing? Could a computer ever really have a mind, beliefs, emotions and conscious experiences? What are these mysterious things anyway? Could a machine ever count as a person and make choices based on its own free will? Is it really so clear that we have this kind of free will?
+
+Code: PHIL 2965
+Title: Ecological Justice: Feminist, Queer, and Trans Perspectives
+Description: This course is an in-depth study of ecological justice from feminist, queer, and trans perspectives. Historically, people marginalized by race, gender, sexuality, disability, and poverty have borne the brunt of environmental degradation. But they have also led environmental movements and ecological theorizing around the globe. Drawing on the traditions of ecofeminism, racial justice, queer and trans ecology, and disability theory, students will learn how feminist, queer, and trans thinking has reshaped binaries at the heart of environmental ethics, including nature/artifice, human/animal, stranger/kin, science/poetics, and activism/daily life. As such, students will deepen their knowledge of intersectional justice within a more-than-human world.
+
+Code: PHIL 2990
+Title: Foundations of Law and Society
+Description: This course explores the meaning of Law and Society, which is an interdisciplinary study of the interactive nature of legal and social forces. A law and society perspective places law in its historical, social, and cultural context, studying the dynamic way in which law shapes social norms, policy, and institutions, and conversely, the way that social forces shape the law. This Foundations of Law and Society course is structured as a series of four modules, each taught by a faculty member from a different discipline. The modules will introduce students to a range of disciplinary methods and content related to the study of the interaction of law with social, political, and economic institutions and relationships.
+
+Code: PHIL 3180
+Title: Origins of 20th Century Philosophy
+Description: In this course, we will consider some philosophical writings from the last third of the 19th century through the early 20th century that are both of interest in themselves and helped shape philosophical work up to today. We will also read some more recent writings that address issues raised by material from that target period.
+
+Code: PHIL 3300
+Title: Introduction to Set Theory
+Description: This will be a course on standard set theory (first developed by Ernst Zermelo early in the 20th century): the basic concepts of sethood and membership, operations on sets, functions as sets, the set-theoretic construction of the Natural Numbers, the Integers, the Rational and Real numbers; time permitting, some discussion of cardinality.
+
+Code: PHIL 3480
+Title: Philosophy of Law
+Description: This will be a class on various topics in the philosophy of law. Some questions we'll be considering: What is law? Do laws have moral content? What is the proper role of judges in interpreting the law? What do alternatives to our legal system look like? Is there an obligation to obey the law? Might there sometimes be an obligation to disobey the law? What, if anything, justifies punishment by the state? What counts has having an excuse for wrongdoing? What counts as good evidence of guilt? What are the justifications for and limits of the right to free speech? When, if ever, is paternalistic interference by the state into the lives of its citizens justified? And what special ethical problems do practicing lawyers face?
+
+Code: PHIL 3830
+Title: Decision Theory
+Description: This course delves into decision theory.  We shall be concerned with a fundamental normative question: what ought one to do, given what one believes and values.  Our focus, throughout, will be on philosophical questions and not on applications.
+
+Code: PHIL 3900
+Title: Independent Study
+Description: To be taken only in exceptional circumstances. Must be arranged by the student with his or her advisor and the faculty member who has agreed to direct the study.
+
+Code: PHIL 4200
+Title: Topics in Ancient Philosophy
+Description: Advanced discussion of topics in ancient philosophy. Topics vary by instructors.
+
+Code: PHIL 4310
+Title: Mathematical Logic
+Description: First course in mathematical logic providing precise definitions of the language of mathematics and the notion of proof (propositional and predicate logic). The completeness theorem says that we have all the rules of proof we could ever have. The Gödel incompleteness theorem says that they are not enough to decide all statements even about arithmetic. The compactness theorem exploits the finiteness of proofs to show that theories have unintended (nonstandard) models. Possible additional topics: the mathematical definition of an algorithm and the existence of noncomputable functions; the basics of set theory to cardinality and the uncountability of the real numbers.
+
+Code: PHIL 4490
+Title: Feminism and Philosophy
+Description: Feminist approaches to questions in metaphysics, epistemology, language, and value theory.
+
+Code: PHIL 4495
+Title: Trans Theory and the Question of Gender
+Description: The question "What is gender?" is an increasingly thorny and political one. This course provides students with an advanced introduction to debates about the nature and function of gender in contemporary trans theory and trans philosophy. Throughout the seminar, we will analyze various definitions of gender offered by trans thinkers: gender as genus, as genre, as performance, as self-identity, and as colonial category. We will critically assess the value and limitations of key gender terms such as cisgender, genderqueer, nonbinary, and transgender. Finally, we will grapple with the current debate about whether to abolish gender or to richly celebrate gender diversity.
+
+Code: PHIL 4611
+Title: Topics in Action Theory
+Description: Advanced discussion of a topic in philosophical action theory.
+
+Code: PHIL 4710
+Title: Topics in the Philosophy of Language
+Description: An investigation of varying topics in the philosophy of language including reference, meaning, the relationship between language and thought, communication, modality, logic and pragmatics.
+
+Code: PHIL 4730
+Title: Semantics I
+Description: Introduces methods for theorizing about meaning within generative grammar. These techniques allow the creation of grammars that pair syntactic structures with meanings. Students look at several empirical areas in detail, among them complementation (combining heads with their arguments), modification, conjunction, definite descriptions, relative clauses, traces, bound pronouns, and quantification. An introduction to logical and mathematical concepts used in linguistic semantics (e.g., set theory, functions and their types, and the lambda notation for naming linguistic meanings) is included in the course.
+
+Code: PHIL 4900
+Title: Informal Study for Honors I
+Description: Majors in philosophy may choose to pursue writing of an honors thesis in their senior year. Students undertake research leading to the writing of an honors essay by the end of the final semester. Prospective candidates should apply at the Department of Philosophy office, 218 Goldwin Smith Hall.
+
+Code: PHIL 4901
+Title: Informal Study for Honors II
+Description: Majors in philosophy may choose to pursue writing of an honors thesis in their senior year. Students undertake research leading to the writing of an honors essay by the end of the final semester. Prospective candidates should apply at the Department of Philosophy office, 218 Goldwin Smith Hall.
+
+Code: PHIL 6010
+Title: Greek Philosophical Texts
+Description: Reading and translation of Greek Philosophical texts.
+
+Code: PHIL 6100
+Title: Pro Seminar in Philosophy
+Description: Seminar for first year Philosophy graduate students.
+
+Code: PHIL 6200
+Title: Topics in Ancient Philosophy
+Description: Advanced discussion of topics in ancient philosophy. Topics vary by instructors.
+
+Code: PHIL 6290
+Title: Proseminar in the History of Philosophy
+Description: An introduction to current research in the history of philosophy primarily through engagement with a variety of presentations of such research by Cornell faculty, visiting scholars, and advanced graduate students doing dissertation-level work. Each seminar meeting will involve a viva voce presentation of a current paper or research project. Students in the course will be expected to engage in both critical discussion of the work presented and reflection on the practices and methodologies exemplified in that work. Advanced graduate students in the course will be expected to present work of their own. Exposure to a variety of scholars and their work and the opportunity for explicit reflection on scholarly practices will enable students to develop and refine their own research in the history of philosophy.
+
+Code: PHIL 6311
+Title: Topics in Logic and the Foundations of Mathematics
+Description: Advanced discussion of a topic in logic or foundational mathematics. Topics vary by instructor. For descriptions of each topic, please visit the university class roster.
+
+Code: PHIL 6417
+Title: Moral Foundations of Anti-Discrimination
+Description: What makes discrimination wrongful, when it is? Does its wrongness depend on social context and historical background? Does it depend on harmful consequences? What makes a certain ground of discrimination an improper ground? Is indirect discrimination ("disparate impact") really a form of discrimination or perhaps a mild form of affirmative action? What should be the reach and scope of anti-discrimination law? Should it allow for exemptions on religious or free speech grounds? We will address these and similar questions at a fairly abstract level, trying to understand the philosophical principles that might explain the various aspects of anti-discrimination law. Most of the legal examples will be focused on discrimination cases in the context of employment and service provision (Title VII),  but we will also consider racial profiling, disability cases, and some others.
+
+Code: PHIL 6490
+Title: Feminism and Philosophy
+Description: Feminist approaches to questions in metaphysics, epistemology, language, and value theory.
+
+Code: PHIL 6611
+Title: Topics in Action Theory
+Description: Advanced discussion of a topic in philosophical action theory.
+
+Code: PHIL 6710
+Title: Topics in the Philosophy of Language
+Description: An investigation of varying topics in the philosophy of language including reference, meaning, the relationship between language and thought, communication, modality, logic and pragmatics.
+
+Code: PHIL 6730
+Title: Semantics I
+Description: Introduces methods for theorizing about meaning within generative grammar. These techniques allow the creation of grammars that pair syntactic structures with meanings. Students look at several empirical areas in detail, among them complementation (combining heads with their arguments), modification, conjunction, definite descriptions, relative clauses, traces, bound pronouns, and quantification. An introduction to logical and mathematical concepts used in linguistic semantics (e.g., set theory, functions and their types, and the lambda notation for naming linguistic meanings) is included in the course.
+
+Code: PHIL 6740
+Title: Semantics Seminar
+Description: Addresses current theoretical and empirical issues in semantics.
+
+Code: PHIL 6922
+Title: Foundations of the Social Sciences
+Description: Social science research almost always combines empirical observation (data), the construction of concepts (language), and the logical analysis of the relations between observations and concepts (statistics).  This course examines the relations between these three dimensions as the analyst moves from one to the other both as practice and in the crafting of a formal summary of findings and argument. We will be particularly interested in the foundational assumptions that underpin the connections between empirical reality, language, and statistical analysis. While these foundational assumptions are often taken for granted by social scientists, they vary dramatically between social science disciplines.  The implicit contradiction between that variance and their doxic acceptance within disciplines will be a primary focus of the course.
+
+Code: PHIL 6963
+Title: Queer Marxism
+Description: Are queer theory and Marxism truly irreconcilable? While queer studies emerged in part as a rejection of Marxism's totalizing approach and Marxists have criticized the queer emphasis on individuals, this seminar explores the potential of bringing the two fields together. We will consider how queer critiques of reproductive futurism, racial capitalism, and homonationalism can transform the legacy of Marxist theory and practice. At the same time, we will examine Marxist notions of totality, reification, and value to reenvision the scope of queer politics. After covering these key Marxist and queer theoretical concepts, the seminar will turn to transnational Marxist debates on gender and sexuality in Weimar Germany and the Soviet Union. We will conclude the seminar with a discussion of new scholarship in the emergent field of queer Marxism and a symposium with presentations by seminar participants.
+
+Code: PHIL 7000
+Title: Informal Study
+Description: Independent study for graduate students only.
+
+Code: PHIL 7900
+Title: Placement Seminar
+Description: This course is designed to help prepare Philosophy graduate students for the academic job market. Though students will study sample materials from successful job applicants, much of the seminar will function as a workshop, providing them with in-depth feedback on multiple drafts of their job materials. Interview skills will be practiced in every seminar meeting. The seminar meetings will be supplemented with individual conferences with the placement mentor, and students should also share copies of their job materials with their dissertation committees.
+
+Code: PHIL 7950
+Title: Philosophy Discussion Club Colloquium
+Description: Invited talks in philosophy given by both outside speakers and members of the Cornell community. Enrollment for credit is required for first- and second-year philosophy graduate students.
+

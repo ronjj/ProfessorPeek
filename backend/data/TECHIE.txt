@@ -1,0 +1,4 @@
+Code: TECHIE 5901
+Title: Preparing for Spec
+Description: This course you will review and apply for available Track 1 project topics that are supervised by Cornell researchers; or select Track 2 for which you will choose an anchor course from a set of approved-electives. This class is required for 1st year students in Connective Media, Health Tech, and Urban Tech; and is a prerequisite for INFO 5920.
+

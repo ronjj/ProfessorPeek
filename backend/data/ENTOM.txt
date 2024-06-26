@@ -1,0 +1,80 @@
+Code: ENTOM 2030
+Title: Honey Bees: Their Intriguing Biology and Interactions with Humans and More
+Description: Honeybees have been an object of fascination for mankind since prehistoric times. The complexity of their communal life has intrigued many observers and scientists, and they have long been prized for their honey as well as their beeswax. Honeybees, along with many wild bees are essential coworkers in agriculture because of their pollination services, and they are increasingly seen as important partners for sustainable agriculture that limits the use of pesticides. This course aims to offer an exploration of one of the most amazing life forms we know. Topics covered include chemical ecology, insect physiology, beekeeping, behavioral ecology, pollination biology, sociobiology and Conservation Biology. This course is suitable for non-life sciences students. This course is suitable for non-life sciences majors.
+
+Code: ENTOM 2031
+Title: Honey Bees: Their Intriguing Biology and Interactions with Humans
+Description: Honeybees have been an object of fascination for mankind since prehistoric times. The complexity of their communal life has intrigued many observers and scientists, and they have long been prized for their honey as well as their beeswax. Honeybees, along with many wild bees are essential coworkers in agriculture because of their pollination services, and they are increasingly seen as important partners for sustainable agriculture that limits the use of pesticides. This course aims to offer an exploration of one of the most amazing life forms we know. Topics covered include chemical ecology, insect physiology, beekeeping, behavioral ecology, pollination biology, sociobiology and Conservation Biology. This course is suitable for non-life sciences students.
+
+Code: ENTOM 2120
+Title: Insect Biology
+Description: Introduces the science of entomology, focusing on the systematics, anatomy, physiology, basic and applied ecology, and natural history of insects. Early fall laboratories include field trips to collect and study insects in the natural environment. A personal collection emphasizing ecological, behavioral, and taxonomic categories is a requirement of the laboratory.
+
+Code: ENTOM 2150
+Title: Spider Biology: Life on a Silken Thread
+Description: Introduction to the fascinating world of spiders and their close kin. Explores behavior, ecology, evolution, and physiology of spiders from a modern perspective. Topics include their unusual reproduction, predatory behavior, unique use of silk, social spiders, and potential use in IPM.
+
+Code: ENTOM 3150
+Title: Spider Biology
+Description: In-depth introduction to the fascinating world of spiders and their relatives. Students cover current topics in arachnology and developing spider identification skills.
+
+Code: ENTOM 3350
+Title: Naturalist Outreach Practicum
+Description: An interdisciplinary course on how to do effective scientific outreach. The goals of the course are 1) to train students to speak about science with passion and clarity, 2) for the students to be able to teach science effectively in classrooms, science centers, and in large community outreach events, and 3) to train a generation of civically engaged scientific outreach leaders. Students give presentations in schools. Class size is limited. Students who wish to enroll should read blogs.cornell.edu/naturalistoutreach, please contact the instructor to get an enrollment code.
+
+Code: ENTOM 3360
+Title: Naturalist Outreach Continued
+Description: If you have already taken ENTOM 3350, you can continue to do outreach in the community for credit. Open only to students who have already taken ENTOM 3350.
+
+Code: ENTOM 4520
+Title: Biology of Disease Vectors
+Description: This course introduces vector taxonomy, evolution, biology, behavior, and the history of vector-borne disease control, with an emphasis on the USA. Some lectures will feature "expert spotlights": brief conversations with experts in vector control/public health who will join the class live or via recorded video link. Through a series of lectures and projects, you will have a chance to gain knowledge of the latest surveillance approaches, control methods, and challenges for controlling vector-borne diseases. In this course, we intend for you to gain an understanding of arthropod biology, body plans, organ systems, behavior and physiology, infection biology and immunity. You will demonstrate a solid understanding of disease vector evolutionary relationships. Our ultimate goal is for you to learn how to apply knowledge gained from the class in your future roles as entomologists, health experts or public health practitioners.
+
+Code: ENTOM 4521
+Title: Introduction to Disease Vectors Lab
+Description: The laboratory complements the required lecture course ENTOM 4520.  Students will learn how to collect and identify arthropods that transmit human pathogens and parasites.  Lab sessions will include a mixture of field trips, hands on demonstrations and independent student work.
+
+Code: ENTOM 4550
+Title: Insect Ecology
+Description: You will learn to think like an ecologist by studying the fundamental principles of insect ecology and the types of questions ecologists ask, seeing how ecology can be used to understand and solve environmental problems, and putting this knowledge into action during group activities in the lab and field.
+
+Code: ENTOM 4970
+Title: Individual Study in Entomology
+Description: A student may, with approval of a faculty advisor, study a problem or topic not covered in a regular course or may undertake tutorial study of an independent nature in an area of interest in Entomology.
+
+Code: ENTOM 4980
+Title: Undergraduate Teaching
+Description: Undergraduate teaching assistance in an entomology course by agreement with the instructor. Participating students assist in teaching a course allied with their education and experience. Students are expected to meet regularly with a discussion or laboratory section, to gain teaching experience, and regularly to discuss teaching objectives, techniques, and subject matter with the professor in charge.
+
+Code: ENTOM 4990
+Title: Undergraduate Research in Entomology
+Description: Students must register using CALS Special Studies form available online.
+
+Code: ENTOM 6900
+Title: Seminar in Ecology and Evolution of Infectious Diseases
+Description: Graduate-level discussion of the ecology, epidemiology, genetics, and evolution of infectious disease in animal and plant systems. Weekly discussion of research papers published in the primary scientific literature. Participation in discussion and presentation of at least one paper required for course credit.
+
+Code: ENTOM 7070
+Title: Individual Study for Graduate Students
+Description: Independent or small-group study of special topics of current interest.
+
+Code: ENTOM 7090
+Title: Teaching Entomology
+Description: Teaching entomology or for extension training.
+
+Code: ENTOM 7640
+Title: Plant-Insect Interactions Seminar
+Description: Group intensive study of current research in plant-insect interactions. Topics vary from semester to semester but include chemical defense, coevolution, insect community structure, population regulation, biocontrol, tritrophic interactions, and mutualism.
+
+Code: ENTOM 7670
+Title: Professional Development in Entomology
+Description: This is a graduate level seminar required of, and limited to, first semester graduate students in the Field of Entomology. The content focusses on professional development skills, including critical reading of scientific literature, oral and written presentation, and grant writing.
+
+Code: ENTOM 8900
+Title: Master's Level Thesis Research
+Description: Thesis research conducted by M.S. students in the field of entomology with advice and consultation of a major professor who is a member of the field.
+
+Code: ENTOM 9900
+Title: Doctoral Level Thesis Research
+Description: Dissertation research conducted by a Ph.D. student in the field of entomology with advice and consultation of a major professor who is a member of the field.
+

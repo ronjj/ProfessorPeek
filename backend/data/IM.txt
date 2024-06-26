@@ -1,0 +1,8 @@
+Code: IM 4990
+Title: Honors Research I
+Description: Each participant must submit brief proposal approved by Honors Committee.
+
+Code: IM 4991
+Title: Honors Research II
+Description: IM 4991 is the second part of the year-long honors thesis course in the Independent Major Program.
+

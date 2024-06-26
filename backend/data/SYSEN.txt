@@ -1,0 +1,132 @@
+Code: SYSEN 1900
+Title: Systems Engineering Project for First-Years
+Description: Project experience for students who want to pursue a particular analytical, computational, or experimental project experience outside of regular courses. An engineering report on the project is required of each student. Intended for first-year students on project teams and for project team members performing non-technical tasks.
+
+Code: SYSEN 4900
+Title: Systems Engineering Project for Undergraduates
+Description: Project experience for students who want to pursue a particular analytical, computational, or experimental project experience outside of regular courses, or for informal instruction supplementing that given in regular courses. An engineering report on the project is required of each student. Students are expected to spend 3-4 hours per week per credit hour working on the project. Intended for sophomores, juniors, and seniors on project teams performing technical tasks.
+
+Code: SYSEN 5020
+Title: Creating Solutions with Embedded Systems
+Description: With the number of embedded systems in the world far exceeding the number of humans, nearly every major piece of technology involves one, if not several embedded systems. Students will understand the capabilities and challenges that come in creating embedded systems and the larger systems that rely upon them -- not becoming experts in embedded systems, but being able to work more effectively with those experts. This hands-on course will also not only introduce core embedded systems concepts, such as hardware peripherals, interrupt service routines, realtime programming, digital i/o, A2D converters, and interfacing with sensors, etc., but will also introduce related systems engineering principles to aid students in making smart and well-supported design choices, manage design interfaces, and provide justification on whole solution trade-offs.
+
+Code: SYSEN 5100
+Title: Model Based Systems Engineering
+Description: Fundamental ideas of systems engineering, and their application to design and development of various types of engineered systems. Defining system requirements, creating effective project teams, mathematical tools for system analysis and control, testing and evaluation, economic considerations, and the system life cycle. Content utilizes model-based systems engineering, which is the integration of systems modeling tools, such as SysML, with tools for systems analysis, such as Matlab and Modelica. The vision for this integration is the ability to create and analyze complete parametric representations of complex products and systems. These systems make it possible to investigate the impact of changing one aspect of a design on all other aspects of design and performance. This course will familiarize students with these modeling languages. Off-campus students must provide their own Windows 7, internet-connected, computer with administrator access in order to install the commercial software used in this course.
+
+Code: SYSEN 5180
+Title: Sociotechnical Systems and Policy
+Description: This transdisciplinary course provides an in-depth learning experience on the fundamentals of sociotechnical systems, and welcomes students from all academic disciplines. Sociotechnical systems increase system complexity of engineered systems/technology, and this course teaches how to embrace them as part of systems engineering practice. An important dimension of sociotechnical systems is technology policy, and this course brings theory from social science disciplines and systems science together to evaluate how technical products interact with policy systems using systems engineering tools/analysis. Policy development, implementation and analysis in an engineering and technology context and its relationship with life cycle management, risk and quality are important themes in this course. There will be an application component to this class to illustrate the relevance for students from all backgrounds.
+
+Code: SYSEN 5220
+Title: Systems Dynamics
+Description: This course focuses on the design and development of computational models to understand and predict the dynamic behavior of systems. In particular considerable emphasis will be placed on the development of systems thinking skills in the analysis of systems, the translation of those skills into the creation of computational tools to support modeling of these systems and the testing of those models. Students will build realistic models in commercial software packages including Vensin.
+
+Code: SYSEN 5230
+Title: Energy Efficiency in the Circular Economy
+Description: On a net-zero emissions pathway, energy efficiency is a key component. This course discusses different angles to tackle energy efficiency, from energy-efficient technologies to energy and resource-efficient systems. Working with various sectors and case examples, students learn how to address energy efficiency within different systems' boundaries, tracking energy and resources in the circular economy. Students learn how to promote energy efficiency using a system approach and identifying entry points for building a circular economy. The course is designed for students from different backgrounds interested in the multiple dimensions of energy efficiency and implementation of a circular economy, particularly those from engineering.
+
+Code: SYSEN 5240
+Title: Strategies for Climate Action
+Description: Scientific knowledge on climate change has expanded, policies have been put in place and a global agenda has evolved to engage multiple stakeholders in climate action. Various mechanisms and tools provide a framework for action. Understanding these mechanisms helps stakeholders define strategies, start projects, and become protagonists in climate mitigation and adaptation actions. This course provides analytical and practical knowledge on climate mechanisms and equips students to design climate projects and evaluate implementation pathways in the climate agenda. The focus is on energy-related projects and mitigation measures towards a low-carbon future. The course is designed for students from different backgrounds.
+
+Code: SYSEN 5260
+Title: Software Systems Engineering: Design, Develop, and Deliver Software in the Modern Enterprise
+Description: Students will learn how software is designed, developed, and delivered in the modern enterprise. This class will give project leaders the ability to effectively incorporate Software Engineering into a broader multidisciplinary Systems-Engineering project. Through a mix of principles and hands-on projects students will master the essential concepts and techniques for successful delivery of the software component of a broader Systems Engineering project. We will cover topics in software project management, development tools and environment, techniques for software integration and delivery, software systems architecture, cloud-computing, and designing for security and reliability.
+
+Code: SYSEN 5280
+Title: Adaptive and Learning Systems
+Description: This course focuses on the design and development of self-awareness and learning models to understand and predict the dynamic behavior of systems. In particular considerable emphasis will be placed on the development of critical thinking skills in the analysis of time-varying systems in response to system data. Students will be provided prototype computer code to help them build realistic models from first principles in MATLAB/SIMULINK without commercial software packages. The goal is for students to leave the course with the independent ability to utilize learning systems to analyze and predict behavior of systems without the aid of any tailored commercial software package.
+
+Code: SYSEN 5290
+Title: Transdisciplinarity and Systems
+Description: Transdisciplinarity involves gaining insights about patterns that occur across or connect disciplines. The course presents multiple perspectives to study the nature, scope, value, and potential of transdisciplinarity as there is no existing universal definition, theory, or methodology. The course examines several kinds of disciplinarity as approaches to problem solving. Problems are investigated in the areas of society, engineering, and nature. Topics include characteristics, management, methodologies, analysis, and tools for understanding and applying approaches. Complex systems are addressed with consideration of interdisciplinary systems, systems-of-systems, varying scales, uncertainty, and nonlinearity.
+
+Code: SYSEN 5300
+Title: Systems Engineering and Six Sigma for the Design and Operation of Reliable Systems
+Description: Develops skills in the design, operation and control of systems for reliable performance. Focuses on four key themes; risk analysis (with a particular emphasis on risk assessment and risk characterization), modeling system reliability (including the development of statistical models based on accelerated life testing), quality control techniques and the optimization of system design for reliability. Six Sigma Green or Blackbelt can be earned through activities associated with course. Students in distance-learning programs enroll in SYSEN 5100.
+
+Code: SYSEN 5440
+Title: System Analysis and Design
+Description: This course examines the time-dependent behavior of managed systems to describe, analyze, and understand them. Students will first learn concepts of feedback and system structure and apply these to problem identification. Qualitative and quantitative mental models will be used to define and describe interrelationships that define the system behavior. Principles of how to intervene in a system will also be discussed in this course. Simulation approaches for both discrete and continuous processes will be utilized to set baseline performance metrics and likewise quantify the effects of the identified interventions.
+
+Code: SYSEN 5610
+Title: Introduction to the US Healthcare System, Data, and Interoperability
+Description: In a modern healthcare system, exchange of clinical data across multiple stakeholders - between healthcare organizations, between providers and patients, and among agencies and governmental entities – is pivotal. Health information standards provide the "backbone" to achieve uniform data interoperability and exchange across multiple heterogeneous systems. This course will introduce various existing and emerging clinical data modeling, terminology and knowledge representation standards that are part of Meaningful Use Regulations, and discuss scenarios and use cases where the standards have been applied for routine clinical practice and research. Through lectures, case studies, midterm, and a final project, students will gain insights into topics such as disease classification systems, health information exchanges, and electronic health records (EHR) interoperability.
+
+Code: SYSEN 5620
+Title: Health Data Management and Analytics
+Description: No description available.
+
+Code: SYSEN 5690
+Title: Information Design for Strategic Decision-Making
+Description: The course covers the basic models and solution approaches in problems that involve interactions among strategic agents distilling the key results in mechanism design theory. Over the last seventy years, the theory of mechanism design was developed as an approach to efficiently align the individuals' and system's interests in problems where individuals have private preferences. It can be viewed as the art of designing information and protocols to achieve a desired outcome. Mechanism design has broad applications spanning many fields, including transportation routing, smart grid, communication networks, social media, online advertising, and resource allocation problems. The objective of this course is to gain a sound understanding of the science behind the use of mechanism design in solving modern problems that involve strategic interactions among agents. The course will provide a unified treatment of the subject, suitable for a broad engineering audience.
+
+Code: SYSEN 5700
+Title: Special Topics in Systems Engineering
+Description: Supervised study by individuals or small groups of one or more specialized topics not covered in regular courses.
+
+Code: SYSEN 5800
+Title: Computational Optimization
+Description: Systems optimization modeling, computation, and applications. Includes theory and algorithms of linear, nonlinear, mixed-integer linear, mixed-integer nonlinear, and deterministic global optimization, as well as stochastic programming, robust optimization and optimization methods for big-data analytics. Real-world applications of large-scale computational optimization in process manufacturing, bioengineering, energy systems, and sustainability.
+
+Code: SYSEN 5830
+Title: Astronautic Optimization
+Description: This course provides a brief review of several topics in sufficient detail to amplify student success: estimation, allocation, and control; classical feedback; sensor noise; and Monte Carlo analysis. The review leads to application of the methods of Pontryagin applied to examples including single-gimballed rocket engines, guidance, and control problems including least squares estimation, and the famous Brachistochrone problem as a motivating example illustrating the minimum time solution is not necessarily the minimum path-length solution, particularly in a gravity field. After taking this course, students will be able to apply their expertise to actual systems in advanced courses or in laboratory settings leveraging analytic (non-numerical) nonlinear programming and real-time optimal control. Graduates will understand the application of constrained (smooth constrained, box constrained, with brief introduction to inequality constrained) and unconstrained optimization; linear-quadratic programming; and Bellman's principle of optimality.
+
+Code: SYSEN 5900
+Title: Systems Engineering Design Project
+Description: A design project that incorporates the principles of systems engineering for a complex system. Projects are performed by teams of students working together to meet the requirements of the project.
+
+Code: SYSEN 5930
+Title: Project Management and Leadership for Complex Systems
+Description: This course examines fundamental modern techniques of project management from a systems perspective, including project planning, organization, and control. Topics include leadership, the management process, risk management, scheduling methodologies, management of project activities, and project control mechanisms. Complex systems are addressed at larger scales including combinations of novel, evolving, and legacy systems, implementing adaptive leadership and management strategies and approaches. Complex system leadership, management, risk analysis and mitigation, integrated product and process development, quality management, and contracting are addressed. Complex system leadership and management also includes consideration of communications, interpersonal skills, emotional intelligence, ethics, team dynamics, multiple disciplines, varying scales, uncertainty, and nonlinearity. Covers application of fundamental project leadership and management processes from traditional systems to more complex systems.
+
+Code: SYSEN 5999
+Title: MEng Technical Internship
+Description: Students spend a semester in a Systems Engineering relevant internship. Working with their advisor they draft a paper about their systems engineering experience and the systems engineering educational benefits from that experience. In the semester after the internship, students work with their advisor on the final version of the paper, helping the student to crystalize the value of their experience in developing their systems engineering knowledge and careers.
+
+Code: SYSEN 6000
+Title: Foundations of Complex Systems
+Description: This course covers the scientific foundations of the behavior of complex systems. The course is organized in a number of modules motivated by real-life examples of complex systems including aerospace systems, transportation systems, infrastructure systems, or biological systems among others. Each module will introduce, in the context of a specific problem, a number of concepts such as complexity, emergence, collective behavior, self-organization, evolution and adaptation, and pattern formation. Students will learn to use a variety of mathematical tools to analyze these systems, such as non-linear dynamics and controls, game theory, agent-based simulation, network theory, genetic algorithms, neural networks, and cellular automata. Students will be required to do a substantial amount of reading, and there will be roughly biweekly homework and a final project related to one or more of the topics covered.
+
+Code: SYSEN 6100
+Title: Systems Seminar Series
+Description: This is a weekly seminar course designed to give graduate students experience in improving their skills in presenting their research, judging peers' and field experts' research, as well as learning to accurately dissect and summarize the main points of a research talk. Being part of the Systems Engineering program, this course will strongly focus on developing the ability to present research in a broader context or as it relates to a larger system or process, and communicate the importance of the students' work to a more varied audience; a particularly important skill for both future "job talks" and grants' "importance paragraphs." Students' presentations will also include some research depth as part of developing stronger conference talks and to aid classmates in expanding their knowledge.
+
+Code: SYSEN 6150
+Title: Model Based Systems Engineering
+Description: Fundamental ideas of systems engineering, and their application to design and development of various types of engineered systems. Defining system requirements, creating effective project teams, mathematical tools for system analysis and control, testing and evaluation, economic considerations, and the system life cycle. Content utilizes model-based systems engineering, which is the integration of systems modeling tools, such as SysML, with tools for systems analysis, such as Matlab and Modelica. The vision for this integration is the ability to create and analyze complete parametric representations of complex products and systems. These systems make it possible to investigate the impact of changing one aspect of a design on all other aspects of design and performance. This course will familiarize students with these modeling languages. Off-campus students must provide their own Windows 7, internet-connected, computer with administrator access in order to install the commercial software used in this course.
+
+Code: SYSEN 6180
+Title: Sociotechnical Systems and Policy
+Description: This transdisciplinary course provides an in-depth learning experience on the fundamentals of sociotechnical systems, and welcomes students from all academic disciplines. Sociotechnical systems increase system complexity of engineered systems/technology, and this course teaches how to embrace them as part of systems engineering practice. An important dimension of sociotechnical systems is technology policy, and this course brings theory from social science disciplines and systems science together to evaluate how technical products interact with policy systems using systems engineering tools/analysis. Policy development, implementation and analysis in an engineering and technology context and its relationship with life cycle management, risk and quality are important themes in this course. There will be an application component to this class to illustrate the relevance for students from all backgrounds.
+
+Code: SYSEN 6220
+Title: Systems Dynamics
+Description: This is an advanced course in the application of the systems engineering process to the design and operation of complex systems. Topics include techniques for design, simulation, optimization, and control of complex systems. Case studies and system simulations in diverse areas provide context for the application of these techniques. PhD students will be required to complete additional work.
+
+Code: SYSEN 6300
+Title: Systems Engineering and Six Sigma for Design and Operation of Reliable Systems
+Description: Develops skills in the design, operation and control of systems for reliable performance. Focuses on four key themes; risk analysis (with a particular emphasis on risk assessment and risk characterization), modeling system reliability (including the development of statistical models based on accelerated life testing), quality control techniques and the optimization of system design for reliability. Six Sigma Green or Blackbelt can be earned through activities associated with course.
+
+Code: SYSEN 6600
+Title: Applied Model Based Systems Engineering I
+Description: This course introduces fundamental ideas of Systems Engineering and their application to the design and development of various types of engineered systems.&nbsp; The systems engineering technical design process is emphasized, following the entire Vee-diagram process from initial problem definition and defining of system requirements, thru systems design & architecture, to implementation planning, and & testing and evaluation. The course also provides an applied introduction to a variety of areas that are commonly a part of Systems Engineering including creating effective project teams, customer needs evaluation, mathematical tools for system analysis, control & optimization, risk analysis and mitigation, decision making strategies, project organization & management, and the system life cycle. The course requires students to combine their work in this course with an outside-of-course MEng project.
+
+Code: SYSEN 6800
+Title: Computational Optimization
+Description: Systems optimization modeling, computation, and applications. Includes theory and algorithms of linear, nonlinear, mixed-integer linear, mixed-integer nonlinear, and deterministic global optimization, as well as stochastic programming, robust optimization and optimization methods for big-data analytics. Real-world applications of large-scale computational optimization in process manufacturing, bioengineering, energy systems, and sustainability.
+
+Code: SYSEN 6830
+Title: Astronautic Optimization
+Description: This course provides a brief review of several topics in sufficient detail to amplify student success: estimation, allocation, and control, classical feedback, sensor noise, and Monte Carlo analysis. The review leads to application of the methods of Pontryagin applied to examples including single-gimballed rocket engines, guidance, and control problems including least squares estimation, and the famous Brachistochrone problem as a motivating example illustrating the minimum time solution is not necessarily the minimum path-length solution, particularly in a gravity field. After taking this course, students will be able to apply their expertise to actual systems in advanced courses or in laboratory settings leveraging analytic (non-numerical) nonlinear programming and real-time optimal control. Graduates will understand the application of constrained (smooth constrained, box constrained, with brief introduction to inequality constrained) and unconstrained optimization; linear-quadratic programming; and Bellman's principle of optimality.
+
+Code: SYSEN 8000
+Title: Systems Doctoral Colloquium
+Description: Students will be exposed to different research methodologies and engage in critical reviews and discussion of selected research articles in the fields of systems science and engineering. A substantial amount of reading and presentation will be required.
+
+Code: SYSEN 8100
+Title: Systems Seminar Series - PhD
+Description: This is a weekly seminar course designed to give graduate students experience in improving their skills in presenting their research, judging peers' and field experts' research, as well as learning to accurately dissect and summarize the main points of a research talk. Being part of the Systems Engineering program, this course will strongly focus on developing the ability to present research in a broader context or as it relates to a larger system or process, and communicate the importance of the students' work to a more varied audience; a particularly important skill for both future "job talks" and grants' "importance paragraphs." Students' presentations will also include some research depth as part of developing stronger conference talks and to aid classmates in expanding their knowledge.
+

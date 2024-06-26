@@ -1,0 +1,12 @@
+Code: RUSSL 2001
+Title: Russian Jews and Jewish Russians in Literature and Film
+Description: Explore the ways of 19th to 21st century Russian Jewry through survey of literature and film. Learn about life in Russia from the perspective of Jewish and Russian-Jewish writers as well as through portrayal of Russian Jews in works of prominent Russian authors in the context of period. Selected works of Pushkin and Chekhov, Gogol and Sholom Aleichem, Pasternak and Yevtushenko will help create a multidimensional picture of the political and socio-cultural environment in which processes of integration and assimilation, both imposed and impeded by the state, shaped the identity of the modern-day Russian Jews in their deep, inherent connection to the Russian culture and often complicated relationship with their roots, which characteristically distinguishes them from their American contemporaries.
+
+Code: RUSSL 4492
+Title: Supervised Reading in Russian Literature
+Description: Independent reading course in topics not covered in regularly scheduled courses. Students select a topic in consultation with the faculty member who has agreed to supervise the course work.
+
+Code: RUSSL 6611
+Title: Supervised Reading and Research
+Description: Independent study.
+

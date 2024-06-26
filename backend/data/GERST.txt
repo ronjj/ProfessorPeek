@@ -1,0 +1,120 @@
+Code: GERST 1121
+Title: FWS: Writing Berlin
+Description: Berlin is a city that reinvents itself by rewriting itself. In this writing seminar, we'll study a variety of literary, visual, and sonic texts to create a mythical map of the city from its emergence as modern metropolis in the 1920s, reduction to rubble in World War II, refuge for the disaffected in the 1980s, and rebirth in the 21st century. As we make our way through the linguistic, visual, and aural landscape of its ever-changing topography, we'll create our own stories of a mythical Berlin in dialogue with texts written by the displaced persons who breached its walls and navigated its illicit economies. We'll also become more critical readers and viewers, as well as better writers.
+
+Code: GERST 1122
+Title: FWS: Love and Death in Vienna
+Description: Singing boys. Dancing horses. Waltzing debutantes. Those fortunate enough to live in a city where each day begins with a pastry and ends with a two-liter bottle of wine must live a charmed existence! Not according to Freud. After decades of treating the morbid Viennese, he concluded that human nature must be torn between two warring forces: a love instinct and a death drive. In this FWS we'll explore both sides of Vienna's enigmatic character, its life-affirming hedonism and its self-destructive nihilism, through the lens of narrative fiction on page and on screen. Along the way, we'll learn to read and view more critically by writing our way through the best literature and cinema of the multi-ethnic metropolis on the Danube.
+
+Code: GERST 1170
+Title: FWS: Marx, Nietzsche, Freud
+Description: A basic understanding of Marx, Nietzsche, and Freud is a prerequisite for participating in critical debates in the humanities and social sciences. Our seminar will explore key terms in the revolutionary models of critical analysis these thinkers pioneered: historical materialism, post-metaphysical philosophy, and psychoanalysis.  This will mean articulating points of contrast as well as convergence.  Discussions and writing exercises will focus on texts that created the discursive framework for critiquing society and culture today.  Our method will proceed from the premise that critical reading, thinking, and writing are inseparable moments in the same operation of critique.  The question that guides that method will be: Do alternative ways of thinking exist in opposition to the ones we view as natural, inevitable, or universal?
+
+Code: GERST 1210
+Title: Exploring German Contexts I
+Description: Students develop basic abilities in listening, reading, writing, and speaking German in meaningful contexts through interaction in small group activities. Course materials including videos, short articles, and songs provide students with varied perspectives on German language, culture, and society.
+
+Code: GERST 1220
+Title: Exploring German Contexts II
+Description: Students build on their basic knowledge of German by engaging in intense and more sustained interaction in the language. Students learn more advanced language structures allowing them to express more complex ideas in German. Discussions, videos, and group activities address topics of relevance to the contemporary German-speaking world.
+
+Code: GERST 1230
+Title: Expanding the German Dossier
+Description: Students continue to develop their language skills by discussing a variety of cultural topics and themes in the German-speaking world. The focus of the course is on expanding vocabulary, reviewing major grammar topics, developing effective reading strategies, improving listening comprehension, and working on writing skills. Work in small groups increases each student's opportunity to speak in German and provides for greater feedback and individual help.
+
+Code: GERST 1776
+Title: Elementary Yiddish I
+Description: Elementary Yiddish I is the first in a three-class sequence that will enable students to meet their Arts & Sciences language requirement in Yiddish. It provides an introduction to reading, writing, listening, and speaking skills. Yiddish contains a wealth of embedded knowledge about Ahkenazi Jewish life, both historical and contemporary. In addition to language competence the course will build understanding of this legacy through songs, humor, holiday traditions, literature, and other cultural products.
+
+Code: GERST 2000
+Title: Germany: Intercultural Context
+Description: Students examine important aspects of present-day German culture while expanding and strengthening their reading, writing, and speaking skills in German. Materials for each topic are selected from a variety of sources (fiction, newspapers, magazines, and the Internet). Units address a variety of topics including studying at a German university, modern literature, Germany online, and Germany at the turn of the century. Oral and written work and individual and group presentations emphasize accurate and idiomatic expression in German. Successful completion of the course enables students to continue with more advanced courses in language, literature, and culture.
+
+Code: GERST 2005
+Title: Intermediate Yiddish
+Description: Intended for intermediate students, this is the third in a three-course sequence, designed to enable students to meet the College of Arts & Sciences language requirement. Students will increase their understanding of the language in cultural context and will further develop their capacity to produce both spoken and written Yiddish.
+
+Code: GERST 2040
+Title: Perspectives on German Culture
+Description: This course aims at sharpening your awareness of personal and cultural subjectivity by examining texts in a variety of media against the backdrop of cultural, political, and historical contexts.  We will focus on improving your oral and written expression of idiomatic German by giving attention to more sophisticated aspects of using enriched vocabulary in a variety of conversational contexts and written genres. Materials will include readings in contemporary prose, newscasts, research at the Johnson Art Museum, and interviews with native speakers on a topic of contemporary cultural relevance.
+
+Code: GERST 2567
+Title: Holocaust in History and Memory
+Description: This course explores the history of the Holocaust during which the Nazis murdered six million Jews. Topics covered in this class include the history of antisemitism in Europe and twentieth-century Germany, the origins and rule of the Nazis, the politics of World War II, the Final Solution and extermination camps, Jewish literary responses to the Holocaust, among other topics.
+
+Code: GERST 2700
+Title: Introduction to German Culture and Thought
+Description: Big names, Big ideas, and Big events are associated with German culture and thought: Luther, Faust, Marx, Nietzsche, Freud, Mozart, Beethoven, Kant, Hegel, Goethe, Einstein, Kafka and Thomas Mann; Enlightenment; World Wars and Reunification; European Union, and Migration and Refugees: In this course, we shall cover the broad spectrum of both the long tradition of German culture and thought, and examine the wide range of political, literary, sociological, and artistic topics, themes, and questions that are of urgent contemporary concern for Germany, Europe, and beyond. Guest lecturers will introduce you to the wide and exciting field of German Studies. Topics include: the age of enlightenment; literatures of migration and minorities; avant-garde art; philosophy, aesthetics, and critical theory; Weimar and War; Holocaust and its Aftermath; film and media; genres of literature: novel, novella, short story, lyric poetry, anecdote, autobiography; literature and politics; literature and the environment; digital humanities and literatures/fictions of cyber space. In addition, this course will introduce you to the techniques of critical analysis and writing. Authors include among many others: Goethe, Kant, Hegel, Nietzsche, Adorno, Freud, Kafka, Kluge, Marx, Thomas Mann, Kracauer, Benjamin.
+
+Code: GERST 3070
+Title: Challenge of Literary Language
+Description: Why do literary texts insist on bending (and even breaking) the rules that govern everyday language? Could we improve our mastery of colloquial German by accepting literature's challenge and investigating how it manipulates language in unconventional ways?  We'll take an inductive approach to answering these questions by engaging in close and sustained textual analysis of poetry, prose, and plays that fascinate as well as frustrate.  The course is designed to help you transition to advanced study in German, so we will also learn the terminology of poetics, rhetoric, and genre as we practice creating the oral and written texts (Referate und Seminararbeiten) that form the core of any seminar in Germanistik.
+
+Code: GERST 3360
+Title: Queer and Trans Germany
+Description: This course explores claims about the uniqueness of Germany to current conceptualizations of gender and sexuality. Together, we will delve into early sexological research, examine literary works that use sexological language and repurpose it, and grapple with the impact of various German historical and cultural shifts on sexuality and gender (and vice versa). Moreover, this course pays particular attention to the way "queerness" allows us to consider heterosexual relationships that are nonnormative and state-regulated or prohibited—especially those that fall outside of white, middle-class ideals. We will engage with films, novels, short stories, music videos, graphic narratives, and scholarly texts. Considering the great variety of media and genres, we will spend class time not only discussing the texts in German and building up the German vocabulary necessary to talk about each medium, but we also will learn how to dissect each text with differing methods.
+
+Code: GERST 3555
+Title: Comics as a Medium
+Description: What are comics? While it's easy to identify a cartoon, graphic novel, or comic book, it's hard to understand the wide world of comics. As a medium, comics are part of a global tradition of visual storytelling and sequential art, including premodern tapestries, early modern pamphlets, and modern children's books, political cartoons, and animated films. With a focus on the German-speaking world, we will examine a wide range of comics genres (e.g., fiction, history, autobiography, journalism, comix) and formats (e.g., books, strips, pamphlets, zines). Our discussions will address questions of taste, aesthetics, materiality, censorship, representation, and word-image relations. While we will primarily be reading and writing about comics and comics studies, students will also gain some exposure to making comics.
+
+Code: GERST 3561
+Title: Freud and Psychoanalysis
+Description: Psychoanalysis considers the human being not as an object of treatment, but as a subject who is called upon to elaborate an unconscious knowledge about what is disrupting her life, through analysis of dreams, symptoms, bungled actions, slips of the tongue, and repetitive behaviors.  Freud finds that these apparently irrational acts and behavior are ordered by the logic of the fantasy, which provides a mental representation of a traumatic childhood experience and the effects it unleashes in the mind and body-effects he called drives.  As "unbound" energies, the drives give rise to symptoms, repetitive acts, and fantasmatic stagings that menace our health and sometimes threaten social coexistence, but that also rise to the desires, creative acts, and social projects we identify as the essence of human life.  Readings will include fundamental texts on the unconscious, repression, fantasy, and the death drive, as well as case studies and speculative essays on mythology, art, religion, and group psychology.  Students will be asked to keep a dream journal and to work on their unconscious formations, and will have the chance to produce creative projects as well as analytic essays.
+
+Code: GERST 3612
+Title: Remembering Socialism: Literature and Film After the End of History
+Description: More than thirty years after the end of the Soviet Union, we have the distance needed to view the twentieth-century state socialist project from a historical perspective–even as Cold War tropes are revived amid another major confrontation with Russia. In this course, we will analyze memoirs, oral histories, historical fiction, films, and TV shows that look back at this period. How do the makers of these works use genre as a political as well as artistic tool? What are the political implications of comedy, cosplay, or melodrama when applied to communism? How does the portrayal of this period change as state socialism recedes into the distance? Texts from Russia, Ukraine, Germany, the Balkans, the UK, and the United States.
+
+Code: GERST 4100
+Title: The Seminar
+Description: Topics vary by instructor.
+
+Code: GERST 4382
+Title: Paul de Man
+Description: This course studies major works from the great 20th century literary theorist Paul de Man, one of the founders of deconstruction. We will read carefully works from across his career, including broader theoretical statements and texts more closely focused on literary and philosophical texts. "The Rhetoric of Temporality, "Semiology and Rhetoric," "The Resistance to Theory," "Autobiography as De-Facement," "Shelley Disfigured," "Aesthetic Formalization in Kleist," "Phenomenality and Materiality in Kant," and works on Rousseau, Hegel, and others. We will include poetry and relevant sections of philosophical and theoretical material as appropriate.
+
+Code: GERST 4510
+Title: Independent Study
+Description: Undergraduate student and faculty advisor to determine course of study and credit hours.
+
+Code: GERST 4530
+Title: Honors Research
+Description: The Reading Course is administered by the director of the honors thesis. It carries 4 hours credit, and may be counted towards the work required for the German Major. The reading concentrates on a pre-determined topic or area. Students meet with their honors advisor about every two weeks throughout the term. Substantial reading assignments are given, and occasional short essays are written.
+
+Code: GERST 4540
+Title: Honors Thesis
+Description: The thesis is to be written on a subject related to the work done in GERST 4530.  A suggested length for the thesis is 50-60 pages.
+
+Code: GERST 5070
+Title: Teaching German as a Foreign Language: Principles and Practices
+Description: Designed to familiarize students with current thought and approaches in the field of applied linguistics and language pedagogy.  Introduces different models of foreign language approaches and discusses various practices for the foreign language classroom.  Special consideration is given to topics such as language acquisition progression, planning syllabi, creating tasks and projects, designing classroom tests, and evaluating students' performance.  Participants conduct an action research project.
+
+Code: GERST 6224
+Title: Writing for the Public: Adapting Academic Work for a General Audience
+Description: This workshop-style course will address the question of how to draw on academic research and expertise to write for a non-specialist audience. We will discuss the benefits of public-facing writing; how to select a publication to pitch; how to pitch an article; and how to draft and revise an article once a pitch has been accepted. These skills will be developed through practice. Students will develop real pitch ideas to use as a basis for articles that will be drafted and revised over the course of the semester. We will discuss questions such as selecting appropriate venues, adapting to a new writing style, sourcing, citation practices, and communicating with editors.
+
+Code: GERST 6310
+Title: Reading Academic German I
+Description: This course emphasizes the acquisition of reading skills in German, using a variety of prepared and authentic texts.  The follow-up course, GERST 6320 , Reading Academic German II, is offered in the spring.
+
+Code: GERST 6363
+Title: Queer Marxism
+Description: Are queer theory and Marxism truly irreconcilable? While queer studies emerged in part as a rejection of Marxism's totalizing approach and Marxists have criticized the queer emphasis on individuals, this seminar explores the potential of bringing the two fields together. We will consider how queer critiques of reproductive futurism, racial capitalism, and homonationalism can transform the legacy of Marxist theory and practice. At the same time, we will examine Marxist notions of totality, reification, and value to reenvision the scope of queer politics. After covering these key Marxist and queer theoretical concepts, the seminar will turn to transnational Marxist debates on gender and sexuality in Weimar Germany and the Soviet Union. We will conclude the seminar with a discussion of new scholarship in the emergent field of queer Marxism and a symposium with presentations by seminar participants.
+
+Code: GERST 6382
+Title: Paul de Man
+Description: This course studies major works from the great 20th century literary theorist Paul de Man, one of the founders of deconstruction. We will read carefully works from across his career, including broader theoretical statements and texts more closely focused on literary and philosophical texts. "The Rhetoric of Temporality, "Semiology and Rhetoric," "The Resistance to Theory," "Autobiography as De-Facement," "Shelley Disfigured," "Aesthetic Formalization in Kleist," "Phenomenality and Materiality in Kant," and works on Rousseau, Hegel, and others. We will include poetry and relevant sections of philosophical and theoretical material as appropriate.
+
+Code: GERST 6445
+Title: German Media Theories
+Description: This seminar examines German media theories from the Frankfurt School to the Kittler Network and beyond. We will discuss influential concepts associated with this work (e.g., the culture industry, the public sphere, discourse networks), along with related concepts in media and cultural studies (e.g., space and time, analog and digital, old and new media). Theoretical readings address questions about media aesthetics, intermediality, and media change; automation, mechanization, and standardization; and communication, command, and control. Engaging with scholarly debates about interdisciplinarity and theory transfer, we will also revisit and revise reductive stereotypes about media critique, technological determinism, and the "Germanness" of German media theories.
+
+Code: GERST 7530
+Title: Independent Study
+Description: Graduate student and faculty advisor to determine course of study and credit hours.
+
+Code: GERST 7531
+Title: Colloquium
+Description: The course consists of a bi-weekly workshop series focusing on a range of interdisciplinary topics and sponsored by the Institute for German Cultural Studies (IGCS). Speakers include prominent scholars in the field of German Studies (understood in a wide, interdisciplinary sense) and advanced graduate students, who discuss their work-in-progress based on pre-circulated papers. Besides attending the workshops, course participants meet with the instructor for two additional sessions devoted to pursuing the ties between the topics and disciplinary fields showcased by the speakers and the students' own work. The course is thus intended both as a survey of disciplinary approaches in German and Humanities Studies and as a framework that allows graduate students to hone professional skills (presenter and panel respondent, newsletter contributor, etc).
+

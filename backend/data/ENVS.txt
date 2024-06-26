@@ -1,0 +1,64 @@
+Code: ENVS 1101
+Title: Understanding Environment and Sustainability
+Description: This course examines two fundamental questions about biological, chemical and physical processes that influence the biosphere. First, how do humans obtain knowledge about these environmental processes? Second, how can we assess human influences upon these environmental processes? A key conceptual framework for the course is that environmental science provides tools for predicting future states of the earth's environment. Case studies, readings, discussions, writing assignments, and group exercises provide a foundation for understanding predictions about how the biosphere is influenced by human activities.
+
+Code: ENVS 1111
+Title: Roadmap to Success in Environment and Sustainability
+Description: This course is for first-year students entering or intending to enter the Environment & Sustainability (E&S) major. The multidisciplinarity of this major may make it seem complex. The purpose of this class is to position you for success with your goals in the major, at Cornell and beyond. Course content will facilitate your course planning, choice of concentration, and help you map out the resources and opportunities Cornell offers. Course activities will help you explore your personal identity and get to know your E&S student cohort.
+
+Code: ENVS 2000
+Title: Environment and Sustainability Colloquium
+Description: This colloquium presents students with diverse approaches at the art-science interface used to interest, educate and motivate people to consider, address and solve environmental and sustainability challenges. It consists of a series of lectures given by experts, people with different expertise and perspectives who are addressing a variety of environmental and sustainability problems with regard to humanistic concern.
+
+Code: ENVS 2010
+Title: Discussions of Environment and Sustainability
+Description: This colloquium presents students with diverse approaches at the art-science interface used to interest, educate and motivate people to consider, address and solve environmental and sustainability challenges. It consists of a series of lectures by experts with different perspectives addressing a variety of environmental and sustainability problems with regard to humanistic concern. The small group discussion session allows in-depth engagement with the art-science interface. Building on the possibilities shared by our expert visitors, students in the discussion section will develop their own approach to addressing environmental issues. We will analyze how the ways in which information is shared is as significant as the information itself, and consider "artistic" and "scientific" perspectives as mutually beneficial tools for exploring and communicating our relationship to the environment.
+
+Code: ENVS 2100
+Title: Introductory Field Biology
+Description: In this course, students are introduced to field identification, natural history, and study of plants, animals, and natural systems. This course emphasizes hands-on interaction with nature, recording of ecological phenomena, and awareness and understanding of the natural environment, including ecological concepts (e.g., ecosystem, community, habitat, and niches).
+
+Code: ENVS 2400
+Title: Field Methods in Avian Ecology
+Description: Students will learn and practice a variety of methodologies used for studying wild birds including banding, census methods (point counts, transects, spot mapping), and behavioral observations. In a 50-minute classroom session each week, students will discuss relevant scientific literature and prepare for the lab session. The weekly field session will be held at various locations and students should be prepared to handle variable weather conditions. Students seeking to conduct independent research in avian ecology are encouraged to enroll. Note that one weekend field trip is required.
+
+Code: ENVS 2500
+Title: Environmental and Resource Economics
+Description: This course uses microeconomics to understand the causes and how to devise solutions to environmental and natural resource problems. Subjects include valuation, benefit-cost analysis, policy design and property rights. The course relies on these concepts to explore major current policy issues such as economic incentives in environmental policy, air and water pollution, depletion of renewable and nonrenewable resources, and global warming. Students are evaluated based on problems sets, short essays, 3 quizzes and 3 prelims.
+
+Code: ENVS 3020
+Title: Earth Projects
+Description: Taught by an artist and scientist, in this experiential, place-based field course, students will engage in a range of interdisciplinary practices to understand and interpret ecological systems and land use issues using artistic and scientific approaches. The core of this course will be based on weekend field trips to diverse sites in the Finger Lakes Region of New York with varied cultural and ecological significance. Sites include Cornell's Biological field station at Shackelton Point on Oneida Lake, Arnot Forest, and several art museums. Immersive stays will allow students to gain a deep understanding of place along with uninterrupted time to work on creative projects independently, in groups, and as a class. Students will gain an understanding of the history of creative interventions and performance in the landscape, as well as scientific approaches to engage with and conceptualize Earth's topography and natural phenomena. Students will have the opportunity to interact with various visiting scientists and artists who are leaders in their fields. Lectures, readings, fireside chats, critique, and interdisciplinary experiences will contribute to students' development. The final product of this class will be an art exhibition at the Soil Factory, an interdisciplinary art space in downtown Ithaca.
+
+Code: ENVS 4262
+Title: Environmental Justice: Past, Present, Future
+Description: "Environmental Justice" is a relatively recent term, coined in the United States in the 1980s.  It usually refers to a social movement fighting against the unfair concentration of toxic sites within impoverished communities of color.  As a broader set of ideas, though, "environmental justice" has a much longer history, going back at least to the 17th century in England, when poor farmers banded together to prevent common land from being enclosed for the exclusive use of the aristocracy.  This course explores that deep history, examining various overlaps between environmental thought and theories of social justice over the past 400 years in the western world.  It concludes with an examination of the current climate justice movement and a consideration of how environmental justice concerns are being played out in recent works of speculative fiction.  What do we owe to the climate refugees of our present day?  What do we owe to future generations?
+
+Code: ENVS 4331
+Title: Environmental Law and Policy
+Description: Environmental law deals with some of today's most pressing challenges. In the fifty years since 1972, when the first World Conference on the Environment was held in Stockholm, and the US Clean Water Act was amended, the field of environmental law and policy has become increasingly sophisticated and complex. Regulation of environmental harms has long been a focus of governmental effort. Over the past half century, however, societies have come to recognize that they must adopt controls on pollution to protect the air, ground, water, atmosphere, and the natural world. Environmental law also increasingly touches on energy, agriculture, and land use law, and has expanded to include a focus on corporate law, international trade, environmental governance, environmental justice, sustainable growth and development, and climate change. In this course, we will look at the major statutes and policies used, at both the federal and state levels, to protect humans and the environment against exposure to harmful substances, including the National Environmental Policy Act (NEPA), Clean Air Act, Clean Water Act, CERLCA (Superfund), Resource Conservation & Recovery Act, Toxic Substances Control Act (TSCA), and approaches to protecting endangered species and ecosystems. We will also examine the challenges of global atmospheric pollution, including ozone depletion and climate change. The class will look not only at the substance of these laws and policies, but also review common-law litigation, enforcement challenges, and the role of market mechanisms in addressing environmental issues. Students will become familiar with the history of environmental law and will analyze important landmark cases, as well as the hierarchy of laws, and jurisdictions that shape environmental law and policy. Students will apply their knowledge to real examples, with the goal of developing innovative legal solutions for the critical environmental challenges facing our world today.
+
+Code: ENVS 4500
+Title: Climate Solutions Capstone
+Description: Interested in working toward solutions to the climate crisis? In this course, you will choose and implement a climate action from Project Drawdown's (www.drawdown.org) list of 82 climate solutions. You will also apply social sciences research to influence your friends or family to implement your climate action alongside you. For the capstone team project, you will work with other students and a community partner (Cornell Cooperative Extension or Climate Action Now) to support education related to plant-rich diet, low-emissions agriculture, forest regeneration, or other climate solutions. Interested students should have a general understanding of climate change science.
+
+Code: ENVS 4600
+Title: Planning for Environmental Conservation and Sustainability
+Description: An interactive course designed to provide students with experience applying some of the most important techniques that are used to develop plans to protect and sustain valuable environmental resources, such as species, ecosystems, land, and water. The class focuses on highly charged controversies over conservation, and students learn how planning can help them to identify and address the full range of ecological and social factors that lead to conservation success in these contexts. Students adopt the roles of stakeholders and work on intensive case studies of conservation issues, learning how ecological and social insight are integrated for effective conservation planning. Topics covered in the course include: rational planning, adaptive management, stakeholder engagement, and conflict resolution.
+
+Code: ENVS 4960
+Title: Internship in Environment and Sustainability
+Description: In this course, students participate in an experiential learning opportunity relevant to the student's focus of study or career goals in environment and sustainability. An E&S faculty member must serve as supervisor and complete the term grade report. Specific learning goals for the experience are arranged by the student with their internship faculty supervisor and the internship host prior to the start of the internship. All 4960 internship courses must adhere to the CALS Internship Guidelines. Students from any major or college may enroll in ENVS 4970 using the CALS Special Studies form.
+
+Code: ENVS 4970
+Title: Individual Study in Environment and Sustainability
+Description: Individual studies are arranged under the supervision of one or several E&S faculty members. They provide opportunity to design a course that fills the need of an individual student and addresses pertinent issues in the environmental sciences. Students from any major or college may enroll in ENVS 4970 using the CALS Special Studies form.
+
+Code: ENVS 4980
+Title: Teaching Experience in Environment and Sustainability
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and assisting in courses in the Environment & Sustainability curriculum. This experience may include facilitating discussion groups and assisting in field or laboratory classes. Undergraduate teaching assistants will regularly discuss course objectives and teaching techniques with the faculty member in charge of the course.
+
+Code: ENVS 4990
+Title: Undergraduate Research in Environment and Sustainability
+Description: Undergraduate research projects in environment and sustainability; contingent on student working with a faculty member to supervise their research.
+

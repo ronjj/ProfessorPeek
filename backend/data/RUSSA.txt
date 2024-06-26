@@ -1,0 +1,52 @@
+Code: RUSSA 1103
+Title: Conversation Practice
+Description: Reinforces the speaking skills learned in RUSSA 1121. Homework includes assignments that must be done in the language lab or on the students' own computer. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 1121
+Title: Elementary Russian through Film
+Description: Gives a thorough grounding in all the language skills; listening, speaking, reading, and writing. Course materials include clips from original Russian films and televisions programs. Homework includes assignments that must be done in the language lab or on the students' own computers. Note the RUSSA 1103 option. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 1125
+Title: Reading Russian Press
+Description: The emphasis is on reading unabridged articles on a variety of topics from current Russian web pages and translating them into English; a certain amount of discussion (in Russian) may also be undertaken. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 1131
+Title: Self-Paced Elementary Russian I
+Description: RUSSA 1131 and RUSSA 1132 cover the standard Cornell first-year Russian language curriculum at a slower pace than RUSSA 1103 -RUSSA 1104 and RUSSA 1121 -RUSSA 1122, the pace to be chosen by each individual student in consultation with the instructor. Somewhat larger homework reading, writing, and online assignments with fewer and shorter meetings with the instructors in very small groups. Detailed description on the Russian Language Program website.
+
+Code: RUSSA 2203
+Title: Intermediate Composition and Conversation
+Description: Guided conversation, translation, reading, pronunciation, and grammar review, emphasizing the development of accurate and idiomatic expression in the language. Course materials include video clips from an original Russian feature film and work with Russian web sites, in addition to the textbook. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 3300
+Title: Directed Studies
+Description: Taught on a specialized basis for students with special projects (e.g., to supplement a non-language course or thesis work).
+
+Code: RUSSA 3303
+Title: Advanced Composition and Conversation
+Description: Reading, writing, and conversation: current Russian films (feature and documentary), newspapers, television programs, Russian web sites, and other materials are used. If taken for 1 or 2 credit hours, students attend 1 or 2 classes per week, respectively. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 3305
+Title: Reading and Writing for Heritage Speakers of Russian
+Description: Intended for students who speak grammatically correct Russian but do not know Russian grammar and have not learned to read or write Russian well (or have not learned written Russian at all). May be taught slightly faster or slower in a given year, depending on the needs and interests of the students. Two classes a week teach writing and grammar and include related reading. These classes are required, and the students who take them receive 2 credit hours. The third (optional) class teaches reading and discussion, and grants an additional credit hour. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 3309
+Title: Advanced Reading
+Description: Designed to teach advanced reading and discussion skills. Weekly reading assignments include 20-40 pages of unabridged Russian, fiction or non-fiction. Discussion of the reading is conducted entirely in Russian and centered on the content and analysis of the assigned selection.
+
+Code: RUSSA 4413
+Title: Modern Russia: Past and Present I
+Description: Involves discussion, in Russian, of authentic Russian texts and films (feature or documentary) in a variety of non-literary styles and genres. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 4433
+Title: Russian for Russian Specialists
+Description: The course is designed for advanced students of Russian who are interested in Russian studies requiring fine active control of the language. Students will have an opportunity to speak formally and informally on topics in their field of interest. Fine points of syntax, usage, and style will be discussed. The subject matter differs from year to year.
+
+Code: RUSSA 4491
+Title: Reading Course: Russian Literature in the Original Language
+Description: To be taken in conjunction with any Russian literature course at the advanced level. Students receive 1 credit for reading and discussing works in Russian in addition to their normal course work. Detailed description at russian.cornell.edu.
+
+Code: RUSSA 6633
+Title: Russian for Russian Specialists
+Description: The course is designed for advanced students of Russian who are interested in Russian studies requiring fine active control of the language. Students will have an opportunity to speak formally and informally on topics in their field of interest. Fine points of syntax, usage, and style will be discussed. The subject matter differs from year to year.
+

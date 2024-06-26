@@ -1,0 +1,24 @@
+Code: LEGAL 5108
+Title: Compliance Systems
+Description: Appropriate and efficient internal compliance helps to support the central mission of the business and control costs. This course is designed to introduce students to the basic concepts and fundamentals of the compliance function within a company or organization. It will focus on (1) the drivers behind the development of rules (2) practical issues involved in rule creation (3) the process of training, or "selling," rule systems to the appropriate people (4) policing compliance, including investigations and enforcement of rules, and (5) the consequences of failing to operate a compliance program or doing it wrong. The course relies upon case studies from businesses and organizations, with an emphasis on real life situations with the goal of understanding how to make improvements to rule systems.
+
+Code: LEGAL 5116
+Title: Cybersecurity, Policy and Governance
+Description: This class will focus on understanding and responding to the threats facing enterprises that arise in the context of a globally interconnected economy. Students will explore the substantive and procedural steps, roles and stakeholders inside the organization and out that collaborate regularly to neutralize attacks and strengthen defenses.
+
+Code: LEGAL 5117
+Title: Privacy Law, Regulation and Business
+Description: This course examines the legal aspects of information privacy, data protection and data security, including the privacy of electronic communications. It will review the major federal privacy statutes, the role of the federal government and designated administrative agencies in the regulation of corporate consumer privacy conduct and data protection. Attention will be given to the large gaps that exist in the protection of individual privacy rights, and to ongoing efforts to regulate emerging technologies, in light of significant international, federal, and state regulatory developments.
+
+Code: LEGAL 6100
+Title: Mastering Negotiations
+Description: This course will introduce you to basic negotiation terminology. You will learn about the difference between distributive and integrative negotiation, and how to use each of these approaches to negotiation to create maximum value. You will then learn how to balance these two approaches in order to further your chances of making a deal and create even greater further value. By the end of the course, you will have the tools to not only split the pie but also grow the pie in a way that would benefit you and your negotiating partner. Negotiations don't necessarily have winners and losers. Through collaboration, it is possible to create value in a way that allows both parties to get most of what they want.
+
+Code: LEGAL 6103
+Title: U.S. Securities Regulation
+Description: This course provides a general overview of the regulation of the offer and sale of securities under the Securities Act of 1933 ("Securities Act") and the reporting requirements under the Securities Exchange Act of 1934 ("Exchange Act"). Topics to be covered include: the definition of "security," issues around registering securities for public sale, certain exemptions that permit sales without registration, aspects of the federal proxy rules, and certain of the antifraud provisions under the Securities Act and the Exchange Act, including Rule 10b-5, and insider trading. The course is designed for a student interested in gaining a general familiarity of the basics of the federal securities laws.
+
+Code: LEGAL 7100
+Title: Capstone Project I
+Description: This substantial written project will involve in depth study of a topic selected by the student together with their capstone advisor. The project can involve applying what students learned in the program to issues specific to their work place.
+

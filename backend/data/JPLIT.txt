@@ -1,0 +1,8 @@
+Code: JPLIT 6625
+Title: Directed Readings
+Description: Students choose a faculty member to oversee this independent study. The student and the faculty member work together to develop class readings.
+
+Code: JPLIT 6627
+Title: Advanced Directed Readings
+Description: Guided independent study for graduate students.
+

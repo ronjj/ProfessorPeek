@@ -1,0 +1,96 @@
+Code: FREN 1210
+Title: Elementary French
+Description: FREN 1210-FREN 1220 is a two-semester sequence.  FREN 1210 is the first half of the sequence designed to provide a thorough grounding in French language and an introduction to intercultural competence.  French is used in contextualized, meaningful activities to provide practice in speaking, listening, reading, and writing.  Development of analytical skills for grammar leads students toward greater autonomy as language learners.  Students develop their writing skills by writing and editing compositions.  Readings are varied and include literary texts.  Daily preparation and active participation are required.
+
+Code: FREN 1230
+Title: Continuing French
+Description: FREN 1230 is an all-skills course designed to improve oral communication, listening comprehension, and reading ability, to establish a groundwork for correct writing, and to provide a substantial grammar review. The approach in the course encourages the student to see the language within the context of its culture.
+
+Code: FREN 2070
+Title: Medical French
+Description: This course is specifically designed for premed students and students at large with an interest in medical related topics who wish to be better equipped with language skills that will enable them to convey more empathy and multicultural sensitivity while communicating with diverse patient populations throughout the Francophone world.  This course aims as well to prepare students to engage in global health equity and promote awareness of language barriers in today's medical field, both domestically and abroad. This is a mid-intermediate level course, and as such, it will continue to develop and reinforce writing, reading, speaking, listening and presentational skills via an array of communicative tasks based on real-life situations.
+
+Code: FREN 2090
+Title: French Intermediate Composition and Conversation I
+Description: This intermediate-level course is designed for students who want to focus on their speaking and writing skills. Emphasis is placed on strengthening of grammar skills, expansion of vocabulary and discourse levels to increase communicative fluency and accuracy. The course also provides continued reading and listening practice as well as development of effective language learning strategies.
+
+Code: FREN 2095
+Title: French Intermediate Composition and Conversation II
+Description: This advanced-intermediate course is highly recommended for students planning to study abroad as it aims to develop the writing and speaking skills needed to function in a French speaking university environment. A comprehensive review of fundamental and advanced grammatical structures is integrated with the study of selected texts (short stories, literary excerpts, poems, articles from French periodicals, videos) all chosen for thematic or cultural interest. Students write weekly papers, participate in class discussions of the topics at hand, and give at least one oral presentation in class.
+
+Code: FREN 2270
+Title: Versions of Versailles
+Description: The palace of Versailles has been an object of fascination for over three hundred years.  A place of splendor and squalor Versailles has been identified with French culture as the epitome of elegance and grace from Louis XIV to Karl Lagerfeld.  It has also been the scene of scandal and tragedy.  This course will examine the importance the reality and mythology of Versailles has played across the centuries and across the world.  We will examine the construction, the art, architecture, garden construction music and social history of the palace and its place both in Absolutist France and in our contemporary world.  Using movies, reproductions or art and architecture as well as revealing the secrets of its sexual politics and murderous plots we will attempt to understand why the fascination of the greatest of all palaces continues to draw millions of visitors each year trying to discover its grandeur and decadence.
+
+Code: FREN 2310
+Title: Introduction to French and Francophone Literature and Culture
+Description: This course, designed to follow FREN 2095, introduces students to an array of literary and visual material from the French and Francophone world.  It aims to develop students' proficiency in critical writing and thinking, as well as presenting students with the vocabulary and tools of literary and visual analysis.  Each section of FREN 2310 will have a different focus-for example, colonialism and the other, or the importance of women and sexual minorities in French and Francophone history, performance in literature and film, or image and narrative-but all sections of FREN 2310 will emphasize through writing assignments and in-class discussions, the development of those linguistic and conceptual tools necessary for cultural and critical fluency.
+
+Code: FREN 2692
+Title: Thinking Difference in the 21st Century
+Description: This course adopts an interdisciplinary lens to reflect on how we can think difference productively in our current global condition, through examining some of the challenges that traditionally normative legislative systems (French secularism, shari'a laws in Francophone muslim countries) come up against when faced with increasingly multi-ethnic and pluralistic societies. We will examine a wide array of contemporary issues in the French metropole and the Francophone sphere, as well as their particular histories. Combining an interdisciplinary approach, we will look at a set of current events, legislations, and public debates, such as the burqa ban, terrorism, the same-sex marriage debate (marriage pour tous), and immigration 'queston'.
+
+Code: FREN 3120
+Title: French Stylistics
+Description: Part theory, part textual analysis, and part creative writing, this course aims to help students develop a richer, more nuanced understanding and command of both the spoken and written language. As students refine their understanding of style and learn techniques for characterizing stylistic varieties, they apply these concepts both to the reading of a singular (and yet very plural) literary text. Raymond Queneau's Exercices de style, and to the writing of new exercices de style of their own. We also consider the relevance of stylistics to translation and of translation to Queneau's text.  Seminar-style participation in class discussions and activities is expected.
+
+Code: FREN 3460
+Title: Intellectuals: A French History
+Description: The concept of "intellectual" - the writer or scholar who takes a political commitment - was born in France at the end of the nineteenth century. From the Dreyfus Affaire to the recent polemics on French "identity," passing through Vichy, the Algerian War and May 68, intellectuals established a symbiotic relationship between culture and politics, becoming a sort of national brand, object of both admiration and contempt outside of the country. The aim of this course is to revisit some crucial moments of this history, focusing on different attempts to define the nature and function of the intellectual, from Emile Zola to Jean-Paul Sartre, from Simone de Beavoir to Michel Foucault.
+
+Code: FREN 3525
+Title: Bodies in Medicine
+Description: Literature offers valuable perspectives on medicine and the human body that help us focus on the humanity of the individual who is the object of medical interventions. This focus often occurs as a result of carefully chosen languages that can be seen as consulting a poetics of the body. In this course, we will examine the poetics of the body in a range of literary, philosophical, and scientific works. We will explore how literary authors revise or rework medical representations of the body and of the individual in order to evoke the value and complexity of the human body.
+
+Code: FREN 3560
+Title: Freud and Psychoanalysis
+Description: Psychoanalysis considers the human being not as an object of treatment, but as a subject who is called upon to elaborate an unconscious knowledge about what is disrupting her life, through analysis of dreams, symptoms, bungled actions, slips of the tongue, and repetitive behaviors.  Freud finds that these apparently irrational acts and behavior are ordered by the logic of the fantasy, which provides a mental representation of a traumatic childhood experience and the effects it unleashes in the mind and body-effects he called drives.  As "unbound" energies, the drives give rise to symptoms, repetitive acts, and fantasmatic stagings that menace our health and sometimes threaten social coexistence, but that also rise to the desires, creative acts, and social projects we identify as the essence of human life.  Readings will include fundamental texts on the unconscious, repression, fantasy, and the death drive, as well as case studies and speculative essays on mythology, art, religion, and group psychology.  Students will be asked to keep a dream journal and to work on their unconscious formations, and will have the chance to produce creative projects as well as analytic essays.
+
+Code: FREN 3685
+Title: Feminism and Islam in North Africa
+Description: The course is a survey of Feminist Islamic thinkers from Morocco, Algeria, Tunisia and Egypt, and their diaspora, featuring both French and Arabic texts in English translation. The purpose of the course is to critically explore the competing treatment of major gendered tropes in a Muslim context (the veil, the harem, polygamy, etc.) by North African thinkers, through their examination of qur'anic surats/hadiths, the evolution of tafsirs (tradion of qur'anic exegesis) as well as their conflicting approaches to secular western feminism. Readings might include: Fatema Mernissi, Asmaa Lamrabet, Qasim Amin, Naguib Mahfoud, Assia Djebar, Mona Eltahawy, and Nawal El-Saadawi.
+
+Code: FREN 3750
+Title: Ecofeminisms and Wonder Stories in the Francophone World
+Description: This course will introduce students to the contemporary ecofeminist theories which are being developed in the francophone world today in parallel with the analysis of different case studies, using literary, philosophical, scientific French and Francophone works. The course seeks to look at some of the engendered frameworks that have led to political, sociological and ecological impasses and explores how solutions to ethical, environmental and economical problems may require a feminist perspective. The goal of the course is to open a dialogue between these works, as they represent, symbolize, translate the so-called "universal" knowledge of the Western World and the emerging "situated knowledges of the "Other Non Western World."
+
+Code: FREN 3840
+Title: Occupied France Through Film
+Description: The Second World War and the Occupation of France by German forces had a traumatic impact on the nation's identity. We will examine the way France has tried to deal with this conflicted period through a series of films that each deal, directly or indirectly with the major questions posed by history to French "memory" of the Occupation. What was the role of collaboration, resistance, anti-Semitism, of writers and intellectuals during this traumtic period? How has film helped to define and re-shape the ways in which France has come to terms with its conflicted past?
+
+Code: FREN 4140
+Title: Thinking With Montaigne: The Essays in The History of Philosophy and Theory
+Description: Western modernity and humanism have been the target of decisive critique over the past decades in philosophy and theory.  But these trends are not contemporary in any simple sense; they have strange affinities with the premodern modes of writing and thinking put forth in the Essays (1580-95) of Michel de Montaigne. This seminar interrogates the contemporaneity of Montaigne by rereading the Essays in dialogue with influential philosophers and theorists, such as Plato, Aristotle, Descartes, Hegel, Nietzsche, Freud, Adorno, Heidegger, Levi-Strauss, Foucault, Deleuze, Agamben, Derrida, and Haraway.  While studying Montaigne's untimely place in intellectual history, we will examine related aesthetic modes and explore how the unprecedented (anti)philosophical gesture of the Essay resonates with posthumanist styles and questions in ecological thought, philosophy, politics, and indigenous studies.
+
+Code: FREN 4190
+Title: Special Topics in French Literature
+Description: Guided independent study of special topics.
+
+Code: FREN 4290
+Title: Honors Work in French
+Description: Consult director of undergraduate studies for more information.
+
+Code: FREN 4368
+Title: Reading Édouard Glissant
+Description: This seminar will focus on the writings of the polymorphous Martinican poet and thinker, Édouard Glissant (1928-2011).  We will attend to the historical context of French colonialism, particularly in the Caribbean, that gives his writing part of its impetus and to the anticolonial intellectuals with whom he engages (chiefly Aimé Césaire and Frantz Fanon) as well as to his major self-professed influences (William Faulkner, Saint-John Perse, Hegel) and to an array of interlocutors and fellow-travelers as well as a few dissenters. The seminar will examine the main preoccupations of Glissant's writing (world histories of dispossession and plantation slavery, creolization, Relation, opacity, flux, transversality, Caribbean landscapes as figures of thought, the All-World, etc.) but our focus will be on reading Glissant and attending carefully to the implications of his poetics and of his language for decolonial thought.
+
+Code: FREN 4745
+Title: Romantic Quests, Imperial Conquests
+Description: The course will propose a parallel reading of some of the most famous texts of romantic literature with texts less known in order to develop and challenge both the canon of literary history but also to extend the field of romantic studies beyond purely literary concerns and geographies. Taking as a starting point Harold Bloom's famous definition of Romanticism as "the internalization of romance, particularly of the quest" we propose to scrutinize some of these canonical works. Texts to be read could include Stendhal's Le rouge et le noir, Germaine de Staël's Corinne ou l'Italie, Chateaubriand's Atala, Flora Tristan PéIrégrinations d'une noir, George Sand's Indiana, Suzanne Voilquin, Mémoires d une fille du peuple en Egypte, Louise Michel's L'ère nouvelle.
+
+Code: FREN 6140
+Title: Thinking With Montaigne: The Essays in The History of Philosophy and Theory
+Description: Western modernity and humanism have been the target of decisive critique over the past decades in philosophy and theory.  But these trends are not contemporary in any simple sense; they have strange affinities with the premodern modes of writing and thinking put forth in the Essays (1580-95) of Michel de Montaigne. This seminar interrogates the contemporaneity of Montaigne by rereading the Essays in dialogue with influential philosophers and theorists, such as Plato, Aristotle, Descartes, Hegel, Nietzsche, Freud, Adorno, Heidegger, Levi-Strauss, Foucault, Deleuze, Agamben, Derrida, and Haraway.  While studying Montaigne's untimely place in intellectual history, we will examine related aesthetic modes and explore how the unprecedented (anti)philosophical gesture of the Essay resonates with posthumanist styles and questions in ecological thought, philosophy, politics, and indigenous studies.
+
+Code: FREN 6368
+Title: Reading Édouard Glissant
+Description: This seminar will focus on the writings of the polymorphous Martinican poet and thinker, Édouard Glissant (1928-2011).  We will attend to the historical context of French colonialism, particularly in the Caribbean, that gives his writing part of its impetus and to the anticolonial intellectuals with whom he engages (chiefly Aimé Césaire and Frantz Fanon) as well as to his major self-professed influences (William Faulkner, Saint-John Perse, Hegel) and to an array of interlocutors and fellow-travelers as well as a few dissenters. The seminar will examine the main preoccupations of Glissant's writing (world histories of dispossession and plantation slavery, creolization, Relation, opacity, flux, transversality, Caribbean landscapes as figures of thought, the All-World, etc.) but our focus will be on reading Glissant and attending carefully to the implications of his poetics and of his language for decolonial thought.
+
+Code: FREN 6390
+Title: Special Topics in French Literature
+Description: Guided independent study for graduate students.
+
+Code: FREN 6424
+Title: Beauty, Grief
+Description: This course is for anyone drawn to beauty-and anyone who, within the beautiful, finds the trace of a loss. What do we grieve, what do we miss, when we find ourselves in the presence of beauty? And what, in every retrospective, prospective or otherwise non-present beauty, do we nonetheless crave and nonetheless mourn? What is the beauty hidden within mourning? We'll take a look at thinkers, poets, and artists from both modern and premodern culture, potentially including Anne Carson, Augustine of Hippo, Fra Angelico, Gillian Rose, Hervé Guibert, Pepe Espáliu, and others, as we try to sit with dual summons of beauty and grief: beauty or grief.
+

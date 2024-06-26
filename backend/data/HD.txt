@@ -1,0 +1,192 @@
+Code: HD 1102
+Title: Introduction to Cognitive Science
+Description: This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.
+
+Code: HD 1125
+Title: FWS: Topics in Human Development
+Description: This is a topics course for Human Development First-Year Writing Seminars.
+
+Code: HD 1130
+Title: Introduction to Human Development
+Description: Introduction to Human Development provides a broad and foundational overview of field of human development, starting from conception and ending through process of death and dying. The course will start with an outline and explanation of the lifespan perspective in human development. The biological beginnings of life and prenatal development will serve as the start of the discussion of human development, followed by an exploration of physical, cognitive, and socioemotional development at each subsequent stage within the lifespan (e.g., infancy, early childhood, middle & late childhood, etc.). Discussion of each developmental stage will highlight major research findings and their real-world application.
+
+Code: HD 2150
+Title: Introduction to Human Development: Infancy and Childhood
+Description: HD 2150 introduces students to the major theoretical perspectives, methods (both classic and contemporary), research findings, and controversies in the study of child development. Prenatal development and development in infancy and childhood are examined, including physical, cognitive, and social/emotional development.  The focus is on individual development from an interdisciplinary perspective, with an emphasis on psychological development, but also drawing from the fields of sociology, history, biology, anthropology, neuroscience, and education.  This is a second-level course, so the emphasis is on analytical, creative, and practical understanding and application of concepts of development.
+
+Code: HD 2180
+Title: Human Development: Adulthood and Aging
+Description: Introduces students to theories and research in adult development and aging. Describes biological, psychological and social changes from early through late adulthood. Identifies strategies to promote healthy aging at the individual and societal level.
+
+Code: HD 2200
+Title: The Human Brain and Mind: An Introduction to Cognitive Neuroscience
+Description: At the turn of the 21st century the age of Embodied Cognition dawned: a reconsideration of relationships between body, brain, and mind. Researchers in philosophy, psychology, linguistics, and cognitive neuroscience challenged the 20th-century dogma that the mind is like a digital computer, and can be studied independently of the body, brain, and world. Researchers turned their attention to the role that bodily experience plays in thinking and learning, and the roles neural systems for perception and action play in cognition. This course views the field of Cognitive Neuroscience through the lens of Embodied Cognition research, and evaluates the extent to which "embodiment" may be passing fad, a useful shift in perspective, or a revolutionary new way of building theories about brain and mind.
+
+Code: HD 2230
+Title: Intro to Behavioral Neuroscience
+Description: Introduction to psychology from a biological perspective, which focuses on brain mechanisms of behavior. Topics include the structure and function of the nervous system, physiological approaches to understanding behavior, hormones and behavior, biological bases of sensation and perception, learning and memory, cognition, emotion, and communication.
+
+Code: HD 2300
+Title: Cognitive Development
+Description: This course will provide you with an overview of how children's cognition develops. We will investigate how cognition develops from many different perspectives. The main perspectives will be biological, genetic-epistemological, socio-cultural, and information-processing ones. This course also will help you to understand how cognition influences other areas of development, including intelligence, development of the self, language, and social development. Finally, different populations will be considered to better understand the roles not only of nature and nurture, but also of how the two interact to influence development.
+
+Code: HD 2400
+Title: Introduction to Community Psychology
+Description: What counts as a community? How do communities shape who we are? How can we engage in action to transform the communities we are a part of? These questions guide our inquiry in this introductory community psychology course. Community psychology examines the interrelationship between individual wellbeing and the multiple social structures and contexts with which individuals interact. Community psychologists are united by a shared commitment to understanding individuals using a multidisciplinary perspective, including developmental psychology, education, and sociology. Beyond seeking to understand, community psychologists also emphasize values, applied and participatory research, and action to promote the well-being of entire communities from a strengths-based perspective. This lecture-based course will provide an overview of theory, research, and action in community psychology. We will focus on (a) essential community psychology theories, (b) methodological strategies for studying alongside communities, and (c) practical applications related to understanding social and environmental contexts as essential components of the human experience. Throughout the course, we will discuss the role of communities in shaping our understandings of diversity, equity, and social justice.
+
+Code: HD 2510
+Title: Social Gerontology: Aging and the Life Course
+Description: Analyzes the social aspects of aging in contemporary American society from a life course perspective. Topics include (1) an introduction to the field of gerontology, its history, theories, and research methods; (2) a brief overview of the physiological and psychological changes that accompany aging; (3) an analysis of the contexts (e.g., family, friends, social support, employment, volunteer work) in which individual aging occurs, including differences of gender, ethnicity, and social class; and (4) the influences of society on the aging individual.
+
+Code: HD 2580
+Title: Six Pretty Good Books: Explorations in Social Science
+Description: This course is modeled after "Great Books" literature courses in the humanities, but with two important differences: we read non-fiction books in the social sciences rather than the humanities, written by highly prominent contemporary social scientists. The course title refers to the fact that the books are new, hence their potential greatness has yet to be confirmed by the test of time. We choose living authors to give students a unique opportunity: to interact with each of the six authors in Q&A sessions via live or recorded video conferencing.
+
+Code: HD 2600
+Title: Introduction to Personality
+Description: What is "personality"? How is it scientifically studied and measured? To what extent, do biological, social, and cultural factors shape personality? Is personality an expression of our genetic make up and biology, the culmination of social influences, the interplay of both, or the result of random events? In this course, we will review the major theoretical paradigms of personality psychology, discuss contemporary research, theory, and methodology, and learn about key historical debates in the study of "personality".
+
+Code: HD 2830
+Title: Research Methods in Human Development
+Description: This course will introduce students to the basics of research design and will review several methodologies in the study of human development. The focus of the course will be on descriptive and experimental methods. Students will learn the advantages and challenges to different methodological approaches. The course also places an emphasis on developing students' scientific writing and strengthening their understanding of statistics.
+
+Code: HD 2930
+Title: Introduction to Data Science for Social Scientists
+Description: Intro to Data Science for Social Scientists using R.
+
+Code: HD 3110
+Title: Educational Psychology
+Description: Educational psychology is the application of psychological principles and concepts to cases of teaching and learning. We study behavioral, cognitive, embodied, and social-cultural perspectives on learning and thinking, and we use them in planning and reflecting on weekly fieldwork outside the classroom. In the process, we become more mindful and skilled learners ourselves and better facilitators of others' learning.
+
+Code: HD 3150
+Title: Language and Power
+Description: In this course, we will explore how language interacts with power: how does language reflect, shape, threaten and reinforce power relations in human society? From childhood through old age, language is an ever-present source of symbolic power. We use it to develop and express our identities, to position ourselves in hierarchies, and to establish group membership and exclusion throughout life. Language shapes ourselves, our families, our social lives, and our institutions. Understanding how people use language can provide a window into hidden aspects of both individuals and the social world.
+
+Code: HD 3190
+Title: Memory and the Law
+Description: Focuses on how the scientific study of human memory interfaces with the theory and practice of law.
+
+Code: HD 3210
+Title: Developmental Cognitive Neuroscience
+Description: As it is with much of scientific discovery, a poet, William Wordsworth, best explained development with a simple phrase: The Child is father of the Man (person). In this course, we explore how our adult selves come to be through the lens of Developmental Cognitive Neuroscience. You will learn about current perspectives and controversies, the latest understanding of the development of multiple physiological systems (e.g., vision, perception, language, etc.) as interactions between molecular mechanisms, experience, and neural plasticity. Weekly short reaction papers, class exercises, and midterm and final projects, will all be geared towards developing a personal appreciation for the subject as well as an understanding of the issues in developmental cognitive neuroscience as a field.
+
+Code: HD 3310
+Title: Psychology of Gender
+Description: This course explores psychological research on gender, examining the interactions between biology and social learning, gender identity, stereotypes, gender diversity, and discrimination. We will critically evaluate gender with respect to cognition, attitudes, leadership, close relationships, psychological and physical development, achievement, communication, and health. Our engagement with course material will use an intersectional approach that acknowledges that gender development, expression, and experience are deeply impacted by race, social class, sexuality, ability, and culture.
+
+Code: HD 3820
+Title: Prejudice and Stereotyping
+Description: Social group membership - based on race and ethnicity, class, sexual orientation, sex, gender and gender identity, etc. and their intersection- can profoundly influence one's experience of the world and each other.  Through this course we will cover the basic experimental social psychology research on thoughts and beliefs (stereotypes), evaluative attitudes (prejudice), and behaviors (discrimination) that are based on group membership. We will explore how empirical research developed from primarily examining explicit (blatant) prejudice in the 20th century to recent examinations of implicit forms of stereotyping and prejudice. We will explore how stereotyping and prejudice can arise from basic perceptual and categorical processes, discuss strategies for minimizing expressed bias in interpersonal situations, and examine the experience of high status - and the consequences of losing it. The ultimate aim is to enhance your ability to evaluate and analyze the scientific merit of this research and apply it to real world social issues.
+
+Code: HD 4000
+Title: Directed Readings
+Description: For study that predominantly involves library research and independent study.
+
+Code: HD 4010
+Title: Empirical Research
+Description: For study that predominantly involves data collection and analysis or laboratory or studio projects.
+
+Code: HD 4020
+Title: Supervised Fieldwork
+Description: For study that involves both responsible participation in a community setting and reflection on that experience through discussion, reading, and writing. Academic credit is awarded for this integration of theory and practice.
+
+Code: HD 4030
+Title: Teaching Assistantship
+Description: For study that includes assisting faculty with instruction.
+
+Code: HD 4110
+Title: Advanced Seminar in Psychopathology
+Description: This course provides an overview to the theory, concepts, and controversies underlying common psychological disorders, as well as an introduction to transdiagnostic perspectives on mental health.
+
+Code: HD 4250
+Title: Translational Research on Decision Making
+Description: Introductory laboratory-based course focusing on basic foundations in translational research on decision making across the lifespan. The course introduces students to hands-on applications of research skills in the context of research on decision making, spanning basic and applied research in law, medicine, behavioral economics, and policy. It focuses on such topics as human subjects protection, working with populations across the lifespan (e.g., children, seniors), database development, working with external partners and stakeholders (e.g., schools, hospitals), and basic concepts and techniques in decision research. Students participate in weekly laboratory meetings in small teams focused on specific projects as well as monthly meetings in which all teams participate. During laboratory meetings, students discuss ongoing research, plans for new studies, and interpretations of empirical findings from studies that are in progress or have been recently completed. New students work closely with experienced students and eventually work more independently. In order to fully grasp how the research projects fit into the broader field, students read relevant papers weekly and write reaction responses. Because several projects are ongoing at all times, students have the opportunity to be involved in more than one study and are assigned multiple tasks such as piloting research paradigms, subject recruitment, data collection, data analysis, and data entry. Students attend a weekly lab meeting for 1.5 hours per week, read pertinent papers, write reaction responses, and work 10.5 hours per week in the laboratory completing tasks that contribute to ongoing research studies.
+
+Code: HD 4260
+Title: Translational Research on Memory and Neuroscience
+Description: Laboratory-based course focusing on basic foundations in translational research on the neuroscience of human memory and memory development. Students attend a weekly lab meeting for 1.5 hours per week, read pertinent papers, write reaction responses, and work 10.5 hours per week in the laboratory completing tasks that contribute to ongoing research studies.
+
+Code: HD 4331
+Title: Event Cognition: How Minds, Brains and Bodies Experience Events
+Description: People experience and remember complex and dynamic environments as events. This seminar draws on work from cognitive neuroscience to characterize how people shape experience into events, and how these processes support adaptive behavior. The course will start with discussions of historical and modern perspectives about the relationships between minds, bodies, and experience. We will then cover topics ranging from the perception of motion and causality to social learning and interaction. The primary goals are for you to be able to (1) read and evaluate research in psychology, cognitive science, and neuroscience, and (2) describe and understand the implications of this research for how minds and bodies are adapted to everyday situations.
+
+Code: HD 4540
+Title: Creativity and Its Development
+Description: This course will survey theory, research, and practice with regard to human creativity and its development. An especial emphasis will be on how to use research findings in the service of developing your own creativity. Examples of topics will include theories of creativity, research on creativity, improving creativity, mental health and creativity, and the dark side of creativity.
+
+Code: HD 4550
+Title: The Psychology of Wisdom
+Description: This course will cover the psychology of wisdom.  Among the topics to be covered are the definition of wisdom, theories and models of wisdom, development of wisdom, measurement of wisdom, relations of wisdom to other characteristics, state versus trait characteristics of wisdom, teaching for wisdom, wisdom and leadership, wisdom and society.
+
+Code: HD 4580
+Title: The Science of Social Behavior
+Description: This is a capstone seminar for seniors who are interested in graduate or professional study in scientific disciplines that focus on human behavior and social interaction. The intent is to provide seniors with an opportunity to summon, integrate, and apply insights that they have acquired over the course of their undergraduate education, and give prospective graduate students the opportunity to lead discussions in a large introductory lecture course, "Six Pretty Good Books". Each seminar member is part of a two or three-person team that leads the discussion together, under the supervision of a graduate teaching assistant. Seminar meetings are devoted to building lesson plans for leading an effective discussion of each of the six books. The authors vary from year to year but include Malcolm Gladwell, Michelle Alexander, Nate Silver, and Nicholas Christakis. All authors have agreed to participate in a "Q&A" session with the students which seminar members are required to attend.
+
+Code: HD 4610
+Title: Community and Residential Services in Geriatric and Palliative Care
+Description: This course serves as a companion class for students admitted to the Geriatric/Palliative Immersion Program. Students in this course will learn about the continuum of geriatric/palliative care and different types of community-based and residential services that support it. They will hear first-hand perspectives from different providers and stakeholders and learn about ongoing research within the field.
+
+Code: HD 4850
+Title: Professional Development in Translational Research
+Description: As a supplement to their immersive learning experience working on faculty research projects, students in this course will engage with actors and ideas from across the youth development research and practice communities, learn about research methods and dissemination to various audiences, and begin to see the world from a translational research perspective.
+
+Code: HD 4860
+Title: Nearest Neighbor
+Description: As a supplement to their immersive learning experience working on translational research projects led by CHE faculty, and building on their experience in HD4850 (Professional Development in Translational Research), this course will provide opportunities for students to put their learning into practice by proposing and implementing a translational research project in collaboration with community partners.
+
+Code: HD 4990
+Title: Senior Honors Thesis
+Description: This course is for students doing research as part of the Honors Program in Human Development.
+
+Code: HD 5750
+Title: Quantitative Methods I
+Description: This course is a rigorous introduction to graduate statistics for social sciences. We will briefly review descriptive statistics and probability theory. We will discuss fundamental inferential frameworks at length, with a focus on Frequentist and Bayesian statistics.  The remainder of the semester will be focused on the analysis of randomized studies.
+
+Code: HD 6020
+Title: Research in Risk and Rational Decision Making
+Description: This hands-on laboratory course will develop research skills in the context of risk and rational decision making in human development from multiple disciplinary perspectives and with respect to different kinds of decision-making under risk and uncertainty.  Topics will depend on student interests but may include decisions about war, terrorism, cancer control and prevention (e.g., screening tests), personal behaviors that involve risk (e.g., HIV prevention), and other public health risks (e.g., vaccinations), law enforcement (e.g., use of a weapon), and legal decision making (e.g., jury deliberations). Students will read the research literature, discuss the latest empirical findings and scientific theories of risk and rationality, and engage in group work and peer review to hone their skills.  Students will then design research projects and engage in research activities as well as read additional references tailored to their interests.
+
+Code: HD 6190
+Title: Memory and the Law
+Description: Focuses on how the scientific study of human memory interfaces with the theory and practice of law.  Students study relevant areas of memory research and memory theory.
+
+Code: HD 6200
+Title: First-Year Proseminar in Human Development
+Description: Designed as an orientation to the department and the university. Activities include attendance at research presentations, visits to departmental research laboratories, relevant informational sessions (e.g., Institutional Review Board for Human Participants, proposal writing), and guidance in preparing a public research presentation to be made at the end of spring semester.
+
+Code: HD 6540
+Title: Creativity and Its Development
+Description: No description available.
+
+Code: HD 6610
+Title: Text and Networks in Social Science Research
+Description: This is a course on networks and text in quantitative social science. The course will cover published research using text and social network data, focusing on health, politics, and everyday life, and it will introduce methods and approaches for incorporating high-dimensional data into familiar research designs. Students will evaluate past studies and propose original research.
+
+Code: HD 6810
+Title: Proseminar in Affective and Clinical Science I
+Description: This course is intended as a professional development seminar for graduate students hoping to pursue research that integrates affective and clinical science. It is modeled after the popular "Brown Bag" courses at peer institutions.  Class meetings will blend student presentations; workshopping of emerging research; analysis of classic and recently published scholarship in the field; and visiting speakers. Students will gain a deeper understanding of the scientific methods needed to study this topic and build the skills required for an academic career - while simultaneously developing a community of scholars with shared interests in this area of research.
+
+Code: HD 7000
+Title: Directed Readings
+Description: For study that predominantly involves library research and independent study.
+
+Code: HD 7010
+Title: Empirical Research
+Description: For study that predominantly involves collection and analysis of research data.
+
+Code: HD 7020
+Title: Practicum
+Description: For study that predominantly involves field experience in community settings.
+
+Code: HD 8060
+Title: Teaching Practicum
+Description: For advanced graduate students who independently develop and teach an undergraduate topics course under the supervision of a faculty member.
+
+Code: HD 8990
+Title: Master's Thesis and Research
+Description: This course is for Master's students doing research for their Master's thesis.
+
+Code: HD 9990
+Title: Doctoral Thesis and Research
+Description: This course is for Ph.D. students doing research for their doctoral thesis.
+

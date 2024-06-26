@@ -1,0 +1,16 @@
+Code: HINDI 1121
+Title: Elementary Hindi I
+Description: Designed for students who have no prior background in Hindi and wish to develop some basic speaking and written skills. This course offers a balanced treatment of speaking, listening comprehension, reading, and writing skills. By the end of the Elementary Hindi sequence, students will be able to (1) converse and comprehend conversations on topics such as personal needs and social activities; (2) listen and communicate main ideas of simple stories and conversations in Hindi; (3) read aloud/pronounce and write in Hindi-Urdu scripts at satisfactory speed; (4) familiarize themselves with the language through the meaning cultural contexts and background.
+
+Code: HINDI 2201
+Title: Intermediate Hindi I
+Description: This is an intermediate-level course in Hindi. Students' competence in all four language areas will become extraordinarily strong and solid. This course will work on building up their confidence in describing complicated situations and ideas in the target language, improve their ability to read and write with better flow and accuracy, and increase their listening comprehension to more detailed and complicated materials.
+
+Code: HINDI 2203
+Title: Intermediate Hindi Reading and Writing for Heritage Students I
+Description: Throughout this course sequence all aspects of language learning are practiced; listening, speaking, reading, and writing. Video materials are used and the emphasis is on the conversational aspect of the language.
+
+Code: HINDI 3301
+Title: Advanced Hindi I
+Description: Selected readings in modern Hindi literature. Continued work on fluency in speaking Hindi on an advanced level. There will be a combination of different reading materials from literature, journals, newspapers, and many social, entertainment, and political magazines in Hindi. Discussions will be based on those readings and articles, hence giving opportunities to express views and opinions in a fluent and effective manner.
+

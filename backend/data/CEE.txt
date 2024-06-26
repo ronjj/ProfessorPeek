@@ -1,0 +1,332 @@
+Code: CEE 1160
+Title: Modern Structures
+Description: A hands-on introduction to structural engineering, combining classroom demonstrations and presentations with laboratory experience. Students predict hurricane wind forces and design key elements in a high-rise building to resist those forces. Students design a residential wood-deck based on laboratory tests to stretch, compress, shear, split, and bend wooden specimens. Students build brick walls and fail them under simulated hurricane and tornado wind pressures, weld steel bars and pull them apart, and forensically examine the failures. Students use software to analyze and design steel truss bridges, and become proficient at using spreadsheets to perform routine structural calculations and graph the results. Students become familiar with structural concrete by designing, building and testing small-scale reinforced-concrete frames to resist large dynamic forces.
+
+Code: CEE 1165
+Title: Climate Change and You, the Engineer
+Description: Our current students are the first generation that will feel the impacts of climate change, and the last generation that can do anything about it. The dual objectives of this course are to inform young pre-professional engineers of the factual science in the nexus of climate change/fossil fuels/renewable energy, and to inspire them to dive into that nexus now, and to begin to do something about untangling it as engineers in practice. In this nexus are key issues for civil engineers: water quality/quantity, emissions, renewable energy supply and structures, civil infrastructure systems engineering, energy economics, sustainability in megacities.
+
+Code: CEE 3040
+Title: Uncertainty Analysis in Engineering
+Description: Introduction to statistics and data analysis for engineers. Covers probability theory, discrete and continuous random variables, parametric probability distributions commonly used in engineering practice and research, point estimation, sampling distributions, confidence intervals, hypothesis testing, simple linear regression, and nonparametric statistics. Empirical examples from engineering problems are highlighted.
+
+Code: CEE 3090
+Title: Special Topics in Civil and Environmental Engineering
+Description: Supervised study by individuals or groups of upper-division students on an undergraduate project or on specialized topics not covered in regular courses.
+
+Code: CEE 3101
+Title: Introduction to Python for Engineering
+Description: Python is one the most popular programming languages for machine learning and data science in various engineering fields. This course rapidly introduces students to programming in Python, focusing on practical tools for data analysis, visualization, and scientific computing. We will learn to work with data, create visualizations, and write simple functions and scripts. We will install and use libraries such as NumPy, Matplotlib, and Pandas, and create and manage virtual environments. Basic computer science and software engineering concepts will be introduced, however, the focus of this short course is on learning to use Python as a computational tool for engineering and data analysis problems, and creating a foundation for continued learning.
+
+Code: CEE 3310
+Title: Fluid Mechanics
+Description: Covers hydrostatics, the basic equations of incompressible fluid flow, potential flow and dynamic pressure forces, viscous flow and shear forces, steady pipe flow, turbulence, dimensional analysis, laminar and turbulence boundary layer, flows around obstacles, and open-channel flow. Includes small-group laboratory assignments.
+
+Code: CEE 3410
+Title: Introduction to Geotechnical Engineering
+Description: This course covers the fundamentals of geotechnical engineering and deals with soil as an engineering material in civil and environmental applications. Topics include origins and descriptions of soil and rock, principles of effective stresses, stress distribution and ground settlements from surface loads, steady-state and time-dependent subsurface fluid flow, soil strength and failure criteria, earthwork construction and quality control, introduction to lateral earth pressures, and geotechnical exploration.
+
+Code: CEE 3790
+Title: Introduction to Building Information Modeling (BIM) using Revit
+Description: The purpose of this course is to provide a general knowledge of the use of Revit to document and model all of the major architectural elements of a commercial project. You will learn the design and detailing aspects of commercial buildings including floor plans, interior and exterior elevations, wall and building sections, schedules, and construction drawing set. Lab assignments will be created utilizing Revit (latest version).
+
+Code: CEE 4000
+Title: Senior Honors Thesis
+Description: Supervised research, study, and/or project work resulting in a written report or honors thesis.
+
+Code: CEE 4010
+Title: Undergraduate Engineering Teaching in CEE
+Description: Methods of instruction developed through discussions with faculty and by assisting with the instruction of undergraduates under the supervision of faculty.
+
+Code: CEE 4090
+Title: CEE Undergraduate Research
+Description: Research in any area of civil or environmental engineering on problems under investigation by the department or of special interest to the student, provided that adequate facilities can be obtained. The student must review pertinent literature, prepare a project outline, carry out an approved plan, and submit a formal final report.
+
+Code: CEE 4200
+Title: Managing Water Resources in a Changing World
+Description: The field of water resources management is an exciting showcase of the many challenges that await civil and environmental engineers. On one hand, increasing water demand from the urban, energy, and agricultural sectors are aggravating multi-sector conflicts. On the other hand, several drivers of change, such as global warming or socio-economic development, make future water demand and availability deeply uncertain. How can we reconcile these challenges? How can we plan and manage water resources systems in an integrated, sustainable, and just way? Building on the legacy of research in water resources systems, this course is designed to equip the new generation of professionals with the forma mentis and mathematical modelling tools that are needed to discover and negotiate the highly uncertain tradeoffs we face in balancing the water resources demands of the future.
+
+Code: CEE 4210
+Title: Renewable Energy Systems
+Description: The goal of this course is to survey renewable energy technologies and systems, primarily focusing on solar and wind as physically the largest renewable energy sources available to society, and considering hydropower, biomass, and geothermal energy as well.  The course explains calculations to support capacity, efficiency, and productivity of renewable energy.  Cost and economics of renewables are explored as well, along with the connection to U.S. and global climate and energy policy.  Homework assignments completed during the semester culminate in a renewable energy system design project.
+
+Code: CEE 4215
+Title: Stochastic Modeling of Complex Systems
+Description: The theory of stochastic processes is introduced through examples of complex systems from the natural and applied sciences, with an emphasis on applications rather than mathematical abstraction. Students will learn how to model dynamical systems with intrinsic and extrinsic noise sources, simulate their dynamics, and explore how the interplay between stochasticity and nonlinear dynamics can impact their behavior. Topics covered include generating processes for heavy-tailed distributions, diffusion processes (gaussian white noise), jump processes (white shot noise, birth/death processes, dichotomous Markov noise), stochastic hybrid systems, stochastic differential equations, first passage times, and noise-induced transitions. Analytical tools developed in the class include stochastic differential equations, the differential Chapman-Kolmogorov equation and its derivatives (Fokker-Planck and master equation), the use of transforms to solve master and Fokker-Planck equations, and the system size expansion to approximate solutions to master equations with nonlinear transition rates. Applications include examples from biophysics, climate, environmental sciences, and various areas of biology including systems, synthetic, molecular, and cellular biology.
+
+Code: CEE 4510
+Title: Microbiology for Environmental Engineering
+Description: Introduction to the fundamental aspects of microbiology and biochemistry that are pertinent to environmental engineering and science. Provides an overview of the characteristics of Bacteria, Archaea, unicellular Eukaryotes (protozoa, algae, fungi), and viruses. Includes discussions of cell structure, bioenergetics and metabolism, and microbial genetics. Focus is then applied to topics pertinent to environmental engineering: pathogens; disease and immunity; environmental influences on microorganisms; roles of microbes in the carbon, nitrogen, and sulfur cycles; enzymes; bioremediation, bioenergy, molecular microbiology; and microbial ecology.
+
+Code: CEE 4535
+Title: Water Chemistry for Environmental Engineering
+Description: This course covers chemical principles relevant to the understanding, design, and control of chemical processes in natural and engineered systems. Topics include chemical thermodynamics, acid-base equilibria, mineral precipitation/dissolution, trace element speciation, redox reactions, and reactions at the solid-solution interface. This course focuses on the mathematical description of chemical equilibria and the development of numerical, graphical, and computational solutions to these problems. Students will learn to use chemical equilibrium modeling software to describe and predict chemical speciation in complex waters. Applications of aquatic chemical principles to topics including lead in drinking water systems, arsenic mobility in agricultural soils, and geologic CO2 sequestration are discussed.
+
+Code: CEE 4555
+Title: Physical and Chemical Process
+Description: This course focuses on the theoretical and engineering aspects of physical and chemical phenomena and processes applicable to the removal of impurities from water, wastewater, and industrial wastes. The first unit covers general chemical engineering principles relevant in environmental processes including mass balances, reactor models, and reaction kinetics. The second unit covers chemical processes involving dissolved species including gas transfer, adsorption, and oxidation-reduction processes. The third unit covers particle processes and the conventional theories behind particle destabilization, particle flocculation, and particle removal processes. Each topic area has a corresponding problem set that provides students with opportunities to apply the fundamentals discussed in class. The fundamental theory is coupled with a number of real-world examples that provide context for the more abstract principles that are introduced
+
+Code: CEE 4570
+Title: Environmental Biological Processes
+Description: Principles and application of microbiology and biotechnology with emphasis on biological processes in environmental engineering applications. Theoretical and engineering aspects of biological phenomena and processes applicable to the removal of impurities from water, wastewater, and industrial wastes and to their transformation in the environment. Microbiology fundamentals, bioenergetics analysis, stoichiometry, biokinetics, and design of biological treatment processes for pollutants removal, bioremediation and resources recovery. Topics include cell metabolism, cell nutrition and growth, energy transfer and utilization, aerobic and anaerobic microbial metabolism, biological wastewater process theory and modeling, biological nutrients removal, bioremediation and resources recovery.
+
+Code: CEE 4640
+Title: Sustainable Transportation Systems Design
+Description: Senior-level design course in transportation, with a focus on design of sustainable transportation systems. The perspective in the course is one of "system design", i.e., understanding the process of creating objectives, developing alternative designs and having models capable of representing the interactions among major elements of the overall system. We will also adopt a "sustainable development" or "triple bottom line" perspective, taking into account ecological and social as well as economic dimensions of transportation systems design. From this perspective, efficient transportation function achieves the economic objective, while quantifying and minimizing negative impacts addresses ecological and social goals. The interactions among the major system elements (vehicles, infrastructure, people, freight) occurs on networks, and we need to focus on how networks function. We will also study how resources are allocated and how capacity is maintained in networks. Systems design is examined from both a public sector perspective and from a private sector perspective.
+
+Code: CEE 4665
+Title: Modeling and Optimization for Smart Infrastructure Systems
+Description: Course provide students with a set of quantitative tools for systematic decision making in the context of civil infrastructure systems. The goal is to enable students to develop models and solution strategies based on a "systems perspective,"" which is necessary for intelligent planning and management of largescale infrastructure systems. A major focus of the course will be to motivate the study of quantitative tools that are used for planning and managing these systems via application oriented programming assignments.
+
+Code: CEE 4745
+Title: Sustainability and Automation: The Future of Construction Industry
+Description: The construction industry is currently facing many challenges with respect to shortage of skilled workers, greenhouse gas emissions, and use of non-sustainable construction materials with high embodied carbon. Robotic construction enables efficient use of materials, reduction of waste generated and the ability to fabricate complex, multi-scale structures. In this course students will learn the principles of designing new structural elements with reduced embodied carbon. The course will introduce sustainable construction materials and the challenges associated with material variability and quality on building design. Students will learn the differences between standard construction techniques and advances enabled through automation. Students will reimagine and design complex, yet efficient member shapes and connections. They will evaluate the performance of these newly designed members using structural modeling and laboratory techniques.
+
+Code: CEE 4760
+Title: Behavior and Design of Concrete and Masonry Structures
+Description: This introductory course will discuss concrete and masonry as materials of construction and their incorporation into structural components and systems. The course will focus on fundamental behavior of reinforced concrete and masonry members and systems and explore how they are analyzed and designed.  The course will cover their behavior under in-plane and out plane loading, their performance under environmental conditions, and other topics.  The course is project focused with the students preparing a complete and detailed design deliverable.
+
+Code: CEE 4800
+Title: Engineering Smart Cities
+Description: This course prepares students to tackle the technical challenges to designing and operating smart and dynamic infrastructure systems.  In particular, students will learn to combine data and models to control overall system performance in the face of uncertainty.  The class will focus on smart city infrastructure systems that are self-aware, with continual surveillance of the built and natural environment and an autonomous capacity to control resource allocation.  This course will build upon fundamental engineering principles (for systems such as transportation, energy, and water resources) and teach students to employ emerging sensor technologies, accompanying data analytics, resource demand forecasting, and model predictive control theory.  Students will learn to couple engineering models of infrastructure with data-driven probabilistic models of resource demand and the approaches to control these integrated hybrid systems for optimal and equitable resource allocation with improved resilience to exogenous disturbances. Finally, the class will explore cases studies in urban flooding, energy supply, transportation and air quality, and water supply.
+
+Code: CEE 4930
+Title: Data Analytics
+Description: Big data is transforming organizations enabling vast improvements in operating efficiency, market identification and segmentation, and many other domains. This course focuses on data collection at all scales, the transformation of that data into knowledge using a variety of data analytic techniques, and the integration of that knowledge into system models for decision-making to better manage organizations. Expertise in R will be developed throughout this course.
+
+Code: CEE 5025
+Title: Civil and Environmental Engineering Seminar for First-Year Research Students
+Description: We will invite our CEE faculty to host presentations related to topics they feel open to discussing. Examples may include: how to have a successful PhD and pitfalls to avoid, the academic and industry job markets, academic writing and presenting, how to select research topics, topics currently popular in research and who certain key players / universities / companies are, grants fellowships and scholarships, postdocs, effective teaching, the differences between being an academic in different types of schools and departments, work-life balance, etc.
+
+Code: CEE 5031
+Title: Project in Environmental Fluid Mechanics and Hydrology
+Description: Project-based course in the area of environmental fluid mechanics and hydrology under the guidance of a faculty member.
+
+Code: CEE 5041
+Title: Project in Geotechnical Engineering
+Description: Design of major geotechnical engineering project. Planning and preliminary design during fall semester; final design completed in January intersession.
+
+Code: CEE 5051
+Title: Project in Environmental Engineering
+Description: Design project related to Environmental Engineering.
+
+Code: CEE 5061
+Title: Project in Transportation Engineering
+Description: Systems analysis of a substantial transportation service.
+
+Code: CEE 5101
+Title: Introduction to Python for Engineering
+Description: Python is one the most popular programming languages for machine learning and data science in various engineering fields. This course rapidly introduces students to programming in Python, focusing on practical tools for data analysis, visualization, and scientific computing. We will learn to work with data, create visualizations, and write simple functions and scripts. We will install and use libraries such as NumPy, Matplotlib, and Pandas, and create and manage virtual environments. Basic computer science and software engineering concepts will be introduced, however, the focus of this short course is on learning to use Python as a computational tool for engineering and data analysis problems, and creating a foundation for continued learning.
+
+Code: CEE 5200
+Title: Economics of the Energy Transition
+Description: In response to the risks posed by global climate change, many states and countries have set emissions reductions goals necessitating a rapid transition toward zero-carbon energy resources. Achieving these goals entails unprecedented investment in civil infrastructure systems combined with large-scale consumer and industry adoption of clean energy solutions. This course will explore the economic challenges and opportunities associated with this transition, with an emphasis on the electric power sector. The course is broken into two halves. The first focuses on the economic viability of individual projects. The second develops system level models and considers interactions between competing energy sources.
+
+Code: CEE 5240
+Title: Model Based Systems Engineering
+Description: Fundamental ideas of systems engineering, and their application to design and development of various types of engineered systems. Defining system requirements, creating effective project teams, mathematical tools for system analysis and control, testing and evaluation, economic considerations, and the system life cycle. Content utilizes model-based systems engineering, which is the integration of systems modeling tools, such as SysML, with tools for systems analysis, such as Matlab and Modelica. The vision for this integration is the ability to create and analyze complete parametric representations of complex products and systems. These systems make it possible to investigate the impact of changing one aspect of a design on all other aspects of design and performance. This course will familiarize students with these modeling languages. Off-campus students must provide their own Windows 7, internet-connected, computer with administrator access in order to install the commercial software used in this course.
+
+Code: CEE 5510
+Title: Microbiology for Environmental Engineering
+Description: Introduction to the fundamental aspects of microbiology and biochemistry that are pertinent to environmental engineering and science. Provides an overview of the characteristics of Bacteria, Archaea, unicellular Eukaryotes (protozoa, algae, fungi), and viruses. Includes discussions of cell structure, bioenergetics and metabolism, and microbial genetics. Focus is then applied to topics pertinent to environmental engineering: pathogens; disease and immunity; environmental influences on microorganisms; roles of microbes in the carbon, nitrogen, and sulfur cycles; enzymes; bioremediation, bioenergy, molecular microbiology; and microbial ecology.
+
+Code: CEE 5665
+Title: Modeling and Optimization for Smart Infrastructure Systems
+Description: Course provide students with a set of quantitative tools for systematic decision making in the context of civil infrastructure systems. The goal is to enable students to develop models and solution strategies based on a "systems perspective,"" which is necessary for intelligent planning and management of largescale infrastructure systems. A major focus of the course will be to motivate the study of quantitative tools that are used for planning and managing these systems via application oriented programming assignments.
+
+Code: CEE 5735
+Title: Mathematical Modeling of Natural and Engineered Systems
+Description: This course builds from previously studied fundamental concepts to uncover strategies for using math to describe natural and engineered systems that impact the human experience (e.g. infrastructure systems, subsurface structures and networks, bacterial colonies, traffic networks, reservoir systems, etc.) Specifically, selected approaches for mechanistic descriptions ("clear box" models), data-driven descriptions ("black box" models), and hybrids of these ("grey box" models) will be covered: both through an introduction to foundational theory and also in computational implementation. In gaining experience in formulating their own mathematical models for real world phenomena, students will be better able to describe, study, and control the performance of natural and engineered systems in their professional lives.
+
+Code: CEE 5746
+Title: Sustainability and Automation: The Future of Construction Industry
+Description: The construction industry is currently facing many challenges with respect to shortage of skilled workers, greenhouse gas emissions, and use of non-sustainable construction materials with high embodied carbon. Robotic construction enables efficient use of materials, reduction of waste generated and the ability to fabricate complex, multi-scale structures. In this course students will learn the principles of designing new structural elements with reduced embodied carbon. The course will introduce sustainable construction materials and the challenges associated with material variability and quality on building design. Students will learn the differences between standard construction techniques and advances enabled through automation. Students will reimagine and design complex, yet efficient member shapes and connections. They will evaluate the performance of these newly designed members using structural modeling and laboratory techniques.
+
+Code: CEE 5760
+Title: Behavior and Design of Concrete and Masonry Structures
+Description: This introductory course will discuss concrete and masonry as materials of construction and their incorporation into structural components and systems.  The course will focus on fundamental behavior of reinforced concrete and masonry members and systems and explore how they are analyzed and designed.  The course will cover their behavior under in-plane and out plane loading, their performance under environmental conditions, and other topics.  The course is project focused with the students preparing a complete and detailed design deliverable.
+
+Code: CEE 5770
+Title: Intermediate Behavior of Concrete and Metal Structures
+Description: No description available.
+
+Code: CEE 5790
+Title: Introduction to Building Information Modeling (BIM) using Revit
+Description: The purpose of this course is to provide a general knowledge of the use of Revit to document and model all of the major architectural elements of a commercial project. You will learn the design and detailing aspects of commercial buildings including floor plans, interior and exterior elevations, wall and building sections, schedules, and construction drawing set. Lab assignments will be created utilizing Revit (latest version).
+
+Code: CEE 5820
+Title: Global Food, Energy, and Water Nexus – Engage the US, China, and India for Sustainable Future
+Description: This course is offered by six Departments at Cornell, in collaboration with five Universities in China and one India. Video conferencing will be used to connect classrooms in the three countries in real time. Important issues related to the food, energy, and water nexus and its implications for nutrition security, one health, environmental sustainability, climate change, and economic development in the US and these two countries will be described. Challenges associated with these issues will be evaluated and strategies to address them will be proposed. Engagement of these countries with each other and the rest of the world will be explored. The course serves as a platform for students from Cornell, China, and India to learn from and interact with each other in the same class, and to share their thinking, creativity, and perspectives on these issues.
+
+Code: CEE 5900
+Title: Project Management
+Description: Core graduate course in project management for people who will manage technical or engineering projects. Focuses both on the "technical" tools of project management (e.g., methods for planning, scheduling, and control) and the "human" side (e.g., forming a project team, managing performance, resolving conflicts), with somewhat greater emphasis on the latter.
+
+Code: CEE 5910
+Title: Engineering Management Project
+Description: As Engineering Managers, you need to embrace both technical and business skills to tackle complex, sociotechnical challenges, while staying on top of the current pace of technological change. In this Engineering Management project course, we are bridging from your coursework to your role as an engineering manager. To get there, you will practice the tools, themes, and techniques learned in your Engineering Management coursework through the scaffolding of a large project. In CEE 5910, you will work in teams to lead and execute a project in collaboration with an industry partner. You will perform an intensive evaluation of some mixture of the technological and management aspects of a major engineering project or system, conducted with a team of students.
+
+Code: CEE 5930
+Title: Data Analytics
+Description: Big data is transforming organizations enabling vast improvements in operating efficiency, market identification and segmentation, and many other domains. This course focuses on data collection at all scales, the transformation of that data into knowledge using a variety of data analytic techniques, and the integration of that knowledge into system models for decision-making to better manage organizations. Expertise in R will be developed throughout this course.
+
+Code: CEE 5950
+Title: Construction Planning and Operations
+Description: Prepares students for responsibilities in overseeing the engineering and management of construction; on time-on budget. Emphasis is placed on the management processes for organizing, planning, and controlling the activities of complex development and construction programs. Students study the contracts for engineering, architecture, and construction; focusing on cost estimation and schedule control, responsibilities and risks, and the relationships among owners, designers, contractors, and suppliers. The potential for project disruption is discussed with special emphasis on dispute resolution methods.
+
+Code: CEE 5980
+Title: Decision Framing and Analytics
+Description: Framework to structure the way we think about decision situations that are complicated by uncertainty, complexity, and competing objectives. Specific decision analysis concepts and tools, such as decision trees, sensitivity analysis, value of information, and utility theory. Applications to all areas of engineering and life. Includes a group project to analyze a real-world decision.
+
+Code: CEE 6015
+Title: Special Topics: Remote Sensing
+Description: Students may elect to undertake a project in remote sensing. The work is supervised by a professor in this subject area.
+
+Code: CEE 6020
+Title: Seminar - Water Resources and Environmental Engineering
+Description: Graduate students and faculty members give informal lectures on various topics related to ongoing research in environmental engineering or water resources.
+
+Code: CEE 6035
+Title: Special Topics in Hydraulics
+Description: Special topics in fluid mechanics, hydraulic engineering, or hydrology.
+
+Code: CEE 6045
+Title: Special Topics in Geotechnical Engineering
+Description: Supervised study of special topics not covered in the formal courses.
+
+Code: CEE 6055
+Title: Special Topics in Environmental Engineering
+Description: Supervised study in special topics not covered in formal courses.
+
+Code: CEE 6065
+Title: Special Topics in Transportation
+Description: Advanced subject matter not covered in depth in other regular courses.
+
+Code: CEE 6070
+Title: Seminar - Civil Infrastructure
+Description: Presents topics of current interest.
+
+Code: CEE 6075
+Title: Special Topics in Structural Engineering
+Description: Study of topics in structural engineering that are more specialized or different from other courses. Special topics depend on faculty and student interests.
+
+Code: CEE 6095
+Title: Special Topics in Engineering Management
+Description: Individually supervised study of one or more specialized topics not covered in regular courses.
+
+Code: CEE 6200
+Title: Managing Water Resources in a Changing World
+Description: The field of water resources management is an exciting showcase of the many challenges that await civil and environmental engineers. On one hand, increasing water demand from the urban, energy, and agricultural sectors are aggravating multi-sector conflicts. On the other hand, several drivers of change, such as global warming or socio-economic development, make future water demand and availability deeply uncertain. How can we reconcile these challenges? How can we plan and manage water resources systems in an integrated, sustainable, and just way? Building on the legacy of research in water resources systems, this course is designed to equip the new generation of professionals with the forma mentis and mathematical modelling tools that are needed to discover and negotiate the highly uncertain tradeoffs we face in balancing the water resources demands of the future.
+
+Code: CEE 6210
+Title: Renewable Energy Systems
+Description: The goal of this course is to survey renewable energy technologies and systems, primarily focusing on solar and wind as physically the largest renewable energy sources available to society, and considering hydropower, biomass, and geothermal energy as well.  The course explains calculations to support capacity, efficiency, and productivity of renewable energy.  Cost and economics of renewables are explored as well, along with the connection to U.S. and global climate and energy policy.  Homework assignments completed during the semester culminate in an individual renewable energy research project in line with the student's interests.
+
+Code: CEE 6215
+Title: Stochastic Modeling of Complex Systems
+Description: The theory of stochastic processes is introduced through examples of complex systems from the natural and applied sciences, with an emphasis on applications rather than mathematical abstraction. Students will learn how to model dynamical systems with intrinsic and extrinsic noise sources, simulate their dynamics, and explore how the interplay between stochasticity and nonlinear dynamics can impact their behavior. Topics covered include generating processes for heavy-tailed distributions, diffusion processes (gaussian white noise), jump processes (white shot noise, birth/death processes, dichotomous Markov noise), stochastic hybrid systems, stochastic differential equations, first passage times, and noise-induced transitions. Analytical tools developed in the class include stochastic differential equations, the differential Chapman-Kolmogorov equation and its derivatives (Fokker-Planck and master equation), the use of transforms to solve master and Fokker-Planck equations, and the system size expansion to approximate solutions to master equations with nonlinear transition rates. Applications include examples from biophysics, climate, environmental sciences, and various areas of biology including systems, synthetic, molecular, and cellular biology.
+
+Code: CEE 6300
+Title: Spectral Methods for Incompressible Fluid Flows
+Description: An introduction to the fundamental building blocks of flow solvers for the simulation of incompressible flow processes in the natural environment. High-order accuracy element-based spatial discretization methods (spectral element and discontinuous Galerkin) are covered along with high-accuracy time-advancement methods. Initially applied to fundamental linear problems, these methods are then implemented in the context of the Burgers equation with a focus on aliasing effects and spectral filtering. The course concludes with a presentation of the fundamentals of non-hydrostatic environmental flow modeling.
+
+Code: CEE 6530
+Title: Water Chemistry for Environmental Engineering
+Description: Covers principles of chemistry applicable to the understanding, design, and control of water and wastewater treatment processes and to reactions in receiving waters. Topics include chemical thermodynamics, reaction kinetics, acid-base equilibria, mineral precipitation/dissolution, and electrochemistry. Focuses on the mathematical description of chemical reactions relevant to engineered processes and natural systems, and the numerical or graphical solution of these problems.
+
+Code: CEE 6560
+Title: Physical and Chemical Process
+Description: This course focuses on the theoretical and engineering aspects of physical and chemical phenomena and processes applicable to the removal of impurities from water, wastewater, and industrial wastes. The first unit covers general chemical engineering principles relevant in environmental processes including mass balances, reactor models, and reaction kinetics. The second unit covers chemical processes involving dissolved species including gas transfer, adsorption, and oxidation-reduction processes. The third unit covers particle processes and the conventional theories behind particle destabilization, particle flocculation, and particle removal processes. Each topic area has a corresponding problem set that provides students with opportunities to apply the fundamentals discussed in class. The fundamental theory is coupled with a number of real-world examples that provide context for the more abstract principles that are introduced.
+
+Code: CEE 6570
+Title: Environmental Biological Processes
+Description: Principles and application of microbiology and biotechnology with emphasis on biological processes in environmental engineering applications. Theoretical and engineering aspects of biological phenomena and processes applicable to the removal of impurities from water, wastewater, and industrial wastes and to their transformation in the environment. Microbiology fundamentals, bioenergetics analysis, stoichiometry, biokinetics, and design of biological treatment processes for pollutants removal, bioremediation and resources recovery. Topics include cell metabolism, cell nutrition and growth, energy transfer and utilization, aerobic and anaerobic microbial metabolism, biological wastewater process theory and modeling, biological nutrients removal, bioremediation and resources recovery.
+
+Code: CEE 6648
+Title: Sustainable Transportation Systems Design
+Description: Graduate-level design course in transportation, with a focus on design of sustainable transportation systems. The perspective in the course is one of "system design", i.e., understanding the process of creating objectives, developing alternative designs and having models capable of representing the interactions among major elements of the overall system. We will also adopt a "sustainable development" or "triple bottom line" perspective, taking into account ecological and social as well as economic dimensions of transportation systems design. From this perspective, efficient transportation function achieves the economic objective, while quantifying and minimizing negative impacts addresses ecological and social goals. The interactions among the major system elements (vehicles, infrastructure, people, freight) occurs on networks, and we need to focus on how networks function. We will also study how resources are allocated and how capacity is maintained in networks. Systems design is examined from both a public sector perspective and from a private sector perspective.
+
+Code: CEE 6690
+Title: Information Design for Strategic Decision-Making
+Description: The course covers the basic models and solution approaches in problems that involve interactions among strategic agents distilling the key results in mechanism design theory. Over the last seventy years, the theory of mechanism design was developed as an approach to efficiently align the individuals' and system's interests in problems where individuals have private preferences. It can be viewed as the art of designing information and protocols to achieve a desired outcome. Mechanism design has broad applications spanning many fields, including transportation routing, smart grid, communication networks, social media, online advertising, and resource allocation problems. The objective of this course is to gain a sound understanding of the science behind the use of mechanism design in solving modern problems that involve strategic interactions among agents. The course will provide a unified treatment of the subject, suitable for a broad engineering audience.
+
+Code: CEE 6736
+Title: Mathematical Modeling of Natural and Engineered Systems
+Description: This course builds from previously studied fundamental concepts to uncover strategies for using math to describe natural and engineered systems that impact the human experience (e.g. infrastructure systems, subsurface structures and networks, bacterial colonies, traffic networks, reservoir systems, etc.) Specifically, selected approaches for mechanistic descriptions ("clear box" models), data-driven descriptions ("black box" models), and hybrids of these ("grey box" models) will be covered: both through an introduction to foundational theory and also in computational implementation. In gaining experience in formulating their own mathematical models for real world phenomena, students will be better able to describe, study, and control the performance of natural and engineered systems in their professional lives.
+
+Code: CEE 6790
+Title: Time Series Data Analysis for Civil, Mechanical and Geophysical Applications
+Description: Data acquired as time series are increasingly common in age of GPS, smart phones, and wireless data transfer. This course will cover data processing tools and techniques that allow us to efficiently manipulate and better understand the data and the physical world that they sample. Course topics include Fourier transforms, convolution, filtering, data acquisition, noise, linear systems, and AutoRegressive Moving Average (ARMA) models. Topics are covered both from theoretical (continuous, analog signals) and practical (discrete-time digital signals) viewpoints. More advanced topics will emphasize the analysis of transient and non-stationary time series such as earthquake ground motions, structural or environmental response to extreme events, and other signals related to engineering and earth science disciplines.
+
+Code: CEE 6800
+Title: Engineering Smart Cities
+Description: This course prepares students to tackle the technical challenges to designing and operating smart and dynamic infrastructure systems.  In particular, students will learn to combine data and models to control overall system performance in the face of uncertainty.  The class will focus on smart city infrastructure systems that are self-aware, with continual surveillance of the built and natural environment and an autonomous capacity to control resource allocation.  This course will build upon fundamental engineering principles (for systems such as transportation, energy, and water resources) and teach students to employ emerging sensor technologies, accompanying data analytics, resource demand forecasting, and model predictive control theory.  Students will learn to couple engineering models of infrastructure with data-driven probabilistic models of resource demand and the approaches to control these integrated hybrid systems for optimal and equitable resource allocation with improved resilience to exogenous disturbances. Finally, the class will explore cases studies in urban flooding, energy supply, transportation and air quality, and water supply.
+
+Code: CEE 6910
+Title: Project Management
+Description: Core graduate course in project management for people who will manage technical or engineering projects. Focuses both on the "technical" tools of project management (e.g., methods for planning, scheduling, and control) and the "human" side (e.g., forming a project team, managing performance, resolving conflicts), with somewhat greater emphasis on the latter.
+
+Code: CEE 6940
+Title: Research in Engineering Management
+Description: The student may select an area of investigation in engineering management. Results should be submitted to the instructor in charge in the form of a research report.
+
+Code: CEE 7010
+Title: Research - Remote Sensing
+Description: For students who want to study one particular area in depth. The work may take the form of laboratory investigation, field study, theoretical analysis, or development of design procedures.
+
+Code: CEE 7020
+Title: Environmental and Water Resources Systems Analysis Research
+Description: Investigations of particular environmental or water resources systems problems.
+
+Code: CEE 7030
+Title: Research in Environmental Fluid Mechanics and Hydrology
+Description: The student may select an area of investigation in fluid mechanics, hydraulic engineering, or hydrology. The work may be either experimental or theoretical in nature. Results should be submitted to the instructor in charge in the form of a research report.
+
+Code: CEE 7040
+Title: Research in Geotechnical Engineering
+Description: For students who want to pursue a particular geotechnical topic in considerable depth.
+
+Code: CEE 7050
+Title: Research in Environmental Engineering
+Description: For students who want to study a particular area in depth. The work may take the form of laboratory investigation, field study, theoretical analysis, or development of design and analysis procedures.
+
+Code: CEE 7070
+Title: Research in Structural Engineering
+Description: Pursues a branch of structural engineering beyond what is covered in regular courses. Theoretical or experimental investigation of suitable problems.
+
+Code: CEE 7073
+Title: Civil and Environmental Engineering Materials Project
+Description: Individual projects or reading and study assignments involving engineering materials.
+
+Code: CEE 8100
+Title: Thesis - Remote Sensing
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+
+Code: CEE 8200
+Title: Thesis - Environmental and Water Resource Systems
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+
+Code: CEE 8300
+Title: Thesis - Environmental Fluid Mechanics and Hydrology
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+
+Code: CEE 8400
+Title: Thesis - Geotechnical Engineering
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+
+Code: CEE 8500
+Title: Thesis - Environmental Engineering
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+
+Code: CEE 8600
+Title: Thesis - Transportation Systems Engineering
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+
+Code: CEE 8700
+Title: Thesis - Structural Engineering
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+
+Code: CEE 8800
+Title: Thesis - Civil Infrastructure Systems
+Description: The student selects a thesis research topic with the advice of the faculty member in charge and pursues it either independently or in conjunction with others working on the same topic.
+

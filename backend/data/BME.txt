@@ -1,0 +1,172 @@
+Code: BME 1310
+Title: Introduction to Biomedical Engineering
+Description: An introduction to the field of biomedical engineering with emphasis on application. Specific applications include biomechanics, bioimaging, bioinstrumentation, biotechnology/nanofabrication, artificial organs, cancer therapy and vaccines.
+
+Code: BME 2000
+Title: Biomedical Transport Phenomena
+Description: Quantitative analysis of transport phenomena in physiological systems, including fluid mechanics and mass transfer. Fluid statics, mass and momentum conservation, laminar and turbulent flow, microscale and macroscale analytical methods, mass transport with biochemical reactions, applications to transport in tissue and organs.
+
+Code: BME 2081
+Title: Experiential Learning Seminar II
+Description: This seminar focuses on building professional skills while activating curricular content within the context of experiential learning activities. Students will pursue individual and team based exercises, with reflective discussions. This is the second part of the Experiential Learning Seminar (BME 2080).
+
+Code: BME 2210
+Title: Biomaterials: Foundations and Application in Medicine
+Description: This course focuses on the fundamental understanding of implantable materials with respect to their design, analysis and use in human health. The class content includes the fundamentals of materials synthesis/fabrication, methods of characterization/analysis, interactions between materials with tissues, quantitative analysis of material properties and how materials are used to impact human health.
+
+Code: BME 3010
+Title: Cellular Principles of Biomedical Engineering
+Description: This course will provide students a fundamental understanding of cellular systems essential for engineering effective biomedical applications. The course comprises of three modules.
+
+Code: BME 3030
+Title: Biomedical Circuits, Signals and Systems
+Description: This course will cover the mathematical foundation to analyze signals and model the behavior of biomedical systems in the time and frequency domains, and help students develop the mindset and skills necessary to produce high-quality measurements of a physiological or biological variable. Labs involving the design and construction of biomedical circuits to quantify a physiological or biological function will foster a broad perspective on biological and biomedical measurement, and provide practical application of linear systems theory and measurement principles covered in lectures.
+
+Code: BME 3080
+Title: BME Clinical Immersion Program I
+Description: This course will help students prepare for participation in the Clinical Immersion Program. BME undergraduates will be able to fully grasp the role engineers play in the medical ecosystem and the important contributions they make to medicine. Through a range of exposures to real-world practices and professionals, immersion scholars will take away a deeper understanding of the relationship between medicine and engineering. This experience will directly inform their final semesters and senior design project at Cornell and affect their future education and careers.
+
+Code: BME 3300
+Title: Introduction to Computational Neuroscience
+Description: Covers the basic ideas and techniques involved in computational neuroscience. Surveys diverse topics, including neural dynamics of small networks of cells, neural coding, learning in neural networks and in brain structures, memory models of the hippocampus, sensory coding, and others.
+
+Code: BME 4010
+Title: Biomedical Engineering Analysis of Metabolic and Structural Systems
+Description: This course focuses on applying techniques of engineering analysis to quantify function and dysfunction of human physiologic systems. Thematic areas include the cardiovascular, respiratory, musculoskeletal, and renal systems. Emphasis will be placed on developing mathematical models to understand function and dysfunction across tissue scales, and implementing these with experimental data to make biomedical engineering judgments.
+
+Code: BME 4080
+Title: Biomedical Engineering Design I
+Description: This course articulates fundamental engineering design theory and practice for biomedical engineering applications. Design specification establishment, tolerance/robustness, validation, and documentation strategies are presented. Product archaeology, human factors, FDA/Insurance regulatory concepts, and product lifecycle/iteration are also pursued through lectures and case studies.
+
+Code: BME 4190
+Title: Laboratory Techniques for Molecular, Cellular, and Systems Engineering
+Description: This class will provide students with the skills needed for the design, fabrication, and characterization of experimental approaches relevant to Molecular, Cellular, and Systems engineering. Lectures will integrate three modules: the first module will focus on stem cell biology, differentiation, and characterization. The second module will provide a thorough understanding of polymeric scaffold design and characterization for tissue engineering applications. The third module will focus on analytic techniques suitable to analyze molecular, cellular, and systems-level signaling changes of cells in response to varied microenvironmental context. All three modules will be taught in a manner that will enable students to design and implement experimental approaches for cell manufacturing, tissue regeneration, and drug testing.
+
+Code: BME 4390
+Title: Circuits, Signals and Sensors: Instrumentation Laboratory
+Description: This class provides students with the basic skills needed to design and fabricate biomedical and bioanalytical instrumentation. Lectures cover analog and digital electronics, microcontrollers, microcontroller interfacing and firmware programming (in C). Circuit simulation (using CircuitLab) is covered as is an instruction to schematic capture and printed circuit board layout software (Eagle). Emphasis is on designing and building analog circuitry for sensors, analog to digital conversion and microcontroller/device and microcontroller/PC interfacing. Lab exercises involve the design and construction of a number of biomedically related circuits.
+
+Code: BME 4410
+Title: Biofluid Mechanics
+Description: For description and learning outcomes, see MAE 4650.
+
+Code: BME 4490
+Title: Biomechanics Laboratory
+Description: This course focuses on mastering experimental techniques related to measuring the mechanical behavior of biomedical materials and biological tissues. Students will learn techniques for measuring mechanical properties of cardiovascular and musculoskeletal tissues in tension, compression, shear, and bending. Students will learn to apply non-linear models to describe the behavior of elastic, viscoelastic, poroelastic, and hyperelastic materials.
+
+Code: BME 4900
+Title: Independent Undergraduate Project in Biomedical Engineering
+Description: Research or projects by an individual or a small group of undergraduates.
+
+Code: BME 4901
+Title: Honors Thesis
+Description: Intended for students pursuing the research honors program in BME. This course is the culmination of the program's honors project requirement. Students enrolled in the BME Honors program will prepare an honors thesis based on the subject matter of a BME 4900 project from the previous semester, under the supervision of their research mentor.
+
+Code: BME 4970
+Title: Undergraduate Teaching in Biomedical Engineering
+Description: The student assists in teaching a biomedical engineering course appropriate to their previous training. The student may meet with a discussion or laboratory section, prepare course materials, grade assignments, and regularly discuss objectives and techniques with the faculty member in charge of the course.
+
+Code: BME 5010
+Title: BME MEng Professional Engagement Seminar
+Description: Students must attend and report on 10 self-selected seminars to fulfill the requirements of the course.
+
+Code: BME 5100
+Title: Clinical Preceptorship for Biomedical Engineers
+Description: Preceptorship, is a well-known process in healthcare education and described as a short term relationship between a student as novice and an experienced health care professional, who provides individual attention to the student's learning needs within a clinical environment. The BME 5100 leverages this methodology and enable our students to experience the dynamics of a clinical environment, observe the routine practice of a clinician, identify potential needs, and through a formal process evaluate the merits and provide ideas on how to address these perceived needs. The instructor will educate the students about the clinical environment, dress and behavior code, interaction with hospital staff and patients, as well as monitor and manage each student-preceptor team. The instructor and other engineering faculty will also review the student's experiences and assist in any assignments the preceptor may have given to the student. The preceptor will guide the student with in depth knowledge of the related anatomy, physiology and pathology associated with his specialty. The preceptor will also provide the student the ability to participate and observe as well as generate weekly assignments. The sponsoring institution and the preceptors are very interested in the identified problems, the ideas resultant of the process, and how these ideas could be addressed by applying principles of engineering. The student will provide feedback in the form of a final report as well as an on-site poster presentation at the end of the academic year. The merited ideas will be placed in the pipeline for the sponsored design projects (BME 5910, BME 5920).
+
+Code: BME 5110
+Title: Stem Cell Bioengineering
+Description: This course explores the interface of stem cell biology and bioengineering and biotechnology and will examine the how quantitative modeling and analysis approaches inform stem cell-based biotechnologies and medical therapies. The course will cover embryonic and adult stem cell biology fundamentals, cell and molecular bioengineering concepts and techniques, biomolecular and genetic therapies to regulate stem cell function, and design of biomimetic and bioreactor environments for stem cell differentiation and derivation. These concepts will be conveyed in a mixture of assigned readings; interactive lectures; quantitative, descriptive, and computational problem sets; primary literature discussions and reviews; quizzes; and a small-team final grant proposal project.
+
+Code: BME 5390
+Title: Circuits, Signals and Sensors: Instrumentation Laboratory
+Description: This class provides students with the basic skills needed to design and fabricate biomedical and bioanalytical instrumentation. Lectures cover analog and digital electronics, microcontrollers, microcontroller interfacing and firmware programming (in C). Circuit simulation (using CircuitLab) is covered as is an instruction to schematic capture and printed circuit board layout software (Eagle). Emphasis is on designing and building analog circuitry for sensors, analog to digital conversion and microcontroller/device and microcontroller/PC interfacing. Lab exercises involve the design and construction of a number of biomedically related circuits. This course serves as an introduction to the skills needed by biomedical engineers who chose to focus on instrument design and imaging.
+
+Code: BME 5410
+Title: Biofluid Mechanics
+Description: For description and learning outcomes, see MAE 5650.
+
+Code: BME 5500
+Title: Innovation and Design of Biomedical Technologies
+Description: This course was designed to addresses the business, regulatory, and technical challenges throughout the many design phases of a biomedical technology product life cycle. It is a required and essential course for the BME Masters of Engineering program and it lays the foundation to the also required BME 5910 (Design Project) and BME 5920 (Performance of Design Project).
+
+Code: BME 5510
+Title: Medical Device Regulatory Affairs for Biomedical Engineers
+Description: This course is designed to provide a working knowledge of Medical Device Regulatory Affairs specifically for Biomedical Engineers. It is geared for both experienced biomedical engineering professionals as well as those new to the industry and is intended for non-regulatory professionals who need a better understanding of the regulatory requirements necessary to bring medical devices to market. This course demonstrates important regulatory requirements and concepts using case study discussions of real products from a variety of clinical specialties. Strategies for using regulation as a competitive advantage will also be discussed. Instructor will be lecturing virtually (on-line) but in real-time.
+
+Code: BME 5710
+Title: Analytical Techniques for Material Science
+Description: Covers techniques used to determine the composition and structure of materials, both synthetic and biological. The aim is a level of understanding that allows students to choose suitable methods, to appreciate the physical basis of techniques so as to recognize their limitations, and to be able to interpret literature in specialty journals of the field. Modern approaches to determine composition, chemical structure and microstructure will be emphasized. It is not the intent of this course to train students as hands on users of particular instruments.
+
+Code: BME 5850
+Title: Current Practice in Tissue Engineering
+Description: Covers fundamental biological principles and engineering concepts underlying the field of tissue engineering and describes specific strategies to engineer tissues for clinical use along with examples.
+
+Code: BME 5910
+Title: Preliminary Study for Design Project
+Description: Design and economic evaluation of a biomedical engineering device or therapeutic strategy. Team projects are encouraged.
+
+Code: BME 5911
+Title: Industrial Projects: Preliminary Study for Design Project
+Description: The first of two required design courses for the biomedical engineering Master of Engineering program. Teams starting a new project will focus on the identification and ideation phases of a design process. The teams will identify and/or verify unmet healthcare need(s), roughly explore potential concepts, devise the requirements of the technology to be engineered, and implement the first interaction of a conceptual prototype.
+
+Code: BME 5920
+Title: Performance of Design Project
+Description: Once a proposal for the project has been approved by the Sponsor or Faculty member, the student must ("deliver on time and under budget") produce a tangible work product. Scheduling activities, ordering supplies, assembling, testing the device or procedure, and documenting the work and outcomes are the key expectation for the project.
+
+Code: BME 5921
+Title: Industrial Projects: Performance of Design Project
+Description: This course is the execution phase of your design project. From BME 5500 and BME 5911 your team should have applied Yock's Biodesign process and devised the product requirements of the solution to be engineered during this semester. The objective of the course is the engineering of a fully functional proof-of-concept prototype (product) based on the previously defined and proposed set of requirements.
+
+Code: BME 5930
+Title: Independent Design Project
+Description: Graduate-level, non-thesis research or studies on special projects in biomedical engineering.
+
+Code: BME 5940
+Title: Biomedical Engineering Internship
+Description: Off-campus internship with industry in which a student gains knowledge and experience in the field of biomedical engineering.
+
+Code: BME 5950
+Title: Special Topics in Biomedical Engineering
+Description: Study of topics in biomedical engineering that are more specialized or different from other courses. Special topics depend on staff and student interests.
+
+Code: BME 6110
+Title: Stem Cell Bioengineering
+Description: This course explores the interface of stem cell biology and bioengineering and biotechnology and will examine the how quantitative modeling and analysis approaches inform stem cell-based biotechnologies and medical therapies. The course will cover embryonic and adult stem cell biology fundamentals, cell and molecular bioengineering concepts and techniques, biomolecular and genetic therapies to regulate stem cell function, and design of biomimetic and bioreactor environments for stem cell differentiation and derivation. These concepts will be conveyed in a mixture of assigned readings; interactive lectures; quantitative, descriptive, and computational problem sets; primary literature discussions and reviews; quizzes; and a small-team final grant proposal project.
+
+Code: BME 6120
+Title: Precision and Genomic Medicine
+Description: Genomic medicine is gaining momentum across the entire clinical continuum. This course will provide an introduction to the latest advances in genome research and their impact on medicine. This graduate level course focuses on quantitative engineering principles and precision measurements.
+
+Code: BME 6130
+Title: Advanced Microbiome Engineering
+Description: The human microbiome touches upon every organ system and contributes to a wide range of disorders. Manipulating the human microbiome is becoming a new paradigm of treating disease. These efforts range from modifying the genomes of organisms or the composition of organisms in the gut, developing designer phage or personalized cocktails of organisms, engineering live bacterial biosensors, and bioprospecting within the gut microbiome for bioactive compounds. In this course, we will discuss new engineering tools and techniques for achieving new diagnostic or therapeutic outcomes. The course will be heavily based on reviewing recently published primary articles. Discussions will involve topics related to molecular and tissue engineering, and systems and synthetic biology.
+
+Code: BME 6210
+Title: Engineering Principles for Drug Delivery
+Description: Application of engineering design principles to problems in drug formulation and delivery. Specific topics include traditional drug formulation, mechanisms and kinetics of pharmaceutical stability, stimuli-sensitive systems, controlled-release devices, prodrugs, targeted drug delivery, transdermal drug delivery, biomaterials, and gene therapy.
+
+Code: BME 6350
+Title: Introduction to Neurotechnology
+Description: This course provides a survey of the latest technologies for recording and controlling brain activity. The class has three parts. Part I consists of lectures to introduce the relevant concepts in neurobiology. Part II, in seminar format, discusses approaches to read out neural signals, such as large-scale electrophysiology and optical imaging. Part III, in seminar format, focuses on approaches to modify neural dynamics, including electrical, optical, and viral strategies. Emphases will be placed on how the technologies may be integrated into brain machine interfaces, and what promise they have for treating brain disorders. The course assumes no background in neuroscience. It is intended for engineers who want to know more about neural engineering and neurobiologists who are interested in the latest methods.
+
+Code: BME 7010
+Title: Biomedical Engineering Ph.D Seminar
+Description: An ongoing orientation and mentoring seminar for first-year Ph.D. students that includes research presentations by faculty and students as well as discussions and assignments on such topics as academic ethics, writing technical papers, and publishing.
+
+Code: BME 7020
+Title: Biomedical Engineering Research Seminar
+Description: Designed to train graduate students in public presentation of scientific data. Students in their third year and beyond are required to give an annual seminar on their research; all students are required to attend the seminars and to provide constructive feedback to others on the quality of their presentation and data.
+
+Code: BME 7030
+Title: Graduate Student Teaching Experience
+Description: Guided individual experience in laboratory instruction and/or lectures/recitation instruction. Provides a preparatory teaching experience for graduate students considering an academic career.
+
+Code: BME 7160
+Title: Immersion Experience in Medical Research and Clinical Practice
+Description: Summer immersion at Weill Medical College. Students participate in lectures, rounds, and seminars; observe surgeries; and solve medical problems presented by the staff.
+
+Code: BME 7900
+Title: Biomedical Engineering Graduate Colloquium
+Description: Research-based seminars. May meet with other seminar series as appropriate.
+

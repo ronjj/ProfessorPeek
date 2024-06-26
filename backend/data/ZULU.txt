@@ -1,0 +1,12 @@
+Code: ZULU 1113
+Title: Elementary Zulu I
+Description: A beginning course in conversational isiZulu, using Web-based materials filmed in South Africa. Emphasis on the sounds of the language, including clicks and tonal variation, and on the words and structures needed for initial social interaction. Brief dialogues concern everyday activities; aspects of contemporary Zulu culture are introduced through readings and documentaries in English.
+
+Code: ZULU 2116
+Title: Intermediate Zulu I
+Description: Development of fluency in speaking, listening, reading, and writing, using Web-based materials filmed in South Africa. Students describe and narrate spoken and written paragraphs. Review of morphology; concentration on tense and aspect. Materials are drawn from contemporary popular culture, folklore, and mass media.
+
+Code: ZULU 3113
+Title: Advanced Zulu I
+Description: Development of fluency in using idioms, speaking about abstract concepts, and voicing preferences and opinions. Excerpts from oral genres, short stories, and television dramas. Introduction to other South African languages and to issues of standardization, dialect, and language attitude.
+

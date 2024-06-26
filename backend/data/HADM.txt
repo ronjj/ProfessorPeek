@@ -1,0 +1,452 @@
+Code: HADM 1150
+Title: Organizational Behavior and Leadership Skills
+Description: This course provides students with the theoretical lenses and interpersonal skills required to become effective leaders of themselves and others at all organizational levels. With a particular emphasis on the hospitality industry, students develop an understanding and appreciation of the complexities of leading and managing individuals, teams and organizations, and acquire practical tools for accomplishing personal leadership and organizational goals within a service-based framework. Topics include understanding individual differences, leveraging conflict management, applying team-based problem-solving, understanding power and influence dynamics, principles of motivation, coaching and leadership, understanding of group process, and ethics.  The course emphasizes practical application of all concepts to students' personal and professional lives and goals, with particular emphasis on work-life in hospitality and broadly, service contexts. Students learn through the use of case studies, self-assessments, experiential exercises, readings, discussions, papers, and group activities.
+
+Code: HADM 1199
+Title: Hotelie LaunchPad: Maximizing and Leveraging the Cornell Experience
+Description: Hospitality is about engaging people through warm and genuine experiences with the goal of building loyal relationships. No longer just about lodging and foodservice, hospitality is now being recognized as a key aspect of many other kinds of business and service ventures. This course is designed to help you get a clearer idea of who you are, where your passions might lie within the very broad scope of hospitality, and how you can craft a successful Cornell Nolan Hotel School experience that helps launch you in the direction (or directions!) you want to go. Also, this course will prepare you for the inevitable challenges you will confront as a student at a world-class institution – managing your time, mastering content, dealing with pressure, and making connections.
+
+Code: HADM 1210
+Title: Financial Accounting
+Description: An introduction to financial accounting that studies transaction analysis, the balance sheet, income statement, statement of cash flows, and the statement of stockholder's equity. Accounting for investments, receivables, inventories, tangible and intangible assets, liabilities, long term bonds and capital stock transactions are studied. Basic financial ratios are introduced and interpreted. Ethical issues related to financial reporting are also discussed. Students who complete this course will have the pre-requisite knowledge to take HADM 2210  Managerial Accounting and HADM 2220 Finance.
+
+Code: HADM 1350
+Title: Introduction to Hotel Operations
+Description: This course will cover two broad topics: I) an overview of the hotel industry, and II) the operations of the Rooms Division of a hotel.   It will also serve as a 'survey course' by introducing a wide range of topics that students will study in more depth in future courses.
+
+Code: HADM 1361
+Title: Principles of Food and Beverage Operations Management
+Description: In this course students are introduced to the principles of food and beverage operations management. Attention is focused on market segments and industry structure with an emphasis on product and systems differentiation. Course goals include a conceptual understanding of, and the practical application of (e.g., lab activities), the components of foodservice systems: menu and product development and management, production, service, controls, financial analysis, food safety, ethics, and quality assurance.
+
+Code: HADM 1650
+Title: Business Writing for Hospitality Professionals
+Description: Introduces the role and importance of effective communication in managerial work, especially in the hospitality industry. Students develop abilities in analytical thinking and clear expression. With an emphasis on business writing, this course builds foundational skills for creating professional-level communications. Students plan, develop, and produce increasingly complex written communications and deliver oral presentations.
+
+Code: HADM 1740
+Title: Business Computing
+Description: This course covers how to use the Microsoft Office productivity suite to analyze and solve business problems, answer business questions and promote effective personal and professional brand management. The overall objective of the course is to illustrate how to use software to promote competitive advantage in three ways: (1) Students will use Word to learn how to efficiently create professional documents that are both appealing and standardized in order to build brand recognition. (2) Students will learn how to use Power Point to visually convey complex information to stakeholders in a manner that promotes shared understanding. (3) Students will use Excel to organize data, transform data into information, and model a complex business problem.
+
+Code: HADM 1810
+Title: Introduction to Management
+Description: This course provides an introduction to the basic concepts and topics associated with managing and leading organizations, groups, and individuals. The traditional functions of management (planning, organizing, leading, and controlling) are discussed, with special attention paid to current workplace issues and developments, such as corporate social responsibility, ethics, and diversity.
+
+Code: HADM 1910
+Title: Distinguished Lectures in Hospitality Management
+Description: The Dean's Distinguished Lecture Series is a long-standing School tradition that provides a unique opportunity for successful industry leaders to share their experiences with Cornell students. In its 92-year history, the Dean's Distinguished Lecture Series has hosted the most influential and accomplished leaders from every segment of the hospitality industry. Speakers share their views about successful management styles, possible career paths, critical industry-related issues, and qualities conducive to successful business leadership. Students have an unparalleled opportunity to learn and question how hospitality leaders view the current and future status of the industry.
+
+Code: HADM 2011
+Title: Hospitality Quantitative Analysis
+Description: This introductory statistics course is taught from the perspective of solving problems and making decisions within the hospitality industry. Students learn introductory probability, as well as how to gather data, evaluate the quality of data, graphically represent data, and apply some fundamental statistical methodologies. Statistical methods covered include: estimation and hypothesis testing relating to one- and two-sample problems of means, simple linear regression, and multiple regression. Excel is used as the statistical computing software and the class uses a very hands-on approach.
+
+Code: HADM 2021
+Title: Critical Thinking and Mathematical Modeling in Operations
+Description: Operations management is the study of how things work. In this class, we will discuss how operations management can be used to help a hospitality company compete. After completing this course, you will: (1) understand core concepts, models and managerial issues in service operations management, (2) critically assess the performance of service delivery processes, (3) learn how to manage supply and demand, (4) learn how to manage quality, (5) develop proficiency in a range of quantitative and qualitative techniques necessary for hospitality service organizations, (6) learn how to manage a project, and (7) apply the concepts and techniques learned in class to the analysis of real-world service delivery processes.
+
+Code: HADM 2210
+Title: Managerial Accounting
+Description: This course focuses on the use of accounting information for management decision making and control in hospitality settings. Topics include costing objects, budgeting, financial decision making, cost behavior, and management control systems. There will be one common final exam at the end of the semester.
+
+Code: HADM 2220
+Title: Finance
+Description: This course provides an introduction to core ideas in finance as well as a foundation for further study.  Upon completion of this course students should be able to (1) perform basic valuation of cash flows from projects, bonds, and stocks; (2) demonstrate basic understanding of capital budgeting decisions through the use of concepts including the time value of money and discounted cash flow analysis; (3) assess the relation between risk and return and integrate that knowledge in determining corporate cost of capital; and (4) demonstrate an understanding of the role of debt and equity in corporate capital structure.
+
+Code: HADM 2221
+Title: Principles of Hospitality Real Estate
+Description: This course emphasizes practical valuation and decision-making skills. You will receive an introduction to the business of hospitality and commercial real estate, including content on the major roles, activities and players, terminology, and how the relevant financial tools, institutional concepts, and economic models are used for sound investment decision-making.
+
+Code: HADM 2230
+Title: Financial Accounting Principles
+Description: This introduction to financial accounting covers the preparation of financial statements, from transactional analysis through journal entries to financial statement presentation. We will do in-depth analysis of receivables and payables, revenue and expenses, and major balance sheet items, such as inventory, investments, long term bonds, capital stock, and tangible and intangible assets. We will study preparation of the statement of cash flows using both the direct and indirect methods. Along the way we will introduce some of the concepts of financial statement analysis. We will also discuss ethics in accounting and business. Students will work in teams for some of the time. After successful completion of this course you will be prepared to take an intermediate accounting course.
+
+Code: HADM 2250
+Title: Finance
+Description: This course provides an introduction to core ideas in finance as well as a foundation for further study. Upon completion of this course students should be able to (1) perform basic valuation of cash flows from projects, bonds, and stocks; (2) demonstrate basic understanding of capital budgeting decisions through the use of concepts including the time value of money and discounted cash flow analysis; (3) assess the relation between risk and return and integrate that knowledge in determining corporate cost of capital; and (4) demonstrate an understanding of the role of debt and equity in corporate capital structure.
+
+Code: HADM 2351
+Title: Restaurant Management
+Description: This course covers concepts, issues, and business principles relevant to the restaurant industry, including market analysis, menu and service systems, and financial and operational management and applies them in a real-life restaurant setting. Students conceptualize and manage the operations of an in-person restaurant open to the Cornell community and evaluate the process and outcomes. Successful completion of the course requires students to complete TiPS and ServSafe certifications shortly after the start of the semester.
+
+Code: HADM 2410
+Title: Marketing Principles
+Description: This is a foundational marketing course that includes the study of concepts, activities, and decisions related to the exchange process, managing the marketing mix, and development of marketing strategy in for-profit and not-for-profit organizations. Students learn about basic principles of marketing management, with a special focus on the service industry. Emphasis is placed upon how the concepts and ideas might be applied to various marketing decision-making situations.
+
+Code: HADM 2430
+Title: Marketing Management for Services
+Description: Students develop an understanding of marketing management for hospitality and related service organizations: the process through which organizations analyze, plan, implement, and control programs to develop and maintain beneficial exchanges with target buyers. Students learn about marketing management through a mix of readings, lectures, class discussions, individual and group exercises, industry guest speakers, and exams.
+
+Code: HADM 2560
+Title: Fundamentals of Hospitality Development and Management
+Description: This course provides an overview of the operation of hospitality facilities, including operating costs for various types of facilities, types and characteristics of major building systems, sustainable aspects of building equipment and management, and the responsibilities of the engineering maintenance department. The renovation needs and key managerial aspects of hospitality facility renovation projects are examined. Students are introduced to the issues and opportunities inherent in the development and planning of hospitality facilities, specifically hotels and restaurants. Course components include the project development sequence, conceptual and space planning, architectural design criteria, construction management, and the interpretation of architectural design and consultant drawings. There is an emphasis on setting appropriate facilities requirements, understanding industry practice, and implementing properties decisions within a balanced design, operations, and financial framework.
+
+Code: HADM 2810
+Title: Human Resources Management
+Description: Facilitates an understanding of the policies, procedures, and systems required to attract, select, develop, and retain quality employees. Students learn about the major environmental factors that affect the HR function, including legislation, economics, and demographics. The course emphasizes HR issues and challenges that are particularly relevant to the hospitality industry. Instruction is based on lecture, discussion, and experiential activities, as well as case analysis and project work.
+
+Code: HADM 3010
+Title: Service Operations Management
+Description: Operations management is the study of how things work. In this class, we will discuss how operations management can be used to help a hospitality company compete. After completing this course, you will: (1) understand core concepts, models and managerial issues in service operations management, (2) critically assess the performance of service delivery processes, (3) learn how to manage supply and demand, (4) learn how to manage quality, (5) develop proficiency in a range of quantitative and qualitative techniques necessary for hospitality service organizations, (6) learn how to manage a project, and (7) apply the concepts and techniques learned in class to the analysis of real-world service delivery processes.
+
+Code: HADM 3120
+Title: Experiential Networking I
+Description: In this interactive course, students will learn the different types and ways to network, how to create their own personal branding statement, best practices on how to reach out to someone you have not met before, ways to master the basics of video communications, and how to share and utilize their networks. This course expands student life and networking skills to add value and grow their knowledge, interpersonal/people skills, and experience to succeed in business and life.
+
+Code: HADM 3135
+Title: Conversations with Entrepreneurs
+Description: No description available.
+
+Code: HADM 3230
+Title: Introduction to Investments
+Description: This course discusses a wide range of investments-related topics. We study basic frameworks that provide investors guidance on how to value securities and make investment decisions; topics include basic concepts of return, risk, and prices, asset allocations, the capital asset pricing model, and performance evaluation. Our approach emphasizes both conceptual foundations and practical implementation. The course includes an extensive module on strategic asset allocation that includes a discussion of alternative investments. We cover various topics in active portfolio management, and in particular study equity screening and multi-factor models. The course highlights trends in the investment management industry and introduces terminology and tools familiar to investment professionals.
+
+Code: HADM 3310
+Title: Environmental, Social and Governance Strategy in the Food and Beverage Industry
+Description: Through carefully selected readings, insightful case studies, and engaging discussions with industry experts, this course delves into the strategic challenges faced by food and beverage firms within the Environmental, Social, and Governance (ESG) framework. Through critical analysis of real-world cases, students gain a deeper understanding of leadership and development strategies relevant to the food and beverage industry and its role in shaping a sustainable global food system, with a strong focus on integrating ESG principles.
+
+Code: HADM 3350
+Title: Restaurant Management
+Description: This course covers concepts, issues, and business principles relevant to the restaurant industry, including market analysis, menu and service systems, and financial and operational management and applies them in a real-life restaurant setting. Students conceptualize and manage the operations of an in-person restaurant open to the Cornell community and evaluate the process and outcomes.  Successful completion of the course requires students to complete TiPS and ServSafe certifications shortly after the start of the semester.
+
+Code: HADM 3610
+Title: Communication for Entrepreneurs
+Description: Communication skills are essential for entrepreneurs. Entrepreneurs face unique communication challenges when communicating with initial investors, business partners, founding employees, first customers, and the media. Students will apply course concepts to their own ideas while developing communication competencies in a variety of entrepreneurial communication contexts.
+
+Code: HADM 3640
+Title: Corporate Communication
+Description: How you communicate as a leader will determine your ability to convey ideas, manage teams, win support, and get promoted within an organization. This course analyzes how companies handle crisis communication, work with the media, manage change, and inspire employees. With an emphasis on current events, we'll study both traditional communication methods and communication technologies. Expect written assignments and highly interactive presentations to build your communication skills.
+
+Code: HADM 3650
+Title: Persuasive Business Communication for Hospitality Leaders
+Description: Develops the knowledge and skills that hospitality managers need to face an array of persuasive communication challenges. This course builds on the principles of effective managerial communication (HADM 1650) and organizational behavior and interpersonal skills (HADM 1150). The course introduces the theory and principles of persuasion and focuses on their application in a range of management and leadership contexts.
+
+Code: HADM 3710
+Title: Python Programming
+Description: Introduction to programming in Python with an emphasis on Hospitality applications. No previous programming experience is required. Topics covered include programming basics, file input and output, Excel integration, database integration, and data analysis.
+
+Code: HADM 3870
+Title: Business and Hospitality Law
+Description: Provides students with an integrated presentation of employment discrimination, tort, and contract concepts as they apply to the legal aspects of hospitality management. Students examine relevant federal and state cases and statutes. The overall objective is to enable students to recognize, analyze, and evaluate legal issues for the purpose of making and articulating appropriate decisions in the workplace.
+
+Code: HADM 4070
+Title: Hospitality Operations and Consulting
+Description: This course focuses on advanced, operations-related, analytical tools that can be applied in hospitality operations. These tools are best suited to either people working as internal consultants (i.e., analysts) or external consultants (for consulting firms). There are two main focuses: (1) benchmarking and best practice analysis; and (2) service processes. This course also examines the practices of firms offering hospitality operations consulting.
+
+Code: HADM 4100
+Title: Hospitality Management Seminar
+Description: HADM 4100 complements HADM 1910 by providing students with an extraordinary opportunity to interact with leaders in the hospitality industry in a limited-enrollment seminar. Students and guest speakers participate in roundtable discussions to gain a better understanding of industry trends, challenges, and opportunities.
+
+Code: HADM 4130
+Title: Entrepreneurial Management
+Description: This course addresses the issues faced by managers who wish to take a nascent idea and turn it into a viable organization that creates value, and empowers students to develop their own approaches, guidelines, and skills for being entrepreneurial managers.
+
+Code: HADM 4140
+Title: Innovation and Corporate Renewal
+Description: Innovation is increasingly the source of sustainable competitive advantage for firms around the world. However, building an organization to successfully and repeatedly bring innovations to market has proven to be a challenge for many companies. This course explores the practices and processes that managers use to manage innovation effectively. This course also explores four aspects of innovation: exploring, executing, leveraging and renewing innovation.
+
+Code: HADM 4144
+Title: Developing an Entrepreneurial Mindset
+Description: Opportunity recognition is the very basis from which entrepreneurship and entrepreneurial activity begins. Research shows that opportunity recognition is a learned behavior and as such this course will also seek to provide students with a better understanding of opportunity recognition through an exploration of the skills, tools, and mindset to generate new business ideas. Heavy emphasis on market validation and value proposition design throughout the course.
+
+Code: HADM 4200
+Title: Principles of Real Estate
+Description: This introduction to real estate finance and investment emphasizes developing valuation and decision-making skills. It introduces students to the business of real estate, including major roles, activities and players, terminology, and how the relevant financial tools, institutional concepts, and economic models are used in for sound investment decision-making in real estate.
+
+Code: HADM 4205
+Title: Real Estate Financial Modeling
+Description: This course covers the basic financial models and frameworks used throughout the real estate industry today. In this introductory course, students will focus exclusively on a rigorous cash flow construction and scenario analysis to include the impact of deterministic inputs in ex-ante decision making. The course covers extensively the modeling of simple lease structures (for different property types), conventional and exotic debt instruments and simple equity waterfalls.
+
+Code: HADM 4230
+Title: Hospitality Real Estate Finance
+Description: Focuses on real estate financing for hospitality-oriented projects. Lectures address the following topics: methods of measuring rates of return; feasibility and appraisal processes; equity and debt financing vehicles to include joint ventures, limited partnerships, construction mortgages, and participating, convertible, and seller-financed mortgages; forms of operating agreements to include management contracts, leases, and franchises; and trends in international hotel franchising. Presentations by hospitality industry real estate practitioners tie course material to current industry practices.
+
+Code: HADM 4235
+Title: Cornell Real Estate Case Competition Course
+Description: Each year, Cornell organizes in November the Cornell International Real Estate Case Competition (CIRECC). The top 20 undergraduate academic real estate programs in the world enter teams of six real estate students to compete in this exciting and enriching academic event. Students in this class learn how to effectively pitch a commercial real estate transaction to a panel of senior real estate professionals. A team of six is then sent to the actual competition to represent Cornell. During the competition, teams will be judged not only on their investment recommendations, their approach to the problem, and their presentation skills, but also on their ability to answer and response to direct and probing questions posed by the judges. Students should be advised that the workload will be extensive and will involve working on numerous practice cases as a team and developing individual presentation skills.
+
+Code: HADM 4250
+Title: Securitization and Structured Financial Products
+Description: Deals with the structure and analysis of securitized financial products with an emphasis on residential and commercial mortgage-backed securities (MBS). The course is intended for those who wish to acquire a working knowledge of the analysis of such securities (e.g., collateralized mortgage obligations, commercial MBS, auto loans, and credit card-backed securities) and an understanding of the securitization process. The course's subject matter necessitates a highly analytic and quantitative approach, and students are required to have a strong background in finance and economics.
+
+Code: HADM 4260
+Title: Advanced Corporate Finance
+Description: The focus of this course is the application of corporate finance theory to real-life corporations. This will be accomplished through discussions of the theoretical and empirical work as well as hands-on analysis of real-life cases regarding corporate finance issues that face managers. The primary topics covered are: payout policy, capital structure and related financing choices, the role of venture capital financing, the decision to go-public, the impact of agency problems between firm management and security holders and between different classes of security holders on corporate governance and different ways of solving such agency problems, as well as mergers/takeovers and other restructuring decisions. One of the aims of the course is to develop students' ability to make judgments in a realistic setting. In addition, students are expected to develop their capacity to articulate judgments both orally and in writing.
+
+Code: HADM 4265
+Title: Mastering Strategy Execution: Control Systems to Win
+Description: This course gives you the tools to execute a winning strategy. Once strategy is defined, managers must allocate scarce resources among units and hold people accountable for those resources. Managers must use performance measurement and control systems to direct and motivate desired behaviors and monitor progress against the previously defined strategy.
+
+Code: HADM 4300
+Title: Introduction to Wines
+Description: Students will be introduced to the major wine-producing regions of the world. The course focuses on understanding the terms on a wine label, discussing aromas and flavors and connecting flavors to the growing and productions factors that influence them. Food and wine pairing, wine etiquette and responsible consumption are also topics. This forms the basis for what a consumer needs to know to confidently navigate a wine list and to make sound purchase decisions in retail wine shops or online.
+
+Code: HADM 4315
+Title: Nonprofit Social Enterprise and Food Justice
+Description: This course will provide an overview of nonprofit social enterprise and food justice through service-learning, with a focus on food systems, social ventures and economic policies. Key objectives include identifying management best practices for leading nonprofit food service organizations, including strategy, managing employees/volunteers, fundraising, grant proposal writing, board governance, and marketing and social media. Through lectures, class discussions, case study analysis, research, community service practicums, and a service learning final project working with a partner organization, students will explore the economic, social, and political issues of combating poverty and hunger in the United States. The focus of the course will be on nonprofit food service organizations designed to combat hunger in our communities such as food banks, soup kitchens and shelters, community outreach organizations, school feeding programs, and social change through advocacy. Contingent university travel guidelines in the fall, a field trip may be required.
+
+Code: HADM 4340
+Title: Catering and Special Events Management
+Description: The catering and special events industries are among the fastest-growing segments within the hospitality industry. This course focuses on off-premise and on-premise catering for social and business functions and the management of large-scale independent events, such as sporting events, artistic performances, and product launches. Topics include organizational structure, legal aspects of catering and special events management, product and service development, marketing and sales, catered function and special event planning and execution, staff recruitment and training, post-event analysis, and financial success of catering.
+
+Code: HADM 4360
+Title: Beverage Management
+Description: Designed for students who intend to pursue a career in food and beverage management. Course work deals specifically with the management of beverage operations. Topics for discussion include tracking beverage trends; risk-liability management; staff training and responsible customer service; wine and spirits list development; beverage pricing; food and wine pairings; the beverage industry structure and beverage alcohol regulations; purchasing, storage, and service; major beverage categories; cost controls and loss prevention; and creative beverage merchandising.
+
+Code: HADM 4380
+Title: Culture and Cuisine
+Description: This course will provide an overview of the factors that contribute to the development and evolution of food culture and behavior around the world. The class will use an inter-disciplinary approach using in-class discussion and kitchen production informed by readings and research across anthropology, geography, history, sociology, and psychology to examine how factors combine to create a food culture, its cuisine, and how both impact the human experience.
+
+Code: HADM 4410
+Title: Strategic Management
+Description: Strategic management integrates all of student's previous courses, including marketing, finance, accounting, operations, etc., and introduces them to new strategic management concepts. The course examines the total enterprise, the industry, and the competitive environment in which it operates. The goal is to develop a mastery of the analytical tools to perform analyses of the industry and competitors. The course focuses on how firms formulate, implement, and evaluate strategies. Using a case-based approach, the course emphasizes critical thinking and decision making to maintain competitive advantage in a hypercompetitive and maturing industry.
+
+Code: HADM 4470
+Title: Managing Hospitality Distribution
+Description: In this course, we frame the issue of channel distribution, and look at recent trends. Costs and benefits of each distribution channel are evaluated, and channels are studied in the context of the segments and types of customers they deliver to hotels. We use a 'channel x segment' framework to study the impact of distribution approaches, and we consider source markets as well. We examine 'preference' and the associated payments to achieve that. Metrics and analysis approaches play a significant role in distribution, and that is reflected throughout this course. Issues such as the Billboard Effect and Onward Distribution are examined. We will study 'bias-direct' strategies that hotels have implemented, and take a 'Game Theory' approach to analyzing such decisions. Group and individual projects give the opportunity to apply what we learn to real-world scenarios.
+
+Code: HADM 4510
+Title: Restaurant Development
+Description: Students are exposed to the process, challenges, and rewards of developing a restaurant concept from the idea to the construction of the first unit. The course includes readings, discussions with industry leaders, and cases. It culminates with students formulating a detailed restaurant concept and development plan.
+
+Code: HADM 4515
+Title: Hospitality Visioning and Concept Design
+Description: This course is an interdisciplinary course where one can apply what they have learned in hospitality development & design, marketing, real estate and operations, to envision a hotel concept, or brand story, and fully develop it with a team to understand how this concept informs site selection, program, design, and operational procedures.
+
+Code: HADM 4760
+Title: Visual Basic for Applications: End-User Programming
+Description: This is an introductory programming course for end-users (e.g., business managers and consultants). Students develop fluency in the popular Visual Basic for Applications (VBA) language. Using VBA, students learn how to customize and extend the Microsoft Office Suite, with an emphasis on Excel. They also develop custom information systems using Microsoft Office applications as programmable building blocks. Secondary objectives of the course are to cover fundamental design and programming principles. The course is entirely lab-based.
+
+Code: HADM 4770
+Title: Advanced Business Modeling
+Description: This course is taught in a 'flipped' environment. It focuses on organizational systems, planning, and the decision process and how information is used for decision support in organizations. Students are provided with practical skills in developing spreadsheet computer models using Microsoft Excel. Topics include business planning and forecasting, numerical methods, advanced formulas and functions, user-interface design, data protection and validation, importing external data, and output presentation.
+
+Code: HADM 4810
+Title: Labor Relations in the Hospitality Industry
+Description: Focuses on the critical labor relations issues facing the hospitality industry. All students participate in simulated organizing campaigns and contract negotiations. Representatives of management and unions will address the class on key contemporary developments.
+
+Code: HADM 4815
+Title: Digital Platforms
+Description: Platforms have become central to many of society's most important functions. You use them to find information (Google, Bing, etc.), communicate with friends (iOS, WhatsApp), find a date (Tinder, Bumble), book a flight (Google Flights), make hotel (Kayak) or restaurant reservations (OpenTable). There is a good chance you are reading this course description on a digital platform (OS X, Linux, or Windows). This seminar provides a multidisciplinary lens by which to study these organizations as the intersection of markets, technology, and institutions. The sessions will discuss how platforms have transformed labor, democracy, economics, law, and other aspects of social life. In doing so, this seminar will allow students to engage in discussions about surveillance, capitalism, inequality, power, and cooperation.
+
+Code: HADM 4870
+Title: Real Estate Law
+Description: This course provides students with an understanding of the legal issues surrounding the ownership, transfer, and use and development of real estate. Students will learn to recognize and evaluate legal issues in order to inform the decision-making process with respect to real estate, whether as a business executive, an entrepreneur, or in personal life.
+
+Code: HADM 4890
+Title: The Law of the Internet and E-Commerce
+Description: The computer industry and the Internet have fundamentally changed the world in swift, dramatic fashion. The emergence of global digital networks and digital technologies offer to nearly anyone the ability to access, store, mine, manipulate, and transmit vast amounts of information. At the same time, this revolution in the use of information raises new and often complex legal disputes in areas such as copyright, trademark, privacy, speech, contract formation, jurisdiction, information security, etc. Moreover, the rapidly growing maze of laws directed at the Internet is another thorny obstacle for persons and companies doing business on the web. The purpose of this course is to acquaint students with the legal topics and principles applicable to the Internet, and to help students identify and understand the rapid developments of the law of the Internet by exploring specific problems.
+
+Code: HADM 4910
+Title: Hotel Ezra Cornell (H.E.C.)
+Description: For 100 years, Hotel Ezra Cornell has been an essential part of the Cornell Nolan School of Hotel Administration, allowing students the opportunity to put theory into practice while taking on the leadership responsibility for this student-run hospitality showcase.  Through participation on the Board of Directors, students practice the complexities of leading and managing individuals, teams and the organization as well as growing their leadership skills through experiential learning. Critical course outcomes include applying fundamental business principles to plan, organize, staff, direct, and financially control the weekend-long HEC conference; leading a diverse team of students and volunteers through understanding individual differences, leveraging conflict management and applying team-based problem-solving techniques; preparing and presenting professional-quality written and oral communications; and critically assessing personal strengths and development needs through the experiential learning process. Board members receive credit for their participation in HEC: Students earn 3 credits toward HADM electives. Any additional credits will be applied to free electives. Students interested in running for board positions in the spring must be in good academic standing with a minimum GPA of 2.5. Eligibility requirements for specific board positions can be obtained from the HEC Office (G75 Statler Hall) and will be distributed to the student body after the previous years' conference. Students interested in a board position are encouraged to discuss their intentions with the HEC course instructor
+
+Code: HADM 4980
+Title: Special Studies Project II
+Description: Students have the option of conducting a special studies project in any academic area of the School of Hotel Administration. Projects are conducted under the direction of a SHA faculty member, and regular, frequent consultations are mandatory.
+
+Code: HADM 4990
+Title: Special Studies Project I
+Description: Students have the option of conducting a special studies project in any academic area of the School of Hotel Administration. Projects are conducted under the direction of a SHA faculty member, and regular, frequent consultations are mandatory.
+
+Code: HADM 5120
+Title: Experiential Networking I
+Description: In this interactive course, students will learn the different types and ways to network, how to create their own personal branding statement, best practices on how to reach out to someone you have not met before, ways to master the basics of video communications, and how to share and utilize their networks. This course expands student life and networking skills to add value and grow their knowledge, interpersonal/people skills, and experience to succeed in business and life.
+
+Code: HADM 5360
+Title: Beverage Management
+Description: Designed for students who intend to pursue a career in food and beverage management. Course work deals specifically with the management of beverage operations. Topics for discussion include tracking beverage trends; risk-liability management; staff training and responsible customer service; wine and spirits list development; beverage pricing; food and wine pairings; the beverage industry structure and beverage alcohol regulations; purchasing, storage, and service; major beverage categories; cost controls and loss prevention; and creative beverage merchandising.
+
+Code: HADM 5510
+Title: Restaurant Development
+Description: Students are exposed to the process, challenges, and rewards of developing a restaurant concept from the idea to the construction of the first unit. The course includes readings, discussions with industry leaders, and cases. It culminates with students formulating a detailed restaurant concept and development plan.
+
+Code: HADM 5760
+Title: Visual Basic for Applications: End-User Programming
+Description: This is an introductory programming course for end-users (e.g., business managers and consultants). Students develop fluency in the popular Visual Basic for Applications (VBA) language. Using VBA, students learn how to customize and extend the Microsoft Office Suite, with an emphasis on Excel. They also develop custom information systems using Microsoft Office applications as programmable building blocks. Secondary objectives of the course are to cover fundamental design and programming principles. The course is entirely lab-based.
+
+Code: HADM 5890
+Title: The Law of the Internet and E-Commerce
+Description: The computer industry and the Internet have fundamentally changed the world in swift, dramatic fashion. The emergence of global digital networks and digital technologies offer to nearly anyone the ability to access, store, mine, manipulate, and transmit vast amounts of information. At the same time, this revolution in the use of information raises new and often complex legal disputes in areas such as copyright, trademark, privacy, speech, contract formation, jurisdiction, information security, etc. Moreover, the rapidly growing maze of laws directed at the Internet is another thorny obstacle for persons and companies doing business on the web. The purpose of this course is to acquaint students with the legal topics and principles applicable to the Internet, and to help students identify and understand the rapid developments of the law of the Internet by exploring specific problems.
+
+Code: HADM 6033
+Title: Introduction to Senior Living and Related Programs
+Description: With the aging population, longer life expectancies and the population bulge of the baby boomers, serving both the hospitality and housing/care needs of seniors will be a tremendous growth area. The facilities and programs to serve these populations have certain specialized aspects related to healthcare, but they also share a number of the operating characteristics of many hospitality and real estate operations and design.
+
+Code: HADM 6051
+Title: Revenue Management
+Description: Revenue Management (RM), sometimes referred to as Dynamic Pricing, are methods for profitably managing hotel capacity. The intent of this course is to teach you how to effectively implement RM techniques. Emphasis will be placed on the integration among techniques, information technology, and to expose you to RM the travel market. While the course focuses on implementation of hotel RM, other application areas in travel and retail will be discussed. In addition, you will be expected to express technical revenue management terms in clear, managerial language.
+
+Code: HADM 6065
+Title: Industry Immersion I
+Description: This set of two, two-day immersion seminars is co-taught by industry leaders and Cornell faculty in New York City. Participants will participate in this during their New York residency in year one and two. Students will solve problems based on real-life scenarios and present their solutions to industry leaders and the Hotel School faculty members who accompany them. Students will have readings and case materials assigned from business periodicals, the hospitality industry press, and selected textbooks to read to prepare for the site visits and the coursework. Students will be directly exposed to industry-specific operational and strategic elements through site visits, presentations from company executives and directed case study.  Leadership Immersion I and Leadership Immersion II will cover different topics, use different companies and different industry leaders each year.
+
+Code: HADM 6066
+Title: Industry Immersion II
+Description: This set of two, two-day immersion seminars is co-taught by industry leaders and Cornell faculty in New York City. Participants will participate in this during their New York residency in year one and two. Students will solve problems based on real-life scenarios and present their solutions to industry leaders and the Hotel School faculty members who accompany them. Students will have readings and case materials assigned from business periodicals, the hospitality industry press, and selected textbooks to read to prepare for the site visits and the coursework. Students will be directly exposed to industry-specific operational and strategic elements through site visits, presentations from company executives and directed case study.  Leadership Immersion I and Leadership Immersion II will cover different topics, use different companies and different industry leaders each year.
+
+Code: HADM 6070
+Title: Hospitality Operations and Consulting
+Description: This course focuses on advanced, operations-related, analytical tools that can be applied in hospitality operations. These tools are best suited to either people working as internal consultants (i.e., analysts) or external consultants (for consulting firms). There are two main focuses: (1) benchmarking and best practice analysis; and (2) service processes. This course also examines the practices of firms offering hospitality operations consulting.
+
+Code: HADM 6100
+Title: MMH Distinguished Lectures (DDLS)
+Description: HADM 6100 is a required master's-level course that provides a unique opportunity for successful industry leaders to share their experiences with M.M.H. students in a small group setting. Speakers will share their views about the successful skill sets, temperaments, and leadership styles needed to be an effective and valuable executive. They will also focus on critical industry-related issues. The speakers are chosen for their knowledge, experience, and proven success in the hospitality industry. Students in HADM 6100 have an unparalleled opportunity to learn how hospitality executives view the current and future status of the industry.
+
+Code: HADM 6101
+Title: The Economics of Urban Real Estate Markets and the Built Environment
+Description: This course is designed to provide students with an understanding of the economics of urban real estate markets and the built environment. This will include links between market drivers of property use and value, durability of buildings and infrastructure, finance, and social policy. The course begins with analysis of the 2007 housing market crash and the financial crisis it precipitated. Spatial patterns of development and real estate values are then considered, including patterns extending out from city centers, moving up high in tall commercial buildings, and differences across metropolitan areas. The course concludes with assessment of how new strategies to facilitate urban transportation along with work-from-home have potential to threaten central city office markets and affect patterns of development in cities.
+
+Code: HADM 6111
+Title: Negotiations
+Description: This course is designed to enhance your ability to negotiate effectively in a wide variety of settings.  The course is relevant to the broad spectrum of negotiation problems that are faced by hospitality managers and professionals.  Thus, the content applies for students interested in general management, department management, corporate management, marketing, finance, real estate, consulting, and mergers and acquisitions. Each week students will be expected to negotiate a case via zoom with one of their classmates, and class sessions will focus on debriefing negotiated deals and drawing lessons from them.  Topics include: Haggling Terminology and Tactics, Integrative Bargaining & Problem-solving, Balancing Integrative Bargaining with Distributive Bargaining, Additional Modes of Integration,  Planning & Documentation and Negotiation Ethics.
+
+Code: HADM 6112
+Title: Leadership and Corporate Accountability
+Description: This course focuses on leader development. Through the lens of positive organizational scholarship and by engaging with case studies, group activities, self-reflection, and peer discussion, students will a) deepen self-awareness about their leadership style and strengths, b) learn how to unlock critical intrapersonal and interpersonal resources, and c) develop positive leadership skills and practices. Regarding accountability, students will leverage the Giving Voice to Values framework to learn about how to align their professional lives with their principles and practice effectively standing up for their values.
+
+Code: HADM 6130
+Title: Entrepreneurial Management
+Description: This course addresses the issues faced by managers who wish to take a nascent idea and turn it into a viable organization that creates value, and empowers students to develop their own approaches, guidelines, and skills for being entrepreneurial managers.
+
+Code: HADM 6135
+Title: Conversations with Entrepreneurs
+Description: No description available.
+
+Code: HADM 6140
+Title: Innovation and Corporate Renewal
+Description: Innovation is increasingly the source of sustainable competitive advantage for firms around the world. However, building an organization to successfully and repeatedly bring innovations to market has proven to be a challenge for many companies. This course explores the practices and processes that managers use to manage innovation effectively. This course also explores four aspects of innovation: exploring, executing, leveraging and renewing innovation.
+
+Code: HADM 6144
+Title: Developing an Entrepreneurial Mindset
+Description: Opportunity recognition is the very basis from which entrepreneurship and entrepreneurial activity begins. Research shows that opportunity recognition is a learned behavior and as such this course will also seek to provide students with a better understanding of opportunity recognition through an exploration of the skills, tools, and mindset to generate new business ideas. Heavy emphasis on market validation and value proposition design throughout the course.
+
+Code: HADM 6200
+Title: Principles of Real Estate
+Description: This introduction to real estate finance and investment emphasizes developing valuation and decision-making skills. It introduces students to the business of real estate, both residential and commercial real estate, including roles, activities and players, terminology, and how the tools, concepts, and models in real estate are used in decision making. The objectives of this course are twofold: (1) to help students develop an understanding of real estate fundamentals; and (2) to introduce students to the quantitative aspects of real estate-investment decision making, valuation under uncertainty, and mortgage financing.
+
+Code: HADM 6205
+Title: Real Estate Financial Modeling
+Description: This course covers the basic financial models and frameworks used throughout the real estate industry today. In this introductory course, students will focus exclusively on a rigorous cash flow construction and scenario analysis to include the impact of deterministic inputs in ex-ante decision making. The course covers extensively the modeling of simple lease structures (for different property types), conventional and exotic debt instruments and simple equity waterfalls.
+
+Code: HADM 6210
+Title: Hospitality Real Estate Finance
+Description: Focuses on real estate financing for hospitality-oriented projects. The following topics are addressed: methods of measuring rates of return; feasibility and appraisal processes; equity and debt financing vehicles to include joint ventures, limited partnerships, construction mortgages, participating, convertible and seller-financed mortgages; forms of operating agreements to include management contracts, leases, and franchises; and trends in international hotel franchising. Presentation of hospitality industry real estate practitioners will tie course material to current industry practices.
+
+Code: HADM 6250
+Title: Securitization and Structured Financial Products
+Description: Deals with the structure and analysis of securitized financial products with an emphasis on residential and commercial mortgage-backed securities (MBS). The course is intended for those who wish to acquire a working knowledge of the analysis of such securities (e.g., collateralized mortgage obligations, commercial MBS, auto loans, and credit card-backed securities) and an understanding of the securitization process. The course's subject matter necessitates a highly analytic and quantitative approach, and students are required to have a strong background in finance and economics. Students who have questions about preparation or background should see the instructor.
+
+Code: HADM 6265
+Title: Mastering Strategy Execution: Control Systems to Win
+Description: This course gives you the tools to execute a winning strategy. Once strategy is defined, managers must allocate scarce resources among units and hold people accountable for those resources. Managers must use performance measurement and control systems to direct and motivate desired behaviors and monitor progress against the previously defined strategy.
+
+Code: HADM 6310
+Title: Environmental, Social and Governance Strategy in the Food and Beverage Industry
+Description: Through carefully selected readings, insightful case studies, and engaging discussions with industry experts, this course delves into the strategic challenges faced by food and beverage firms within the Environmental, Social, and Governance (ESG) framework. Through critical analysis of real-world cases, students gain a deeper understanding of leadership and development strategies relevant to the food and beverage industry and its role in shaping a sustainable global food system, with a strong focus on integrating ESG principles.
+
+Code: HADM 6380
+Title: Culture and Cuisine
+Description: This course will provide an overview of the factors that contribute to the development and evolution of food culture and behavior around the world. The class will use an inter-disciplinary approach using in-class discussion and kitchen production informed by readings and research across anthropology, geography, history, sociology, and psychology to examine how factors combine to create a food culture, its cuisine, and how both impact the human experience.
+
+Code: HADM 6491
+Title: Integrated Marketing Communications for the Hospitality Industry
+Description: This course delves into the dynamic field of marketing promotion in the hospitality industry. Building on theories and research from brand management, communications, consumer learning and information processing, and persuasion and attitude change, students will examine traditional promotions tools such as broadcast advertising, public relations, and direct marketing, as well as new digital media tools such as search and website marketing, content marketing, social media, influencer marketing, experiential marketing, digital-direct, and programmatic advertising. Students will demonstrate their emerging knowledge through quizzes and learning activities focused on the theories that guide marketing-communications strategy and practice, as well as the development of an integrated marketing communications plan for a hypothetical hotel company.
+
+Code: HADM 6515
+Title: Hospitality Visioning and Concept Design
+Description: This course is an interdisciplinary course where one can apply what they have learned in hospitality development & design, marketing, real estate and operations, to envision a hotel concept, or brand story, and fully develop it with a team to understand how this concept informs site selection, program, design, and operational procedures.
+
+Code: HADM 6520
+Title: Hospitality Asset Management
+Description: Hotel asset managers act on behalf of investors to meet the specific objectives of real estate ownership. Specifically in this course, the focus is on hotel and resort real estate assets. This course provides an overview of the strategies and tactics of real estate asset management and provides insights into the current market and operational challenges. Students will walk through the components of the asset management strategic plan to understand how different analyses influence the sell/hold, brand and operational decisions. Other topics include hotel management agreements, the capital investment decision, and the asset manager's interaction with portfolio managers.
+
+Code: HADM 6521
+Title: Hospitality Asset Management I: Strategic and Tactical Processes
+Description: Real estate asset managers act on behalf of the owners of real estate investments to meet the owners' specific objectives. We analyze the asset manager's role in building value at both the portfolio and property levels. Lectures, assignments, cases, and guest speakers introduce the latest techniques in asset management and provide insights into current market and operational challenges. Topics include real estate portfolio management, the asset management strategic process, hotel management contracts, and "owner vs. manager" dynamics.
+
+Code: HADM 6522
+Title: Hospitality Asset Management II: Financial Management and Capital Investment Strategies
+Description: Real estate asset managers are charged with maximizing the value of each asset they manage on behalf of the real estate owner. In this course, lectures, assignments, cases, and guest speakers introduce the latest tools, trends, and strategies in managing and monitoring the asset during the hold period. The goals of these strategies are to enhance value for ownership through utilizing financial management tools and employing strategic allocation of capital within the asset. Topics include sell vs. hold decisions, benchmarking property performance, variance analyses, physical asset preservation, and the capital investment decision.
+
+Code: HADM 6610
+Title: Communication for Entrepreneurs
+Description: Communication skills are essential for entrepreneurs. Entrepreneurs face unique communication challenges when communicating with initial investors, business partners, founding employees, first customers, and the media. Students will apply course concepts to their own ideas while developing communication competencies in a variety of entrepreneurial communication contexts.
+
+Code: HADM 6710
+Title: Python Programming
+Description: Introduction to programming in Python with an emphasis on Hospitality applications. No previous programming experience is required. Topics covered include programming basics, file input and output, Excel integration, database integration, and data analysis.
+
+Code: HADM 6770
+Title: Advanced Business Modeling
+Description: This class is taught in a 'flipped' environment. It focuses on organizational systems, planning, and the decision process and how information is used for decision support in organizations. Students are provided with practical skills in developing spreadsheet computer models using Microsoft Excel. Topics include: business planning and forecasting, numerical methods, advanced formulas and functions, user-interface design, data protection and validation, importing external data, and output presentation.
+
+Code: HADM 6815
+Title: Digital Platforms
+Description: Platforms have become central to many of society's most important functions. You use them to find information (Google, Bing, etc.), communicate with friends (iOS, WhatsApp), find a date (Tinder, Bumble), book a flight (Google Flights), make hotel (Kayak) or restaurant reservations (OpenTable). There is a good chance you are reading this course description on a digital platform (OS X, Linux, or Windows). This seminar provides a multidisciplinary lens by which to study these organizations as the intersection of markets, technology, and institutions. The sessions will discuss how platforms have transformed labor, democracy, economics, law, and other aspects of social life. In doing so, this seminar will allow students to engage in discussions about surveillance, capitalism, inequality, power, and cooperation.
+
+Code: HADM 6870
+Title: Real Estate Law
+Description: This course provides students with an understanding of the legal issues surrounding the ownership, transfer, and use and development of real estate. Students will learn to recognize and evaluate legal issues in order to inform the decision-making process with respect to real estate, whether as a business executive, an entrepreneur, or in personal life.
+
+Code: HADM 6911
+Title: Hospitality Immersion II
+Description: This second hospitality immersion provides an opportunity for students to connect with industry leaders with a focus upon innovation. The course connects students with leaders that are driving change and innovation within hospitality and prepares them with innovation focussed content that allows students to connect their coursework to challeging issues facing their comapnies and the industry as a whole.
+
+Code: HADM 6980
+Title: Graduate Special Studies Project II
+Description: Each student must have in mind a project and obtain agreement from an individual faculty member to oversee and direct the study. Written permission is required before course enrollment. Permission forms are available in the Office of Student Services, 180 Statler Hall.
+
+Code: HADM 6990
+Title: Graduate Special Studies Project I
+Description: Each student must have in mind a project and obtain agreement from an individual faculty member to oversee and direct the study. Written permission is required before course enrollment. Permission forms are available in the Office of Student Services, 180 Statler Hall.
+
+Code: HADM 7030
+Title: Operations Management
+Description: The purpose of this course is to introduce "world-class" service operations management concepts and approaches for the hospitality industry. This core course focuses on understanding levers for structuring, managing, and improving a firm's recurring business processes to achieve a competitive advantage in customer responsiveness, price, quality, and variety of products and services in the hospitality industry.
+Processes within firms, as well as between firms, i.e. supply chains, are explored. The fundamental principles underlying state-of-the-art practices are explored so that students learn to critically evaluate these and other operational improvement programs, as well as develop their own operational improvements.
+Students learn how to manage and improve the operations of a firm, and how operational issues affect and are affected by the many business decisions they will be called upon to make or recommend in their careers.
+As such, this course is essential to the participants working/aspiring to work in hospitality consulting, entrepreneurs, or general managers. Working knowledge of operations is also indispensable to those working/aspiring to work in marketing, finance, and accounting, where the interface between these functions and operations is critical. Finally, an understanding of how firms become market leaders through operations is important in investment careers.
+
+Code: HADM 7144
+Title: Competitive Strategies for the Hospitality Industry
+Description: Examines competitive strategies, cooperative strategies, and growth strategies within the hospitality industries and beyond. The goal is to develop a mastery of the strategic issues facing hospitality as well as important new qualitative tools to perform analyses. Using a case-based approach, the course focuses not only on hospitality but on other industries as well, allowing for thinking "outside the box" and development of novel solutions not possible by studying only hospitality. The course integrates knowledge from all previous M.M.H. courses including marketing, finance, organizational behavior, and human resources.
+
+Code: HADM 7230
+Title: Corporate Finance
+Description: The course will provide students with a broad understanding of managerial finance. The overall objective is to develop skills in using accounting and cash flow information for financial planning, capital budgeting evaluation, long-term financial decision-making, and capital structure decisions. Topics will include valuation of investments, capital budgeting decisions, capital structure, long-term financing, cost of capital, debt capacity, and raising capital in the public markets.
+
+Code: HADM 7273
+Title: Leadership and Ethics
+Description: This course is designed to offer descriptive and prescriptive knowledge about management, leadership, and ethics in organizations. Selected issues, themes, cases, readings, and exercises will be relevant and applicable to working in the hospitality industry. Together, both courses will give students more insight into the following:
+
+Code: HADM 7410
+Title: Hospitality Strategic Management
+Description: This course provides an opportunity for students to connect content across other courses (marketing, operations, finance, accounting, etc...) through a lens of innovation as students focus on outlining solutions to key challenges either within organizations where they currently work, or develop new concepts for firms to tackle key issues facing consumers today.
+
+Code: HADM 7430
+Title: Marketing Management for Services
+Description: Marketing links the company to its customers. Marketing listens to the voice of the customer to guide product innovation, pricing strategies, and distribution approaches. Marketing communicates the company's value offer and shapes consumer attitudes toward the brand. Marketing facilitates the consumer purchase process, monitors satisfaction, and helps to ensure a stream of customers and profits. Thus, even if you don't pursue a career in marketing, it is important for you to understand how marketing works to integrate the activities of the firm.
+Services dominate the world economy. Services are different from manufactured goods in terms of how each is produced, purchased, and perceived. As such, services require a distinctive approach to marketing, both in creation and execution. Most business school marketing courses focus on the manufacturing sector. In this class, you will be exposed to a way of thinking about marketing that is grounded by a service-dominant paradigm. You will learn analytical approaches and gain insights needed to develop and implement service strategies. You will learn how to study consumer behavior for services and examine frameworks for service experience design and management. You will learn to create and map service processes, assess and deliver service quality, and diagnose and enhance service branding and marketing-communications strategies.
+
+Code: HADM 7510
+Title: Properties Development and Planning
+Description: This course serves as an overview of hospitality project development and planning from the perspective of an owner and manager. Students learn about the role of the development team, feasibility studies, space programming, construction and renovation management, and functional and design criteria for hotels and restaurants. Teams will prepare program documentation for a new lodging property or concept.
+
+Code: HADM 7610
+Title: Management Communication
+Description: Organizational leaders in the hospitality industry depend on written, visual, and oral messages to solve problems and to accomplish professional goals within the workplace. Students learn to think critically, ethically, and strategically about communication in a variety of contexts and for a variety of purposes, for example, proposing an idea and addressing real ethical challenges that may occur in a crisis situation. Students will practice communication principles, such as developing and supporting an argument and crafting clear, concise messages."
+
+Code: HADM 7900
+Title: Cornell-Peking MMH/MBA Dual-Degree Program
+Description: No description available.
+
+Code: HADM 8900
+Title: M.S. Thesis Research
+Description: Thesis research for master's students.
+
+Code: HADM 9330
+Title: Revenue Management Analytics
+Description: This course will focus on algorithmic approaches to setting prices for perishable products such as hotel rooms, airline seats, taxi-rides available in a neighborhood, seasonal products, etc. Topics covered will include revenue management for single resource, for networks of resources, overbooking, choice modeling, revenue management for differentiated products, assortment planning, online learning and pricing, and competitive assortment and price optimization. We will also see recent advances in the field, such as using game theory to model strategic consumer behavior in revenue management settings, applying revenue management techniques to platform settings, and empirical studies in revenue management.
+
+Code: HADM 9900
+Title: Ph.D. Thesis Research
+Description: Thesis research for Ph.D. candidates.
+

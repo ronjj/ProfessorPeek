@@ -1,0 +1,356 @@
+Code: PLSCI 1101
+Title: Plant Science and Systems
+Description: This course will explore the scientific principles and processes forming the foundation of plant-based systems that provide food, fiber, beverage, environmental enhancement, medicine and art. Students will learn the language of plants and growing systems including the complex interactions among climate, soil, and human manipulation to meet our needs and desires. This course will challenge the notions of sustainable, organic, GMOs and how plants solve environmental problems. We consider the science behind plant growth, health, performance and their interactions with the environment. Successful completion of this course will prepare students for more advanced courses in the Plant Sciences curriculum.
+
+Code: PLSCI 1110
+Title: Pathways to Success in Agriculture and Plant Sciences
+Description: Navigating the first year of college is a personal and professional challenge. This course provides opportunities for new students who major in Agricultural Sciences or Plant Sciences to acclimate, discover, and begin to thrive. You'll engage in self-discovery, make new connections, learn about fields of study and career options, develop a resume, and start an ePortfolio. Weekly workshops are combined with field visits, guests, and peer engagement.
+
+Code: PLSCI 1300
+Title: Just Food: Exploring the Modern Food System
+Description: This course provides a comprehensive review of the modern food system from the green revolution to the industrialized model of today. It offers a critical perspective on existing paradigms and insights into alternative approaches for producing food security, environmental stewardship, and equity in an era of climate change. The course is taught by an interdisciplinary team of instructors who bring insights from both the biophysical and social sciences and will ask students to consider their food using a systems-thinking lens. This course is suitable for life sciences majors.
+
+Code: PLSCI 1560
+Title: Application of CHEM 1560 to Plant Sciences
+Description: The purpose of this course is to facilitate making connections between biology and chemistry at the time you are learning the chemistry. In reality, chemistry is essential to biology. Life is, after all, a specialized set of chemical reactions, highly diverse and complex to be sure, but chemical reactions nonetheless. Developing an understanding and appreciation of this critical connection between chemistry and plant science is the primary goal of this course. At the same time, we should all recognize that chemistry is a challenging subject for most students. Because the application of chemistry to concepts and problems in biology first requires one to understand the chemistry, the course will also place a significant emphasis on making sure students understand the basic chemistry as well.
+
+Code: PLSCI 1900
+Title: Sustainable Agriculture: Food, Farming, and the Future
+Description: Introduction to agronomy and agroecology and an exploration of environmental, economic, and social factors that influence agriculture. Students participate in interactive discussions about food systems and food security. Labs include field trips to a variety of field crop, vegetable, and dairy farms and experiential activities designed to enhance understanding of important themes in sustainable agriculture, including multifunctionality and resilience.
+
+Code: PLSCI 2100
+Title: Medical Ethnobotany
+Description: Plants have always played a key role in the history of life on Earth and have served as medicinal agents in all societies since prehistoric times. Medical Ethnobotany is the study of medicinal plants used by a group of people. Medicinal plants are either critical constituents of many modem drugs or provide templates for synthetic analogous molecules. In this course we will introduce and be acquainted with past and current plant-based natural remedies used across the globe, exploring their efficacy and mode of actions. We will analyze and compare how plants are employed in the different continents to heal (or alleviate) a plethora of pathological conditions, and explore how they affect our bodies (which organic system is affected, i.e., gastro-intestinal, central nervous or respiratory system). The course is designed for students with an interest in the natural world and in traditional medicine. This course is suitable for life sciences majors.
+
+Code: PLSCI 2110
+Title: Field Crop Systems
+Description: Principles of field-crop production of major crops used for food, feed, fiber and bioenergy. Includes introductory concepts of plant growth, development and maturation as they relate to crop performance and management, adaptation to soil, climatic and environmental conditions, tillage, mineral nutrition, pests, cropping sequences, management systems, and crop improvement. Grain, oilseed, biofuel and forage crops are emphasized. Laboratory includes field trips and demonstrations of the most important crop species, morphological and growth characteristics essential to environmental adaptation and response to management.
+
+Code: PLSCI 2200
+Title: Introduction to Mapping and Spatial Analysis with GIS
+Description: This class serves as an introduction to the principles of geographic information systems (GIS) and mapping to understand natural, social, and environmental issues at a range of scales. Students will develop competence and confidence at recognizing, interpreting, and applying spatially-informed thinking approaches via maps and mapping. Emphasis will be on accessing, processing, visualizing, and analyzing geospatial data for communication and decision making, including understanding the role of uncertainty in the use of digital spatial data and maps. Throughout the class, students will gain experience in structuring spatial problems, organizing and managing geospatial data, modeling and spatial analysis, and digital cartography. Students will use both desktop and online mapping software and applications.
+
+Code: PLSCI 2260
+Title: Practicum in Forest Farming as an Agroforestry System
+Description: This course is a hands-on, experiential learning opportunity for students who wish to acquire the skills involved in planning and implementing the agroforestry practice known as forest farming. This course will involve working with and learning about various non-timber forest crops, forest site assessment and design and implementation of a group project. Weekly activities will be integrated with reading assignments through the process of journaling. Most of the weekly activities for this course will take place at the MacDaniels Nut Grove, an on-campus outdoor learning facility, where re students will engage in hands-on learning activities related to non-timber forest crops, site assessment, design and management. Students will be directly involved in the evolving development and management of this existing forest farming teaching and public education site.
+
+Code: PLSCI 2400
+Title: Green World, Blue Planet
+Description: Focuses on helping individuals understand how scientific information relates to the issues they face as citizens, in management decision making, and in public policy. To what extent should genetic engineering of crop plants be permitted? Should we place limits on fossil fuel consumption as a means of limiting global warming and global climate change? Must human endeavors be restricted in certain areas to maintain diversity? The format of this course is interactive, with lectures and discussions about how we as a society deal with controversial issues. This course is suitable for life sciences majors.
+
+Code: PLSCI 2410
+Title: Introductory Plant Diversity and Evolution
+Description: Introduction to plant diversity, ecology, structure, and evolutionary adaptation, with an emphasis on land plants. Laboratory and lectures are integrated to provide hands-on skills and concepts. First and second weeks of laboratory are field trips, starting with the first full week of classes. This course is suitable for life sciences majors.
+
+Code: PLSCI 2480
+Title: Vascular Plant Systematics
+Description: An introduction to the goals and methods of plant systematics, and a survey of the diversity of vascular plants, including ferns, conifers, flowering plants, and related groups. Lectures cover plant reproduction and evolution, patterns of plant diversity, biogeography, and the methods used to analyze and interpret these patterns. The laboratory presents a survey of the diversity of vascular plants with a focus on major plant families, emphasizing groups that are prominent in natural habitats and in cultivation.
+
+Code: PLSCI 2600
+Title: Soil Science
+Description: Designed for undergraduate and graduate students interested in a comprehensive introduction to Soil Science from both an environmental and management perspective as well as graduate students who wish to advanced their understanding of the biogeochemical (biologic, hydrologic and mineral interfaces and linkages underpinning and controlling the soil, plant and atmospheric continuum. This course examines the dynamic relationship of soils with the environment and will place particular focus on both the larger landscape as well as site specific implications of this relationship. The course is flipped with online lectures, in-class homework, projects and activities as well as a weekly laboratory and is presented in three components.
+
+Code: PLSCI 2940
+Title: Introduction to Agricultural Machinery
+Description: Overview of agricultural machinery used in the production of field crops. Information is presented in a lecture and field laboratory format stressing "hands-on" equipment demonstrations and use, particularly of tractors. Tractor safety is emphasized during the initial three weeks of tractor instruction where the students practice learning to competently drive a tractor. Successful completion provides a broad understanding of agricultural machinery operation and design rationale.
+
+Code: PLSCI 2990
+Title: Introduction to Research Methods in Plant Science
+Description: Intended for students who are new to undergraduate research. Students enrolled in PLSCI 2990 may be reading scientific literature, learning research techniques, or assisting with ongoing research. The faculty supervisor determines the work goals and the form of the final report.
+
+Code: PLSCI 3000
+Title: Annual and Perennial Plants in the Landscape
+Description: This course is an introduction to the identification, cultural requirements, and use of northern climate annual and perennial herbaceous plants in the landscape. Herbaceous plants are important parts of the landscape. They provide pollination resources and aid in habitat for fauna. In addition, they can add biodiversity and reduce stormwater runoff when used appropriately.
+
+Code: PLSCI 3010
+Title: Biology and Management of Plant Diseases
+Description: Introduction to the biology of the pathogens that cause plant diseases, and the diagnosis and management of plant diseases. Topics include the biology of bacteria, fungi, oomycetes, viruses, and nematodes; disease cycles; plant disease epidemiology; and the principles and practices of plant disease management. Intended for students who want a practical knowledge of plant diseases and their control, as well as for students preparing for advanced courses in plant pathology and plant-microbe biology.
+
+Code: PLSCI 3025
+Title: Hydroponic Food Crop Production and Management
+Description: Covers principles and practices of commercial hydroponic vegetable and herb production in controlled environment agriculture (CEA). Topics include: growing environments (high tunnels, greenhouses, and warehouse/vertical farms), manipulation of and crop response to the aerial and root-zone environments including estimating energy use in diverse growing environments, nutrient solution preparation and management, aquaponics and organic hydroponics, crop maintenance, production scheduling, integrated pest management, business plan development, and markets. Laboratory session will reinforce lectures through hands-on practice of concepts. Students will be responsible for growing several crops including leafy greens, herbs, and vine crops (such as tomatoes and cucumbers).
+
+Code: PLSCI 3030
+Title: FoodCycle: Systems Thinking Toward Circular Economy for Organic Resources
+Description: In seeking to understand issues and opportunities at the nexus of agriculture, sanitation, water, health and the natural and built environments, students will gain skills in systems thinking, participatory design and innovation towards systems change. Through individual and collective work, students will conduct general and specific systems analysis and construct systems models to identify opportunities to reduce carbon pollution, improve system health. Students will seek to learn from cases and literature from diverse national and international contexts. The Cornell campus will be considered a "living laboratory" for an inquiry into how organic resources flow through our facilities, and how waste flows might be utilized to produce energy, fertilizer, food, building materials and/or other valued products. Students will engage with local entities (facilities, organizations, farms and other enterprises) to gain specific information that will inform our analysis. Students will engage in hands-on work to learn about ways in which organic resources can be up-cycled.
+
+Code: PLSCI 3050
+Title: Arboriculture: Applied Tree Care
+Description: Gain hands-on experience with tree establishment, nutrition, plant health care, diagnosing tree disorders, pruning techniques, tree worker safety and urban forestry.
+
+Code: PLSCI 3100
+Title: Medicinal Botany and Drug Discovery
+Description: Plants have been a source of medicinal agents for thousands of years and a remarkable number of modern drugs have been isolated or derived from plants. In this course, we will explore the mechanisms of action and effects of injurious plants (e.g., poisons, causing allergic reactions), of medicinal plants found to have remedial properties, and discuss which body system(s) they affect (e.g., digestive, urinary), and psychoactive plants affecting the central nervous system (e.g., hallucinogens, stimulants). We will get familiar with the chemistry, pharmacology and efficacy demonstrated in clinical trials of the most used plant-derived drugs, and the mechanisms of the diseases targeted with these treatments. Furthermore, we will discuss the biosynthesis and distribution of plant secondary metabolites, the use of techniques in the isolation and structure elucidation of natural products, and of biological assays used in the discovery of chemicals with pharmacological activity, and the steps involved in drug production and approval.
+
+Code: PLSCI 3150
+Title: Weed Biology and Management
+Description: This course examines components of the biology, ecology, and management of weeds in crop and non-crop ecosystems, particularly in the Northeastern United States. The first part of the course focuses on biological/ecological factors that govern seed dormancy, plant growth, population dynamics, competitiveness, reproduction, and survival. Close attention is given to accurate identification of plants and to characteristics that make weeds competitive, undesirable, or both. The second part of the course examines strategies to control weeds, including their benefits and drawbacks. Aspects of chemical control, including classification, mode of action, selectivity, symptomotology, and resistance, are presented. Herbicide-tolerant crop (i.e., GMO) issues and health and environmental concerns of herbicide use are addressed. The use of integrated approaches to weed management is emphasized.
+
+Code: PLSCI 3190
+Title: Mushrooms of Field and Forest
+Description: Students learn to identify mushrooms and other macrofungi we collect on a series of six afternoon field trips to local forests. During evening labs, students practice identification skills, using keys and microscopes to observe and differentiate the diverse mushrooms we've collected. The course takes advantage of the peak Fall mushroom season in our region. Brief in-lab lectures introduce fungal diversity and the roles mushrooms play in Earth's ecosystems.
+
+Code: PLSCI 3210
+Title: Soil and Crop Management for Sustainability
+Description: Students learn about agronomy and recent advances in sustainable soil and crop management, and gain a lot of practical farming knowledge. Integrated perspectives on the physical, biological, and chemical aspects of soil management in the broader context of agroecosystems are explored. Soil and crop management practices and resulting interactions between soil, water, organisms, and organic and chemical inputs form the basis for discussions on diverse cropping systems, soil health, water quality and quantity, bioenergy, greenhouse gases, and sustainability.
+
+Code: PLSCI 3440
+Title: Evolutionary Plant Biology
+Description: This course provides a comprehensive overview of evolution with an emphasis on plants as excellent exemplars for understanding evolutionary theory and the interpretation of data pertaining to evolution. The topics will include population generics, developmental biology (including comparative embryology and anatomy), theories about speciation (including allopatric, sympatric, and peripatric models), the empirical study of speciation (examples include autopolyploidy, and allopolyploidy), macroevolution (including species selection, kin selection, and multilevel selection theory), the evolution of multicellularity, physical constraints on evolution, evolutionary ecology, and major evolutionary transitions as recorded in the fossil record.
+
+Code: PLSCI 3450
+Title: Basic Plant Anatomy
+Description: Descriptive course with equal emphasis on development and mature structure. Lecture, laboratory, and reading are integrated in a study guide. The laboratory offers the opportunity to develop the practical skills required to make anatomical diagnoses and to write anatomical descriptions.
+
+Code: PLSCI 3575
+Title: Principles of Vegetable Production
+Description: Commercial vegetable production from variety selection to postharvest. Topics include crop physiology and culture, soil and pest management, stand establishment, marketing, and history of production. Term project required. Field trips to large-scale conventional, small, diversified, and organic farms are planned early in the semester.
+
+Code: PLSCI 4020
+Title: Plant Propagation
+Description: Plant propagation, the multiplication of plants, is both a science and an art. This class will introduce the principles, practices and techniques of sexual and asexual propagation of horticultural plants. Emphasis is placed on learning the techniques that are involved with the many aspects of plant propagation as well as the science behind the methods. The art of plant propagation will be learned through hands-on experiences with seed propagation, cutting propagation, grafting & budding systems, layering, specialized plant structures (bulbs, corms, etc.), and tissue culture for micropropagation. In addition, propagation media, greenhouse environmental control and management, and plant care, as they relate to propagation, will be emphasized. The science behind the methods that are learned will be explained in order to develop a better understanding of plant propagation and how to make it successful. This knowledge base and the practical, hands-on experiences will give students the ability to better solve problems that arise during the propagation and growth of plants.
+
+Code: PLSCI 4030
+Title: Genetic Improvement of Crop Plants
+Description: Genetic enhancement of crop value to humans began with domestication and continues with farmers' variety development and scientifically trained plant breeders' applications of Mendelian, quantitative, and molecular genetics. This course examines crop genetic improvement methods by discussing the history and current practice of plant breeding, tools available to breeders, decision-making about breeding objectives and methods, and the roles of plant breeding in addressing global challenges including climate change, sustainability, equity, food security, and malnutrition.
+
+Code: PLSCI 4070
+Title: Nutritional Quality Improvement of Food Crops
+Description: The nutrients in human diets are ultimately derived from plants. However, the edible portions of the world's most extensively grown staple food crops are poor sources for numerous micronutrients and health-promoting compounds that are essential for sustaining and enhancing life. The improvement of crop nutritional quality through breeding, termed biofortification, is a sustainable strategy being used to address micronutrient deficiences worldwide. This course covers recent progress on crop nutritional quality trait improvement. The lectures will focus on vitamins, minerals, prebiotics, phytonutrients, essential amino acids, and fatty acids in the context of better human nutrition and health.
+
+Code: PLSCI 4080
+Title: Methods of Plant Breeding Laboratory
+Description: Field trips to plant breeding programs involve discussion of breeding methods used, overall goals, selection and screening techniques, and variety and germplasm release. Additional labs include selection techniques for various traits, intellectual property issues, genetically modified crops, and international agriculture. For a term project, each student designs a comprehensive breeding program on a chosen crop.
+
+Code: PLSCI 4230
+Title: Equitable Crop Improvement: From Theory to Practice
+Description: This course explores how global crop improvement processes and outcomes can address social inequalities from design to implementation and impact. It covers a broad range of topics, offering perspective on how systematic social inequalities shape whose priorities are served by crop improvement programs locally, and globally. Drawing from theory and methodology across diverse disciplines, this course encourages students to critically analyze mainstream crop improvement paradigms with an equity lens, and design more inclusive alternatives.
+
+Code: PLSCI 4290
+Title: Remote Sensing and Modeling for Ecosystems
+Description: This course introduces advanced concepts of remote sensing and numerical modeling, with hands-on experience in data acquisition, processing, and interpretation. This course aims to explore key questions facing the agronomic and natural eco-systems using remote sensing techniques and ecological modeling at various scales. It provides hands-on experience in remote sensing techniques and using datasets/tools and model simulations to address research questions.
+
+Code: PLSCI 4300
+Title: Mycology
+Description: Fungi are one of the major lineages of eukaryotes and the sister group of animals.  We will consider evolutionary relationships among different groups of fungi, their ecology and significance to humans.  We will explore fungal lifestyles, their reproduction, and the ways that fungi use to communicate with each other and with their symbiotic partners.  In addition to true fungi, we will study several distantly related groups of organisms that share with fungi absorptive nutrition, filamentous somatic structures, and spore-based reproduction.  We will reconstruct fungal phylogenies using molecular evolution methods.  We will also isolate fungi from the environment and identify them using morphological and molecular approaches.
+
+Code: PLSCI 4450
+Title: Urban Plants and Public Health
+Description: This class examines how urban plants affect public health (e.g., air pollution reduction, temperature regulation, etc.). We will also explore the causes and health consequences of variation in urban plant composition, environmental justice perspectives, the effects of policies and management approaches, and the impacts of climate change.
+
+Code: PLSCI 4520
+Title: Berry Crops: Culture and Management
+Description: Study of the evolution, breeding history, and physiology of strawberries, raspberries, blackberries, blueberries, and other minor small fruit crops and of cultural practices that influence productivity, fruit quality, and pest damage. Also considers marketing and economics and discusses alternate production practices for both commercial and home gardeners. Frequent field trips enhance classroom activities.
+
+Code: PLSCI 4530
+Title: Light and Video Microscopy for Biologists
+Description: Students learn the relationship between reality and the image using philosophy, mathematics, and physical theory. Next they apply these tools theoretically and in practice to understand and become experts at image formation and analysis using brightfield, darkfield, phasecontract, fluorescence, polarization, interference, differential interference, and modulation contrast microscopes. They build upon our knowledge and experience to understand how analog image processors and digital image processors can influence, enhance, and analyze the images gathered by the microscope. Last they learn about many other kinds of microscopes, including confocal, near field, x-ray, acoustic, nuclear magnetic resonance, infrared, centrifuge, atomic force, and scanning tunneling microscopes.
+
+Code: PLSCI 4620
+Title: Plant Biochemistry
+Description: Focuses on biochemistry of plant specific processes, with the aim to obtain an integrative overview of plant biochemistry. Examples include processes such as cell wall biochemistry, pigment biosynthesis and degradation, secondary metabolism, senescence, defense mechanisms, amino acid biosynthesis, and small molecule transport. Genomics-based experimental tools such as proteomics and metabolomics are discussed.
+
+Code: PLSCI 4720
+Title: Nutrient and Carbon Cycling and Management in Ecosystems
+Description: Building on knowledge of basic physico-chemical and microbial nutrient and carbon transformations in soil, we will examine the pathways of carbon and nutrients in ecosystems from the rhizosphere to the landscape level. An important aspect will be the understanding of environmental impacts by agriculture, forestry and agroforestry and the development of sustainable landus systems. We will explore various tracer methods for the study of carbon and nutrient cycling including stable and radio-isotopes as well as rare elements and biomarkers. You will expand you knowledge in discussion groups and through presentations and work in-depth on a project which involves both field and laboratory experimentation. The results of the project will be presented in a poster conference.
+
+Code: PLSCI 4900
+Title: Reflection on Plant Sciences Experiential Learning
+Description: This course is designed to guide Plant Sciences majors in developing career goals around an out-of-classroom experience, in reflecting on that experience, and in recording that experience in the student's ePortfolio. To that end, students will draw up a set of learning outcomes for an internship, research opportunity or extension experience in the Plant Sciences, which must be approved by their faculty advisor before the experience begins. The student must then develop a critical reflection on that experience and upload it into one's ePortfolio.
+
+Code: PLSCI 4925
+Title: Plant Sciences Senior Portfolio
+Description: The purpose of this course is to demonstrate that Plant Sciences students will have met all learning outcomes in the major prior to graduation by documenting relevant in-class and co-curricular activities. Preparatory work will include observing and learning from a diversity of presentations in preparation for taking PLSCI 4950. The basis for evaluation will be an ePortfolio that the student develops. It will contain the following elements: a personal profile, career goals and exploration, leadership experiences, a current resume, examples of how the learning outcomes for the major have been met, and summaries of 14 plant-related seminars that the student has attended while at Cornell. The evaluation and assignment of a grade will be made by the student's advisor using a common rubric across the major. Ideally, students will enroll in this course in the second-to-last semester so any deficiencies can be addressed prior to graduation.
+
+Code: PLSCI 4960
+Title: Undergraduate Internship in Plant Sciences
+Description: In this experiential learning opportunity, students participate in an agricultural- or plant science-related work and learning experience equivalent to a minimum of six weeks of full-time effort.
+
+Code: PLSCI 4970
+Title: Individual Study in Plant Sciences
+Description: An opportunity for undergraduate individual study of a special topic in plant sciences under the direction of a faculty member.
+
+Code: PLSCI 4975
+Title: Undergraduate Peer Mentoring and Leadership Development in SIPS
+Description: Being a club officer or a peer mentor is an opportunity to learn about leadership and collaboration, as well as communication and the challenges of balancing diverse responsibilities. Preparation in this arena can serve a student for life, from learning how to engage in the workplace to being involved in community organizations and learning responsibilities ranging from conflict management to serving as a fiscal steward. Opportunities for leadership development and growth will vary; in general, they include learning how to: foster inclusiveness and a healthy, positive social atmosphere among members and peers; respond to student concerns; communicate and collaborate effectively with staff, faculty advisors, and other faculty, staff, administrators and students; reflect on and articulate experiences with other mentors or club officers throughout the semester; and maintain the reputation, continuity and history of a Cornell organization.
+
+Code: PLSCI 4980
+Title: Undergraduate Teaching Experience in Plant Sciences
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and teaching plant sciences courses under the supervision of SIPS faculty members. May include leading discussion sections; preparing, assisting in, or teaching laboratories; and tutoring.
+
+Code: PLSCI 4990
+Title: Independent Undergraduate Research in Plant Science
+Description: Affords opportunities for students to carry out independent research under appropriate supervision. Each student is expected to review pertinent literature, prepare a project outline, conduct the research, and prepare a report.
+
+Code: PLSCI 5000
+Title: Annual and Perennial Plants in the Landscape
+Description: This course is an introduction to the identification, cultural requirements, and use of northern climate annual and perennial herbaceous plants in the landscape. Herbaceous plants are important parts of the landscape. They provide pollination resources and aid in habitat for fauna. In addition, they can add biodiversity and reduce stormwater runoff when used appropriately.
+
+Code: PLSCI 5010
+Title: Biology and Management of Plant Diseases
+Description: Biology and Management of Plant Diseases is an introduction to the world of diseases of plants and the biology of the pathogens that cause them. Students will gain an understanding of the concepts of plant pathology and apply them both philosophically and practically to achieve an understanding of how one would identify and address disease problems. Additional emphasis will be placed on how plant diseases and their management affect our lives and shape our culture.
+
+Code: PLSCI 5015
+Title: Hemp Production Systems
+Description: This course will provide students with knowledge of different hemp production systems for fiber, grain and cannabinoids. Students will gain an understanding of field, controlled environment, greenhouse, and high-tunnel production systems. Topics covered will include hemp physiology, agronomy, cultivation methods, cultivar selection, seed science, nutrition and fertility, harvest methods and post-harvest storage.
+
+Code: PLSCI 5025
+Title: Hydroponic Food Crop Production and Management
+Description: Covers principles and practices of commercial hydroponic vegetable and herb production in controlled environment agriculture (CEA). Topics include: growing environments (high tunnels, greenhouses, and warehouse/vertical farms), manipulation of and crop response to the aerial and root-zone environments including estimating energy use in diverse growing environments, nutrient solution preparation and management, aquaponics and organic hydroponics, crop maintenance, production scheduling, integrated pest management, business plan development, and markets. Laboratory session will reinforce lectures through hands-on practice of concepts. Students will be responsible for growing several crops including leafy greens, herbs, and vine crops (such as tomatoes and cucumbers).
+
+Code: PLSCI 5050
+Title: Cultivating Community through Self-discovery and Skill Development
+Description: This course is designed primarily for students in the first semester of their MPS program in Integrative Plant Science. The intent is to guide these students in their path of career discovery by exploring their strengths, preferences and perspectives on their work in the world. Strategies will be introduced and practiced that will help students become a better team-member and leader. A component of the course will be assistance with the development of a capstone project.
+
+Code: PLSCI 5110
+Title: Field Crop Systems
+Description: Principles of field-crop production of food, feed, fiber and bioenergy. Includes introductory concepts of plant growth, development and maturation as they relate to crop performance and management, adaptation to soil, climatic and environmental conditions, tillage, mineral nutrition, pests, cropping sequences, management systems, and crop improvement. Grain, oilseed, biofuel and forage crops are emphasized. Lab report and term paper on field crop systems required. Designed for professional students or advanced undergraduates.
+
+Code: PLSCI 5150
+Title: Weed Biology and Management
+Description: This course examines components of the biology, ecology, and management of weeds in crop and non-crop ecosystems, particularly in the Northeastern United States. The first part of the course focuses on biological/ecological factors that govern seed dormancy, plant growth, population dynamics, competitiveness, reproduction, and survival. Close attention is given to accurate identification of plants and to characteristics that make weeds competitive, undesirable, or both. The second part of the course examines strategies to control weeds, including  their benefits and drawbacks. Aspects of chemical control, including classification, mode of action, selectivity, symptomotology, and resistance, are presented. Herbicide-tolerant crop (i.e., GMO) issues and health and environmental concerns of herbicide use are addressed. The use of integrated approaches to weed management is emphasized.
+
+Code: PLSCI 5190
+Title: Cannabis: Biology, Society and Industry
+Description: The medical marijuana industry in the US is estimated at $6.7B, and is expected to grow to over $10B by 2021. Hemp-based product sales are projected to rise from $570M in 2015 to over $1B for 2019. According to Indeed.com (2018), 25 out of every 10,000 jobs currently listed are related to the cannabis industry, and from April to May 2018, there was a 50% jump in the number of cannabis related job listings. The potential profitability of cannabis is clear, but the obstacles to its economic and industrial development are significant and include establishing better agricultural supply chains, breeding research to develop more vigorous and disease resistant varieties, refining/improving farming practices, and identifying new markets. This course will explore the history, culture, pharmacology, breeding, horticulture and legal challenges associated with cannabis in an effort to inform and stimulate new ideas towards solving these problems, motivating future plant breeders, horticulturists, farmers, pharmacologists, and entrepreneurs to be successful in the cannabis industry. This course is suitable for life sciences majors.
+
+Code: PLSCI 5210
+Title: Soil and Crop Management for Sustainability
+Description: Students learn about agronomy and recent advances in sustainable soil and crop management, and gain a lot of practical farming knowledge. Integrated perspectives on the physical, biological, and chemical aspects of soil management in the broader context of agroecosystems are explored. Soil and crop management practices and resulting interactions between soil, water, organisms, and organic and chemical inputs form the basis for discussions on diverse cropping systems, soil health, water quality and quantity, bioenergy, greenhouse gases, and sustainability.
+
+Code: PLSCI 5290
+Title: Remote Sensing and Modeling for Ecosystems
+Description: This course introduces advanced concepts of remote sensing and numerical modeling, with hands-on experience in data acquisition, processing, and interpretation. This course aims to explore key questions facing the agronomic and natural eco-systems using remote sensing techniques and ecological modeling at various scales. It provides hands-on experience in remote sensing techniques and using datasets/tools and model simulations to address research questions.
+
+Code: PLSCI 5450
+Title: Basic Plant Anatomy
+Description: Descriptive course with equal emphasis on development and mature structure. Lecture, laboratory, and reading are integrated in a study guide. The laboratory offers the opportunity to develop the practical skills required to make anatomical diagnoses and to write anatomical descriptions.
+
+Code: PLSCI 5575
+Title: Principles of Vegetable Production
+Description: Commercial vegetable production from variety selection to postharvest. Topics include crop physiology and culture, soil and pest management, stand establishment, marketing, and history of production. Term project required. Field trips to large-scale conventional, small, diversified, and organic farms are planned early in the semester.
+
+Code: PLSCI 5600
+Title: Soil Science
+Description: Designed for undergraduate and graduate students interested in a comprehensive introduction to Soil Science from both an environmental and management perspective as well as graduate students who wish to advanced their understanding of the biogeochemical (biologic, hydrologic and mineral interfaces and linkages underpinning and controlling the soil, plant and atmospheric continuum. This course examines the dynamic relationship of soils with the environment and will place particular focus on both the larger landscape as well as site specific implications of this relationship. The course is flipped with online lectures, in-class homework, projects and activities as well as a weekly laboratory and is presented in three components.
+
+Code: PLSCI 6017
+Title: Cropping Systems Ecology
+Description: Crop ecology is the integrative study of biological, physical, social, and technological factors that govern the emergent properties arising from cropping systems at different spatial and temporal scales. It implicitly recognizes that achieving the goals for multi-functional (i.e. 'sustainable') agriculture cannot be achieved without understanding the functional interdependencies among these factors. This course serves as a graduate-level synthesis of 1) how crop and crop communities are influenced by the physical and chemical growth environment, 2) how the growth environment is modified by agronomy and, in turn, 3) how production processes are shaped by both managed and unmanaged factors. Readings and class discussions of key concepts compose the first half of the course, with the hands-on application of systems analysis tools emphasized in the second half.
+
+Code: PLSCI 6020
+Title: Plant Propagation
+Description: Plant propagation, the multiplication of plants, is both a science and an art. This class will introduce the principles, practices and techniques of sexual and asexual propagation of horticultural plants. Emphasis is placed on learning the techniques that are involved with the many aspects of plant propagation as well as the science behind the methods. The art of plant propagation will be learned through hands-on experiences with seed propagation, cutting propagation, grafting & budding systems, layering, specialized plant structures (bulbs, corms, etc.), and tissue culture for micropropagation. In addition, propagation media, greenhouse environmental control and management, and plant care, as they relate to propagation, will be emphasized. The science behind the methods that are learned will be explained in order to develop a better understanding of plant propagation and how to make it successful. This knowledge base and the practical, hands-on experiences will give students the ability to better solve problems that arise during the propagation and growth of plants.
+
+Code: PLSCI 6030
+Title: Genetic Improvement of Crop Plants
+Description: Genetic enhancement of crop value to humans began with domestication and continues with farmers' variety development and scientifically trained plant breeders' applications of Mendelian, quantitative, and molecular genetics. This course examines crop genetic improvement methods by discussing the history and current practice of plant breeding, tools available to breeders, decision-making about breeding objectives and methods, and the roles of plant breeding in addressing global challenges including climate change, sustainability, equity, food security, and malnutrition.
+
+Code: PLSCI 6070
+Title: Nutritional Quality Improvement of Food Crops
+Description: The nutrients in human diets are ultimately derived from plants. However, the edible portions of the world's most extensively grown staple food crops are poor sources for numerous micronutrients and health-promoting compounds that are essential for sustaining and enhancing life. The improvement of crop nutritional quality through breeding, termed biofortification, is a sustainable strategy being used to address micronutrient deficiences worldwide. This course covers recent progress on crop nutritional quality trait improvement. The lectures will focus on vitamins, minerals, prebiotics, phytonutrients, essential amino acids, and fatty acids in the context of better human nutrition and health.
+
+Code: PLSCI 6080
+Title: Methods of Plant Breeding Laboratory
+Description: Field trips to plant breeding programs involve discussion of breeding methods used, overall goals, selection and screening techniques, and variety and germplasm release. Additional labs include selection techniques for various traits, intellectual property issues, genetically modified crops, and international agriculture. For a term project, each student designs a comprehensive breeding program on a chosen crop.
+
+Code: PLSCI 6095
+Title: Practicum in Plant Breeding
+Description: In-depth, practical exposure to applied crop breeding. Students participate in the department's maize, small grains, potato, pepper, squash, forage, tomato, and onion breeding programs to gain hands-on experience in the planning and implementation of crossing, planting, harvesting, selecting, and evaluating disease and quality traits.
+
+Code: PLSCI 6230
+Title: Equitable Crop Improvement: From Theory to Practice
+Description: This course explores how global crop improvement processes and outcomes can address social inequalities from design to implementation and impact. It covers a broad range of topics, offering perspective on how systematic social inequalities shape whose priorities are served by crop improvement programs locally, and globally. Drawing from theory and methodology across diverse disciplines, this course encourages students to critically analyze mainstream crop improvement paradigms with an equity lens, and design more inclusive alternatives.
+
+Code: PLSCI 6250
+Title: Data-Model Fusion in Research
+Description: This hands-on class trains graduate students on integrating data with models via data-model fusion to address scientific questions in research. Students will learn about modeling and the nature of data by integrating their own data with relevant models. Students will identify appropriate data to constrain their own models using various techniques, e.g., data assimilation and machine learning, in data-model fusion.
+
+Code: PLSCI 6300
+Title: Mycology
+Description: Fungi are one of the major lineages of eukaryotes and the sister group of animals.  We will consider evolutionary relationships among different groups of fungi, their ecology and significance to humans.  We will explore fungal lifestyles, their reproduction, and the ways that fungi use to communicate with each other and with their symbiotic partners.  In addition to true fungi, we will study several distantly related groups of organisms that share with fungi absorptive nutrition, filamentous somatic structures, and spore-based reproduction.  We will reconstruct fungal phylogenies using molecular evolution methods.  We will also isolate fungi from the environment and identify them using morphological and molecular approaches.
+
+Code: PLSCI 6350
+Title: Tools for Thought
+Description: Discusses readings from Kuhn, Waddington, Wilson, Lewontin, and others emphasizing application of the philosophy of science to the real-world practices of scientists.
+
+Code: PLSCI 6410
+Title: Laboratory in Plant Biology
+Description: Includes selected experiments on gene expression, biolistic transformation, confocal microscopy, laser capture microdissection, microarray analysis, genetic mapping and mutant analysis, transposon tagging, proteomics, and metabolite analysis.
+
+Code: PLSCI 6440
+Title: Digital Plant Science: Frontiers and Challenges
+Description: This course will provide a foundation in Digital Plant Science by introducing major questions and opportunities to be addressed in digital plant science (DPS). Weekly case studies will be taught by different Cornell faculty experts who are working in the area of DPS. Meeting twice weekly, Tuesday lectures and class discussions will introduce the faculty expert's subdiscipline of DPS research, followed by a DPS research presented by the same faculty expert on Thursday of the same week. Thus, the Tuesday lecture will provide the needed scientific background enabling students to understand the Thursday seminar content. This new DPS seminar series will be required for all NRT-funded graduate trainees, but will be open to all graduate students, faculty, and staff across the Cornell campus.
+
+Code: PLSCI 6450
+Title: Urban Plants and Public Health
+Description: This class examines how urban plants affect public health (e.g., air pollution reduction, temperature regulation, etc.). We will also explore the causes and health consequences of variation in urban plant composition, environmental justice perspectives, the effects of policies and management approaches, and the impacts of climate change.
+
+Code: PLSCI 6490
+Title: Current Topics in Fungal Biology
+Description: In-depth analysis and discussion of current scientific literature focused on the genetics, genomics, cell and molecular biology, and evolution of fungi.
+
+Code: PLSCI 6520
+Title: Berry Crops: Culture and Management
+Description: Study of the evolution, breeding history, and physiology of strawberries, raspberries, blackberries, blueberries, and other minor small fruit crops and of cultural practices that influence productivity, fruit quality, and pest damage. Also considers marketing and economics and discusses alternate production practices for both commercial and home gardeners. Frequent field trips enhance classroom activities.
+
+Code: PLSCI 6560
+Title: Topics in Plant Evolution
+Description: Series of selected topics to provide a background in plant evolution, paleobotanical literature, and evolutionary theory. Among the topics discussed are: the origin of a terrestrial flora, the evolution of the seed plants, and the origin and adaptive radiation of the angiosperms.
+
+Code: PLSCI 6610
+Title: Diagnostic Lab Experience
+Description: For graduate students and advanced undergraduates with a special interest in diagnosing plant diseases. Students work in the Diagnostic Laboratory (section of Plant Pathology and Plant-Microbe Biology) under supervision of the diagnostician.
+
+Code: PLSCI 6620
+Title: Plant Biochemistry
+Description: Focuses on biochemistry of plant specific processes, with the aim to obtain an integrative overview of plant biochemistry. Examples include processes such as cell wall biochemistry, pigment biosynthesis and degradation, secondary metabolism, senescence, defense mechanisms, amino acid biosynthesis, and small molecule transport. Genomics-based experimental tools such as proteomics and metabolomics are discussed.
+
+Code: PLSCI 6720
+Title: Nutrient and Carbon Cycling and Management in Ecosystems
+Description: Building on knowledge of basic physico-chemical and microbial nutrient and carbon transformations in soil, we will examine the pathways of carbon and nutrients in ecosystems from the rhizosphere to the landscape level. An important aspect will be the understanding of environmental impacts by agriculture, forestry and agroforestry and the development of sustainable landus systems. We will explore various tracer methods for the study of carbon and nutrient cycling including stable and radio-isotopes as well as rare elements and biomarkers. You will expand you knowledge in discussion groups and through presentations and work in-depth on a project which involves both field and laboratory experimentation. The results of the project will be presented in a poster conference.
+
+Code: PLSCI 6820
+Title: Graduate Student Research Updates
+Description: Weekly graduate student seminar series. Guests with an interest in plant pathology research are welcome to attend. Classes meet simultaneously in Geneva and Ithaca and are linked by teleconference.
+
+Code: PLSCI 6831
+Title: Concepts and Techniques in Plant Biology
+Description: This course is the first of a two-semester sequence (with PLSCI 6841) which together provide a broad overview of concepts related to the study of plant molecular biology. It is intended to bring first-year graduate students in plant molecular biology to a common background in genetics, biochemistry and phylogenetics.
+
+Code: PLSCI 6900
+Title: Graduate Individual Study
+Description: Individual study for graduate students in the School of Integrative Plant Science under the direction of a faculty member.
+
+Code: PLSCI 6940
+Title: Special Topics in Plant Sciences
+Description: The School of Integrative Plant Science offers graduate-level "trial" courses under this number. Offerings vary by semester and are advertised by the school before the semester starts. Courses offered under the number will be approved by the Plant Sciences Curriculum Committees, and the same course is not offered more than twice under this number.
+
+Code: PLSCI 7000
+Title: School of Integrative Plant Science Seminars
+Description: Weekly seminars on selected topics in plant biology, plant breeding and genetics, plant pathology and plant-microbe biology,  horticulture, and soil and crop science, as presented by faculty, graduate students and guest speakers. Students will have opportunities to be exposed to advances in plant science disciplines, learn how scientific data are collected, analyzed and presented, network with speakers, and engage in dialog about research, extension and teaching topics.
+
+Code: PLSCI 7201
+Title: Advanced Statistics and Experimental Design
+Description: This course will provide a comprehensive introduction to experimental designs that are commonly used in plant science and provide participants with the practical coding skills necessary to analyze data from such designs. This basic knowledge will be extended to accommodate high-dimensional data generated by modern 'omics techniques. This course will provide a foundational introduction of experimental designs and statistical analyses to guide independent research and avoid mistakes that are often made by new scientists. While this course will cover a wide range of topics, it is by no means an exhaustive coverage of experimental design and statistics. Students are strongly encouraged to complement the foundational knowledge learned in this course with classes on advanced statistical methods and/or experimental design.
+
+Code: PLSCI 7440
+Title: Graduate Research in Plant Biology
+Description: After the first year, students present one seminar per year on their thesis research and then meet with their thesis committee members for evaluation. First-year students only attend the seminar series; they do not present. Second-year students give a 25-minute seminar, while students in their third and higher years present a 50-minute seminar.
+
+Code: PLSCI 7450
+Title: Current Papers in Plant Biology
+Description: Students in this class read and discuss recently published papers in plant molecular biology. A faculty member from the Plant Biology Section in the School of Integrative Plant Science will assign the reading material and facilitate student discussions. To enable in-depth review and discussion, the literature reading in each semester will have a common theme, which will generally be based on the research interests and expertise of the faculty mentor.
+
+Code: PLSCI 7980
+Title: Graduate Teaching Experience in Plant Sciences
+Description: Designed to give graduate students teaching experience through involvement in planning and teaching courses under the supervision of SIPS faculty members. May include leading discussion sections; preparing, assisting in, or teaching lectures and laboratories; and tutoring.
+
+Code: PLSCI 8900
+Title: Master of Science Thesis Research
+Description: Thesis research for Master of Science degree candidates in the School of Integrative Plant Science.
+
+Code: PLSCI 9900
+Title: PhD Dissertation Research
+Description: Dissertation research for PhD candidates in the School of Integrative Plant Science.
+

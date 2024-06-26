@@ -1,0 +1,40 @@
+Code: ILROB 2220
+Title: Controversies About Inequality
+Description: In recent years, poverty and inequality have become increasingly common topics of public debate, as academics, journalists, and politicians attempt to come to terms with growing income inequality, with the increasing visibility of inter-country differences in wealth and income, and with the persistence of racial, ethnic, and gender stratification. This course introduces students to ongoing social scientific debates about the sources and consequences of inequality, as well as the types of public policy that might appropriately be pursued to reduce (or increase) inequality. These topics will be addressed in related units, some of which include guest lectures by faculty from other universities (funded by the Center for the Study of Inequality). Each unit culminates with a highly spirited class discussion and debate.
+
+Code: ILROB 3255
+Title: Creativity Sprint: An Entrepreneurship Hackathon
+Description: The ability to shepherd an idea from ideation to development to implementation is an essential skill in today's business environment for entrepreneurs, innovators, and organizational change agents. To this end, this course aims to develop students' abilities to identify problems and generate solutions to real world business and societal challenges. The course focuses on problem identification (understanding the core elements of a presenting problem), idea generation (developing solutions to those problems), and implementation (putting those solutions into practice). The course includes lecture-based content and activities around these topics and features participation in a weekend-long hackathon event that serves as a practicum experience where students will generate, develop, and pitch an idea related to a societal or business challenge.
+
+Code: ILROB 3270
+Title: Social Capital and Organizations
+Description: This course will familiarize students with contemporary theories of how social relationships (also referred to as "social capital") influence employment-relevant outcomes among individuals, firms, and broader markets. Topics will be informed by academic research and applied in prominent organizational settings. Students will explore topics including tie strength, network structure, social closure, embedded relationships, contaigion, visibility, status, collective wisdom, diffusion and adoption.
+
+Code: ILROB 4295
+Title: Organizations Across the Lifecycle
+Description: This course reviews sociological theory and research on a selected set of common issues and problems that face organizations as they go from founding to established operations. We begin by examining factors that affect people's decisions to found new organizations, then consider choices in organization and job design, problems of exercising authority and influence effectively, group dynamics that may affect decision-making and coordination, and different approaches to managing cooperative and competitive relations with external audiences. Course topics will be examined through readings, class discussion, cases and interactive exercises.
+
+Code: ILROB 4710
+Title: Social Science Research Methods
+Description: The goal of this course is to give students the foundational skills necessary to conduct scientific research in the field of organizational behavior. Topics covered will include generating research ideas, ethical considerations, common experimental and non-experimental designs, creating surveys and other measures, interpreting results, and writing research papers. Students will be asked to conduct their own research projects as part of the class. This course focuses on methods from psychology and related disciplines and is recommended for students considering doing honors thesis research.
+
+Code: ILROB 5200
+Title: Organizational Behavior
+Description: Survey of concepts, theories, and research from the fields of sociology, psychology, and social psychology as these relate to the behavior of individuals, groups, and work organizations. Topics include: job attitudes, motivation, leadership and power, group formation, organizational structure, and interorganizational relations. This course is designed for students in professional programs.
+
+Code: ILROB 5290
+Title: Social Capital and Organizations
+Description: This course will familiarize graduate students with contemporary theories of how social relationships (also referred to as "social capital") influence employment-relevant outcomes among individuals, firms, and broader markets. Topics will be informed by academic research and applied in prominent organizational settings. Students will explore topics including tie strength, network structure, social closure, embedded relationships, contagion, visibility, status, collective wisdom, diffusion and adoption.
+
+Code: ILROB 6715
+Title: Social Science Research Methods
+Description: The goal of this course is to give students the foundational skills necessary to conduct scientific research in the field of organizational behavior. Topics covered will include generating research ideas, ethical considerations, common experimental and non-experimental designs, creating surveys and other measures, interpreting results, and writing research papers. Students will be asked to conduct their own research projects as part of the class. This course focuses on methods from psychology and related disciplines and is recommended for students considering doing honors thesis research.
+
+Code: ILROB 7220
+Title: Macro Organizational Behavior Seminar
+Description: This doctoral seminar is designed to provide you with an overview of major theoretical traditions in the field of macro-Organizational Behavior. We will examine the historical development of sociological theories of organizations and contemporary issues in macro organizational research. The readings are organized in a semi-chronological fashion – we start with older, established classics and move into more contemporary lines of work.  This course heavily emphasizes reading and analysis of primary source material. Students will be expected to lead a discussion class as well as submit a final written research proposal due at the end of the semester. The goal will be to convert our consumption of scholarship into production of robust research.
+
+Code: ILROB 9200
+Title: Organizational Behavior Workshop
+Description: This workshop is designed to extend the forum of current research presentations undertaken by faculty members and graduate students in the Department of Organizational Behavior and by invited guests in the M&O/ILROB Seminar Series. In particular, students will hone their academic citizen skills by practicing journal referee report construction using the talks/papers presented in the Seminar Series. In addition to attending the weekly seminar, students are expected to attend the additional 75 min workshop the same day, along with submitting a draft referee report of the material presented in the seminar. The workshop is designed to improve the construction of referee report writing, making it easier to produce high quality and constructive referee reports throughout the course of your career.
+

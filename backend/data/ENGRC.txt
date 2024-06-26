@@ -1,0 +1,36 @@
+Code: ENGRC 3023
+Title: Communication Intensive Opportunity: Practicum in Technical Writing
+Description: One-credit attachment to an existing engineering course that is not one of the officially designated W-I courses. It may be taken more than once, with different courses by permission of a particular engineering faculty member.
+
+Code: ENGRC 3025
+Title: Creating and Communicating Your Digital Professionalism
+Description: Senior-level course focused on creating and communicating an online professional identity. The key learning outcome is to enable students to develop digital professionalism, defined as a multimodal communicative competence honed through the practice of creating, critiquing, and reflecting upon digital artifacts they use to build and present their professional and public identities. The course will focus students' attention on (i) Production: What are the implications of using a particular platform to create a professional self? (ii) Representation: What tools do they need to analyze their own multimodal presentation of their professional selves? (iii) Circulation: What are the effects of having online representations of themselves as professionals? and (iv) Audience: What are their expectations about who will be viewing/interpreting those professional selves and for what purpose?
+
+Code: ENGRC 3026
+Title: Engineering Presentations and Expert Presence
+Description: As a technical contributor or expert, engineers are called on frequently to give presentations (proposals, technical updates, progress reporting, client pitches, engineering advancements/information, and more). However, many presenters have not had specific training about planning, preparing, honing, executing, documenting, and archiving their presentation work; this course addresses those skills. As well, issues of cross-cultural communication, institutional need, audience assessment, and personal presence will be covered. Students should expect to align their work and presentations in this class with a major project in their field. Students will give both individual and team talks.
+
+Code: ENGRC 3027
+Title: Cross-cultural Communications and Ethics in the Workplace
+Description: Engineering industries increasingly demand individual contributors and teams that can communicate and collaborate with professionals across diverse cultures. The purpose of this course is to increase students' cultural awareness and sensitivity and develop intercultural competence while engaging positively in technical work. Course topics will focus on engineering communication and practices of human-centered design, thereby exposing cultural dimensions and ethical consequences of human-engineered artifacts. Through various kinds of genre writing practice and a major teamwork project, students are expected to improve written, oral, visual and interpersonal communication skills as well.
+
+Code: ENGRC 3340
+Title: Independent Study in Engineering Communications
+Description: Members of the ECP occasionally give independent (also called "directed") studies in engineering communications, typically with students who are ready for advanced work in technical communication. A student doing a directed study works one-on-one with an ECP instructor to pursue an aspect of professional communications in more depth than is possible in the ECP's regular courses. Various types of projects are possible, e.g., studying forms of technical documentation, creating user manuals, analyzing and producing technical visuals, reading and writing about problems in engineering performance, and communicating about technical topics for the public.
+
+Code: ENGRC 3341
+Title: Guided Fieldwork for Engineering Communications
+Description: Provides individual students opportunity to pursue guided fieldwork in their major, and includes significant engineering communication opportunities. Success in the course relies on commitment from both the student and their College of Engineering mentoring faculty selected from within their major. This course requires students to go above and beyond regular coursework expectations and can take the form of undergraduate research, independent study, an honors project, or even an outreach activity.
+
+Code: ENGRC 3500
+Title: Engineering Communications
+Description: Prepares students for important communication activities. Students will communicate using various types of written communication which may include emails, memos, problem analyses, proposals, progress reports, or other genres. Students will give oral presentations and incorporate graphics in their oral and written work. Students learn how to communicate specialized information to different audiences (e.g., technical and nontechnical audiences, colleagues and clients, peers and supervisors, and in-house departments), work in teams, and address organizational and ethical issues including using GenAI, racism, equity, inclusiveness, and accessibility. The course material is drawn from professional contexts, principally engineering, and it generates lively discussion.
+
+Code: ENGRC 3700
+Title: Communications Consulting for Engineers
+Description: Upon successful completion of this course students agree to become teaching assistants (TAs) in the Spring 2023 semester for ENGRC 3120. Teaching assistants will support an Engineering Communications Program faculty member in creating learning materials and holding regular meetings with student teams to consult on their communication work.
+
+Code: ENGRC 4590
+Title: Communications for Physical Design in Biological Engineering
+Description: This course prepares students for important biological engineering communication activities, e.g., introduction to science/biological engineering communication, laboratory notebooks, presentations (proposal, progress final), visuals and captions, technical report and teamwork.
+

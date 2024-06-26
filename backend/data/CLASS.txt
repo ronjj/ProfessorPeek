@@ -1,0 +1,140 @@
+Code: CLASS 1331
+Title: Elementary Sanskrit I
+Description: An introduction to the essentials of Sanskrit grammar. Designed to enable the student to read classical and epic Sanskrit as soon as possible.
+
+Code: CLASS 1450
+Title: Ancient Egyptian I: Introduction to Middle Egyptian Hieroglyphs
+Description: From ca. 2100 BC to the Roman era, hieroglyphs representing the Middle Egyptian language were inscribed on texts, objects and architecture. In this initial course students learn how the language was written and how it worked, including how words were written and how sentences were constructed with and without verbs. Along the way we will be reading short excerpts from Egyptian texts as part of the textbook's exercises, emphasizing grammar rather than textual or thematic analysis. The student who completes this and the second course that focuses on the verbal system will be well-equipped to pursue detailed study of Egyptian classics such as The Eloquent Peasant, Tale of Sinuhe, and Book of the Dead, as well as shorter inscriptions found on objects and monuments.
+
+Code: CLASS 1516
+Title: FWS: Are You Not Entertained: Gladiators in Ancient and Modern Society
+Description: Gladiators executed stunning fight sequences, defied death, oozed sex appeal, stole wives (and husbands), and even, in the case of Spartacus, attacked the heart of the Roman empire. But who were the real gladiators? What was it like to be one? What does the popularity of gladiatorial fights tell us about Roman society and our world today? We will examine ancient literature, art, and archaeology like the Colosseum alongside The Hunger Games, Gladiator, and other modern media. We will compare that to evidence for gladiators' lived experiences, including their graffiti, curses, weapons, living quarters, tombs, and skeletons. Students will write a diagnostic essay, close reading essay, an interpretation of archaeological evidence, a historical argument, a research paper, and a pitch for modern media about gladiators.
+
+Code: CLASS 1531
+Title: FWS: Greek Myth
+Description: This course will focus on the stories about the gods and heroes of the Greeks as they appear in ancient literature and art. We will examine the relationship between myths and the cultural, religious, and political conditions of the society in which they took shape. Beginning with theories of myth and proceeding to the analysis of individual stories and cycles, the material will serve as a vehicle for improving your written communication skills. Assignments include preparatory writing and essays focusing on readings and discussions in class.
+
+Code: CLASS 1551
+Title: FWS: Creativity and Crisis
+Description: In the Poetics, Aristotle asserts the most successful Greek tragedies elicited from their audiences both pity and fear, a two-fold experience of emotional release called "catharsis." Taking the philosopher's claim as a point of departure, this course explores how artistic practices comprised creative responses to disaster in the pre-modern Mediterranean. Reading and writing assignments address the restorative capabilities of a range of media, with an emphasis on the visual and performing arts. Acts of making, or even the destruction of artworks, facilitated psychological reactions to traumatic events, the civic commemoration of collective loss, and negotiations of private subjectivity in mourning. Such critical awareness of the emotional aesthetics of style, form, and content will inform the craft of our authorial voices.
+
+Code: CLASS 1553
+Title: FWS: Art and Originality
+Description: What makes an original work of art authentic? Is a replica of a famous sculpture a derivative fake, or is the object valuable in its own right? Together we will examine themes of imitation, replication, illustration, and reinvention in the visual arts of the pre-modern Mediterranean. Representations executed in a variety of media, from paint to precious stones, will form the basis of writing assignments, designed to prompt reassessments of the educational models and creative canons operative in our own compositional techniques. Class readings, including selections from Plato, Aristotle, Vitruvius, and Pliny the Elder, will provide frameworks in which to approach ancient images within their historical context. Participants will organize an online art exhibition related to the politics of emulation in artistic practices of reproduction.
+
+Code: CLASS 1615
+Title: Introduction to Ancient Rome
+Description: Ancient Rome was a village the size of Ithaca that grew into a world empire. In this course students will be introduced to some of its literature, art, and famous personalities in the classical period (2nd c. BCE – 2nd c. CE) and will read some of the greatest masterpieces of Latin literature. Special attention will be given to the late republic, Augustan, and Hadrianic periods, to Roman ethics, and to the rise of Christianity. No prior knowledge of the ancient world is necessary. All readings are in English.
+
+Code: CLASS 1702
+Title: Great Discoveries in Greek and Roman Archaeology
+Description: This introductory course surveys the archaeology of the ancient Greek and Roman world. Each week, we will explore a different archaeological discovery that transformed scholars' understanding of the ancient world. From early excavations at sites such as Pompeii and Troy, to modern field projects across the Mediterranean, we will discover the rich cultures of ancient Greece and Rome while also exploring the history, methods, and major intellectual goals of archaeology.
+
+Code: CLASS 2000
+Title: Environment and Sustainability Colloquium
+Description: This colloquium presents students with diverse approaches at the art-science interface used to interest, educate and motivate people to consider, address and solve environmental and sustainability challenges. It consists of a series of lectures given by experts, people with different expertise and perspectives who are addressing a variety of environmental and sustainability problems with regard to humanistic concern.
+
+Code: CLASS 2010
+Title: Discussions of Environment and Sustainability
+Description: This colloquium presents students with diverse approaches at the art-science interface used to interest, educate and motivate people to consider, address and solve environmental and sustainability challenges. It consists of a series of lectures by experts with different perspectives addressing a variety of environmental and sustainability problems with regard to humanistic concern. The small group discussion session allows in-depth engagement with the art-science interface. Building on the possibilities shared by our expert visitors, students in the discussion section will develop their own approach to addressing environmental issues. We will analyze how the ways in which information is shared is as significant as the information itself, and consider "artistic" and "scientific" perspectives as mutually beneficial tools for exploring and communicating our relationship to the environment.
+
+Code: CLASS 2351
+Title: Intermediate Sanskrit I
+Description: Readings from simple Sanskrit poetry: the Mahabharata and the Ramayana.
+
+Code: CLASS 2603
+Title: Initiation to Greek Culture
+Description: In this course, we will read and discuss a wide range of ancient Greek literary and philosophical works as well as some modern critical and philosophical writings. We encourage active participation in small weekly seminar meetings and supplementary workshops with specially invited guests. Our focus throughout is on close analysis of the texts, and the attempts the Greeks made to grapple with the world around them through literature. The course inquires into the intellectual development of a culture infused with mythological accounts of the cosmos. It asks how poetic forms such as epic and tragedy engage with philosophical ideas while creating intense emotional effects on audiences both during antiquity and beyond. By the end of this course, students will have read a wide selection of Classical Greek literature and be able to perform close readings and comparative analysis of text and culture. In addition, students will hone their discussion and presentation skills in the seminar format, above all engaging with their peers in joint intellectual inquiry.
+
+Code: CLASS 2604
+Title: Greek Mythology
+Description: The stories of Greek Mythology have ignited the imaginations of writers and artists from antiquity to the present day, from the tragedy of Achilles to the adventures of Percy Jackson. This course surveys the most influential stories of Gods and Heroes in Greek myths, focusing on their place in ancient Greek and Roman literature, society and religion, but also tracing their course in intellectual and art history through the Renaissance to the present day.
+
+Code: CLASS 2630
+Title: Drinking through the Ages: Intoxicating Beverages in Near Eastern and World History
+Description: This course examines the production and exchange of wine, beer, coffee and tea, and the social and ideological dynamics involved in their consumption. We start in ancient Egypt and Mesopotamia, and end with tea and coffee in the Arab and Ottoman worlds. Archaeological and textual evidence will be used throughout to show the centrality of drinking in daily, ritual and political life.
+
+Code: CLASS 2661
+Title: Greek and Roman Philosophy
+Description: An introductory survey of ancient Greek philosophy from the so-called Presocratics (6th century BCE) through the Hellenistic period (1st century BCE) with special emphasis on the thought of Socrates, Plato, and Aristotle.
+
+Code: CLASS 2691
+Title: Introduction to Indo-European Linguistics
+Description: An introduction to the phonology, morphology, and syntax of Proto-Indo-European and the chief historical developments of the daughter languages.
+
+Code: CLASS 2750
+Title: Introduction to Humanities
+Description: These seminars offer an introduction to the humanities by exploring historical, cultural, social, and political themes. Students will explore themes in critical dialogue with a range of texts and media drawn from the arts, humanities, and/or humanistic social sciences. Guest speakers, including Cornell faculty and Society for the Humanities Fellows, will present from different disciplines and points of view. Students will make field trips to relevant local sites and visit Cornell special collections and archives. Students enrolled in these seminars will have the opportunity to participate in additional programming related to the annual focus theme of Cornell's Society for the Humanities and the Humanities Scholars Program for undergraduate humanities research.
+
+Code: CLASS 2806
+Title: Roman Law
+Description: This course presents a cultural and historical perspective on ideas of agency, responsibility, and punishment through foundational texts of western law. We will primarily focus on three main areas of law: (1) slavery and (2) family (both governed by the Roman law of persons), and (3) civil wrongs (the law of delict or culpable harm). Through an examination of the legal sources (in translation) and the study of the reasoning of the Roman jurists, this course will examine the evolution of jurisprudence: the development of the laws concerning power over slaves and women, and changes in the laws concerning penalties for crimes. No specific prior knowledge needed.
+
+Code: CLASS 3391
+Title: Independent Study in Sanskrit, Undergraduate Level
+Description: To be taken only in exceptional circumstances. Must be arranged by the student with his or her advisor and the faculty member who has agreed to direct the study. To be approved by the DUS.
+
+Code: CLASS 3395
+Title: Advanced Sanskrit I
+Description: Selected readings in Sanskrit literary and philosophical texts.
+
+Code: CLASS 3635
+Title: Queer Classics
+Description: This course engages classical antiquity and its reception through the prism of queer studies. Cruising Homer, Sappho, Euripides, Plato, Ovid and more, we will explore how queer theoretical frameworks help us account for premodern queer and trans bodies, desires, experiences, and aesthetics. We will trace how people historically have engaged with the classical past in political and affective projects of writing queer history and literature, constructing identities and communities, and imagining queer futures. We will unpack how classical scholarship might reproduce contemporary forms of homophobia and transphobia in its treatments of gender, sexuality, and embodiment in the classical past, and in turn how modern uses of the classical might reinforce or dismantle exclusionary narratives around 'queerness' today as it intersects with race, gender, sexuality, and class. Finally, we will consider how the work we are doing in this class (where the 'Queer' in 'Queer Classics' may be taken as an adjective or an imperative) relates to the ways that contemporary writers, activists, artists, and performers have animated the classical past with queer possibilities. All readings will be in translation; no knowledge of Latin and Greek is required.
+
+Code: CLASS 3686
+Title: Independent Study in Classical Civilization, Undergraduate Level
+Description: May be taken upon completion of one semester of work at the 3000-level. To be taken only in exceptional circumstances. Must be arranged by the student with their advisor and the faculty member who has agreed to direct the study. To be approved by the DUS.
+
+Code: CLASS 3736
+Title: The Archaeology of the City of Rome
+Description: This course tells the history of the Roman empire through the urban development of its capital from the early 1st millennium BCE to the advent of Christian emperors in the 4th century CE. What does the archeology reveal about how the geography and environment of this site, its society and political systems, military conquests, economy, infrastructure, resources, and technologies interacted to create the center of an empire? Special focus is on how the appropriation of other peoples and cultures shaped the metropolis itself. Did it manage to integrate individuals from Africa, the Near East, from North of the Alps and Britain, and if so, how? The history of excavations and the reception of the city's architecture in the 19th and 20th centuries will provide a critical lens for analyzing some of the master narratives associated with ancient Rome and its ruins.
+
+Code: CLASS 3750
+Title: Introduction to Dendrochronology
+Description: Introduction and training in dendrochronology (tree-ring dating) and its applications in archaeology, art history, climate and environment through lab work and participation in ongoing research projects using ancient to modern wood samples from around the world. Supervised reading and laboratory/project work. Possibilities exists for summer fieldwork in the Mediterranean, Mexico, and New York State.
+
+Code: CLASS 4662
+Title: Topics in Ancient Philosophy
+Description: Advanced discussion of topics in ancient philosophy. Topics vary by instructors.
+
+Code: CLASS 4721
+Title: Honors: Senior Essay I
+Description: See "Honors" under Classics front matter.
+
+Code: CLASS 4746
+Title: Greek and Roman Art and Archaeology
+Description: Topics Rotate. Fall 2024 topic: Funerary Culture in the Greco-Roman East. Tombs, grave goods, and funerary rituals are often thought to offer traces into the world of the living (the tomb as a house being a prominent metaphor), their concepts of the body, or their emotions. How, if at all, did such traditions change under imperial rule? Focusing on the Greek and Roman East means to zoom in to areas such as Greece, Anatolia, the Levant to the Middle East, or Egypt that feature century- if not millennia-old traditions which, if at all, transformed to different degrees under Roman rule. This seminar investigates opportunities and challenges of researching such constellations. Analysis of different traditions of scholarship that to this day shape our records will be critical, as well as discussion of scientific (and contested) methodologies of how to deal with human remains.
+
+Code: CLASS 6701
+Title: Advanced Readings in Archaeology
+Description: Introduction to core readings in Greek and Roman art and archaeology.
+
+Code: CLASS 6755
+Title: Archaeological Dendrochronology
+Description: An introduction to the field of Dendrochronology and associated topics with an emphasis on their applications in the field of archaeology and related heritage-buildings fields. Course aimed at graduate level with a focus on critique of scholarship in the field and work on a project as part of the course.
+
+Code: CLASS 6766
+Title: The Archeology of the City of Rome
+Description: This course tells the history of the Roman empire through the urban development of its capital from the early 1st millennium BCE to the advent of Christian emperors in the 4th century CE. What does the archeology reveal about how the geography and environment of this site, its society and political systems, military conquests, economy, infrastructure, resources, and technologies interacted to create the center of an empire? Special focus is on how the appropriation of other peoples and cultures shaped the metropolis itself. Did it manage to integrate individuals from Africa, the Near East, from North of the Alps and Britain, and if so, how? The history of excavations and the reception of the city's architecture in the 19th and 20th centuries will provide a critical lens for analyzing some of the master narratives associated with ancient Rome and its ruins.
+
+Code: CLASS 7173
+Title: Topics in Ancient Philosophy
+Description: Advanced discussion of topics in ancient philosophy. Topics vary by instructors.
+
+Code: CLASS 7345
+Title: Graduate TA Training
+Description: Pedagogical instruction and course coordination. Requirement for all graduate student teachers of LATIN 1201-LATIN 1202 and first-year writing seminars.
+
+Code: CLASS 7346
+Title: Classics Graduate Preparation Seminar
+Description: A course to prepare Classics graduate students for exams and for professionalization.
+
+Code: CLASS 7691
+Title: Introduction to Indo-European Linguistics
+Description: An introduction to the phonology, morphology, and syntax of Proto-Indo-European and the chief historical developments of the daughter languages.
+
+Code: CLASS 7746
+Title: Greek and Roman Art and Archaeology
+Description: Topics Rotate. Fall 2024 topic: Funerary Culture in the Greco-Roman East. Tombs, grave goods, and funerary rituals are often thought to offer traces into the world of the living (the tomb as a house being a prominent metaphor), their concepts of the body, or their emotions. How, if at all, did such traditions change under imperial rule? Focusing on the Greek and Roman East means to zoom in to areas such as Greece, Anatolia, the Levant to the Middle East, or Egypt that feature century- if not millennia-old traditions which, if at all, transformed to different degrees under Roman rule. This seminar investigates opportunities and challenges of researching such constellations. Analysis of different traditions of scholarship that to this day shape our records will be critical, as well as discussion of scientific (and contested) methodologies of how to deal with human remains.
+

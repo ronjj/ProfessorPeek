@@ -1,0 +1,36 @@
+Code: MILS 1101
+Title: Introduction to the Army
+Description: This course focuses on introduction to the Army and basic Soldier skills. It introduces students to the Army and the Profession of Arms. Students will examine the Army Profession and what it means to be a professional in the U.S. Army. The overall focus is on developing basic knowledge and comprehension of the Army Leadership Requirements Model while gaining a complete understanding of the Reserve Officers' Training Corps (ROTC) program, its purpose in the Army, and its advantages for the student. Students also begin learning map reading and land navigation. Students will have initial classes on fieldcraft, first aid, individual/team movement techniques that will include a monthly lab facilitated by MS III Cadets and supervised by MS IV's and cadre. The lab is not a requirement for students who do not enroll in ROTC.
+
+Code: MILS 1111
+Title: Leadership Laboratory I
+Description: MILS I cadets meet for eight hours each month to learn a variety of military skills including rappelling, first aid, drill and ceremonies, weapons familiarization, physical fitness training, and small group leadership.
+
+Code: MILS 2201
+Title: Leadership and Ethics
+Description: Focuses on leadership and ethics. The course adds depth to the student's knowledge of the different leadership styles. Students will conduct a leadership analysis of famous leaders and self-assessment of their own leadership style. The Army Profession is also stressed through understanding values, ethics and how to apply both to different situations they may encounter as a leader. Army Values and Ethics and their relationship to the Law of Land Warfare and philosophy of military service are also stressed. Troop Leading Procedures (TLPs) are introduced through case studies and roleplaying exercises.
+
+Code: MILS 2211
+Title: Leadership Laboratory II
+Description: Cadets meet for eight hours each month as members of the cadet organization to participate in practical leadership exercises. Types of practical activities include rifle marksmanship, orienteering, drill and ceremonies, signal communications, physical fitness training, first aid, tactics, field exercises, and small group leadership.
+
+Code: MILS 3301
+Title: Training Management and the Warfighting Functions
+Description: MSL 3301 focuses on training management and the warfighting functions. It is an academically challenging course where you will study, practice, and apply the fundamentals of Training Management and how the Army operates through the Warfighting functions. At the conclusion of this course, you will be capable of planning, preparing, and executing training for a squad conducting small unit tactics.
+
+Code: MILS 3311
+Title: Leadership Laboratory III
+Description: Cadets meet for eight hours each month to prepare for a five-week summer camp that follows their junior year. Emphasis is placed on the development of individual practical and leadership skills. Cadets rotate through leadership positions to practice applying decision-making skills in a myriad of situations.
+
+Code: MILS 4400
+Title: Special Problems for Advanced Undergraduates
+Description: Individual investigation, research, studies, or surveys of selected problems that allow contracted ROTC Cadets to design a course of study to investigate selected topics in military science more completely.
+
+Code: MILS 4401
+Title: The Army Officer
+Description: MSL 4401 Focuses on development of the Army Officer. It is an academically challenging course where you will develop knowledge, skills, and abilities to plan, resource, and assess training at the small unit level. You will also learn about Army programs that support counseling subordinates and evaluating performance, values and ethics, career planning, and legal responsibilities. At the conclusion of this course, you will be familiar with how to plan, prepare, execute, and continuously assess the conduct of training at the company level.
+
+Code: MILS 4411
+Title: Leadership Laboratory IV
+Description: Senior cadets plan and operate the leadership laboratory programs for MILS I-III cadets. The development of planning and supervisory skills is emphasized. Cadets have an opportunity to practice leadership skills developed during previous ROTC training and summer camp experiences. Includes two to three hours a week devoted to physical fitness.
+

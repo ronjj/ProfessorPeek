@@ -1,0 +1,140 @@
+Code: BEE 2510
+Title: Engineering Processes for Environmental Sustainability
+Description: Students will quantitatively understand and analyze environmental issues such as: the impact of industrial contaminants and excess nutrients on water quality; the global carbon cycle; improving global access to clean water. This course integrates principles from chemistry, biology, math and engineering to understand and solve real-world problems that impact three major environmental compartments: air, water, and soil. Students will solve mass and energy balances beginning with simple, closed systems, then progress through reactive, open systems to describe environmental fate and transport of pollutants, natural environmental cycles and remediation scenarios. Students will be exposed to technical and lay material from interdisciplinary sources to understand the environmental externalities – social, political, economic and cultural – that must be considered when proposing solutions to today's most pressing environmental issues. BE and EnvE students must complete either BEE 2510 or BEE 2600 according to their academic plan. Students who complete both BEE 2510 and BEE 2600 receive engineering credit toward their degree for only one of these courses.
+
+Code: BEE 2600
+Title: Principles of Biological Engineering
+Description: Focuses on the integration of biological principles with engineering, math, and physical principles. Students learn how to formulate equations for biological systems in class and practice in homework sets. Topics range from molecular principles of reaction kinetics and molecular binding events to macroscopic applications such as energy and mass balances of bioprocessing and engineering design of implantable sensors. Students will also experience scientific literature searches as related to the biological engineering topics, and critical analysis and evaluation of relevant information sources. BEE students must complete either BEE 2510 or BEE 2600 according to their academic plan. BEE students who complete both BEE 2510 and BEE 2600 receive engineering credit for only one of these courses.
+
+Code: BEE 3280
+Title: Systems and Synthetic Biology for Sustainable Energy
+Description: The world today is in a state of enormous transition. In the coming few decades, billions of people will leave poverty and enter the developed world. This unprecedented development will be one of the greatest opportunities ever presented to improve global public health and quality of life, but it will only be realized if it's done right. The challenge of sustainable energy is not just to provide energy without polluting the atmosphere with fossil carbon, but to do so at a global scale at a cost that everyone can afford. Thanks to capabilities ranging from room temperature and pressure catalysis to self-assembly, biology offers first draft solutions to problems in sustainable energy from the safe use of nuclear energy, the capture and storage of solar power, mining and purifying elements critical for sustainable energy technologies like rare earths and even in the construction of advanced materials. In each class we will discuss a set of scientific journal articles and use these discuss the advantages, disadvantages and potential of biology in applications in sustainable energy. In each of the past two years we have used these discussions to write a scientific article with students as co-authors.
+
+Code: BEE 3310
+Title: Bio-Fluid Mechanics
+Description: Properties of Newtonian and non-Newtonian fluids; hydrostatic and dynamic forces; principles of continuity, conservations of mass, energy and momentum and their applications; laminar and turbulent flows, introduction to Navier Stokes; dimensional analysis and similarity; internal and external bio-fluid examples will be covered e.g. blood circulatory systems and animal locomotion.
+
+Code: BEE 3500
+Title: Heat and Mass Transfer in Biological Engineering
+Description: Focuses on understanding the principles of heat and mass transfer in the context of biological (biomedical/bioprocessing/bioenvironmental) systems. Emphasizes physical understanding of transport processes with application examples from plant, animal and human biology, the bioenvironment (soil/water/air), and industrial processing of food and biomaterials.
+
+Code: BEE 4270
+Title: Water Measurement and Analysis Methods
+Description: Managing soil and water resources requires monitoring. In this field-based lab course, you learn techniques to quantify water flow in surface and subsurface environments and monitor water quality in lakes, rivers, and groundwater. Soil health considerations, measurement accuracy, and water sampling quality assurance are discussed. The final project involves designing a water quality monitoring plan for a research or industrial site.
+
+Code: BEE 4310
+Title: Environmental Statistics and Learning
+Description: This course introduces relatively simple but powerful data analysis techniques needed to analyze and model complex datasets frequently encountered in the environmental sciences. The course covers both supervised and unsupervised learning techniques, including linear regression, penalized regression, generalized linear models, local regression, and principal component analysis. These topics are introduced through applications to data from various environmental fields. The course serves as a first course in applied statistics and machine learning for students with only a basic knowledge of probability and statistics, and will provide a review of the mathematical concepts needed to understand the techniques presented. Students will learn by doing, with ample time in class to practice translating theory to application through programming exercises on real environmental datasets.
+
+Code: BEE 4560
+Title: Ecological Mechanics
+Description: Ecological mechanics explores ecological relations from a mechanics perspective, including fluid, solid, structural mechanics, and heat and mass transport. While other ecological studies incorporate transport of mass, energy, and information, consideration of momentum transport and its consequence in biotic and abiotic relations in organisms is unique to this discipline. We begin the course by introducing the fundamental and advanced concepts in mechanics. Then we will learn how to incorporate these concepts by considering response function (the functional relationship between condition imposed on the system and its response) to understand and predict ecological phenomena such as predator-prey relation and pattern formation.
+
+Code: BEE 4590
+Title: Physical Design in Biological Engineering
+Description: Students will choose a project depending on their interests, and complete the project goal by integrating the knowledge of biology, physics, and engineering. Students will present their proposal and final results, and write a report at the end of the semester.
+
+Code: BEE 4730
+Title: Watershed Engineering
+Description: Teaches basic engineering design and analysis as practiced for water control and nonpoint source pollution prevention. Discusses the origins of design approaches, including their theoretical bases and recent or emerging methods and concepts. Most of the course is dedicated to practicing applied design. Assignments are generally representative of real-life engineering problems and involve as much hands-on experience as possible. Some example topics include risk analysis, water conveyance, stormwater management, including green infrastructure and low-impact development.
+
+Code: BEE 4750
+Title: Environmental Systems Analysis
+Description: Applications of mathematical modeling, simulation, and optimization to environmental systems planning and management. Fate and transport models for contaminants in air, water, and soil. Optimization methods (search techniques, linear programming, integer programming) to evaluate alternatives for power systems, solid waste management, and water and air pollution control. Introduction to the impact of uncertainty on solutions and risk assessment through simulation.
+
+Code: BEE 4800
+Title: Atmospheric Chemistry: From Air Pollution to Global Change
+Description: This course investigates the science of atmospheric chemistry as its relation to air pollution and global change. Students examine the chemistry and physics that determines atmospheric composition on local to global scales including the effects of biogeochemistry and atmospheric photochemistry.
+
+Code: BEE 4970
+Title: Individual Study in Biological and Environmental Engineering
+Description: Special work in any area of biological and environmental engineering on problems under investigation by the department or of special interest to the student, provided, in the latter case, that adequate facilities can be obtained.
+
+Code: BEE 4980
+Title: Undergraduate Teaching
+Description: The student assists in teaching a biological and environmental engineering course appropriate to his or her previous training. The student meets with a discussion or laboratory section, prepares course materials, grades assignments, and regularly discusses objectives and techniques with the faculty member in charge of the course.
+
+Code: BEE 4990
+Title: Undergraduate Research
+Description: Research in any area of biological or environmental engineering on problems under investigation by the department or of special interest to the student, provided that adequate facilities can be obtained. The student must review pertinent literature, prepare a project outline, carry out an approved plan, and submit a formal final report.
+
+Code: BEE 4993
+Title: Honors Thesis
+Description: Intended for students pursuing the research honors program in BEE. This course is the culmination of the program's honors project requirement. Students enrolled in the BEE Honors program will prepare an honors thesis based on the subject matter of a BEE 4990 project from the previous semester, under the supervision of their BEE 4990 research mentor. A preliminary draft and the final copy will be submitted according to the deadline and formatting requirements of the Honors program.
+
+Code: BEE 4994
+Title: Research for Visiting Students
+Description: Research in any area of biological and environmental engineering on problems under investigation by the department or of special interest to the student, provided that adequate facilities can be obtained. The student must review pertinent literature, prepare a project outline, carry out an approved plan and submit a formal final report.
+
+Code: BEE 5270
+Title: Water Measurement and Analysis Methods
+Description: Managing soil and water resources requires monitoring. In this field-based lab course, you learn techniques to quantify water flow in surface and subsurface environments and monitor water quality in lakes, rivers, and groundwater. Soil health considerations, measurement accuracy, and water sampling quality assurance are discussed. The final project involves designing a water quality monitoring plan for a research or industrial site. Graduate students review the literature on the accuracy of the lab methods and present the results in class.
+
+Code: BEE 5280
+Title: Systems and Synthetic Biology for Sustainable Energy
+Description: The world today is in a state of enormous transition. In the coming few decades, billions of people will leave poverty and enter the developed world. This unprecedented development will be one of the greatest opportunities ever presented to improve global public health and quality of life, but it will only be realized if it's done right. The challenge of sustainable energy is not just to provide energy without polluting the atmosphere with fossil carbon, but to do so at a global scale at a cost that everyone can afford. Thanks to capabilities ranging from room temperature and pressure catalysis to self-assembly, biology offers first draft solutions to problems in sustainable energy from the safe use of nuclear energy, the capture and storage of solar power, mining and purifying elements critical for sustainable energy technologies like rare earths and even in the construction of advanced materials. In each class we will discuss a set of scientific journal articles and use these discuss the advantages, disadvantages and potential of biology in applications in sustainable energy. In each of the past two years we have used these discussions to write a scientific article with students as co-authors.
+
+Code: BEE 5310
+Title: Bio-Fluid Mechanics
+Description: Properties of Newtonian and non-Newtonian fluids; hydrostatic and dynamic forces; principles of continuity, conservations of mass, energy and momentum and their applications; laminar and turbulent flows, introduction to Navier Stokes; dimensional analysis and similarity; internal and external bio-fluid examples will be covered e.g. blood circulatory systems and animal locomotion.
+
+Code: BEE 5459
+Title: Energy Seminar I
+Description: Energy Seminars will explore energy-related topics of emerging, contemporary and historical interest. An abbreviated list of subjects explored in the seminars includes: global energy resources, energy generation technologies (present and future), energy storage options, environmental impacts and climate change mitigation, energy policy, and energy delivery economics and systems. Seminar speakers will be distinguished practicing engineers and executives from industry and government as well as faculty members from several departments at Cornell, and other academic institutions. Students from any department in Engineering or the Physical Sciences should find these talks informative.
+
+Code: BEE 5500
+Title: Heat and Mass Transfer in Biological Engineering
+Description: Focuses on understanding the principles of heat and mass transfer in the context of biological (biomedical/bioprocessing/bioenvironmental) systems. Emphasizes physical understanding of transport processes with application examples from plant, animal and human biology, the bioenvironment (soil/water/air), and industrial processing of food and biomaterials.  Students in BEE 5500 will develop a more complex computational model (for which analytical solution is difficult) using the software used in one of the homework. The goal of this activity will not be computation itself but using numerical computation to probe deeper into one or more aspects of conduction/diffusion, flow, generation/depletion, or geometry effect in a transport process.
+
+Code: BEE 5590
+Title: Physical Design in Biological Engineering
+Description: Students will choose a project depending on their interests, and complete the project goal by integrating the knowledge of biology, physics, and engineering. Students will present their proposal and final results, and write a report at the end of the semester.
+
+Code: BEE 5730
+Title: Watershed Engineering
+Description: Teaches basic engineering design and analysis as practiced for water control and nonpoint source pollution prevention. Discusses the origins of design approaches, including their theoretical bases and recent or emerging methods and concepts. Most of the course is dedicated to practicing applied design. Assignments are generally representative of real-life engineering problems and involve as much hands-on experience as possible. Some example topics include risk analysis, water conveyance, stormwater management, including green infrastructure and low-impact development.
+
+Code: BEE 5750
+Title: Environmental Systems Analysis
+Description: Applications of mathematical modeling, simulation, and optimization to environmental systems planning and management. Fate and transport models for contaminants in air, water, and soil. Optimization methods (search techniques, linear programming, integer programming) to evaluate alternatives for power systems, solid waste management and water and air pollution control. Introduction to the impact of uncertainty on solutions and risk assessment through simulation.
+
+Code: BEE 5951
+Title: Master of Engineering Design Project
+Description: Comprehensive engineering design projects relating to the candidate's area of specialization. Projects are supervised by a BEE faculty member on an individual basis. A formal project report and oral presentation of the design project are required for completion of the course(s). A minimum of 3 to a maximum of 9 credits of 5951-BEE 5952 is required for the M.Eng. degree.
+
+Code: BEE 6310
+Title: Environmental Statistics and Learning
+Description: This course introduces relatively simple but powerful data analysis techniques needed to analyze and model complex datasets frequently encountered in the environmental sciences. The course covers both supervised and unsupervised learning techniques, including linear regression, penalized regression, generalized linear models, local regression, and principal component analysis. These topics are introduced through applications to data from various environmental fields. The course serves as a first course in applied statistics and machine learning for students with only a basic knowledge of probability and statistics, and will provide a review of the mathematical concepts needed to understand the techniques presented. Students will learn by doing, with ample time in class to practice translating theory to application through programming exercises on real environmental datasets.
+
+Code: BEE 6400
+Title: Advanced Topics in Biomaterials
+Description: In this class, we will discuss some classical as well as cutting-edge research papers from the biomaterials field on topics including: (1) Polymer Biomaterials; (2) Hydrogel Biomaterials; (3) Inorganic and Composite Biomaterials; and (4) Applications of Biomaterials in Agriculture and Life Sciences. For each topic, the professor will first give introductory lectures, and the students will then give presentations and lead discussions on chosen papers.
+
+Code: BEE 6560
+Title: Ecological Mechanics
+Description: Ecological mechanics explores ecological relations from a mechanics perspective, including fluid, solid, structural mechanics, and heat and mass transport. While other ecological studies incorporate transport of mass, energy, and information, consideration of momentum transport and its consequence in biotic and abiotic relations in organisms is unique to this discipline. We begin the course by introducing the fundamental and advanced concepts in mechanics. Then we will learn how to incorporate these concepts by considering response function (the functional relationship between condition imposed on the system and its response) to understand and predict ecological phenomena such as predator-prey relation and pattern formation.
+
+Code: BEE 6640
+Title: Sustainable Bioenergy Production on Marginal Lands of New York and the Northeast
+Description: Marginal agricultural lands are an oft-cited but largely untapped regional resource base for bioenergy crop production. They constitute the primary available land base for production of second generation bioenergy crops such as perennial grasses and short-rotation woody crops in New York and the Northeast. In this broadly multidisciplinary seminar series, we will explore the challenges of and opportunities for using marginal lands from multiple viewpoints. Our goal is to expose participants to issues involved in the development of low-cost sustainable perennial bioenergy feedstock production based on marginal lands of New York and the Northeast. Having heard and interacted with speakers representing a spectrum of disciplines and perspectives, participants will be better able to understand, evaluate, and/or contribute to the development of bioenergy resources in the region. Participants will develop an appreciation for challenges of bioenergy development and the cross-disciplinary efforts required to address them.
+
+Code: BEE 6800
+Title: Atmospheric Chemistry: From Air Pollution to Global Change
+Description: This course investigates the science of atmospheric chemistry as its relation to air pollution and global change. Students examine the chemistry and physics that determines atmospheric composition on local to global scales including the effects of biogeochemistry and atmospheric photochemistry.
+
+Code: BEE 6970
+Title: Graduate Individual Study in Biological and Environmental Engineering
+Description: Topics are arranged by the faculty at the beginning of the semester.
+
+Code: BEE 7000
+Title: Orientation to Graduate Study
+Description: This course is intended to introduce students to graduate school in Biological and Environmental Engineering. It is intended for first year graduate students although others may find it helpful. It consists of a seminar series and series of classes introducing students to such topics as: how to write a research proposal, how to give a scientific talk, how to get the most out of Cornell resources and time management.
+
+Code: BEE 7600
+Title: Nucleic Acid Engineering
+Description: Nucleic Acid Engineering provides a comprehensive examination of the engineering aspects of nucleic acids beyond their biological context. By integrating molecular biology, bioengineering, and Artificial Intelligence, this course promotes a multidisciplinary and active learning environment. It explores the structure-property-function relationships of nucleic acids, focusing on the development of various nanostructures, devices, and materials derived from nucleic acids. The course also covers molecular toolkits for nucleic acid manipulation, their non-biological functions, and practical applications.
+
+Code: BEE 7710
+Title: Soil and Water Engineering Seminar
+Description: Study and discussion of research or design procedures related to selected topics including watershed management, erosion control, hydrology, colloid transport, and water quality.
+

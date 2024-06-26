@@ -1,0 +1,44 @@
+Code: ILRST 2100
+Title: Introductory Statistics and Data Science
+Description: Statistics is about understanding the world through data. We are surrounded by data, so there is a lot to understand. Covers data exploration and display, data gathering methods, probability, and statistical inference methods through contingency tables and linear regression. The emphasis is on thinking scientifically, understanding what is commonly done with data (and doing some of it for yourself), and laying a foundation for further study. Students learn to use statistical software and simulation tools to discover fundamental results. They use computers regularly; the test includes both multimedia materials and a software package. This course does not focus on data from any particular discipline, but will use real-world examples from a wide variety of disciplines and current events.
+
+Code: ILRST 2110
+Title: Statistical Methods for the Social Sciences II
+Description: A second course in statistics that emphasizes applications to the social sciences. Topics include simple linear regression, multiple linear regression (theory, model building, and model diagnostics), and the analysis of variance. Computer packages are used extensively.
+
+Code: ILRST 2130
+Title: Applied Regression Analysis
+Description: This seven week, two-credit class will cover the regression requirements, hypothesis tests, and interpretation of results. Students will learn to identify the data necessary to perform a regression analysis, evaluate the conditions, and apply the statistical tests. Interpretation of overall results will be made. Independent/group projects by each student will be done. These will consist of identifying an issue of interest, a relevant data set, and analysis using the regression methods. Presentation of the results in verbal and written form will be required. Recommended for students who want to develop applied analysis skills.
+
+Code: ILRST 3080
+Title: Probability Models and Inference
+Description: This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, the method of moments, sampling distributions and confidence intervals.
+
+Code: ILRST 3100
+Title: Statistical Sampling
+Description: Theory and application of statistical sampling, especially in regard to sample design, cost, estimation of population quantities, and error estimation. Assessment of nonsampling errors. Discussion of applications to social and biological sciences and to business problems.
+
+Code: ILRST 3110
+Title: Probability Models and Inference for the Social Sciences
+Description: This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, sampling distributions and hypothesis testing.
+
+Code: ILRST 3900
+Title: Causal Inference
+Description: Causal claims are essential in both science and policy. Would a new experimental drug improve disease survival? Would a new advertisement cause higher sales? Would a person's income be higher if they finished college? These questions involve counterfactuals: outcomes that would be realized if a treatment were assigned differently. This course will define counterfactuals mathematically, formalize conceptual assumptions that link empirical evidence to causal conclusions, and engage with statistical methods for estimation. Students will enter the course with knowledge of statistical inference: how to assess if a variable is associated with an outcome. Students will emerge from the course with knowledge of causal inference: how to assess whether an intervention to change that input would lead to a change in the outcome.
+
+Code: ILRST 4110
+Title: Categorical Data
+Description: Categorical data analysis, including logistic regression, log-linear models, stratified tables, matched pairs analysis, polytomous response, and ordinal data. Applications in biological, biomedical and social sciences.
+
+Code: ILRST 5050
+Title: Statistics at Work
+Description: This course introduces MILR students to the critical analysis process involved in social science research and practice in the workplace. The uses of analytics, particularly in workforce development will be explored through a combination of statistical methods and application to case studies. Students will distinguish the stages of analytics, develop data summaries and evaluate the results with statistical tests. The hypothesis testing method and statistical decision-making will be reviewed. Statistical methods will include t-tests, chi-squares, regression models (linear, multiple, and logistic).
+
+Code: ILRST 6100
+Title: Statistical Methods I
+Description: Develops and uses statistical methods to analyze data arising from a wide variety of applications. Topics include descriptive statistics, point and interval estimation, hypothesis testing, inference for a single population, comparisons between two populations, one- and two-way analysis of variance, comparisons among population means, analysis of categorical data, and correlation and regression analysis. Introduces interactive computing through statistical software. Emphasizes basic principles and criteria for selection of statistical techniques.
+
+Code: ILRST 7170
+Title: Theory of Linear Models
+Description: Properties of the multivariate normal distribution. Distribution theory for quadratic forms. Properties of least squares and maximum likelihood estimates. Methods for fixed-effect models of less than full rank. Analysis of balanced and unbalanced mixed-effects models. Restricted maximum likelihood estimation. Some use of software packages and illustrative examples.
+

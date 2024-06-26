@@ -1,0 +1,229 @@
+Code: ILRGL 1100
+Title: Introduction to U.S. Labor History
+Description: Introductory survey covering the major changes in the nature of work, the workforce, and the institutions involved in industrial relations from the late 19th century to the present.
+
+Code: ILRGL 1200
+Title: Introduction to Disability Studies
+Description: This course provides an introduction to the field of Disability Studies, in both an academic and applied context, and will examine the issues that affect the inclusion and integration of people with disabilities in the U.S., including: the history and impact of medical and social attitudes toward disability; the legacy and future of the disability rights movement; disability policy and laws, and their effects on workplace, technological, and physical environments; representations of disability in mass media; access to education and employment; and contemporary national efforts to expand the rights and to promote the inclusion of people with disabilities in the workplace, educational domain, and everyday society.​
+
+Code: ILRGL 2010
+Title: Labor and Employment Law
+Description: Survey and analysis of the law governing labor relations and employee rights in the workplace. Half of the course examines the legal framework in which collective bargaining takes place, including union organizational campaigns, negotiations for and enforcement of collective bargaining agreements, and the use of economic pressure. The other half surveys the laws against discrimination based on race, religion, sex, national origin, age, and disability. Also serves as an introduction to judicial and administrative systems.
+
+Code: ILRGL 2050
+Title: Labor Relations
+Description: A comprehensive introduction to the labor relations systems of the United States and other countries. Covers the determinants of bargaining power, the process of labor agreement negotiation and administration, and assessment of the effects that collective representation exerts on economic and social outcomes. Special consideration is given to the increasing importance of new technology and international factors including global supply chains.
+
+Code: ILRGL 2210
+Title: Socio-Legal Perspectives on Disability
+Description: This sophomore writing seminar engages in a critical, in-depth study of the way in which people with disabilities and the disability experience are represented in an array of interdisciplinary texts, with particular emphasis on the legal tradition and interpretations. Drawing from a variety of historical as well as contemporary texts and documents, we will explore the implications of disability in culture and policy, particularly as they impact ideas of citizenship and rights, primarily in the United States, but also globally.  We will examine the history of disability law, looking closely at a number of Supreme Court cases and decisions. We will additionally allow for an intensive focus on the development of critical thought and reasoning in both oral and written communication.
+
+Code: ILRGL 2280
+Title: Social Policy in the Global South
+Description: This course offers an overview of the structure and politics of social policy in the Global South. It addresses commonalities and differences in social policies across middle-income countries in Latin America, Africa, and Asia, and examines scholarly explanations for social policy adoption, policy design, and social policy change. The course's approach is comparative, focusing on different regions and country cases in the Global South, but pays special attention to the evolution of social protection in Latin America, where welfare systems are relatively broader in scope and have been the subject of more scholarly research. The course explores the types of protections states extend to different groups, particularly focusing on the divide between insiders—meaning formal-sector workers with labor contracts—and outsiders—informal, unemployed, and rural workers. It also examines the political dynamics (electoral competition, protest), institutions (e.g. political regimes), and actors (social and labor movements, political parties) that shape social policy. Finally, it explores the role of policy legacies, ideas, and economic factors in shaping social protection in the Global South.
+
+Code: ILRGL 2290
+Title: Labor and Democracy in Latin America
+Description: Labor movements are crucial actors in Latin American politics. This course will analyze and explain the contributions of organized labor to democratization processes in Latin America from the 19th century to the present—not only in the struggle for formal democracy, but also in the creation of new forms of participation and in the expansion of social citizenship rights. Special attention will be given to the role of labor in shaping the major political eras in the region, including the rise of populism following the onset of mass politics, the period of redemocratization in the late 20th century, and the more recent political shift towards the left. The course will cover a wide range of countries in the region and different labor movements in different historical periods. It will draw on political economy and political sociology approaches to explain both general processes and differences across countries.
+
+Code: ILRGL 2350
+Title: Work, Labor, and Capital in the Global Economy
+Description: Provides an introduction to how globalization is changing the nature of work, labor, and capital. It examines both contemporary and historical debates about globalization, but also covers a number of interrelated issues, including the regulation of labor standards, the mobility of capital, the rise of global production systems, international labor, and responses to globalization. Lectures and discussion for the topics mentioned above will be grounded in the experiences of different countries, firms, workplaces, industrial sectors, and individuals.
+
+Code: ILRGL 2580
+Title: Six Pretty Good Books: Explorations in Social Science
+Description: This course is modeled after "Great Books" literature courses in the humanities, but with two important differences: we read non-fiction books in the social sciences rather than the humanities, written by highly prominent contemporary social scientists. The course title refers to the fact that the books are new, hence their potential greatness has yet to be confirmed by the test of time. We choose living authors to give students a unique opportunity: to interact with each of the six authors in Q&A sessions via live or recorded video conferencing.
+
+Code: ILRGL 3020
+Title: Strangers and Citizens: Immigration and Labor in U.S. History
+Description: Explores immigrant workers' experiences in the 19th and 20th centuries from different perspectives. Students examine what it meant to the immigrants themselves to arrive as strangers in the United States and the ways in which preexisting American groups defined these immigrants as "strangers." Similarly, students look at U.S. citizens in their roles as greeters of immigrants, detractors of immigrants, and as models for the aspirations of immigrants. The main examples are taken from the industrial and union realms.
+
+Code: ILRGL 3035
+Title: Special Topics in Labor Relations
+Description: Undergraduate seminar whose topic changes depending on semester and instructor.
+
+Code: ILRGL 3055
+Title: Rhetoric of the Labor Movement
+Description: This course equips students to use different modes of rhetorical analysis to examine historical and contemporary artifacts in critical ways.  Grading is based on class participation, tests and a final paper.  The final paper requires students to identify primary source materials with a connection to either past or present labor movements and apply one or more of these modes of rhetorical criticism as the basis of an unique investigation into a particular labor movement's significant symbolic acts.  Students will be expected to hone their own teaching and public speaking skills by giving at least one major in class presentation.
+
+Code: ILRGL 3300
+Title: Advocacy and Debate
+Description: Students learn the principles of argumentation and debate. Topics emphasize Internet database research, synthesis of collected data, policy analysis, evidentiary quality, refutation of counter claims, identification of logical fallacies, risk evaluation, framing of issues, and coherent storytelling. Prepares students to work with a great range of opinion and evidence. Emphasizes different viewpoints, including those of different cultures. Assumptions are interrogated.
+
+Code: ILRGL 3330
+Title: Research Methods for Labor Policy
+Description: This course is designed to provide an in-depth understanding of the concepts, tools, methodologies, and resources pivotal to the strategic and effective utilization of qualitative and quantitative data. The course structure is organized around a series of modules, each focusing on distinct analytical methodologies and their potential applications to modern challenges in labor relations. These modules include qualitative, quantitative, and AI-based (e.g.., machine learning) research methods. The course's pedagogical approach encourages the practical application of course concepts through hands-on exercises and assignments, enabling students to integrate and contextualize the course content within actual research questions.
+
+Code: ILRGL 3557
+Title: Exceptionalism Questioned: America and Europe
+Description: Do you want to learn the discussion-based case method as taught at the Harvard Business School? Do you want to learn how to write a long research paper? Do you not want to take a final examination? If so this course may be for you. Since the beginning of the republic, American intellectuals, politicians and businessmen have extolled the exceptionalism of America. In a world of diverse forms of capitalism, can this view be sustained? Is America a shining city on the hill or a darkened city in the valley? Comparison is an effective way to discern and assess what is unique and what is general in the distinctive form of America's capitalist democracy. In this course the liberal market economy of the United States with its distinctive strengths and weaknesses is put side-by-side with different forms of liberal, corporatist and statist market economies that characterize different European countries in the emerging European polity. The diversity of capitalism points to one overarching conclusion: all of these countries are arguably capitalist, democratic market economies belonging to "the West;" and each of them has distinctive strengths and weaknesses. Like all other countries, America is ordinary in mobilizing its formidable capacities and displaying its glaring weaknesses as it copes with change.
+
+Code: ILRGL 3810
+Title: Migration: Histories, Controversies, and Perspectives
+Description: This introductory course introduces students to issues and debates related to international migration and will provide an interdisciplinary foundation to understanding the factors that shape migration flows and migrant experiences. We will start by reviewing theories of the state and historical examples of immigrant racialization and exclusion in the United States and beyond. We will critically examine the notions of borders, citizenship/non-citizenship, and the creation of diasporas. Students will also hear a range of perspectives by exposing them to Cornell guest faculty who do research and teach on migration across different disciplines and methodologies and in different world areas. Examples include demographic researchers concerned with immigrant inequality and family formation, geographic perspectives on the changing landscapes of immigrant metropolises, legal scholarship on the rights of immigrant workers, and the study of immigrant culture from a feminist studies lens. Offered each fall semester.
+
+Code: ILRGL 3815
+Title: The Welfare State and Its Contradictions for Workers
+Description: Is the welfare state a protector from capitalism or an accomplice to capitalism? Social safety nets and capitalist markets have a complicated relationship for workers. Healthcare, retirement pensions, unemployment insurance — these provisions protect workers from the risks of getting sick, old, and fired. These same provisions are also tremendous sources of capital, invested into the very employers and asset-managers who pose risks to workers. This contradiction is not an "American thing," but extends to social democracies like the Netherlands who steward one of the largest national capital-funded pensions. This course uncovers these complexities of the welfare state, with special theoretical and empirical attention to labor. Geographically it will focus on the United States, with frequent international comparisons to examine the commonalities and differences of welfare states. And lastly, it will be equal parts sociology and history, illuminating the origins, transformations, and inequalities of the welfare state in the United States.
+
+Code: ILRGL 3825
+Title: Southern West Virginia's Coal Fields - Ancient Struggles Amidst Hopeful Dreams
+Description: This course will critically analyze the labor, political, racial and environmental struggles that have characterized the shaping of the coalfields of Southern West Virginia and to some extent, other Appalachian coalfields. Why for 130 years have so many families embraced and fought against King Coal? What has been the role of the Mine Workers union (UMWA) in shaping hope in the region? How big of a deal is religion? Race? Geography? What comprises Life in these regions of America? Attendance and participation mandatory.
+
+Code: ILRGL 3875
+Title: Public Sector Labor Law and CB: The Turbulence Amidst Police, Policing, Teachers and Their Unions
+Description: The turbulence amidst police, policing, teachers and their unions. By using policy articles and certain legal cases this course seeks to show how and why certain public employees and their unions have come under such intense scrutiny by the Right and the Left. We will deconstruct how laws and workplace bargaining have gained, police and their unions, these rights and whether police and/or or teachers might have too many rights. Have the police's and teachers' ability to seemingly avoid the accountability that parts of our society are demanding occurred due to disproportionate political power? And how powerful are they?
+
+Code: ILRGL 4022
+Title: Arbitration in the Workplace: Theory and Practice
+Description: Study of arbitration in the field of labor-management relations, including an analysis of principles and practices, the law of arbitration, the handling of materials in briefs and oral presentations, the conduct of mock arbitration hearing, and the preparation of arbitration opinions and post-hearing briefs.
+
+Code: ILRGL 4027
+Title: Campus Mediation Practicum
+Description: This course is offered to students interested in acquiring the knowledge, skills and techniques necessary to mediate campus disputes.
+ 
+In the first segment of the course, students will be introduced to the guiding principles of mediation and restorative conferencing. A review of the theories of conflict, its roots and its resolution, set the stage for the role mediation and restorative conferencing can effectively play in resolving conflict.  Students are introduced to the models of mediation and the benefits and challenges of each, including a comparative analysis of evaluative, facilitative, transformative, and restorative justice styles of mediation. 
+ 
+In the second segment, students will be assigned to mediate and facilitate cases referred to the Scheinman Institute from the Office of Student Conduct and Community Standards, as well as other campus partners.  The role of gender, race, culture, ethics and impasse in mediation will all be examined and incorporated into simulations and case studies.  
+ 
+One full credit of this course will be dedicated to restorative justice and mediation experience outside of the classroom. Students will have several opportunities to apply their knowledge of mediation and restorative justice to acquire the skills necessary to become effective mediators and facilitators through on-campus student-based mediations and restorative processes. Following each case assignment, students will be required to provide a reflection and class presentation analyzing the nature of the complaint, the approach and techniques employed during the case and the student's evaluation of what worked and did not work in their attempt to resolve the conflict. Oversight will be provided by the course instructor.
+
+Code: ILRGL 4029
+Title: Campus Mediation Practicum II: Advanced Issues in Restorative Justice
+Description: This course is offered to students interested in furthering their knowledge of the principles and practices of restorative justice. Students will also acquire the knowledge, skills and techniques necessary to mediate complex campus disputes. The course considers the needs and roles of key stakeholders (victims, offenders, communities, justice systems) and explores in depth the principles and values of restorative justice. It also identifies challenges to restorative justice - the dangers, the pitfalls – as well as possible strategies to help prevent restorative justice from failing to live up to its promise. Much of the course is organized around the issue of harm and crime within our legal system. However, students will also be exposed to restorative justice in multiple contexts, including issues in higher education.
+
+Code: ILRGL 4325
+Title: The European Social Model
+Description: This course examines the past and future of the "European Social Model." Europe has long been known for its strong labor unions and social regulation of labor markets. We will ask to what extent these traditions have been maintained or transformed in the face of market liberalization and integration within the European Union. The class is organized in three parts. In part one, we will discuss major 'national models', including Germany, the Nordic countries, and France – reviewing both the history of these models and recent changes in collective bargaining and labor market institutions. In part two, we will compare major areas of labor market policy across European countries, including pay, parental leave, gender quotas, employment protection, and working time flexibility. In part three, we will examine the process and politics of European integration in the European Union (EU), including extension into Central and Eastern European countries and migration within Europe. The class will conclude with a discussion of challenges facing the EU: support for far right parties; responses to the climate crisis; and geopolitical conflict.
+
+Code: ILRGL 4330
+Title: Politics of the Global North
+Description: From a perspective based on comparative political economy, this course examines pressing contemporary issues such as the politics of growing inequality.  We consider conflicts around markets, democracy, economic and social justice, including the efforts of actors such as governments and labor unions aimed at economic recovery, reducing inequality, and the reform of national and global economic policy and institutions.  We also look at distinctive types of political and economic organization, especially in Europe and the United States, and the capacities of these societies to meet current economic, political, and social challenges, both domestic and international.
+
+Code: ILRGL 4347
+Title: Race, Inequality, and Labor: A Global Perspective
+Description: This course examines popular constructions of "race" and how they inform labor and inequality in a variety of national contexts. Assigned course materials deal with the national history out of which contemporary understandings of race arise as well as power dynamics reflected in the maintenance and/or transformation of racial categories and how those power dynamics affect the nature of work, labor markets, and the distribution of social and economic resources. Some of the core questions addressed during this course are: How have racial categories and understandings about race changed over time? What are the common aspects of race and racial formation that cut across the selected nations? How are labor markets and occupations shaped and informed by race?
+
+Code: ILRGL 4360
+Title: Global Comparative Disability Policy
+Description: How do different nations implement policies that increase the labor market participation and economic security of people with disabilities? National frameworks vary in terms of the breadth of anti-discrimination requirements, as well as the rehabilitation and social services available to enhance labor market outcomes. Even with landmark human rights efforts like the U.N. Convention on the Rights of Persons with Disabilities (2008), many countries do not have robust frameworks for promoting substantive disability equality. One study found that among U.N. Member States, 27% did not explicitly define the term "disability" in their laws, 30% had no legal provisions for reasonable accommodations, and 51% had no specific legal protections for employment discrimination on health grounds.
+
+Code: ILRGL 4367
+Title: Migration and Mobility: Theories and Lived Realities
+Description: This course will provide the student with an understanding of both classic and contemporary research and perspectives on migration and mobility, with special attention to how both inform labor market outcomes. Major topics of concern are how migration intersects with issues of law, race and ethnicity, gender and sexuality, education, employment discrimination, health, and social networks. Although course content will primarily focus on issues of migration impacting the United States, we will also consider contemporary migration issues of importance in other areas of the world.
+
+Code: ILRGL 4377
+Title: Issues in South Asian Studies
+Description: This is an events-based course. Students will attend ten seminars in the South Asia Program seminar series. The work of scholars, filmmakers, and artists presenting research in the series spans the region and its diasporas (e.g., India, Pakistan, Nepal, Bangladesh, Afghanistan, Bhutan, and Indian Ocean worlds). Topics considered will cross the humanities, social sciences, and natural sciences. Students will attend these events and engage with the material presented in short response papers and supplemental readings. The objective of this course is to offer students, whether they are familiar with the region or not, new perspectives on the lived experiences of South Asia. Students will also become familiar with interdisciplinary area studies as an intellectual project.
+
+Code: ILRGL 4533
+Title: The Lower East Side: Jews and the Immigrant City
+Description: American Jews have frequently been touted as a "model minority." This course will take a more critical look at the historical interactions between Jewish immigration, United States industrialization, and processes of social and geographical mobility—all through the prism of New York's Lower East Side, first home for over 750,000 Jewish immigrants from Central and Eastern Europe, the Ottoman Empire and elsewhere between the mid-19th century and the 1920s.  We will compare the Jewish experience to that of other immigrants/migrants by considering social institutions as well as material and other cultural practices. We will examine interactions with the built environment —most especially the tenement—in Lower East Side culture. Special attention will be paid to immigrant labor movement politics including strikes, splits, and gender in the garment trade. From the perspective of the present, the course will examine how commemoration, heritage tourism and the selling of [immigrant] history intersect with gentrifying real estate in an "iconic" New York City neighborhood. Projects using the ILR's archives on the Triangle Fire and other topics are explicitly encouraged. This course counts as an out of college elective for B. Arch and M. Arch students.
+
+Code: ILRGL 4580
+Title: The Science of Social Behavior
+Description: This is a capstone seminar for seniors who are interested in graduate or professional study in scientific disciplines that focus on human behavior and social interaction. The intent is to provide seniors with an opportunity to summon, integrate, and apply insights that they have acquired over the course of their undergraduate education, and give prospective graduate students the opportunity to lead discussions in a large introductory lecture course, "Six Pretty Good Books". Each seminar member is part of a two or three-person team that leads the discussion together, under the supervision of a graduate teaching assistant. Seminar meetings are devoted to building lesson plans for leading an effective discussion of each of the six books. The authors vary from year to year but include Malcolm Gladwell, Michelle Alexander, Nate Silver, and Nicholas Christakis. All authors have agreed to participate in a "Q&A" session with the students which seminar members are required to attend.
+
+Code: ILRGL 4810
+Title: Labor Relations in the Hospitality Industry
+Description: Focuses on the critical labor relations issues facing the hospitality industry. All students participate in simulated organizing campaigns and contract negotiations. Representatives of management and unions will address the class on key contemporary developments.
+
+Code: ILRGL 4820
+Title: Ethics at Work
+Description: Examines major theories of ethics, then applies them to issues in the employment relationship such as genetic screening of job applicants, random drug testing of employees, affirmative action, discipline for off-duty conduct, whistle-blowing, worker safety and cost/benefit analysis, comparable worth, strikes by employees providing crucial services, and crossing a picket line.
+
+Code: ILRGL 4865
+Title: Thwarting the Dream of Brown v. Board of Education
+Description: This course will review first the 19th and early 20th century US Supreme Court cases to understand how the Government created segregation in America. The first 80 years saw a number of twists and turns, including Brown in 1954. However, the institutional forces and structured momentum created by America's zoning, housing, banking, lending laws and other governmental policies continued to push America into an actual physical segregated landscape that our schools then and now reflect. These developments were certified by a series of US Supreme Courts and state governmental taxation and legal policies that assisted in creating the current state of educational affairs in the US.
+
+Code: ILRGL 4870
+Title: Introduction to Labor Research
+Description: Provides students interested in the labor field with the skills necessary to understand and use social science research as it relates to the labor movement. The course's four major goals are to (1) develop the skills to critically evaluate a wide variety of research relating to unions and the workplace; (2) introduce a number of quantitative and qualitative research techniques used by unions and those who study the labor movement; (3) familiarize students with the broad range of library and computer resources that can be used for labor and corporate research; and (4) provide students with an opportunity to design and conduct a research project for a national or local union.
+
+Code: ILRGL 4885
+Title: In The Shadow of the Tower: Building A Dynamic Local Union At Cornell
+Description: Against great odds, 1,000 low-paid custodians, cooks, bus drivers, animal attendants, and groundskeepers succeeded in organizing a local union at Cornell. This course examines the experience of building a dynamic local union by using the creation and development of Local 2300 UAW at Cornell University as a case study. The history is shared from the grassroots perspective of the service and maintenance staff, and rank and file leadership who organized, bargained, went on strike, and built powerful community coalitions. Students will explore and discuss the primary stages of local union development. We will examine the dilemmas and strategic choices facing worker activists as they progress from unorganized powerlessness and poverty to having collective agency and impact. Additional case studies of innovative union organizing and bargaining campaigns will be introduced for purposes of comparison with aspects of the Cornell UAW history.
+
+Code: ILRGL 5000
+Title: Labor Relations
+Description: A comprehensive introduction to the labor relations systems of the United States and other countries. Covers the determinants of bargaining power, the process of labor agreement negotiation and administration, and assessment of the effects that collective representation exerts on economic and social outcomes. Special consideration is given to the increasing importance of new technology and international factors including global supply chains.
+
+Code: ILRGL 5030
+Title: Research Methods for Labor Policy
+Description: This course is designed to provide an in-depth understanding of the concepts, tools, methodologies, and resources pivotal to the strategic and effective utilization of qualitative and quantitative data. The course structure is organized around a series of modules, each focusing on distinct analytical methodologies and their potential applications to modern challenges in labor relations. These modules include qualitative, quantitative, and AI-based (e.g.., machine learning) research methods. The course's pedagogical approach encourages the practical application of course concepts through hands-on exercises and assignments, enabling students to integrate and contextualize the course content within actual research questions.
+
+Code: ILRGL 5815
+Title: The Welfare State and Its Contradictions for Workers
+Description: Is the welfare state a protector from capitalism or an accomplice to capitalism? Social safety nets and capitalist markets have a complicated relationship for workers. Healthcare, retirement pensions, unemployment insurance — these provisions protect workers from the risks of getting sick, old, and fired. These same provisions are also tremendous sources of capital, invested into the very employers and asset-managers who pose risks to workers. This contradiction is not an "American thing," but extends to social democracies like the Netherlands who steward one of the largest national capital-funded pensions. This course uncovers these complexities of the welfare state, with special theoretical and empirical attention to labor. Geographically it will focus on the United States, with frequent international comparisons to examine the commonalities and differences of welfare states. And lastly, it will be equal parts sociology and history, illuminating the origins, transformations, and inequalities of the welfare state in the United States.
+
+Code: ILRGL 6022
+Title: Arbitration in the Workplace: Theory and Practice
+Description: Study of arbitration in the field of labor-management relations, including an analysis of principles and practices, the law of arbitration, the handling of materials in briefs and oral presentations, the conduct of mock arbitration hearing, and the preparation of arbitration opinions and post-hearing briefs.
+
+Code: ILRGL 6027
+Title: Campus Mediation Practicum
+Description: This course is offered to students interested in acquiring the knowledge, skills and techniques necessary to mediate campus disputes.
+ 
+In the first segment of the course, students will be introduced to the guiding principles of mediation and restorative conferencing. A review of the theories of conflict, its roots and its resolution, set the stage for the role mediation and restorative conferencing can effectively play in resolving conflict.  Students are introduced to the models of mediation and the benefits and challenges of each, including a comparative analysis of evaluative, facilitative, transformative, and restorative justice styles of mediation. 
+ 
+In the second segment, students will be assigned to mediate and facilitate cases referred to the Scheinman Institute from the Office of Student Conduct and Community Standards, as well as other campus partners.  The role of gender, race, culture, ethics and impasse in mediation will all be examined and incorporated into simulations and case studies.  
+ 
+One full credit of this course will be dedicated to restorative justice and mediation experience outside of the classroom. Students will have several opportunities to apply their knowledge of mediation and restorative justice to acquire the skills necessary to become effective mediators and facilitators through on-campus student-based mediations and restorative processes. Following each case assignment, students will be required to provide a reflection and class presentation analyzing the nature of the complaint, the approach and techniques employed during the case and the student's evaluation of what worked and did not work in their attempt to resolve the conflict. Oversight will be provided by the course instructor.
+
+Code: ILRGL 6029
+Title: Campus Mediation Practicum II: Advanced Issues in Restorative Justice
+Description: This course is offered to students interested in furthering their knowledge of the principles and practices of restorative justice. Students will also acquire the knowledge, skills and techniques necessary to mediate complex campus disputes. The course considers the needs and roles of key stakeholders (victims, offenders, communities, justice systems) and explores in depth the principles and values of restorative justice. It also identifies challenges to restorative justice - the dangers, the pitfalls – as well as possible strategies to help prevent restorative justice from failing to live up to its promise. Much of the course is organized around the issue of harm and crime within our legal system. However, students will also be exposed to restorative justice in multiple contexts, including issues in higher education.
+
+Code: ILRGL 6080
+Title: Special Topics in Labor Relations
+Description: Topics change depending on semester and instructor.
+
+Code: ILRGL 6300
+Title: Advocacy and Debate
+Description: Students learn the principles of argumentation and debate. Topics emphasize Internet database research, synthesis of collected data, policy analysis, evidentiary quality, refutation of counter claims, identification of logical fallacies, risk evaluation, framing of issues, and coherent storytelling.  Prepares students to work with a great range of opinion and evidence.   
+Emphasizes different viewpoints, including those of different cultures.  Assumptions are interrogated.
+
+Code: ILRGL 6325
+Title: The European Social Model
+Description: This course examines the past and future of the "European Social Model." Europe has long been known for its strong labor unions and social regulation of labor markets. We will ask to what extent these traditions have been maintained or transformed in the face of market liberalization and integration within the European Union. The class is organized in three parts. In part one, we will discuss major 'national models', including Germany, the Nordic countries, and France – reviewing both the history of these models and recent changes in collective bargaining and labor market institutions. In part two, we will compare major areas of labor market policy across European countries, including pay, parental leave, gender quotas, employment protection, and working time flexibility. In part three, we will examine the process and politics of European integration in the European Union (EU), including extension into Central and Eastern European countries and migration within Europe. The class will conclude with a discussion of challenges facing the EU: support for far right parties; responses to the climate crisis; and geopolitical conflict.
+
+Code: ILRGL 6347
+Title: Race, Inequality, and Labor: A Global Perspective
+Description: This course examines popular constructions of "race" and how they inform labor and inequality in a variety of national contexts. Assigned course materials deal with the national history out of which contemporary understandings of race arise as well as power dynamics reflected in the maintenance and/or transformation of racial categories and how those power dynamics affect the nature of work, labor markets, and the distribution of social and economic resources. Some of the core questions addressed during this course are: How have racial categories and understandings about race changed over time? What are the common aspects of race and racial formation that cut across the selected nations? How are labor markets and occupations shaped and informed by race?
+
+Code: ILRGL 6367
+Title: Migration and Mobility: Theories and Lived Realities
+Description: This course will provide the student with an understanding of both classic and contemporary research and perspectives on migration and mobility, with special attention to how both inform labor market outcomes. Major topics of concern are how migration intersects with issues of law, race and ethnicity, gender and sexuality, education, employment discrimination, health, and social networks. Although course content will primarily focus on issues of migration impacting the United States, we will also consider contemporary migration issues of importance in other areas of the world.
+
+Code: ILRGL 6377
+Title: Issues in South Asian Studies
+Description: This is an events-based course. Students will attend ten seminars in the South Asia Program seminar series. The work of scholars, filmmakers, and artists presenting research in the series spans the region and its diasporas (e.g., India, Pakistan, Nepal, Bangladesh, Afghanistan, Bhutan, and Indian Ocean worlds). Topics considered will cross the humanities, social sciences, and natural sciences. Students will attend these events and engage with the material presented in short response papers and supplemental readings. The objective of this course is to offer students, whether they are familiar with the region or not, new perspectives on the lived experiences of South Asia. Students will also become familiar with interdisciplinary area studies as an intellectual project.
+
+Code: ILRGL 6855
+Title: Southern West Virginia's Coal Fields - Ancient Struggles Amidst Hopeful Dreams
+Description: This course will critically analyze the labor, political, racial and environmental struggles that have characterized the shaping of the coalfields of Southern West Virginia and to some extent, other Appalachian coalfields. Why for 130 years have so many families embraced and fought against King Coal? What has been the role of the Mine Workers union (UMWA) in shaping hope in the region? How big of a deal is religion? Race? Geography? What comprises Life in these regions of America? Attendance and participation mandatory.
+
+Code: ILRGL 6865
+Title: Thwarting the Dream of Brown v. Board of Education
+Description: This course will review first the 19th and early 20th century US Supreme Court cases to understand how the Government created segregation in America. The first 80 years saw a number of twists and turns, including Brown in 1954. However, the institutional forces and structured momentum created by America's zoning, housing, banking, lending laws and other governmental policies continued to push America into an actual physical segregated landscape that our schools then and now reflect. These developments were certified by a series of US Supreme Courts and state governmental taxation and legal policies that assisted in creating the current state of educational affairs in the US.
+
+Code: ILRGL 6870
+Title: Introduction to Labor Research
+Description: Provides students interested in the labor field with the skills necessary to understand and use social science research as it relates to the labor movement. The course's four major goals are to (1) develop the skills to critically evaluate a wide variety of research relating to unions and the workplace; (2) introduce a number of quantitative and qualitative research techniques used by unions and those who study the labor movement; (3) familiarize students with the broad range of library and computer resources that can be used for labor and corporate research; and (4) provide students with an opportunity to design and conduct a research project for a national or local union.
+
+Code: ILRGL 6875
+Title: Public Sector Labor Law and CB: The Turbulence Amidst Police, Policing, Teachers and Their Unions
+Description: The turbulence amidst police, policing, teachers and their unions. By using policy articles and certain legal cases this course seeks to show how and why certain public employees and their unions have come under such intense scrutiny by the Right and the Left. We will deconstruct how laws and workplace bargaining have gained, police and their unions, these rights and whether police and/or or teachers might have too many rights. Have the police's and teachers' ability to seemingly avoid the accountability that parts of our society are demanding occurred due to disproportionate political power? And how powerful are they?
+
+Code: ILRGL 6885
+Title: In The Shadow of the Tower: Building A Dynamic Local Union At Cornell
+Description: Against great odds, 1,000 low-paid custodians, cooks, bus drivers, animal attendants, and groundskeepers succeeded in organizing a local union at Cornell. This course examines the experience of building a dynamic local union by using the creation and development of Local 2300 UAW at Cornell University as a case study. The history is shared from the grassroots perspective of the service and maintenance staff, and rank and file leadership who organized, bargained, went on strike, and built powerful community coalitions. Students will explore and discuss the primary stages of local union development. We will examine the dilemmas and strategic choices facing worker activists as they progress from unorganized powerlessness and poverty to having collective agency and impact. Additional case studies of innovative union organizing and bargaining campaigns will be introduced for purposes of comparison with aspects of the Cornell UAW history.
+
+Code: ILRGL 7060
+Title: Theories of Industrial Relations Systems
+Description: Traces the evolution of theory and research on industrial relations. Topics include theories of the labor movement, institutional models and evidence regarding what unions do, the origins of internal labor markets and their relationship with unionization, models of strikes, empirical assessments of arbitration, research on union decline, and empirical evidence of the impacts of new technology.
+
+Code: ILRGL 7533
+Title: The Lower East Side: Jews and the Immigrant City
+Description: American Jews have frequently been touted as a "model minority." This course will take a more critical look at the historical interactions between Jewish immigration, United States industrialization, and processes of social and geographical mobility—all through the prism of New York's Lower East Side, first home for over 750,000 Jewish immigrants from Central and Eastern Europe, the Ottoman Empire and elsewhere between the mid-19th century and the 1920s.  We will compare the Jewish experience to that of other immigrants/migrants by considering social institutions as well as material and other cultural practices. We will examine interactions with the built environment —most especially the tenement—in Lower East Side culture. Special attention will be paid to immigrant labor movement politics including strikes, splits, and gender in the garment trade. From the perspective of the present, the course will examine how commemoration, heritage tourism and the selling of [immigrant] history intersect with gentrifying real estate in an "iconic" New York City neighborhood. Projects using the ILR's archives on the Triangle Fire and other topics are explicitly encouraged. This course counts as an out of college elective for B. Arch and M. Arch students.
+

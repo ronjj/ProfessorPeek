@@ -1,0 +1,52 @@
+Code: BIONB 1220
+Title: FWS: Special Topics in Neurobiology and Behavior
+Description: The First-Year Writing Seminar is about introducing concepts in neuroscience and behavior and writing extensively about them. Topics vary by section.
+
+Code: BIONB 2210
+Title: Neurobiology and Behavior I: Introduction to Behavior
+Description: General introduction to the field of animal behavior. Topics include evolution and behavior, behavioral ecology, sociobiology, chemical ecology, communication, orientation and navigation.
+
+Code: BIONB 3240
+Title: Behavioral Neuroscience Laboratory
+Description: This course is designed to provide an introduction to experimental research on the neural basis of behavior and cognition in animals. Topics will include basic neuroanatomy and neurophysiology, neural and hormonal control of behavior, and learning and memory. Students will gain extensive hands on experience with a variety of laboratory techniques, and animal species, and behaviors.
+
+Code: BIONB 3300
+Title: Introduction to Computational Neuroscience
+Description: Covers the basic ideas and techniques involved in computational neuroscience. Surveys diverse topics, including neural dynamics of small networks of cells, neural coding, learning in neural networks and in brain structures, memory models of the hippocampus, sensory coding, and others.
+
+Code: BIONB 4200
+Title: Topics in Neurobiology and Behavior
+Description: Courses on selected topics in neurobiology and behavior; can include lecture and seminar courses. Topics vary by section; see Class Roster.
+
+Code: BIONB 4320
+Title: Neural Circuits for Motor Control in Health and Disease
+Description: Almost all behaviors-from speech to a cross court forehand-are mediated by the contraction of muscles. This course examines the neural origins of motor behavior, from simple reflexes to complex learned motor sequences. Ascending the motor hierarchy, we will study the neuromuscular junction, spinal cord, brainstem, cerebellum, basal ganglia and cerebral cortex. At each level, we will examine the structure and function of the local microcircuit, as well as diseases-such as myasthenia gravis, stroke, ALS, ataxia and Parkinson's-that result from that circuit's dysfunction.
+
+Code: BIONB 4380
+Title: Topics in Computational Methods for Neurobiology and Behavior
+Description: This course is intended for advanced undergraduate and graduate students interested in computational methods for analyzing neural and behavioral data. Potential topics include signal processing, spectral analysis, information theory, cluster analysis, fitting parametrized models and maximum entropy models. We will also look at applications of modern machine learning techniques to scoring, analyzing and interpreting data. Although the course will be geared towards students who are new to computational methods, familiarity with calculus is recommended. Students will be asked to give a short oral presentation at the end of the semester on the use of methods from the class to analyze a real dataset.
+
+Code: BIONB 4720
+Title: Visual Ecology
+Description: This course will explore the wide diversity in visual systems across organisms and how evolution shapes these visual systems to solve a wide range of daily challenges. Vision often plays a key role in navigation, finding food, avoiding predators, and even choosing potential mates, but there isn't one best visual system for all these tasks in all environments. We will be examining how differences in eye structure and photoreceptors lead to differences in spatial acuity, color vision, polarized light detection, and even the speed of vision.
+
+Code: BIONB 4980
+Title: Teaching Experience
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and assisting in biology courses.  This experience may include supervised participation in a discussion group, assisting in a biology laboratory, assisting in field biology, or tutoring.
+
+Code: BIONB 7201
+Title: Research Design in the Study of Animal Social Behavior
+Description: A weekly journal club-style discussion. Graduate students may be expected to present a summary of their research or a summary of research in the literature related to their thesis once per year.
+
+Code: BIONB 7210
+Title: Introductory Graduate Survey in Neurobiology and Behavior
+Description: Designed to assist students in mapping their graduate careers and in choosing and pursuing transformative and tractable thesis topics. The core of the course will be open-ended discussions directed by paired neurobiology and behavioral ecology faculty on novel research frontiers in the study of mechanisms and the evolution of behavior (including in the zone of their conceptual intersection). Occasional laboratory experiences may also be included. Professional development topics will include how to: navigate graduate school, allocate time between reading, thinking creatively, and investing in research, design experiments, write grant proposals, give talks, and publish peer-reviewed papers.
+
+Code: BIONB 7212
+Title: Professional Development for Biology Graduate Students
+Description: In-depth discussions of career choices for academic biologists to empower them to manage their careers. Topics to be covered insclude developing strong CVs, personal statements, public speaking and interviw skills, competing for postdoctoral, faculty and other professional positions, interviewing, dual careers, where to publish, grand administration, dealing with editors, tenure promotion and other issues. Workshops will include panel discussions with postdocs, former NBB graduates and faculty members.
+
+Code: BIONB 7640
+Title: Plant-Insect Interactions Seminar
+Description: Group intensive study of current research in plant-insect interactions. Topics vary from semester to semester but include chemical defense, coevolution, insect community structure, population regulation, biocontrol, tritrophic interactions, and mutualism.
+

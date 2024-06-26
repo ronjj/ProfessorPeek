@@ -1,0 +1,28 @@
+Code: BIOCB 2010
+Title: Introduction to Computational Biology
+Description: This class is designed to inspire students in the life sciences to see the power of Computational Biology in advancing fundamental research. The course will initially be team taught by experts in diverse applications of Computational Biology, with each sharing the excitement of making clear to students how the introduction of computational approaches has been transformative in their field. The course will also teach many fundamental skills in manipulating large data sets, including genome sequences, functional genomic data, images, protein structures, etc.. The course will consist of two lectures each week and one practical exercise session each week. In the practicals, students will learn the use of many of the latest software tools, and will develop some basic programming skills. Students will learn essential problem solving skills in several aspects of genome analysis, and modeling in neurobiology, ecology, physiology and evolution. This will prepare them for future courses in these more focused biological areas covering specific applications of computer programming as well as use of specialized software tools. Students will be able to explore their own specific interests in greater depth on a term project.
+
+Code: BIOCB 4381
+Title: Biomedical Data Mining and Modeling
+Description: A biomedical data science course using Python and available bioinformatics tools and techniques for the analysis of molecular biological data, including biosequences, microarrays, and networks.  This course emphasizes practical skills rather than theory. Topics include advanced Python programming, R and Bioconductor, sequence alignment, MySQL database (DBI), web programming and services (CGI), genomics and proteomics data mining and analysis, machine learning, and methods for inferring and analyzing regulatory, protein-protein interaction, and metabolite networks.
+
+Code: BIOCB 4840
+Title: Computational Genetics and Genomics
+Description: Computational methods for analyzing genetic and genomic data. Topics include sequence alignment, hidden Markov Models for discovering sequence features, motif finding using Gibbs sampling, phylogenetic tree reconstruction, inferring haplotypes, and local and global ancestry inference. Prior knowledge of biology is not necessary to complete this course.
+
+Code: BIOCB 6010
+Title: Introduction to Computational Biology
+Description: This class is designed to inspire students in the life sciences to see the power of Computational Biology in advancing fundamental research. The course will initially be team taught by experts in diverse applications of Computational Biology, with each sharing the excitement of making clear to students how the introduction of computational approaches has been transformative in their field. The course will also teach many fundamental skills in manipulating large data sets, including genome sequences, functional genomic data, images, protein structures, etc.. The course will consist of two lectures each week and one practical exercise session each week. In the practicals, students will learn the use of many of the latest software tools, and will develop some basic programming skills. Students will learn essential problem solving skills in several aspects of genome analysis, and modeling in neurobiology, ecology, physiology and evolution. This will prepare them for future courses in these more focused biological areas covering specific applications of computer programming as well as use of specialized software tools. Students will be able to explore their own specific interests in greater depth on a term project.
+
+Code: BIOCB 6381
+Title: Biomedical Data Mining and Modeling
+Description: A biomedical data science course using Python and available bioinformatics tools and techniques for the analysis of molecular biological data, including biosequences, microarrays, and networks.  This course emphasizes practical skills rather than theory. Topics include advanced Python programming, R and Bioconductor, sequence alignment, MySQL database (DBI), web programming and services (CGI), genomics and proteomics data mining and analysis, machine learning, and methods for inferring and analyzing regulatory, protein-protein interaction, and metabolite networks.
+
+Code: BIOCB 6840
+Title: Computational Genetics and Genomics
+Description: Computational methods for analyzing genetic and genomic data. Topics include sequence alignment, hidden Markov Models for discovering sequence features, motif finding using Gibbs sampling, phylogenetic tree reconstruction, inferring haplotypes, and local and global ancestry inference. Prior knowledge of biology is not necessary to complete this course.
+
+Code: BIOCB 6890
+Title: Current Topics in Population Genomics
+Description: Graduate seminar on current topics in population genetics. Readings are chosen primarily from current scientific literature. Participation in discussion and presentation of at least one paper required for course credit.
+

@@ -1,0 +1,144 @@
+Code: SOC 1101
+Title: Introduction to Sociology
+Description: This course is a broad introduction to the field of sociology. Course materials are designed to illustrate the distinctive features of the sociological perspective and to start you thinking sociologically about yourself and the broader social world. To think sociologically is to recognize that being embedded in the world constrains behavior, and that individuals are both social actors and social products. To think sociologically is also to recognize that our contemporary world, with its enduring cultural, political, and economic institutions, is as much a social product as we are. We will begin by covering theoretical and methodological foundations of the sociological perspective.  We will go on to explore the concept of social stratification and will survey primary axes of social difference. In the second half of the course we will look more closely at how individuals relate to each other, how social inequality is enacted and reinforced in everyday life, and at the way in which the organization of social life shapes individuals and groups, such as through social networks, residential neighborhoods, schooling, families, and on-line communication.
+
+Code: SOC 1290
+Title: American Society through Film
+Description: Introduces students to the sociological analysis of American society through the lens of film. Major themes involve race, class, and gender; upward and downward mobility; incorporation and exclusion; small town vs the big city; and cultural conflicts over individualism, achievement, and community. We match a range of movies like American Graffiti (Lucas), Ace in the Hole (Wilder), The Asphalt Jungle (Houston), Do the Right Thing (Lee), The Heiress (Wyler), High Noon (Zinnemann), Mean Streets (Scorsese), Nashville (Altman), The Philadelphia Story (Cukor), and A Streetcar Named Desire (Kazan). Each film is paired with social scientific research that examines parallel topics, such as analyses of who goes to college, the production of news, deviant careers, urban riots, the gendered presentation of self, and the prisoner's dilemma.
+
+Code: SOC 2070
+Title: Social Problems in the United States
+Description: "Social Problems in the U.S." teaches students how to think like a social scientist when encountering claims about major contemporary issues. Through readings and assignments, students develop an analytical toolkit for evaluating the scope, causes, consequences, and proposed solutions to a wide range of complicated social problems, such as: childhood poverty, racial segregation and discrimination, job insecurity, family instability, discrimination by sexual identity, unequal pay for women's work, gender imbalances in family life, health disparities, food insecurity, drug abuse, and educational inequality. Rather than cover all of these (and other) social problems in depth, the course emphasizes a conceptual framework that can be applied broadly. The semester culminates with a written proposal examining a social problem and developing an approach to address it with public policy.
+
+Code: SOC 2090
+Title: Networks
+Description: This interdisciplinary course examines network structures and how they matter in everyday life. The course examines how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects each of these worlds. Tools of graph theory and game theory are taught and then used to analyze networks. Topics covered include the web, the small world phenomenon, markets, neural networks, contagion, search and the evolution of networks.
+
+Code: SOC 2202
+Title: Population and Social Change
+Description: Introduction to population studies. The primary focus is on the relationships between demographic processes (fertility, mortality, and immigration) and social and economic issues. Discussion covers special topics related to population growth and spatial distribution, including marriage and family formation, population aging, changing roles and statuses of women, labor force participation, immigrations, urban growth and urbanization, resource allocation, and the environment.
+
+Code: SOC 2220
+Title: Controversies About Inequality
+Description: In recent years, poverty and inequality have become increasingly common topics of public debate, as academics, journalists, and politicians attempt to come to terms with growing income inequality, with the increasing visibility of inter-country differences in wealth and income, and with the persistence of racial, ethnic, and gender stratification. This course introduces students to ongoing social scientific debates about the sources and consequences of inequality, as well as the types of public policy that might appropriately be pursued to reduce (or increase) inequality. These topics will be addressed in related units, some of which include guest lectures by faculty from other universities (funded by the Center for the Study of Inequality). Each unit culminates with a highly spirited class discussion and debate.
+
+Code: SOC 2370
+Title: Race, Racism, and Public Policy
+Description: Public policy is a fundamental mechanism for addressing the most vexing and important social problems of our time. Racial inequality and structural racism are chief among such problems. Policy is thus widely understood and frequently touted as a means for redressing the harms of racism. Yet, public policy has also been identified as a channel through which racism flows. These seemingly paradoxical understandings of the relationships between racism and public policy raise critical questions about equality, democracy, the economy, and politics. This course examines such questions. questions. We begin by theoretically grounding key concepts such as "race" "racism" and "public policy." We then consider the historical record, highlighting the fundamental role of racism in shaping politics and policy. Next, we build on these conceptual and historical foundations through thematic investigation of core policy elements (e.g., policy design, policy implementation, policy feedback), key policy institutions (e.g., legislatures, parties) and significant policy actors (e.g., social movement organizations, interest groups). Finally, the class wraps up with a series of policy "deep dives" involving close examination of specific policy domains (e.g., housing, health, the enviornment). This course provides students with the knowledge and analytical tools necessary to better understand the realities and complexities of race, racism, and public policy in the United States.
+
+Code: SOC 2510
+Title: Social Gerontology: Aging and the Life Course
+Description: Analyzes the social aspects of aging in contemporary American society from a life course perspective. Topics include (1) an introduction to the field of gerontology, its history, theories, and research methods; (2) a brief overview of the physiological and psychological changes that accompany aging; (3) an analysis of the contexts (e.g., family, friends, social support, employment, volunteer work) in which individual aging occurs, including differences of gender, ethnicity, and social class; and (4) the influences of society on the aging individual.
+
+Code: SOC 2580
+Title: Six Pretty Good Books: Explorations in Social Science
+Description: This course is modeled after "Great Books" literature courses in the humanities, but with two important differences: we read non-fiction books in the social sciences rather than the humanities, written by highly prominent contemporary social scientists. The course title refers to the fact that the books are new, hence their potential greatness has yet to be confirmed by the test of time. We choose living authors to give students a unique opportunity: to interact with each of the six authors in Q&A sessions via live or recorded video conferencing.
+
+Code: SOC 3010
+Title: Statistics for Sociological Research
+Description: This course will introduce students to the theory and mathematics of statistical analysis. Many decisions made by ourselves and others around us are based on statistics, yet few people have a solid grip on the strengths and limitations of these techniques. This course will provide a firm foundation for statistical reasoning and logical inference using probability. While there is math in this course, it is not a math class per se, as a considerable amount of attention is devoted to interpreting statistics as well as calculating them.
+
+Code: SOC 3380
+Title: Urban Inequality
+Description: This is an interdisciplinary seminar on inequality in metropolitan American that draws on scholarship from sociology, history, political science, and public policy. The first part of the course is dedicated to understanding the political, historical, and social determinants of inequality in America's cities and their surrounding suburbs. Politically and socially, cities face unique challenges. Municipalities lack much formal authority to resolve issues that arise within their borders and their populations are often highly heterogeneous. In the second part of the course, we investigate several contemporary urban issues, such as schooling, gentrification, immigration, climate change, and downtown development.
+
+Code: SOC 3750
+Title: Classical Sociological Theory
+Description: This course introduces the classics in sociology – primarily works by Karl Marx, Max Weber, Émile Durkheim, and Georg Simmel. Students will also study some works of Adam Smith, Alexis de Tocqueville, Jane Addams, W.E.B. Du Bois, Talcott Parsons, members of the Chicago School of Sociology, and others. Special emphasis is placed on the concepts, ideas, and analytical approaches that characterize the foundations of sociology, and how those elements have informed the broader scholarly dialogue in sociology since its inception.
+
+Code: SOC 3820
+Title: Migration: Histories, Controversies, and Perspectives
+Description: This introductory course introduces students to issues and debates related to international migration and will provide an interdisciplinary foundation to understanding the factors that shape migration flows and migrant experiences. We will start by reviewing theories of the state and historical examples of immigrant racialization and exclusion in the United States and beyond. We will critically examine the notions of borders, citizenship/non-citizenship, and the creation of diasporas. Students will also hear a range of perspectives by exposing them to Cornell guest faculty who do research and teach on migration across different disciplines and methodologies and in different world areas. Examples include demographic researchers concerned with immigrant inequality and family formation, geographic perspectives on the changing landscapes of immigrant metropolises, legal scholarship on the rights of immigrant workers, and the study of immigrant culture from a feminist studies lens. Offered each fall semester.
+
+Code: SOC 4120
+Title: Health and Social Context
+Description: What is health? What does it mean to be "healthy" (or not) in today's world? How does health (or illness) shape an individual's identity and relationship to other people and institutions? This course grapples with the social underpinnings of health and has two main components: substantive and practice. First (substantive), we will explore core concepts and methods from the research areas of medical sociology and population health. We will read a wide range of qualitative and quantitative research on topics such as disease, reproductive health, sexuality, public health, medicalization, inequality, and activism. These readings spread across 3 thematic units: (1) what is health?, (2) health disparities, and (3) politics of health. Second (practice), we will focus on research design and writing. You will develop your own research question about the relationship between social context and health and will spend the semester collecting and analyzing data, drafting and revising your results, and polishing and presenting your social science research. This course is supported by Cornell's John S. Knight Institute for Writing in the Disciplines as a "Writing in the Majors (WIM)" course. As such, our aim is to integrate learning about our topic and developing our skills as writers in advanced undergraduate courses across the College of Arts & Sciences.
+
+Code: SOC 4370
+Title: Sociology of Sex and Gender
+Description: This course provides an introduction to the theoretical and empirical literature on the sociology of sex and gender. The readings cover theory and methods, feminism, masculinity, intersectionality, international/comparative perspectives, gender roles, and recent sociological research in this area.
+
+Code: SOC 4440
+Title: Economic Sociology of Social Inequalities
+Description: This seminar explores the causes and consequences of social inequalities embedded in economic institutions and markets. From hierarchies to markets, stratification is embedded in networks and norms that enable and guide economic action. As such, the mechanisms of social inequalities involve processes that are hidden in everyday social interactions. The economic sociology of social inequalities encompasses systems of class power, ethnic and racial stratification, and gender inequalities. We will use a case study method to explore and dissect the economic sources of social inequalities in everyday life.
+
+Code: SOC 4540
+Title: Fascism, Nationalism and Populism
+Description: This seminar will look broadly at challenges to democratic institutions in the United States and Europe. To think about the present, we will delve into historical fascism as well as nationalism and populism. We will (1) respond to contemporary political events in the US and beyond; (2) explore the terms "fascism" and "populism" which in the last few years have come to dominate our political vocabulary in the media and the academy; (3) mobilize the instructor's area of academic expertise (fascism and populism) in the service of broad liberal arts concerns. The course focuses upon themes and readings. It is not chronological—rather it looks at different iterations of the same ideas, concepts, and fears as they emerge in different historical contexts. Seminar materials draw upon various sources: scholarly articles, films, and if possible, an occasional guest lecturer.
+
+Code: SOC 4580
+Title: The Science of Social Behavior
+Description: This is a capstone seminar for seniors who are interested in graduate or professional study in scientific disciplines that focus on human behavior and social interaction. The intent is to provide seniors with an opportunity to summon, integrate, and apply insights that they have acquired over the course of their undergraduate education, and give prospective graduate students the opportunity to lead discussions in a large introductory lecture course, "Six Pretty Good Books". Each seminar member is part of a two or three-person team that leads the discussion together, under the supervision of a graduate teaching assistant. Seminar meetings are devoted to building lesson plans for leading an effective discussion of each of the six books. The authors vary from year to year but include Malcolm Gladwell, Michelle Alexander, Nate Silver, and Nicholas Christakis. All authors have agreed to participate in a "Q&A" session with the students which seminar members are required to attend.
+
+Code: SOC 4910
+Title: Independent Study
+Description: This is for undergraduates who wish to obtain research experience or to do extensive reading on a special topic.
+
+Code: SOC 4950
+Title: Honors Research
+Description: Students choose a sociology faculty member to work with on research to write an honors thesis. Candidates for honors must maintain a cumulative GPA at least an A- in all sociology classes.
+
+Code: SOC 4960
+Title: Honors Thesis: Senior Year
+Description: Continuation of SOC 4950.  Continue to work with honors supervisor and work on and write an honors thesis.
+
+Code: SOC 5010
+Title: Basic Problems in Sociology I
+Description: 
+
+Code: SOC 5190
+Title: Workshop on Social Inequality
+Description: This course provides a forum in which students and others can present, discuss, and receive instant feedback on their inequality-related research. Its primary goals is to help students advance their own research; its secondary goal is to introduce selected debates in the contemporary inequality literature in a more comprehensive fashion that is possible in the introductory graduate-level seminar on inequality.
+
+Code: SOC 6010
+Title: Statistics for Sociological Research
+Description: This course provides an introduction to analytical approaches in quantitative sociological research. The class will cover data description and graphical approaches, elementary probability theory, hypothesis testing, bivariate and multivariate linear regression, and data analysis and interpretation. Although the course will be taught using basic mathematics and statistics, I will develop the topics intuitively throughout the course. The class is geared towards sociological thinking--all homework and class examples will use real data and focus on questions from the social world. The course covers the basic building blocks of quantitative data analysis with the goal of training students to be informed consumers of quantitative social science research. This class is also the starting point for students interested in using quantitative methods in their own research.
+
+Code: SOC 6080
+Title: Proseminar in Sociology
+Description: Discussion of the current state of sociology and of the research interests of members of the graduate field; taught by all members of the field.
+
+Code: SOC 6130
+Title: Logics and Methods of Sociological Research
+Description: This course will expose students to ethnography, experiments, small-N comparison, content analysis, archival research, internet data scraping, data visualization, network and sequence approaches, and more. We will begin to answer the following core questions: What are the strengths of different methods? What are their weaknesses? What assumptions about research design issues are built into each method? What assumptions about the scientific status of sociology are built into each method? How can different methods be combined so that their strengths and weaknesses balance one another?
+
+Code: SOC 6150
+Title: Qualitative, Survey, and Mixed Method Approaches to Policy Research
+Description: Introduces students to theories and methods of data collection techniques such as in-depth interviews, ethnography, focus groups, and surveys as well as mixed-method approaches used in policy and evaluation research. Addresses the strengths and weaknesses of various methods and the design of qualitative and mixed-method studies. Covers epistemology, ethics, induction and deduction, measurement, validity, and triangulation. Also discusses more concrete issues such as gaining access to a field site, developing a qualitative interview guide and survey questionnaire, conducting a qualitative interview, managing data, and assessing data quality.
+
+Code: SOC 6270
+Title: Sociology of Religion
+Description: This seminar focuses on the social causes and consequences of religion, using the frameworks and methods of social science to understand religion and non-religion and their implications for social life. It will introduce basic ideas in the sociology of religion and survey the social landscape of religion in the United States and around the world. This seminar, while covering a number of key texts and core topics, will put particular attention on the ways religion intersects with inequality and politics. We will be less concerned with religion for its own sake than for its substantial social implications. Religion has been one of the most powerful and pervasive forces throughout history and remains so today. Without an understanding of religion, a central part of the lives of millions of Americans and billions of people around the world, you cannot fully understand American society or world politics.
+
+Code: SOC 6330
+Title: Seminar in Economy and Society
+Description: Economic sociology extends the sociological perspective to the study economic life. The seminar examines the view that social networks, norms, beliefs and rules motivate and enable economic action in market and nonmarket settings. It integrates the study of ideas and theory in economic sociology with a practicum providing training in the craft of research. Designed for advanced undergraduates interesting in research and graduate students who seek training in economic sociology, the seminar offers a year-long workshop environment enabling and guiding independent and collaborative research.
+
+Code: SOC 6340
+Title: Sociology of Education
+Description: This course serves as a graduate-level introduction to sociological theories and research on schooling, education systems, and the interaction between schools and other dominant social institutions, such as the family. In this course, we will explore variation in the context of schooling, the social organization of schools, and a range of topics linking schooling to social stratification. Although this course will primarily focus on elementary and secondary education in the United States, we will also cover topics in higher education and from an international comparative perspective.
+
+Code: SOC 6540
+Title: Fascism, Nationalism and Populism
+Description: This seminar will look broadly at challenges to democratic institutions in the United States and Europe. To think about the present, we will delve into historical fascism as well as nationalism and populism. We will (1) respond to contemporary political events in the US and beyond; (2) explore the terms "fascism" and "populism" which in the last few years have come to dominate our political vocabulary in the media and the academy; (3) mobilize the instructor's area of academic expertise (fascism and populism) in the service of broad liberal arts concerns. The course focuses upon themes and readings. It is not chronological—rather it looks at different iterations of the same ideas, concepts, and fears as they emerge in different historical contexts. Seminar materials draw upon various sources: scholarly articles, films, and if possible, an occasional guest lecturer.
+
+Code: SOC 6610
+Title: Text and Networks in Social Science Research
+Description: This is a course on networks and text in quantitative social science. The course will cover published research using text and social network data, focusing on health, politics, and everyday life, and it will introduce methods and approaches for incorporating high-dimensional data into familiar research designs. Students will evaluate past studies and propose original research.
+
+Code: SOC 6660
+Title: Event History Analysis
+Description: Event history analysis (also known as hazard or survival analysis) is a family of methods for the study of discrete outcomes over time. Typical sociological examples are demographic events (births, deaths), entry and exit from a social status (like marriage) and structural change (such as social revolutions). This class introduces main concepts, models, and measurement issues in event history analysis, and provides students with an opportunity to gain practical familiarity with these methods.
+
+Code: SOC 6910
+Title: Independent Study
+Description: For graduates who wish to obtain research experience or to do extensive reading on a special topic. Permission to enroll for independent study is granted only to students who present an acceptable prospectus and secure the agreement of a faculty member to serve as supervisor for the project throughout the semester.
+
+Code: SOC 8910
+Title: Graduate Research
+Description: Work with a faculty member on a project that is related to your dissertation work.
+
+Code: SOC 8950
+Title: Thesis Research
+Description: Work with chair of your committee on your dissertation work.
+

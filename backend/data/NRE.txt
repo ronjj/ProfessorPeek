@@ -1,0 +1,36 @@
+Code: NRE 5040
+Title: PhD Seminar in Accounting
+Description: Accounting and finance are inextricably intertwined. For example, key roles for corporate financial reporting include assisting firms in raising debt and equity capital, improving the efficiency of the capital markets, and facilitating the effective monitoring of corporate managers' investing and financing decisions. This seminar provides a rigorous and integrative exposure to research that addresses economic issues of interest to both the accounting and finance research communities. Topics may include; an introduction to research methods, capital markets research in accounting, and experimental research in accounting.
+
+Code: NRE 5150
+Title: PhD Seminar in Behavior Marketing
+Description: In this special topics course, we will delve into several literatures involving the self and the buying, consuming, or producing of products and services. Some topics we will touch upon are Belk's concept of products as extended self, consumption and social status, dehumanization and objectification of consumers and producers, identity salience, moral identity, the influence of advertising and social media on consumer self-esteem, the influence of self-esteem on consumer behavior, gender relationships in consumer households, and the self in one's native versus a non-native language. In addition to the content of the articles and as opportunities arise, time discussing methodological and general research issues, such as how to triage ideas, how to do ethical and replicable research, and other topics related to becoming a productive experimental researcher. During this course, we will discuss a number of articles. Some articles will be chosen by the instructor. Others will be selected by the students. Students will be assigned to lead the discussion of specific papers.
+
+Code: NRE 5170
+Title: PhD Seminar in Micro Organizational Behavior
+Description: This research-based graduate seminar involves a critical review of theory and research in Micro- and Meso-Organizational Behavior – research related to individual and group behavior in an organizational context. We will read both classic and current articles in the field, and students will be responsible for helping to shape the reading list and guide the class discussions. Due to the nature of the class it is critical that all students read the assigned materials before class and be prepared to contribute to a lively intellectual discussion about the work.  Upon completion of this course, students should be able to:  1) Discuss  and critique theory and research in major topic areas of Organizational Behavior, 2) integrate material within and across topics, and 3) propose new research questions that will extend management scholarship.
+
+Code: NRE 5220
+Title: Doctoral Seminar in Quantitative Models
+Description: This sequence of two half-semester courses is designed to introduce students to the key questions and quantitative models and estimation methods commonly used in marketing.
+
+Code: NRE 5270
+Title: Doctoral Seminar - International Finance
+Description: Research seminar for PhD students stressing current and classic research articles.
+
+Code: NRE 5280
+Title: PhD Seminar in Empirical Asset Pricing
+Description: Johnson PhD Seminar-Content changes regularly.
+
+Code: NRE 5360
+Title: Doctoral Seminar - Introduction to Asset Pricing Theory
+Description: This course is an introductory Ph.D.-level course on the basic theories of asset pricing. It consists of three parts. The first part covers arbitrage pricing theory, including the Black Scholes Merton, the Heath Jarrow Morton, and reduced form credit risk models. The second part covers portfolio theory, in both complete and incomplete markets. The third part studies equilibrium pricing models, both complete and incomplete markets, including the notion of market efficiency. This course emphasizes continuous time models and it is based on the use of martingales to understand asset pricing theory. Included in the course is the extensions of the standard theories to include asset price bubbles.
+
+Code: NRE 5420
+Title: PhD Seminar in Strategy
+Description: PhD Seminar-content changes regularly.
+
+Code: NRE 5460
+Title: Data Analytics in OM
+Description: This course will focus on methods of descriptive, predictive, and prescriptive analytics that are being applied in operations management. Some of the research in this area is theoretical, such as on dynamic assortment optimization. Other research is based on machine learning to apply text analysis, feature detection, and community learning methods to large-scale prediction and optimization problems in OM. The course will combine both these types of approaches.
+

@@ -1,0 +1,248 @@
+Code: MATH 1011
+Title: Academic Support for MATH 1110
+Description: Reviews material presented in MATH 1110 lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 1110 lectures or discussions.
+
+Code: MATH 1012
+Title: Academic Support for MATH 1120
+Description: Reviews material presented in MATH 1120 lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 1120 lectures or discussions.
+
+Code: MATH 1021
+Title: Academic Support for MATH 2210
+Description: Reviews material presented in MATH 2210 lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 2210 lectures or discussions.
+
+Code: MATH 1101
+Title: Calculus Preparation
+Description: Introduces topics in calculus: limits, rates of change, definition of and techniques for finding derivatives, relative and absolute extrema, and applications. The calculus content of the course is similar to 1/3 of the content covered in MATH 1106 and MATH 1110. In addition, the course includes a variety of topics of algebra, with emphasis on the development of linear, power, exponential, logarithmic, and trigonometric functions. Because of the strong emphasis on graphing, students will have a better understanding of asymptotic behavior of these functions.
+
+Code: MATH 1105
+Title: Finite Mathematics for the Life and Social Sciences
+Description: Introduction to linear algebra, probability, and Markov chains that develops the parts of the theory most relevant for applications. Specific topics include equations of lines, the method of least squares, solutions of linear systems, matrices; basic concepts of probability, permutations, combinations, binomial distribution, mean and variance, and the normal approximation to the binomial distribution. Examples from biology and the social sciences are used.
+
+Code: MATH 1110
+Title: Calculus I
+Description: Topics include functions and graphs, limits and continuity, differentiation and integration of algebraic, trigonometric, inverse trig, logarithmic, and exponential functions; applications of differentiation, including graphing, max-min problems, tangent line approximation, implicit differentiation, and applications to the sciences; the mean value theorem; and antiderivatives, definite and indefinite integrals, the fundamental theorem of calculus, and the area under a curve.
+
+Code: MATH 1120
+Title: Calculus II
+Description: Focuses on integration: applications, including volumes and arc length; techniques of integration, approximate integration with error estimates, improper integrals, differential equations and their applications. Also covers infinite sequences and series: definition and tests for convergence, power series, Taylor series with remainder, and parametric equations.
+
+Code: MATH 1300
+Title: Mathematical Explorations
+Description: For students who wish to experience how mathematical ideas naturally evolve. The course emphasizes ideas and imagination rather than techniques and calculations. Homework involves students in actively investigating mathematical ideas. Topics vary depending on the instructor. Some assessment through writing assignments.
+
+Code: MATH 1710
+Title: Statistical Theory and Application in the Real World
+Description: Introductory statistics course discussing techniques for analyzing data occurring in the real world and the mathematical and philosophical justification for these techniques. Topics include population and sample distributions, central limit theorem, statistical theories of point estimation, confidence intervals, testing hypotheses, the linear model, and the least squares estimator. The course concludes with a discussion of tests and estimates for regression and analysis of variance (if time permits). The computer is used to demonstrate some aspects of the theory, such as sampling distributions and the Central Limit Theorem. In the lab portion of the course, students learn and use computer-based methods for implementing the statistical methodology presented in the lectures.
+
+Code: MATH 1910
+Title: Calculus for Engineers
+Description: Essentially a second course in calculus. Topics include techniques of integration, finding areas and volumes by integration, exponential growth, partial fractions, infinite sequences and series, tests of convergence, and power series.
+
+Code: MATH 1920
+Title: Multivariable Calculus for Engineers
+Description: Introduction to multivariable calculus. Topics include partial derivatives, double and triple integrals, line and surface integrals, vector fields, Green's theorem, Stokes' theorem, and the divergence theorem.
+
+Code: MATH 2210
+Title: Linear Algebra
+Description: Topics include vector algebra, linear transformations, matrices, determinants, orthogonality, eigenvalues, and eigenvectors. Applications are made to linear differential or difference equations. The lectures introduce students to formal proofs. Students are required to produce some proofs in their homework and on exams.
+
+Code: MATH 2220
+Title: Multivariable Calculus
+Description: Differential and integral calculus of functions in several variables, line and surface integrals as well as the theorems of Green, Stokes, and Gauss.
+
+Code: MATH 2230
+Title: Theoretical Linear Algebra and Calculus
+Description: Topics include vectors, matrices, and linear transformations; differential calculus of functions of several variables; inverse and implicit function theorems; quadratic forms, extrema, and manifolds; multiple and iterated integrals.
+
+Code: MATH 2310
+Title: Linear Algebra for Data Science
+Description: An introduction to linear algebra for students interested in applications to data science. The course diverges from traditional linear algebra courses by emphasizing data science applications while teaching similar concepts. Key topics include matrices as data tables, high-dimensional datasets, singular value decomposition for data compression, and linear transformations in computer graphics.
+
+Code: MATH 2930
+Title: Differential Equations for Engineers
+Description: Introduction to ordinary and partial differential equations. Topics include: first-order equations (separable, linear, homogeneous, exact); mathematical modeling (e.g., population growth, terminal velocity); qualitative methods (slope fields, phase plots, equilibria, and stability); numerical methods; second-order equations (method of undetermined coefficients, application to oscillations and resonance, boundary-value problems and eigenvalues); and Fourier series. A substantial part of this course involves partial differential equations, such as the heat equation, the wave equation, and Laplace's equation. (This part must be present in any outside course being considered for transfer credit to Cornell as a substitute for MATH 2930.)
+
+Code: MATH 2940
+Title: Linear Algebra for Engineers
+Description: Linear algebra and its applications. Topics include: matrices, determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and inner product spaces; applications include brief introductions to difference equations, Markov chains, and systems of linear ordinary differential equations. May include computer use in solving problems.
+
+Code: MATH 3040
+Title: Prove It!
+Description: In mathematics, the methodology of proof provides a central tool for confirming the validity of mathematical assertions, functioning much as the experimental method does in the physical sciences. In this course, students learn various methods of mathematical proof, starting with basic techniques in propositional and predicate calculus and in set theory and combinatorics, and then moving to applications and illustrations of these via topics in one or more of the three main pillars of mathematics: algebra, analysis, and geometry. Since cogent communication of mathematical ideas is important in the presentation of proofs, the course emphasizes clear, concise exposition.
+
+Code: MATH 3110
+Title: Introduction to Analysis
+Description: Provides a transition from calculus to real analysis. Topics include rigorous treatment of fundamental concepts in calculus: including limits and convergence of sequences and series, compact sets; continuity, uniform continuity and differentiability of functions. Emphasis is placed upon understanding and constructing mathematical proofs.
+
+Code: MATH 3210
+Title: Manifolds and Differential Forms
+Description: A manifold is a type of subset of Euclidean space that has a well-defined tangent space at every point. Such a set is amenable to the methods of multivariable calculus. After a review of some relevant calculus, this course investigates manifolds and the structures that they are endowed with, such as tangent vectors, boundaries, orientations, and differential forms. The notion of a differential form encompasses such ideas as area forms and volume forms, the work exerted by a force, the flow of a fluid, and the curvature of a surface, space, or hyperspace. The course re-examines the integral theorems of vector calculus (Green, Gauss, and Stokes) in the light of differential forms and applies them to problems in partial differential equations, topology, fluid mechanics, and electromagnetism.
+
+Code: MATH 3270
+Title: Introduction to Ordinary Differential Equations
+Description: A one-semester introduction to the theory and techniques of ordinary differential equations. Topics may include first-order and second-order differential equations, systems of linear differential equations, initial-value and two-point boundary-value problems, Sturm-Liouville theory, Sturm oscillation and comparison theory, the basic existence and uniqueness theorems, series solutions, special functions, and Laplace transforms. Applications from science and engineering may also be included at the instructor's discretion.
+
+Code: MATH 3320
+Title: Introduction to Number Theory
+Description: An introductory course on number theory, the branch of algebra that studies the deeper properties of integers and their generalizations. Usually includes most of the following topics: the Euclidean algorithm, continued fractions, Pythagorean triples, Diophantine equations such as Pell's equation, congruences, quadratic reciprocity, binary quadratic forms, Gaussian integers, and factorization in quadratic number fields. May include a brief introduction to Fermat's Last Theorem.
+
+Code: MATH 3610
+Title: Mathematical Modeling
+Description: Introduction to the theory and practice of mathematical modeling. This course compares and contrasts different types of mathematical models (discrete vs. continuous, deterministic vs. stochastic), focusing on advantages, disadvantages and limits of applicability for each approach. Case-study format covers a variety of application areas including economics, physics, sociology, traffic engineering, urban planning, robotics, and resource management. Students learn how to implement mathematical models on the computer and how to interpret/describe the results of their computational experiments.
+
+Code: MATH 3840
+Title: Introduction to Set Theory
+Description: This will be a course on standard set theory (first developed by Ernst Zermelo early in the 20th century): the basic concepts of sethood and membership, operations on sets, functions as sets, the set-theoretic construction of the Natural Numbers, the Integers, the Rational and Real numbers; time permitting, some discussion of cardinality.
+
+Code: MATH 4130
+Title: Honors Introduction to Analysis I
+Description: Introduction to the rigorous theory underlying calculus, covering the real number system and functions of one variable. Based entirely on proofs. The student is expected to know how to read and, to some extent, construct proofs before taking this course. Topics typically include construction of the real number system, properties of the real number system, continuous functions, differential and integral calculus of functions of one variable, sequences and series of functions.
+
+Code: MATH 4210
+Title: Nonlinear Dynamics and Chaos
+Description: Introduction to nonlinear dynamics, with applications to physics, engineering, biology, and chemistry. Emphasizes analytical methods, concrete examples, and geometric thinking. Topics include one-dimensional systems; bifurcations; phase plane; nonlinear oscillators; and Lorenz equations, chaos, strange attractors, fractals, iterated mappings, period doubling, renormalization.
+
+Code: MATH 4220
+Title: Applied Complex Analysis
+Description: Covers complex variables, Fourier transforms, Laplace transforms and applications to partial differential equations. Additional topics may include an introduction to generalized functions.
+
+Code: MATH 4250
+Title: Numerical Analysis and Differential Equations
+Description: Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.
+
+Code: MATH 4310
+Title: Linear Algebra
+Description: Introduction to linear algebra, including the study of vector spaces, linear transformations, matrices, and systems of linear equations. Additional topics are quadratic forms and inner product spaces, canonical forms for various classes of matrices and linear transformations.
+
+Code: MATH 4330
+Title: Honors Linear Algebra
+Description: Honors version of a course in advanced linear algebra, which treats the subject from an abstract and axiomatic viewpoint. Topics include vector spaces, linear transformations, polynomials, determinants, tensor and wedge products, canonical forms, inner product spaces, and bilinear forms. Emphasis is on understanding the theory of linear algebra; homework and exams include at least as many proofs as computational problems.
+
+Code: MATH 4370
+Title: Computational Algebra
+Description: Introduction to algebraic geometry and computational algebra. In this course, students learn how to compute a Gröbner basis for polynomials in many variables. Covers the following applications: solving systems of polynomial equations in many variables, solving diophantine equations in many variables, 3-colorable graphs, and integer programming. Such applications arise, for example, in computer science, engineering, economics, and physics.
+
+Code: MATH 4410
+Title: Introduction to Combinatorics I
+Description: Combinatorics is the study of discrete structures that arise in a variety of areas, particularly in other areas of mathematics, computer science, and many areas of application. Central concerns are often to count objects having a particular property (e.g., trees) or to prove that certain structures exist (e.g., matchings of all vertices in a graph). The first semester of this sequence covers basic questions in graph theory, including extremal graph theory (how large must a graph be before one is guaranteed to have a certain subgraph) and Ramsey theory (which shows that large objects are forced to have structure). Variations on matching theory are discussed, including theorems of Dilworth, Hall, König, and Birkhoff, and an introduction to network flow theory. Methods of enumeration (inclusion/exclusion, Möbius inversion, and generating functions) are introduced and applied to the problems of counting permutations, partitions, and triangulations.
+
+Code: MATH 4520
+Title: Classical Geometries and Modern Applications
+Description: An introduction to projective, hyperbolic, and spherical geometry and their modern applications.  The course will be divided into short modules with an emphasis on participation, discovery, and student projects and presentations. In addition to proving theorems, students will have the opportunity to make, build, 3D print, or program something related to the course material as a project component. We will cover classical theorems and techniques (e.g. stereographic projection and conics), and also see how classical geometry is used in and relates to other areas of mathematics (e.g. topology, via Euler characteristic) and in applications such as computer vision, networks, or architectural drawing.
+
+Code: MATH 4530
+Title: Introduction to Topology
+Description: Topology may be described briefly as qualitative geometry. This course begins with basic point-set topology, including connectedness, compactness, and metric spaces. Later topics may include the classification of surfaces (such as the Klein bottle and Möbius band), elementary knot theory, or the fundamental group and covering spaces.
+
+Code: MATH 4710
+Title: Basic Probability
+Description: Introduction to probability theory, which prepares the student to take MATH 4720. The course begins with basics: combinatorial probability, mean and variance, independence, conditional probability, and Bayes formula. Density and distribution functions and their properties are introduced. The law of large numbers and the central limit theorem are stated and their implications for statistics are discussed.
+
+Code: MATH 4810
+Title: Mathematical Logic
+Description: First course in mathematical logic providing precise definitions of the language of mathematics and the notion of proof (propositional and predicate logic). The completeness theorem says that we have all the rules of proof we could ever have. The Gödel incompleteness theorem says that they are not enough to decide all statements even about arithmetic. The compactness theorem exploits the finiteness of proofs to show that theories have unintended (nonstandard) models. Possible additional topics: the mathematical definition of an algorithm and the existence of noncomputable functions; the basics of set theory to cardinality and the uncountability of the real numbers.
+
+Code: MATH 4900
+Title: Supervised Research
+Description: An independent research course by arrangement with an individual professor.  The goal is for the student to perform an independent investigation into a specific mathematical question.  The student and professor will set expectations and grading policies at the beginning of the term.
+
+Code: MATH 4901
+Title: Supervised Reading
+Description: An independent reading course by arrangement with an individual professor. The goal is for the student to master a body of mathematics outside the normal curriculum. The student and professor will set expectations and grading policies at the beginning of the term.
+
+Code: MATH 4980
+Title: Special Study for Mathematics Teaching
+Description: Examines principles underlying the content of the secondary school mathematics curriculum, including connections with the history of mathematics, technology, and mathematics education research. One credit is awarded for attending two Saturday workshops (see math.cornell.edu/math-5080) and writing a paper. Other credit options are available for students completing additional work, such as tutoring at a local middle school or completing a research paper or project.
+
+Code: MATH 4997
+Title: Practical Training in Mathematics
+Description: This independent study course offers math majors (i.e., undergraduates whose applications to affiliate with the math major have been approved) an opportunity to reflect on concepts from mathematics as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the mathematics major.
+
+Code: MATH 5080
+Title: Special Study for Teachers
+Description: Examines principles underlying the content of the secondary school mathematics curriculum, including connections with the history of mathematics, technology, and mathematics education research.
+
+Code: MATH 5220
+Title: Applied Complex Analysis
+Description: Covers complex variables, Fourier transforms, Laplace transforms and applications to partial differential equations. Additional topics may include an introduction to generalized functions.
+
+Code: MATH 5250
+Title: Numerical Analysis and Differential Equations
+Description: Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques.
+
+Code: MATH 5410
+Title: Introduction to Combinatorics I
+Description: Combinatorics is the study of discrete structures that arise in a variety of areas, particularly in other areas of mathematics, computer science, and many areas of application. Central concerns are often to count objects having a particular property (e.g., trees) or to prove that certain structures exist (e.g., matchings of all vertices in a graph). The first semester of this sequence covers basic questions in graph theory, including extremal graph theory (how large must a graph be before one is guaranteed to have a certain subgraph) and Ramsey theory (which shows that large objects are forced to have structure). Variations on matching theory are discussed, including theorems of Dilworth, Hall, König, and Birkhoff, and an introduction to network flow theory. Methods of enumeration (inclusion/exclusion, Möbius inversion, and generating functions) are introduced and applied to the problems of counting permutations, partitions, and triangulations.
+
+Code: MATH 6110
+Title: Real Analysis
+Description: MATH 6110-MATH 6120 are the core analysis courses in the mathematics graduate program. MATH 6110 covers abstract measure and integration theory, and related topics such as the Lebesgue differentiation theorem, the Radon-Nikodym theorem, the Hardy-Littlewood maximal function, the Brunn-Minkowski inequality, rectifiable curves and the isoperimetric inequality, Hausdorff dimension and Cantor sets, and an introduction to ergodic theory.
+
+Code: MATH 6210
+Title: Measure Theory and Lebesgue Integration
+Description: Covers measure theory, integration, and Lp spaces.
+
+Code: MATH 6230
+Title: Differential Games and Optimal Control
+Description: This course is a self-contained introduction to the modern theory of optimal control and differential games. Dynamic programming uses Hamilton-Jacobi partial differential equations (PDEs) to encode the optimal behavior in cooperative and adversarial sequential decision making problems. The same PDEs have an alternative interpretation in the context of front propagation problems. We show how both interpretations are useful in constructing efficient numerical methods. We also consider a wide range of applications, including robotics, computational geometry, path-planning, computer vision, photolithography, economics, seismic imaging, ecology, financial engineering, crowd dynamics, and aircraft collision avoidance. Assumes no prior knowledge of non-linear PDEs or numerical analysis.
+
+Code: MATH 6260
+Title: Dynamical Systems
+Description: Topics include existence and uniqueness theorems for ODEs; Poincaré-Bendixon theorem and global properties of two dimensional flows; limit sets, nonwandering sets, chain recurrence, pseudo-orbits and structural stability; linearization at equilibrium points: stable manifold theorem and the Hartman-Grobman theorem; and generic properties: transversality theorem and the Kupka-Smale theorem. Examples include expanding maps and Anosov diffeomorphisms; hyperbolicity: the horseshoe and the Birkhoff-Smale theorem on transversal homoclinic orbits; rotation numbers; Herman's theorem; and characterization of structurally stable systems.
+
+Code: MATH 6310
+Title: Algebra
+Description: MATH 6310-MATH 6320 are the core algebra courses in the mathematics graduate program. MATH 6310 covers group theory, especially finite groups; rings and modules; ideal theory in commutative rings; arithmetic and factorization in principal ideal domains and unique factorization domains; introduction to field theory; tensor products and multilinear algebra. (Optional topic: introduction to affine algebraic geometry.)
+
+Code: MATH 6390
+Title: Lie Groups and Lie Algebras
+Description: Lie groups, Lie algebras, and their representations play an important role in much of mathematics, particularly in number theory, mathematical physics, and topology. This is an introductory course, meant to be useful for more advanced topics and applications. The relationship between Lie groups and Lie algebras will be highlighted throughout the course. A different viewpoint is that of algebraic groups. We will endeavor to discuss this along with the C∞ viewpoint.
+
+Code: MATH 6520
+Title: Differentiable Manifolds
+Description: MATH 6510-MATH 6520 are the core topology courses in the mathematics graduate program. This course is an introduction to geometry and topology from a differentiable viewpoint, suitable for beginning graduate students. The objects of study are manifolds and differentiable maps. The collection of all tangent vectors to a manifold forms the tangent bundle, and a section of the tangent bundle is a vector field. Alternatively, vector fields can be viewed as first-order differential operators. We will study flows of vector fields and prove the Frobenius integrability theorem. We will examine the tensor calculus and the exterior differential calculus and prove Stokes' theorem. If time permits, de Rham cohomology, Morse theory, or other optional topics will be covered.
+
+Code: MATH 6540
+Title: Homotopy Theory
+Description: This course is an introduction to some of the fundamentals of homotopy theory. Homotopy theory studies spaces up to homotopy equivalence, not just up to homeomorphism. This allows for a variety of algebraic techniques which are not available when working up to homeomorphism. This class studies the fundamentals and tools of homotopy theory past homology and cohomology. Topics may include computations of higher homotopy groups, simplicial sets, model categories, spectral sequences, and rational homotopy theory.
+
+Code: MATH 6710
+Title: Probability Theory I
+Description: Measure theory, independence, distribution of sums of iid random variables, laws of large numbers, and central limit theorem. Other topics as time permits.
+
+Code: MATH 6740
+Title: Mathematical Statistics II
+Description: Focuses on the foundations of statistical inference, with an emphasis on asymptotic methods and the minimax optimality criterion. In the first part, the solution of the classical problem of justifying Fisher's information bound in regular statistical models will be presented. This solution will be obtained applying the concepts of contiguity, local asymptotic normality and asymptotic minimaxity. The second part will be devoted to nonparametric estimation, taking a Gaussian regression model as a paradigmatic example. Key topics are kernel estimation and local polynomial approximation, optimal rates of convergence at a point and in global norms, and adaptive estimation. Optional topics may include irregular statistical models, estimation of functionals and nonparametric hypothesis testing.
+
+Code: MATH 6870
+Title: Set Theory
+Description: First course in axiomatic set theory at the level of the book by Kunen.
+
+Code: MATH 7110
+Title: Topics in Analysis
+Description: Selection of advanced topics from analysis. Course content varies.
+
+Code: MATH 7290
+Title: Seminar on Scientific Computing and Numerics
+Description: Talks on various methods in scientific computing, the analysis of their convergence properties and computational efficiency, and their adaptation to specific applications.
+
+Code: MATH 7510
+Title: Berstein Seminar in Topology
+Description: A seminar on an advanced topic in topology or a related subject. Content varies. The format is usually that the participants take turns to present.
+
+Code: MATH 7670
+Title: Topics in Algebraic Geometry
+Description: Selection of topics from algebraic geometry. Content varies.
+
+Code: MATH 7710
+Title: Topics in Probability Theory
+Description: Selection of advanced topics from probability theory. Content varies.
+
+Code: MATH 7740
+Title: Statistical Learning Theory
+Description: Learning theory has become an important topic in modern statistics. This course gives an overview of various topics in classification, starting with Stone's (1977) stunning result that there are classifiers that are universally consistent. Other topics include classification, plug-in methods (k-nearest neighbors), reject option, empirical risk minimization, Vapnik-Chervonenkis theory, fast rates via Mammen and Tsybakov's margin condition, convex majorizing loss functions, RKHS methods, support vector machines, lasso type estimators, low-rank multivariate response regression, random matrix theory, topic models, latent factor models, and interpolation methods in high dimensional statistics.
+
+Code: MATH 7900
+Title: Supervised Reading and Research
+Description: Supervised research for the doctoral dissertation.
+

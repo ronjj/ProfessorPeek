@@ -1,0 +1,76 @@
+Code: ASTRO 1101
+Title: From New Worlds to Black Holes
+Description: "From Black Holes to undiscovered worlds" - a journey through our fascinating universe. Ever wondered about the universe? What you see in the night sky? How stars get born and how they die? How Black holes work? And if there is life out there in the universe? Join us for a journey through our fascinating universe from Black Holes to undiscovered worlds through the newest discoveries. We are made of stardust. Ad Astra.
+
+Code: ASTRO 1195
+Title: Observational Astronomy
+Description: Provides a "hands-on" introduction to observational astronomy intended for liberal arts students. High school mathematics is assumed, but otherwise there are no formal prerequisites. The course objective is to learn how we know what we know about the Universe, and to learn how to observe with moderate cost amateur telescopes. There are two lectures and one evening laboratory per week. Typically, labs consist of 4-5 observing sessions using the Fuertes Observatory 12" telescope and a set of Meade 8" telescopes, a trip to Mount Pleasant to look through its 25" telescope and, on cloudy nights, 4-5 in-class experiments, the highlight of which is collecting micrometeorites for study.
+
+Code: ASTRO 2202
+Title: A Spacecraft Tour of the Solar System: Science, Policy and Exploration
+Description: Writing course designed to develop an understanding of modern solar system exploration. Discussion will center on describing our home planet as a member of a diverse family of objects in our solar system. In addition to studying what we have learned of other planets and satellites from unmanned spacecraft, we will also discuss the missions themselves and describe the process of how they are selected and developed. Guest lecturers will include political advocacy experts, NASA officials, and science team members of active NASA/ESA missions. Participants will study, debate, and learn to write critically about important issues in science and public policy that benefit from this perspective. Topics discussed include space policy, the potential for life in the ocean worlds of the outer solar system, the search for extrasolar planets and extraterrestrial intelligence, and the exploration of Mars.
+
+Code: ASTRO 2211
+Title: Astronomy: Stars, Galaxies, and Cosmology
+Description: Course surveying the evolution of the universe from the Big Bang onwards: what happens in the first few minutes of the universe's life; star formation, structure, and evolution; the physics of white dwarfs, neutron stars, and black holes; galaxy formation and structure; and cosmology. The roles of quantum physics, particle physics, and relativity in astrophysics are discussed (no prior knowledge of these is assumed). The course is more in-depth than ASTRO 1101. All course materials are made available online.
+
+Code: ASTRO 3301
+Title: Exoplanets and Planetary Systems
+Description: More than five thousand planets circling other stars have been discovered over the past two decades, and many more discoveries are sure to come. With the recent launch of the James Webb Space Telescope (Dec 2021) astronomers will be able to probe the atmosphere of potential Earth-like planets for the first time.
+
+Code: ASTRO 3303
+Title: Galaxies Across Cosmic Time
+Description: This course provides an overview of our current understanding of how galaxies have evolved over the last 13+ billion years and how their evolution has been influenced by their local intergalactic environment. We will look at the evidence that links supermassive black holes, gas accretion and merger events to galaxy evolution and track the star formation rate from early to current epochs. Additional topics will include the formation and distribution of clusters and groups of galaxies, the importance of dark matter and how galaxy evolution fits into the framework of current cosmological models.
+
+Code: ASTRO 4410
+Title: Multiwavelength Astronomical Techniques
+Description: The course covers methods in optical and radio astronomy and selected topics in astrophysics. Major experiments use techniques chosen from charge-coupled device (CCD) imaging, optical photometry, optical spectroscopy, radiometry and radio spectroscopy. Observations use the Hartung-Boothroyd Observatory's 24-inch telescope and a 3.8-meter radio telescope on the roof of the Space Sciences Building. The course covers the fundamentals of astronomical instrumentation and data analysis applied to a wide range of celestial phenomena: asteroids, main-sequence stars, supernova remnants, globular clusters, planetary nebulae, the interstellar medium, OH masers, and galaxies. Methods include statistical data analysis, artifact and interference excision, Fourier transforms, heterodyned receivers, and software-defined radio.
+
+Code: ASTRO 4431
+Title: Physics of Stars, Neutron Stars and Black Holes
+Description: Major topics include: the structure and evolution of stars; solar neutrino astronomy; stellar seismology; the physics of white dwarfs, neutron stars and black holes; the physics of low mass stars and connection to planets. Basic ideas in atomic and molecular physics, condensed matter physics, nuclear and particle physics, fluid mechanics and general relativity are introduced in a practical fashion that emphasizes concepts useful for understanding astrophysical phenomena.
+
+Code: ASTRO 4445
+Title: Introduction to General Relativity
+Description: One-semester introduction to general relativity that develops the essential structure and phenomenology of the theory without requiring prior exposure to tensor analysis. General relativity is a fundamental cornerstone of physics that underlies several of the most exciting areas of current research, including relativistic astrophysics, cosmology, and the search for a quantum theory of gravity. The course briefly reviews special relativity, introduces basic aspects of differential geometry, including metrics, geodesics, and the Riemann tensor, describes black hole spacetimes and cosmological solutions, and concludes with the Einstein equation and its linearized gravitational wave solutions. At the level of Gravity: An Introduction to Einstein's General Relativity by Hartle.
+
+Code: ASTRO 4940
+Title: Independent Study in Astronomy
+Description: Individuals work on selected topics. A program of study is devised by the student and instructor.
+
+Code: ASTRO 6509
+Title: General Relativity I
+Description: A comprehensive introduction to Einstein's theory of relativistic gravity. This course focuses on the formal structure of the theory.
+
+Code: ASTRO 6531
+Title: Astrophysical Fluid Dynamics
+Description: This course will survey fluid dynamics (including magnetohydrodynamics and some plasma physics) important for understanding astronomical phenomena. Topics include basic fluid and MHD concepts and equations, waves and instabilities of various types (e.g., sound, gravity, Rossby, hydromagnetic, spiral density waves; Rayleigh-Taylor, thermal, Jeans, rotational, magnetorotational instabilities), shear and viscous flows, turbulence, shocks and blast waves, etc. These topics will be discussed in different astrophysical contexts and applications, such as atmosphere and ocean, star and planet formation, compact objects, interstellar medium, galaxies and clusters.
+
+Code: ASTRO 6560
+Title: Physics of Stars, Neutron Stars and Black Holes
+Description: Major topics include: the structure and evolution of stars; solar neutrino astronomy; stellar seismology; the physics of white dwarfs, neutron stars and black holes; the physics of low mass stars and connection to planets. Basic ideas in atomic and molecular physics, condensed matter physics, nuclear and particle physics, fluid mechanics and general relativity are introduced in a practical fashion that emphasizes concepts useful for understanding astrophysical phenomena.
+
+Code: ASTRO 6579
+Title: Advanced Astrodynamics
+Description: A graduate level course in astrodynamics and trajectory design. Course topics include a brief review of the two body problem, impulsive transfers, and perturbations; orbit determination and one-way ranging; algebraic and symplectic mappings and surfaces of section; the circular and elliptical 3-body problem, invariant manifolds and 3-body orbit design; secular and resonant perturbations; finite and continuous thrust modeling and transfer design. The course will emphasize numerical methods and building deep understanding of modern approaches to orbital design problems. Familiarity with basic orbital mechanics (at the level of MAE 4060 or equivalent) and numerical integration of dynamical systems will be assumed.
+
+Code: ASTRO 6599
+Title: Cosmology
+Description: Intended to provide a detailed theoretical development of current ideas in cosmology. Topics include Big Bang cosmology and the universe's matter content; a cosmological chronology of the very early universe, symmetry breaking, inflationary scenarios, nucleosynthesis, recombination, growth of irregularities, galaxy formation and clustering, dark energy; current and future cosmological observational approaches.
+
+Code: ASTRO 6940
+Title: Advanced Study and Research
+Description: Guided reading and seminars on topics not currently covered in regular courses.
+
+Code: ASTRO 7600
+Title: First Year Graduate Advising Seminar
+Description: No description available.
+
+Code: ASTRO 7683
+Title: Seminar: Astronomy and Planetary Science
+Description: This course is a reading seminar where graduate students will gain astronomy breadth, practice public speaking, and distill important results from seminal astronomy research papers.
+
+Code: ASTRO 7690
+Title: Computational Physics
+Description: Covers numerical methods for ordinary and partial differential equations, linear algebra and eigenvalue problems, integration, nonlinear equations, optimization, and fast Fourier transforms. Find out how and why the "black-box" numerical routines you use work, how to improve and generalize them, and how to fix them when they don't. Based on the text Numerical Recipes by William H. Press, Saul A. Teukolsky, William T. Vetterling, and Brian P. Flannery.
+

@@ -1,0 +1,76 @@
+Code: EDUC 2200
+Title: Introduction to Adult Learning
+Description: Do adults learn differently than do youth? This experiential and community-engaged course is for anyone interested in planning and facilitating adult, community and lifelong learning. As inquirers ourselves, we not only study principles, theories and methods, we also put into practice what we learn. One of the ways we do this is by incorporating adult learning approaches within the seminar's design and educational practice (andragogy, rather than pedagogy). Another way we apply what we study is by mentoring adult learners. Each student serves as a learning partner to a Cornell employee who is pursuing an educational aim. A journey of mutual learning is a satisfying and meaningful adventure. As employees' partners, we are co-learners and co-educators, recognizing that each person has knowledge and experience to bring to the quest.
+
+Code: EDUC 2410
+Title: The Art of Teaching
+Description: This exploratory course is designed for students of all backgrounds and interests who have a desire to learn more about education and teaching. Teaching takes place in a variety of contexts from the family to the workplace, and this course endeavors to examine the elements of teaching that transcend the typical school-teaching environment. Designed to guide students in reflecting upon their experiences to help them better understand the decisions they make as teachers. Students have the opportunity to pursue their own interests through a teaching fieldwork assignment. Possible field experiences range from large group to tutorial situations, from preschool to adult education, from traditional school subject matters to recreational and occupational areas, and from school-based to nonformal situations. The course work and readings are designed to build on these experiences throughout the semester and provide concepts and skills to apply in the field.
+
+Code: EDUC 2610
+Title: Intergroup Dialogue
+Description: Intergroup dialogue is a form of communication specifically designed for people to engage with one another across social, cultural, and power differences in a critical and meaningful way. This class prepares students to live and work in a diverse world, and educates them in making choices that advance equity. Its main objectives are to: explore our human capacity and need to connect with ourselves and others; increase understanding of personal and social identities and how they inform our lives; explore the effects of social inequity at personal, interpersonal, and structural levels (including the ways in which it disrupts human connection); develop students' skills to communicate, work, and lead effectively across difference; and strengthen individual and collective capacities to strategize for change on campus and beyond.
+
+Code: EDUC 3110
+Title: Educational Psychology
+Description: Educational psychology is the application of psychological principles and concepts to cases of teaching and learning. We study behavioral, cognitive, embodied, and social-cultural perspectives on learning and thinking, and we use them in planning and reflecting on weekly fieldwork outside the classroom. In the process, we become more mindful and skilled learners ourselves and better facilitators of others' learning.
+
+Code: EDUC 3350
+Title: Youth Organizations and Leadership Development
+Description: Participants learn how to facilitate both youth and adult volunteer leadership development. They examine factors affecting membership, purposes, design, operation, and administration of youth organizations.
+
+Code: EDUC 4010
+Title: Special Methods of Instruction in Agricultural Science Education
+Description: Students complete learning and skills development about special methods for teaching agricultural science education. Such learning and skill development may include metal fabrication, small engine physics, and/or special laboratory instruction related to agricultural sciences. Students reflect upon that learning and skill development and then create units of instruction employing special methods used to teach secondary and/or post-secondary students about agricultural knowledge, skills, and processes.
+
+Code: EDUC 4050
+Title: Exploring Strategies for Teaching and Learning
+Description: EDUC 4050 builds off of the broad nature of EDUC 2410. This course incorporates extensive field work in teaching, lesson planning, and evaluation based upon current theories in instruction at the collegiate level. The course is intended to integrate theory and practice associated with learning and teaching in college classroom settings and includes a minimum of 40 hours of supervised fieldwork in specific college classes.
+
+Code: EDUC 4402
+Title: Anthropology of Education
+Description: This seminar examines public schools and other educational spaces as sites where knowledge, learning, learner, and identities are produced and contested. It explores how power and cultural norms work in educational settings, and the unintended teaching and learning that happens outside the purported curriculum. Topics include issues of multiculturalism and pluralism in schools and society, the school achievement of racial and ethnic minorities, youth cultures and identities, and literacy in adult learning spaces. This course is for students interested in the advanced study of multicultural schooling and education.
+
+Code: EDUC 4720
+Title: Philosophy of Education
+Description: What are the aims of schooling? How are those aims to be achieved? Can Artificial Intelligence be a 'teacher'? What interests guide the formation of educational aims? Questions such these are central to the formulation and reformulations of philosophy of education as they name topics like educational authority, virtues, curricular standards and the social/technological contexts of schooling among others. Drawing from both canonical and contemporary texts and their critics, this course provides an opportunity to analyze and interpret philosophies of education in the changing contexts of 21st century educational policy, neuroscience and technology and ongoing social, environmental and economic injustices.
+
+Code: EDUC 4826
+Title: Leading Dialogue Across Difference: Practicum in Intergroup Relations
+Description: Through theoretical and experiential learning, students in EDUC 4826 will further develop knowledge and skills gained in EDUC 2610 for leadership across social, cultural, and political differences. Through weekly seminar sessions, students gain a working knowledge of scholarly literature drawn from the fields of critical intergroup dialogue, practice theory, social identity theory, and social justice education. Students learn about the theories and empirical evidence on why and how communication and collaboration across difference work. Moreover, through unique experiential learning opportunities in the classroom, students practice communication and collaboration across difference, as well as facilitation skills fundamental to leading intergroup dialogue processes.
+
+Code: EDUC 4940
+Title: Special Topics in Education
+Description: The department teaches "trial" courses under this number. Offerings vary by semester and will be advertised by the department before the semester starts. Courses offered under this number will be approved by the department curriculum committee, and the same course is not offered more than twice under this number.
+
+Code: EDUC 4960
+Title: Undergraduate Internship In Education
+Description: On-the-job learning experience under the supervision of professionals in a cooperating organization. A learning contract is written between the faculty supervisor and students, stating the conditions of the work assignment, supervision, and reporting. All 4960 internship courses must adhere to the CALS guidelines at cals.cornell.edu/academics/student-research/internship.
+
+Code: EDUC 4970
+Title: Individual Study in Education
+Description: A student may, with approval of a faculty advisor, study a problem or topic not covered in a regular course or may undertake tutorial study of an independent nature in an area of educational interest.
+
+Code: EDUC 4980
+Title: Undergraduate Teaching
+Description: Participating students assist in teaching a course allied with their education and experience. Students are expected to meet regularly with a discussion or laboratory section, to gain teaching experience, and regularly to discuss teaching objectives, techniques, and subject matter with the professor in charge.
+
+Code: EDUC 4990
+Title: Undergraduate Research
+Description: Affords opportunities for students to carry out independent research under appropriate supervision. Each student is expected to review pertinent literature, prepare a project outline, conduct the research, and prepare a report.
+
+Code: EDUC 5350
+Title: Youth Organizations and Leadership Development
+Description: Participants learn how to facilitate both youth and adult volunteer leadership development. They examine factors affecting membership, purposes, design, operation, and administration of youth organizations.
+
+Code: EDUC 6720
+Title: Philosophy of Education
+Description: What are the aims of schooling? How are those aims to be achieved? Can Artificial Intelligence be a 'teacher'? What interests guide the formation of educational aims? Questions such these are central to the formulation and reformulations of philosophy of education as they name topics like educational authority, virtues, curricular standards and the social/technological contexts of schooling among others. Drawing from both canonical and contemporary texts and their critics, this course provides an opportunity to analyze and interpret philosophies of education in the changing contexts of 21st century educational policy, neuroscience and technology and ongoing social, environmental and economic injustices.
+
+Code: EDUC 7010
+Title: Empirical Research
+Description: For study that predominantly involves collection and analysis of research data.
+
+Code: EDUC 7402
+Title: Anthropology of Education
+Description: This seminar examines public schools and other educational spaces as sites where knowledge, learning, learner, and identities are produced and contested. It explores how power and cultural norms work in educational settings, and the unintended teaching and learning that happens outside the purported curriculum. Topics include issues of multiculturalism and pluralism in schools and society, the school achievement of racial and ethnic minorities, youth cultures and identities, and literacy in adult learning spaces. This course is for students interested in the advanced study of multicultural schooling and education.
+

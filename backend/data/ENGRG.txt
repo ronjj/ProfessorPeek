@@ -1,0 +1,100 @@
+Code: ENGRG 1002
+Title: AEW Collaborative Workshop: ENGRD 2020
+Description: Peer-facilitated group sessions focused on problems at or above the level of course material, designed to enhance understanding of core concepts in ENGRD 2020/MAE 2020.
+
+Code: ENGRG 1009
+Title: AEW Collaborative Workshop: CHEM 2090
+Description: Academic Excellence Workshop for CHEM 2090. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in CHEM 2090.
+
+Code: ENGRG 1010
+Title: AEW Collaborative Workshop: CS 1110
+Description: Academic Excellence Workshop for CS 1110. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in CS 1110.
+
+Code: ENGRG 1011
+Title: AEW Collaborative Workshop: CS 2110
+Description: Academic Excellence Workshop for CS 2110. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in CS 2110.
+
+Code: ENGRG 1012
+Title: AEW Collaborative Workshop: CS 1112
+Description: Academic Excellence Workshop for CS 1112 . Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in CS 1112.
+
+Code: ENGRG 1028
+Title: AEW Collaborative Workshop: CS 2800
+Description: Academic Excellence Workshop for CS 2800. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in CS 2800.
+
+Code: ENGRG 1031
+Title: AEW Collaborative Workshop: CS 3110
+Description: Academic Excellence Workshop for CS 3110. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in CS 3110.
+
+Code: ENGRG 1034
+Title: AEW Collaborative Workshop: CS 3410
+Description: Academic Excellence Workshop for CS 3410. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in CS 3410.
+
+Code: ENGRG 1050
+Title: Engineering Seminar
+Description: First-year engineering students meet in groups weekly with their faculty advisors. Discussions may include the engineering curriculum and student programs, what engineers do, the character of engineering careers, active research areas in the college and in engineering in general, and study and examination skills useful for engineering students. Groups may visit campus academic, engineering, and research facilities.
+
+Code: ENGRG 1091
+Title: AEW Collaborative Workshop: MATH 1910
+Description: Academic Excellence Workshop for MATH 1910. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in MATH 1910.
+
+Code: ENGRG 1092
+Title: AEW Collaborative Workshop: MATH 1920
+Description: Academic Excellence Workshop for MATH 1920. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in MATH 1920.
+
+Code: ENGRG 1093
+Title: AEW Collaborative Workshop: MATH 2930
+Description: Academic Excellence Workshop for MATH 2930. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in MATH 2930.
+
+Code: ENGRG 1094
+Title: AEW Collaborative Workshop: MATH 2940
+Description: Academic Excellence Workshop for MATH 2940. Weekly two-hour collaborative learning sessions. Peer-facilitated group works on problems at or above the level of course material, designed to enhance understanding of core concepts in MATH 2940.
+
+Code: ENGRG 1152
+Title: Coaching and Mentoring for Professional and Student Success
+Description: This class will help you engineer your life to get the most out of your undergraduate experience now while building foundational professional skills for the future. Meetings with an assigned engineering alumni mentor-coach will expand your network and give you a window into the non-technical aspects of the practice of engineering. Class sessions provide tools for strategic decision-making about the many opportunities you have at Cornell to develop teamwork, leadership, and related skills. Through COMPASS, you will gain a clear sense of your values, interests, strengths, and areas for development as well as a plan for the remainder of your Cornell experience.
+
+Code: ENGRG 1400
+Title: Engineering Project Team Onboarding
+Description: Students who are joining an Engineering Project Team for the first time will be introduced to the program and to information and skills needed for success as a project team member.  Topics will include a broad orientation to the Engineering Project Teams, safety, communication, giving and accepting feedback, and expectations for culture and behavior.  Students may enroll concurrently with one or two credits of additional team-specific project team coursework. The course is intended for and required of all new project team members.
+
+Code: ENGRG 3400
+Title: Engineering Student Project Teams
+Description: Intended for student members of Engineering Student Project Teams. Project Team students work in an applied setting that fosters knowledge transfer from the classroom to practice and development of professional skills necessary to work in multidisciplinary teams. Students will regularly attend team meetings as well as work on their own. An individual final deliverable on the project is required of each student.
+
+Code: ENGRG 3605
+Title: Ethics of Computing and Artificial Intelligence Technologies
+Description: No description available.
+
+Code: ENGRG 3900
+Title: Foundations of Engineering Leadership
+Description: This is the first of two required classes in the Engineering Leadership Certification Program. The focus is on the "self" and "team" competencies covered in the certification program. Students gain knowledge about their own strengths, values, purpose, goals, and derailers. Further topics include project management basics, presentation skills, communication and team dynamics. Working from this foundation, students propose and form teams to enact a Leadership Project that has meaning and impact. Note that this class includes two required weekend retreats in addition to the regularly scheduled class: one during the first week of classes in January and the other in April.
+
+Code: ENGRG 4400
+Title: Engineering Student Project Team Leadership
+Description: This skills-based, experiential learning course will use students' project team experiences as a vehicle to learn about, practice, and refine critical leadership skills. Students will have access to one on one and small group coaching throughout their enrollment in the course.
+
+Code: ENGRG 4800
+Title: Eng Leader Skill Clinic: Listening Skills
+Description: LSC: Listening Skills for Leaders teaches the foundational skill of transformational leadership. You'll learn a simple method for getting better information, creating empathy, and building better relationships through intentional listening. During the action interval, you'll apply these skills in real-world situations and reflect on your experience. The second and final workshop is dedicated to sharing your 'lessons learned' and forming a plan to continue to develop leader listening skills.
+
+Code: ENGRG 4830
+Title: Eng Leader Skill Clinic: Giving Feedback
+Description: LSC: Giving Feedback will give you a framework, method, and language for giving others feedback. You'll learn how to take the sting out of critical feedback and be more comfortable offering feedback for the sake of team success. During the action interval, you'll apply these skills in real-world situations and reflect on your experience. The second and final workshop is dedicated to sharing your 'lessons learned' and forming a plan to continue to practice the skill learned.
+
+Code: ENGRG 4960
+Title: Entrepreneurial Practicum in Engineering
+Description: This course provides a means by which engineering students can develop and refine their innovative technical ideas.  The course is tailored to individual student or student group needs, linking them with mentors and resources, including prototyping facilities, to help enable them to move their innovative ideas forward.
+
+Code: ENGRG 4990
+Title: Teaching in Engineering Leadership
+Description: Teaching assistant responsibilities include class preparation, grading, and assisting students with class logistics. Regular class duties includes monitoring student class participation and facilitating exercises and discussions. Teaching assistants will help facilitate two outside-of-class retreats in the spring semester.
+
+Code: ENGRG 4998
+Title: Engineering Practical Training
+Description: This independent study course offers engineering students an opportunity to reflect on professional and personal growth, challenges, and opportunities resulting from a recent internship in the USA (Curricular Practical Training, CPT). Typically, these internships take place in the summer and students, in the semester they return to campus, write a short paper describing their work experience and how it connects to the educational objectives of their  major. The value of the course is in the reflection on expectations, successes, challenges and skills and knowledge gained during the internship in the United States.
+
+Code: ENGRG 5350
+Title: Career Search and Exploration for Engineers
+Description: This course delves into the essential elements of career planning and job search strategies. Through interactive discussions and practical exercises, students will identify their strengths, skills, and values, honing their ability to articulate these effectively in professional contexts. They will gain comprehensive insights into the complete job search process, including learning how to craft compelling application materials, cultivate their professional network, communicate with confidence during interviews, and negotiate offers effectively.
+

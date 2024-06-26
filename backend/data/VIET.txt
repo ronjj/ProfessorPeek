@@ -1,0 +1,16 @@
+Code: VIET 1100
+Title: Elements of Vietnamese Language and Culture
+Description: This course is designed for anyone wishing to gain some basic Vietnamese language skills and learn various elements of Vietnamese culture. Those who are planning to take short trips to Vietnam will find this course particularly useful.  Due to the flip classroom nature of the course, it is intended for sophomores and up.
+
+Code: VIET 1121
+Title: Elementary Vietnamese I
+Description: This course gives a thorough grounding in basic speaking, listening, reading, and writing skills in Vietnamese.
+
+Code: VIET 2201
+Title: Intermediate Vietnamese I
+Description: Continuing instruction in spoken and written Vietnamese.
+
+Code: VIET 3301
+Title: Advanced Vietnamese I
+Description: Continuing instruction in spoken and written Vietnamese. Introduction to reading newspapers; the course emphasizes on enlarging vocabulary and increasing reading speed by reading various genres and styles of prose.
+

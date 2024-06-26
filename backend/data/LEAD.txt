@@ -1,0 +1,16 @@
+Code: LEAD 1960
+Title: Leadership Training Practicum
+Description: In LEAD 1960 (Cornell Outdoor Education) students will enhance their COE experience through a deeper exploration of the areas of leadership, teamwork, and personal growth. They will have opportunities for practical leadership experience within a reflective learning framework. Students in this course will go through the training to become a CEP PE Instructor, Outdoor Odyssey Guide or Cornell Team and Leadership Center Facilitator before leading their own Class, Trip or Program.
+
+Code: LEAD 3100
+Title: Foundations in Leadership: Skills for Personal and Professional Effectiveness
+Description: This course frames leadership as a particular way of approaching life, one that is essential to both personal fulfillment and career effectiveness. The course begins with the inner work of a leader's personal development and then explores how leaders work through others to enhance their influence.
+
+Code: LEAD 4925
+Title: Leadership Minor ePortfolio
+Description: The purpose of this course is to demonstrate that Leadership Minor students will have met all learning outcomes in the program prior to graduation by documenting relevant in-class and co-curricular activities in their individual ePortfolio. The ePortfolio will be evaluated based on the following elements: a personal profile, leadership philosophy statement, leadership experiences, personal development, examples of how the learning outcomes for the minor have been met through the capstone experience, and reflective writing on the capstone experience. The evaluation and assignment of a grade will be made by the student's advisor using a common rubric. Ideally, students will enroll in this course in their second-to-last semester so any deficiencies can be addressed prior to graduation.
+
+Code: LEAD 4970
+Title: Undergraduate Experience in Leadership
+Description: The capstone leadership experience for the Leadership Minor should be designed with a member of the faculty or staff who will directly supervise the experience, include learning outcomes, and be pre-approved by the director of the minor. The leadership experience can be directed through Cornell athletics, organized campus clubs, the Greek system, Cornell Outdoor Education, the Cornell Public Service Center, the residential system or other similar organization. Every 45 hours outside of the classroom is equivalent to one credit hour.
+

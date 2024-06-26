@@ -1,0 +1,24 @@
+Code: VTPMD 2990
+Title: Undergraduate Research in Epidemiology
+Description: Mentored research apprenticeship program designed to give laboratory experience in applied epidemiology to qualified unmatriculated high school students (participating in Cornell Summer College) or Cornell underclassmen. Students are placed in a research laboratory with a designed project under the direct supervision of a research associate (upper-level graduate student, post-doc, or faculty member). Students are graded on preparation, participation in laboratory, academic life, and appropriate acquisition of techniques. At the end of the six-week session, they are expected to give a brief (15- to 20-minute) oral presentation on their work and submit a manuscript in a form suitable for publication. The faculty director of the laboratory has ultimate responsibility for evaluating each student's work and assigning the grade.
+
+Code: VTPMD 6640
+Title: Introduction to Epidemiology
+Description: Course covers fundamental epidemiology concepts and methods in the investigation of determinants of health or disease in populations. Topics include causation, measures of disease frequency and association, sampling methods, selection and interpretation of diagnostic tests, type and characteristics of observational and controlled studies, and bias and confounding.
+
+Code: VTPMD 6660
+Title: Advanced Methods in Epidemiology
+Description: Concepts introduced in VTPMD 6640 and VTPMD 6650 are further developed, with emphasis on statistical methods. Topics include interaction, effect modification, stratified analysis, matching and multivariate (logistic regression) methods, survival analysis, repeated measures, and strategies for the analysis of epidemiologic data.
+
+Code: VTPMD 7080
+Title: Epidemiology Seminar Series
+Description: Discusses advanced theoretical and analytical epidemiologic concepts and techniques.
+
+Code: VTPMD 7660
+Title: Graduate Research
+Description: Enables students outside the section of epidemiology to receive graduate research credits for projects with epidemiological components.
+
+Code: VTPMD 7990
+Title: Independent Studies in Epidemiology
+Description: The purpose of this course is to investigate an epidemiologic topic with one of the instructors. It provides experience in problem definition, research design, and the analysis of epidemiologic data.
+

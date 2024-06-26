@@ -1,0 +1,16 @@
+Code: TAG 1100
+Title: Elements of Tagalog-Filipino Language and Culture
+Description: This course will introduce very basic functional uses of Tagalog/Filipino language and elements of Filipino culture to interested students like heritage learners and those who are planning to travel briefly to the Philippines to participate in a short project or study abroad program in the country.
+
+Code: TAG 1121
+Title: Elementary Tagalog-Filipino I
+Description: Gives a thorough grounding in basic speaking and listening skills with an introduction to reading and writing.
+
+Code: TAG 2201
+Title: Intermediate Tagalog-Filipino I
+Description: Develops all four skills: listening, speaking, reading, and writing.
+
+Code: TAG 3301
+Title: Advanced Tagalog-Filipino I
+Description: Continuing instruction on conversational skills but with emphasis on reading and writing. Selected core readings in contemporary Tagalog literature are used, but students, in consultation with the instructor, may select some of the class materials.
+

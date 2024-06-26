@@ -1,0 +1,12 @@
+Code: PUNJB 1121
+Title: Elementary Punjabi I
+Description: This course introduces students to Punjabi, a major language of northern India and Pakistan. Beginning with the study of the Gurmukhi script, the course offers an intensive study of the speaking, reading, and writing of the language. This is approached through the theme-based syllabus, a discussion in small groups and paired activities on the cultural background of Punjab and Punjabi culture.
+
+Code: PUNJB 2201
+Title: Intermediate Punjabi I
+Description: Further develops students' skills in Punjabi, a major language of northern India and Pakistan. Continuing with the study of the Gurmukhi script, the course offers an intensive study of the speaking, reading, and writing of the language. This is approached through the theme-based syllabus, a discussion in small groups and paired activities on the cultural background of Punjab and Punjabi culture.
+
+Code: PUNJB 5509
+Title: Graduate Studies in Punjabi
+Description: Topics vary by semester in relation to student needs.
+

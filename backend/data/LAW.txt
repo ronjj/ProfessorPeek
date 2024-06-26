@@ -1,0 +1,654 @@
+Code: LAW 3281
+Title: Constitutional Politics
+Description: This course investigates the United States Supreme Court and its role in politics and government. It traces the development of constitutional doctrine, the growth of the Court's institutional power, and the Court's interaction with Congress, the president, and society. Discussed are major constitutional law decisions, their political contexts, and the social and behavioral factors that affect judges, justices, and federal court jurisprudence.
+
+Code: LAW 4013
+Title: Antisemitism in the Courts and in Jurisprudence
+Description: Antisemitism, a deep-seated prejudice against Jews, is seeing a global revival. The most brutal U.S. instance was the 2018 Tree of Life Synagogue massacre, where Robert G. Bowers, an active anti-Semitic online poster, took 11 lives. Tried in 2023, he was condemned to death for his crimes. As emphasized by Assistant U.S. Attorney Soo C. Song, Bowers was driven by his belief that Jews are "a cancer upon the planet." Bowers' trial was only the most recent in a series of trials and judicial proceedings, both in the U.S. and internationally, that had antisemitism at their core in a myriad of ways. This course examines various manifestations of antisemitism in law and jurisprudence, from 19th century Europe to early 20th century America to Nazi Germany and the Stalinist U.S.S.R. to the present. Among the topics covered are blood libel trials, the Dreyfus affair in France, the Leo Frank trial in Georgia, the defamation case against Henry Ford, the Nazi Nuremberg laws, the annihilation of European Jews as the core of the crimes against humanity charge at the International Military Tribunal at Nuremberg, and contemporary proceedings charging a hostile anti-Semitic environment at certain U.S. colleges and universities under Title VI of the Civil Rights Act of 1964.
+
+Code: LAW 4021
+Title: Competition Law and Policy
+Description: This course will examine issues that arise when a country attempts to implement and maintain a "competition policy" as a way of promoting economic growth and efficiency. The basic reading material will start with actual cases (most of them arising under U.S. antitrust law), and use those cases to probe the legal, economic and broad policy issues that the cases raise.
+
+Code: LAW 4330
+Title: Environmental Law and Policy
+Description: Environmental law deals with some of today's most pressing challenges. In the fifty years since 1972, when the first World Conference on the Environment was held in Stockholm, and the US Clean Water Act was amended, the field of environmental law and policy has become increasingly sophisticated and complex. Regulation of environmental harms has long been a focus of governmental effort. Over the past half century, however, societies have come to recognize that they must adopt controls on pollution to protect the air, ground, water, atmosphere, and the natural world. Environmental law also increasingly touches on energy, agriculture, and land use law, and has expanded to include a focus on corporate law, international trade, environmental governance, environmental justice, sustainable growth and development, and climate change. In this course, we will look at the major statutes and policies used, at both the federal and state levels, to protect humans and the environment against exposure to harmful substances, including the National Environmental Policy Act (NEPA), Clean Air Act, Clean Water Act, CERLCA (Superfund), Resource Conservation & Recovery Act, Toxic Substances Control Act (TSCA), and approaches to protecting endangered species and ecosystems. We will also examine the challenges of global atmospheric pollution, including ozone depletion and climate change. The class will look not only at the substance of these laws and policies, but also review common-law litigation, enforcement challenges, and the role of market mechanisms in addressing environmental issues. Students will become familiar with the history of environmental law and will analyze important landmark cases, as well as the hierarchy of laws, and jurisdictions that shape environmental law and policy. Students will apply their knowledge to real examples, with the goal of developing innovative legal solutions for the critical environmental challenges facing our world today.
+
+Code: LAW 5001
+Title: Civil Procedure
+Description: An introduction to civil litigation, from commencement of an action through disposition on appeal, studied in the context of the federal procedural system. Also, a detailed consideration of federalism and ascertainment of applicable law; jurisdiction, process, and venue; and former adjudication.
+
+Code: LAW 5020
+Title: Microeconomics for Management
+Description: Introduces microeconomic theory and applies it to problems faced by managers. Topics include supply and demand, consumer behavior, pricing when a firm has market power, and the role of contracts. The course employs a lecture format and emphasizes problem solving. Grading is based on quizzes, a midterm and a final exam.
+
+Code: LAW 5021
+Title: Constitutional Law
+Description: A study of basic American constitutional law, including structural aspects of the Constitution and certain of its rights provisions.
+
+Code: LAW 5041
+Title: Contracts
+Description: An introduction to the nature, functions, and processes of exchange, contract, and contract law. The course focuses on the predominant rules and principles governing contract and related obligation, including the substantive reasons underlying the rules and principles.
+
+Code: LAW 5081
+Title: Lawyering
+Description: Lawyering is a full-year course designed to introduce first-year students to lawyering skills, with primary emphasis on legal writing, analysis, research, and oral presentations. Assignments are usually set in the context of a simulated law office (or judge's chambers). In the fall semester, students write predictive memoranda that point out the strengths and weaknesses of their client's case. To prepare the memoranda, students may need to determine the facts of the case by conducting interviews or depositions. Acting as junior attorneys, students will also make an oral presentation to a supervising attorney. The spring semester focuses on persuasive advocacy. Students prepare a memorandum, motion, or brief for submission to a court and, later, orally argue for their positions in a simulated court session. Throughout the year, students also learn the fundamentals of legal research. Instruction occurs not only in full-class sessions but also in individual conferences. Students receive extensive feedback on each major assignment.
+
+Code: LAW 5091
+Title: Strategy
+Description: Among the critical tasks facing any senior manager are the creation, implementation, and evaluation of a business unit's strategy. This course seeks to provide the management student with the tools and frameworks essential to carrying out these tasks. Many of these tools and frameworks are based on recent advances in game theory, industrial organization, and organization theory, although the course also draws from the older business policy tradition. Students who successfully complete this course are able to analyze industries, identify areas of strategy advantage and disadvantage, and devise strategies that exploit advantages and remedy disadvantages.
+
+Code: LAW 5151
+Title: Torts
+Description: An introduction to the principles of civil liability in the tort field: intentional wrongs, negligence, and strict liability. Attention is also given to the processes by which tort disputes are handled in our legal system.
+
+Code: LAW 5330
+Title: Environmental Law and Policy
+Description: No description available.
+
+Code: LAW 6000
+Title: Law In-Absentia Study
+Description: This course is for Law students who have been approved for one semester of in-absentia study at an ABA accredited law school.
+
+Code: LAW 6007
+Title: Contracts for LLM Students
+Description: An introduction to the nature, functions, and processes of exchange, contract, and contract law. The course focuses on the predominant rules and principles governing contract and related obligation, including the substantive reasons underlying the rules and principles.
+
+Code: LAW 6009
+Title: Constitutional Law for LLMs
+Description: This course introduces American constitutional law for students who are trained in other legal traditions. It covers structural aspects of the Constitution including the roles of the legislative, executive, and judicial branches, and the relationship between federal, state, and tribal governments. It also covers some of the Constitution's rights provisions.
+
+Code: LAW 6011
+Title: Administrative Law
+Description: An introduction to the constitutional and other legal issues posed by the modern administrative state. Topics include: procedural due process, separation of powers, procedural modes of administrative policymaking; judicial review of agency action; and the oversight and control relationships between agencies and Congress or the President. The course provides a working familiarity with the fundamentals of administrative procedure, as well as a larger inquiry into the role of agencies in our constitutional system - and the effect of legal doctrine on shaping that role.
+
+Code: LAW 6027
+Title: Campus Mediation Practicum
+Description: This course is offered to students interested in acquiring the knowledge, skills and techniques necessary to mediate campus disputes.
+ 
+In the first segment of the course, students will be introduced to the guiding principles of mediation and restorative conferencing. A review of the theories of conflict, its roots and its resolution, set the stage for the role mediation and restorative conferencing can effectively play in resolving conflict.  Students are introduced to the models of mediation and the benefits and challenges of each, including a comparative analysis of evaluative, facilitative, transformative, and restorative justice styles of mediation. 
+ 
+In the second segment, students will be assigned to mediate and facilitate cases referred to the Scheinman Institute from the Office of Student Conduct and Community Standards, as well as other campus partners.  The role of gender, race, culture, ethics and impasse in mediation will all be examined and incorporated into simulations and case studies.  
+ 
+One full credit of this course will be dedicated to restorative justice and mediation experience outside of the classroom. Students will have several opportunities to apply their knowledge of mediation and restorative justice to acquire the skills necessary to become effective mediators and facilitators through on-campus student-based mediations and restorative processes. Following each case assignment, students will be required to provide a reflection and class presentation analyzing the nature of the complaint, the approach and techniques employed during the case and the student's evaluation of what worked and did not work in their attempt to resolve the conflict. Oversight will be provided by the course instructor.
+
+Code: LAW 6029
+Title: Campus Mediation Practicum II: Advanced Issues in Restorative Justice
+Description: This course is offered to students interested in furthering their knowledge of the principles and practices of restorative justice. Students will also acquire the knowledge, skills and techniques necessary to mediate complex campus disputes. The course considers the needs and roles of key stakeholders (victims, offenders, communities, justice systems) and explores in depth the principles and values of restorative justice. It also identifies challenges to restorative justice - the dangers, the pitfalls – as well as possible strategies to help prevent restorative justice from failing to live up to its promise. Much of the course is organized around the issue of harm and crime within our legal system. However, students will also be exposed to restorative justice in multiple contexts, including issues in higher education.
+
+Code: LAW 6051
+Title: Advanced Legal Research in Business Law
+Description: Business issues, particularly those relating to corporations, are a given in most areas of practice. This course will introduce students to online resources providing company information and will enable them to evaluate the information in order to determine whether the resource is the most appropriate for their research. Students will learn how to find what the company says about itself (required filings, annual statements, web pages, press releases), what third parties have to say (analysts, ratings services, directories, news and journal articles), insider information, and the regulatory background of company information. Classes are lectures in concert with outside assignments. There are assigned readings in lieu of a required textbook.  Students complete three assignments, and a due diligence report on a company of the student's choice. There is no final exam.
+
+Code: LAW 6091
+Title: Introduction to the American Legal System
+Description: Regular attendance of classes is required and will be monitored. The primary purpose of the course is to provide a survey and an analysis of the laws of the United States. It does this by exploring the basic foundations of American Law, its nature and theoretical underpinnings. Special emphasis is placed on principles in the American legal system that are distinctive and require particular attention from students who have been trained abroad. Among the topics to be covered by the course are the structure of the US court system; judicial review; the legislative system; federalism; separation of powers; consideration in contract; civil procedure; constitutional law; tort law, the common law; and criminal law. Students will also be instructed in some of the basics of American legal research. Class sessions consist of lectures and in-class discussions. Students are expected to participate in class discussions based on assigned readings. During the course students will be assigned at least two, short written exercises. The final requirement of the course will be a final examination.
+
+Code: LAW 6101
+Title: Antitrust Law
+Description: The antitrust laws of the U.S. protect competitive markets and limit the exercise of monopoly power. Topics include: price fixing, boycotts, and market allocation agreements among competitors; agreements between suppliers and customers; joint ventures; monopolization; and mergers.
+
+Code: LAW 6105
+Title: Deciphering DeFi: Legal, Governance and Economic Issues Facing Decentralized Finance Platforms
+Description: No description available.
+
+Code: LAW 6111
+Title: Arbitration Law and Practice
+Description: The field of alternative dispute resolution has virtually transformed the practice of law. Today, every lawyer has a professional responsibility to his or her clients to consider the most appropriate process available to resolve the issues. This course will explore the law and practice of arbitration as a process for the private adjudication of disputes. It is a hands-on participatory course which will examine arbitration as an alternative to litigation. Taught by professional arbitrators, the course is designed to comply with the experiential learning requirements of the American Bar Association's Council of the Section of Legal Education and Admissions to the Bar. The course will not only enhance the student's understanding of the arbitration process but will also improve his or her advocacy skills. Throughout the course, ethical issues, which are particularly significant in the dispute resolution field, will be considered.
+
+Code: LAW 6114
+Title: Big Red Ventures
+Description: Big Red Ventures is Cornell's student-run venture fund. Founded in 2000 as a student project, BRV fund managers source new investment opportunities, conduct opportunity assessments and due diligence, make investment recommendations, assess and vote on recommendations of other fund managers, and make investments in early-stage, high-growth startup companies. Fund managers also manage existing portfolio investments, conduct annual portfolio valuations, and prepare investor materials such as an annual report and annual meeting. Fund managers operate under the guidance and oversight of experienced practitioner faculty. BRV is a selective program, with an application and interview process open to MBAs, JDs, and PhD candidates; the course is only open to students who apply to become and are selected as fund managers (see brventurefund.com for application details and timing). Full participation at either the Ithaca or Cornell Tech campuses, both fall and spring semester, is required.
+
+Code: LAW 6131
+Title: Business Organizations
+Description: An introduction to the legal rules, principles, and economic factors that influence the governance of business enterprises in the United States. While the principal focus of the course will be the governance of large, publicly-traded corporations, we will also devote some attention to agency relationships, partnerships, and closely-held corporations. Legal topics will include business formation and capitalization, fiduciary obligations, shareholder voting, derivative suits, corporate control transactions, and the purpose of the firm.
+
+Code: LAW 6146
+Title: AI Law and Policy
+Description: No description available.
+
+Code: LAW 6161
+Title: Comparative Law: The Civil Law Tradition
+Description: This course introduces students to the institutional and conceptual organization of "civil law" legal systems (which govern almost all of Western and Eastern Europe and Latin America, as well as significant portions of Africa and Asia). The course will therefore provide a broad overview of "civilian" private law and procedure, criminal procedure, administrative law, and constitutional law. The course is particularly interested in the differences between common law and civil law understandings of the relationship between law-making, legal interpretation, and the judiciary.
+
+Code: LAW 6193
+Title: The Practice of International Arbitration
+Description: This course will examine the foundations of international arbitration, both commercial and investor-state, and discuss strategies for practicing in this field, including identifying applicable law, drafting effective arbitration clauses, selecting arbitral institutions and appointing arbitrators, gathering evidence, handling parallel proceedings, mediating settlements, requesting interim measures, and enforcing arbitral awards. Several classes will also turn specifically to investor-state arbitration (or "investment treaty arbitration"), a relatively new and revolutionary area of international adjudication that is growing in prominence. Through lectures and classroom simulations, the course will introduce students to the practice of international commercial and investment arbitration.
+
+Code: LAW 6198
+Title: Current Issues in Health Law and Policy
+Description: The course begins with a study of statutes, regulations, and cases concerning licensure, informed consent (to treatment), and liability. We also examine law and policy governing health care affordability and accessibility, including insurance coverage, and bioethical dimensions of health care. Having set the stage with these foundations of health law, the course will focus on the role of technology in varied settings of health policy, law, and regulation. These topics change year to year and may include: reimbursement levels set by the Centers for Medicare and Medicaid Services for new technology; quality analysis for Accountable Care Organizations and other Advanced Payment Models; calculation of medical loss ratios and other critical quantitative analysis for private insurers; quality measures for providers and hospitals; data analytics for public health measures; FDA assessments of drug safety and effectiveness; rankings and ratings of physicians and hospitals; statistical assessment of patterns of fraud and abuse; the role of data in Advanced Payment Models and other "pay for performance" alternatives to fee-for-service; the role of "middlemen" such as pharmacy benefit managers and group purchasing organizations in larger networks of health care finance; sampling cases for False Claims Act liability; proper information about outcomes for informed consent and reimbursement purposes; drug effectiveness and approvals; valuation of procedures via the resource-based relative value scale method; prior authorization for treatment; and COVID-19 data disputes. In many of these areas, we will consider the role of big data, AI, and machine learning in collecting, analyzing, and using health data.
+
+Code: LAW 6203
+Title: First Amendment: Speech and Press Clauses
+Description: This course will survey interpretations of the speech and press clauses, including both court doctrines and theoretical understandings. Treatment of topics will vary from year to year. Current developments will be emphasized.
+
+Code: LAW 6205
+Title: Cyber Enforcement, Regulation and Policy Analysis
+Description: This course will focus on analyzing government enforcement actions (both criminal and civil), regulations, and policies that seek to prevent cyber misconduct.  The course will cover a variety of areas, such as cyber threats to national security, economic espionage, hacking, fraud, initial coin offerings, cryptocurrencies, cybersecurity, and data breaches.  Students will hear directly from current and former enforcement officials, explore problems of public and private cyberspace regulation, and analyze how existing and emerging government cyber policies can impact technological innovation.
+
+Code: LAW 6231
+Title: Comparative Copyright and Knowledge Protection
+Description: Copyright and mechanisms of protection and use of knowledge touch countless creative endeavors and global economic and cultural activities. Domestic copyright law as expressed in the U.S. Code and case law answers some questions and gives rise to others. Students in this seminar will critically compare and evaluate legal approaches to elements of copyright law of selected foreign jurisdictions, from practical and normative perspectives. Through interrogation of scholarly readings and cases, class discussion, and their own research and analysis, students will examine comparative approaches to issues such as subsistence of copyright; the nature of authorship; originality and fixation requirements; the spectrum of conceptions of fair use and fair dealing; moral rights.
+
+Code: LAW 6241
+Title: Federal White Collar Crime
+Description: This course examines some of the principal statutes used to prosecute corporate and white collar crime. Theories of liability we will consider include traditional white collar offenses like mail and wire fraud, insider trading, false statements, perjury, and obstruction of justice. They also include more recent entries into the field such as RICO, money laundering, and laws enacted to combat government contract fraud. In addition the course provides an introductory look at the workings of the now-advisory Federal Sentencing Guidelines.
+
+Code: LAW 6251
+Title: Law and Politics of the Carceral State
+Description: Since Lyndon Johnson called for a "War on Crime" in 1965, the United States has adopted a uniquely punitive agenda that has led to an unprecedented growth of the prison population. Nowadays, almost two million people are detained in prisons, jails, correctional facilities, and immigration detention centers. Moreover, nearly four million people are under community supervision. During the last two decades, however, the law-and-order narrative has been met with resistance and skepticism. Despite certain consensus among politicians on the need to reform the criminal justice system, a growing social movement has called for more radical transformations, such as abolishing the prison industrial complex. Against this backdrop, this course explores the modern US criminal justice system and emerging critiques of it. We will analyze the forces that shaped the United States as a carceral state and discuss its perceived problems, including structural police violence, crimmigration, the war on drugs, and collateral consequences. In doing so, we will pay particular attention to the interplay of race, class, and gender. We will then shift our attention to the US abolitionist movement and explore this on two main fronts. First, we will discuss the challenges of this movement's demands to the current criminal justice system. Second, we will examine the challenges this movement faces to advance alternative ways of dealing with social and interpersonal conflicts that do not rely on police forces, surveillance, and punishment.
+
+Code: LAW 6263
+Title: Criminal Procedures - Adjudications
+Description: This course will primarily focus on the adjudication phase of the criminal process including: (1) the right to counsel, including the right to the effective assistance of counsel and conflict-free counsel; (2) the admissibility of incriminating statements; (3) charging, severance & joinder, and pretrial detention; (4) the law of guilty pleas; (5) jury composition and selection; (6) fair trial procedures including rights afforded by the Confrontation, Double Jeopardy and Due Process Clauses; and (7) sentencing practice and procedure.
+
+Code: LAW 6266
+Title: Critical and Strategic Thinking
+Description: Succeeding in any business leadership role requires you to think critically, and make quality decisions, even in the face of challenges such as imperfect/incomplete information, changing and unforeseen circumstances, and human nature in all of its complexity and unpredictability. Major content themes of this course focus on constructing a persuasive argument and deconstructing arguments made by others; recognizing and avoiding reasoning flaws and the forces that make us most susceptible to such flaws; approaching business problems systematically and thoroughly; and producing a problem solution that is (a) well-reasoned; (b) likely to be well-received by ultimate decision makers; and (c) able to be implemented successfully.
+
+Code: LAW 6269
+Title: Improv, Storytelling and Trial Advocacy
+Description: Effective trial lawyers must have the ability to creatively use facts to tell compelling stories in a fast-paced, live environment. Improv is the art of storytelling from the known facts developed during a live performance. In this course, students will develop trial advocacy skills by learning the fundamentals of improvisational theatre in an intense, focused, fun and safe setting. Improv strengthens core skills a trial lawyer must have: the ability to pay attention, listen, work with the given evidence, build on it and tell compelling stories. Once those techniques are introduced, students will perform improvised segments of a jury trial: voir dire, opening statement and closing argument, direct and cross examination.
+
+Code: LAW 6304
+Title: Delivering Legal Services through Technology - Legal Tech Insights and App-Building Skills
+Description: This course helps Cornell Tech students understand what's happening in the rapidly transforming legal landscape – and be ready to help lead its evolution with both insights and practical skills. This intensive course has two components: (1) Legal Tech Insights: Weekly readings and corresponding guest speakers on legal tech trends; and (2) App Building Skills: Hands-on work developing expertise-automation apps using Neota Logic, a no-code software development toolset The course ends with a collegial competition among student teams who present their apps to a panel of judges.
+
+Code: LAW 6330
+Title: Environmental Law and Policy
+Description: No description available.
+
+Code: LAW 6401
+Title: Evidence
+Description: The rules of evidence in civil and criminal cases with emphasis on relevance, hearsay, authentication, witnesses, experts, and confrontation. The course focuses on the Federal Rules of Evidence, with some attention to how they diverge from the common law.
+
+Code: LAW 6421
+Title: Family Law
+Description: This course examines the regulation of intimacy, gender, and economics through the legal recognition and nonrecognition of domestic relationships. Specific topics include marriage, adult sexual relations outside of marriage, rules respecting property distribution and child custody upon divorce, parent-child relationships, inheritance and elder care, and adoption and foster care. Course materials draw upon statutes, judicial decisions, and model rules, as well as scholarship in history, social science, and feminist and queer theory. Our goal is to understand and critique how the state defines family.
+
+Code: LAW 6430
+Title: Financial Markets and Institutions
+Description: This course presents an overview of the structure and function of the financial markets. The course attempts to provide a general working knowledge of the financial system by examining not only how various intermediaries and markets work, but also their evolution over time.  The role of central banks, and their operations, is particularly emphasized, as is the nature of risk management both within the financial institution and more broadly for the financial system. Topics considered here include swaps, credit derivatives, value at risk models, and systemic risk. Just as intermediation has moved from institutions to markets, the course follows a similar evolution in the topics studied over the course of the semester. Market topics examined include securitization, the Blockchain, digital currencies and the impact of fin tech on intermediation.
+
+Code: LAW 6432
+Title: Federal Criminal Practice
+Description: The course will focus on federal criminal proceedings from a practice based perspective and will introduce students to the different stages of a federal criminal prosecution. Topics covered will include the initiation of a federal prosecution, bail and detention hearings, pretrial discovery and motion practice in federal criminal cases, litigating suppression motions, plea negotiation and federal sentencing practice and procedure. Participatory simulations requiring both oral and written advocacy will be incorporated into the curriculum.
+
+Code: LAW 6433
+Title: Ethics in Policing
+Description: This course will take an in-depth look into police practices and police officer misconduct; both on and off-duty. Topics will include alcohol and substance abuse, sexual and other misconduct, uses of force, race relations, hate crimes, and use of evolving technology. We will explore solutions and debate remedies in criminal law, civil law, and administrative disciplinary proceedings. Our goal is to structure and implement honorable and effective policing. Later in the semester we will devote a significant portion of class time analyzing the racial tensions inherent in the New York City Police Department's "stop and frisk" policy, the "broken windows" policing strategy, the shooting of Michael Brown in Ferguson Missouri, and the choke hold death of Eric Garner on Staten Island.
+
+Code: LAW 6434
+Title: Talmudic Legal Reasoning
+Description: The purpose of this course is to introduce students to the unique way that the Talmud approaches legal reasoning. We will consider a range of cases in the area of contracts, torts, employment, and inheritance, comparing and contrasting the way Talmudic scholars approach these cases with the way American case law has approached similar cases.
+
+Code: LAW 6441
+Title: Federal Income Taxation
+Description: A basic course designed to develop understanding of tax concepts and ability to work effectively with the Internal Revenue Code, regulations, cases, and other tax materials.
+
+Code: LAW 6451
+Title: Indigenous Peoples and American Law
+Description: The course will focus on the basics of Federal Indian Law, the ever-changing body of case and statutory law and treaties that define the limits and extent of Indian tribal sovereignty in the United States in the late twentieth century. The course will explore the nature and extent of tribal sovereignty at the time of European contact, the changing strategies of the United States in relating to tribes, and the lasting impact of those strategies on current-day tribal communities and their rights of self-government. The course will also explore the role of the United States in protecting tribal sovereignty and tribal resources. It will also examine the powers and jurisdiction of tribal governments with regard to both members and non-members of the tribe, as well as the lack or extent, as the case may be, of state jurisdiction over activities on Indian lands. Students will be encouraged to continually identify and question the legal, political and moral basis of the laws and policies that constitute Federal Indian Law in the United States today. We will also examine the current ALI restatement project for Federal Indian Law.
+
+Code: LAW 6461
+Title: Financial Institutions
+Description: This course explores the economic functions, institutional design, and regulation of financial institutions. Beginning with conventional deposit-taking banks, the course examines the risks embedded within the business of banking, along with how regulation seeks to manage these risks. It then expands this framework to examine several other forms of 'non-bank' financial intermediation including investment banks, insurance companies, wholesale funding markets, structured finance markets, money market and other investment funds, and financial market infrastructure. The course also examines some of the related consumer/investor protection problems and how financial regulation seeks to address them.
+
+Code: LAW 6470
+Title: High Growth Corporate Transactions
+Description: This course is designed to familiarize students with common issues that arise in, and how they are addressed by attorneys who structure, high-growth (principally start-up) corporate transactions. It will address that portion of the transactional practice not covered in Technology Transactions. A wide range of topics is expected to be covered, including: Choice of Entity; Founders' Agreement(s); Terms of Preferred Stock, including Liquidation Preferences and Conversion Mechanics; Basic Deal Structuring; Tax Issues/Benefits for Entrepreneurs/Startups; Employment and Incentive Considerations; Basic Securities Regulation; Convertible Notes and SAFEs; Series A Financing; Special Considerations with High Valuations and Unicorns; Distressed Situations and Down Rounds; Operational Agreements; Indebtedness; M&A Transactions; and Initial Public Offerings.
+
+Code: LAW 6485
+Title: Function of the General Counsel
+Description: The intention is to serve as a view of the general counsel function within a company.  A central objective of the course is to demonstrate the vital role of the general counsel in avoiding problems, solving problems that do occur, and fulfilling the central mission of the business or organization.
+
+Code: LAW 6509
+Title: Immigration Federalism
+Description: No description available.
+
+Code: LAW 6512
+Title: Intellectual Property Law
+Description: This is a survey course in intellectual property (IP) law. It covers the what, when, who, how, and why of IP: what kinds of information can be protected, when these rights arise, who owns them, how they are enforced, and why the legal system goes to all this trouble. We will perform comparative anatomy on bodies of law including trade secret, patent, copyright, trademark, false advertising, and rights of publicity, dissecting them to understand them on their own terms and in relationship to each other.
+
+Code: LAW 6533
+Title: Federal Income Taxation of Low-Income Taxpayers
+Description: This course covers the present structure of tax law in the United States, including the measurement of taxable income, tax compliance fundamentals, and other related Federal and state tax issues facing low-income taxpayers, with some emphasis on immigrant taxpayers. Participants also discuss various tax research and compliance tools that may be used by practitioners and/or volunteer low-income taxpayer assistance programs. Guest lecturers will focus on specific topics such as the rules surrounding ITIN preparation and other tax issues unique to low-income taxpayers.
+
+Code: LAW 6561
+Title: International Human Rights
+Description: International Human Rights Law and Institutions seeks to promote and secure for the individual protection of an array of agreed rights in his/her national society.  The individual will turn to international law and institutions in order to enhance support for and to vindicate his/her rights under national law. The objective of the course is to introduce the student to the theory, norms, and institutions central to the international human rights legal regime. The course will explore the emergence and the enforcement of international human rights norms, the international machinery for the protection of human rights in the world community including the United Nations Human Rights Committee, the European Court of Human Rights, the African Court of Human Rights, the Inter-American Court of Human Rights, and the International Criminal Court. Relevant decisions of these courts and of municipal courts will be studied as well as basic documents.  It will also examine domestic mechanisms for the enforcement of international human rights against foreign violators through for example, the Alien Tort Claims Act and the Torture Victim Protection Act. It will further examine the liability of corporations for human rights violations.
+
+Code: LAW 6569
+Title: Introduction to Depositions
+Description: Depositions are a critical component of pretrial discovery. Indeed, many cases are lost, won, or settled because of information gleaned at a deposition. Attorneys also often modify trial strategies because of a witness's performance at a deposition. Because depositions play such an important role in litigation, the majority of junior litigation attorneys can expect to deal with depositions in some manner from the very start of their careers. This introductory course will expose students to several facets of a deposition: preparing for deposition, asking questions at a deposition, defending the witness at a deposition, using documents at a deposition, and reviewing the transcript of a deposition. Students can expect to take and defend mock depositions and to observe and critique their fellow students' deposition skills. The course will culminate in a three-hour deposition in which students will team up to depose and defend two witnesses. Students must set aside one Saturday morning at the end of the semester for this deposition.
+
+Code: LAW 6572
+Title: Introduction to Transactional Lawyering
+Description: The conventional law school curriculum implicitly emphasizes appellate litigation, teaching students to read, argue and distinguish cases, and to predict what a judge will do. A transactional practice demands additional skills. A full understanding requires years of experience - not something that can be bottled into a one-credit course. Transactional Lawyering provides students with an initial intro­duc­tion to how a deal is structured and what a deal lawyer does - familiarizing them with some common problems and the tools used to address them. In exploring these problems, the course draws on moral hazard, adverse selection, and other economic theories and applies them to real deal issues.
+
+Code: LAW 6601
+Title: Land Use Law
+Description: This course will provide a broad introduction to the theory, doctrine, and history of land use regulation. Topics will include the meaning of ownership; theories behind land use controls; the private nuisance action; zoning, including the permissible content of zoning laws, and contract and conditional zoning; vested rights, development agreements, and "ballot box" zoning; and constitutional limitations on government action in land use controls, including takings law, the First Amendment, and due process challenges. We will also consider current hot topics in land use law such as brownfields legislation, natural gas fracking, sprawl, conservation easements, historic preservation laws, endangered species legislation, and global warming litigation.
+
+Code: LAW 6609
+Title: Discovery Disputes
+Description: Document discovery is a critical aspect of pre-trial practice in which litigants must obtain the evidence necessary to transform their allegations into facts to be proven at trial. "Bad" documents uncovered in the course of discovery often make or break a party's claims, defenses, and—in high profile cases—willingness to risk public disclosure of damaging or embarrassing internal emails, chats, and text messages. Parties are therefore incentivized to withhold such communications on the basis of attorney-client or other forms of privilege which, in turn, results in extensive motion practice. Despite the high-stakes nature of this phase of trial, junior attorneys are often primarily responsible for setting the strategy and carrying out the day-to-day tasks involved in obtaining and producing documents necessary to satisfy a litigant's obligations under the Federal Rules of Civil Procedure. This introductory course will familiarize students with the mechanics of document discovery and resolving the disputes between litigants that frequently arise complex commercial cases. Students will team up to assume the roles of plaintiff's or defendant's counsel to navigate a discovery dispute based on outcome-dispositive facts and communications based on real-world cases. Students will learn to collaboratively strategize and draft requests for production, responses and objections, deficiency correspondence with opposing counsel, and briefing to compel production of improperly withheld documents. Students will also participate in simulated "meet-and-confer" negotiations with opposing counsel, and the course will culminate in oral argument on their motion.
+
+Code: LAW 6635
+Title: The Fight Against Unemployment: Advocacy and Policy
+Description: Unemployment is damaging to individuals, families, and society. Governments around the world have attempted to mitigate these harms, in some countries through generous out-of-work benefits, targeted retraining services for job seekers, and disincentives for employers to lay workers off in the first place. But why is unemployment so persistent in capitalist societies? What does it mean for an individual to be unemployed? What can the US learn from other countries to better combat unemployment and reduce its socially damaging effects? Students will work with community partners to assist the unemployed or conduct policy-relevant research.
+
+Code: LAW 6641
+Title: Professional Responsibility
+Description: This course is intended to provide a comprehensive overview of the law governing lawyers in a variety of practice settings, including transactional, counseling, and civil and criminal litigation. The course is not focused merely on the ABA's Model Rules, but draws extensively from judicial decisions in malpractice and disqualification cases, the new Restatement of the Law Governing Lawyers, and other sources of law. A major theme is the relationship between state bar disciplinary rules and the generally applicable law of tort, contracts, agency, procedure, and crimes. Another significant theme is the prevention of attorney discipline and malpractice liability through advance planning.
+
+Code: LAW 6645
+Title: The Fight Against Unemployment: Engaged Learning Option
+Description: In the engaged learning option, you will work with community partners providing legal advice or workforce development services, or gather and analyze research data supervised by Prof. Ian Greer.
+
+Code: LAW 6722
+Title: Local Government Law
+Description: This course will explore how local governments (cities, counties, towns, special districts and authorities) operate in practical detail. It will focus on the powers of local government as established by Constitutional, Federal, State and local law. The course will look at issues faced by these governments and explore how they govern in light of legal, practical and political considerations. The course will include: a) a review of the balance of legal powers between Federal, State and local governments; b) The rules by which local governments operate including the forms, structures and financing of local governments, and c) the practical application of the laws to numerous functions of local governments including policing, health, discrimination and the environment.
+
+Code: LAW 6730
+Title: Multicultural Work Environment I and II
+Description: The goal of this course is to promote an understanding of the challenges encountered in the work environment as a result of cultural differences. Students are required to complete a ten-page paper by September 15 following their summer internship.
+
+Code: LAW 6742
+Title: Patent Law
+Description: This course will focus on U.S. patent law giving comprehensive coverage of doctrinal elements and touching on key policy issues.
+
+Code: LAW 6745
+Title: Doing Business in the Middle East
+Description: At the outset, the course provides an introduction to the legal system of the MENA countries. In the same context, it introduces Islamic law (Shari'a law), including sources of legislation, MENA countries' reaction towards the Shari'a as a source of law, and the impact of the Shari'a on MENA laws and regulations in general and on the doing business in particular. The course then
+samples the specificity of several substantive areas for foreign lawyers in MENA countries, including business associations, contract law, mergers and acquisitions, securities regulations, settlement of disputes, and corporate governance. These areas will be examined to the extent required to enable foreign lawyers to access MENA countries or to support American companies investing in the MENA.
+
+Code: LAW 6761
+Title: Principles of American Legal Writing
+Description: This course provides foreign-trained lawyers with an introduction to the American legal system and essential principles of legal writing, analysis and legal research skills in the United States. Students are afforded an opportunity to practice some of the forms of writing common to American legal practice by drafting documents such as memoranda and briefs in the context of representing hypothetical clients. Students are given the opportunity to conference individually with the instructor and to re-write assignments after receiving the instructor's comments.
+
+Code: LAW 6764
+Title: Practical Lawyering
+Description: This class focuses on the practical aspects of lawyering, doing so by exploring the lawyer's role in four typical situations: advising clients in connection with (a) the formation and early financing of a business entity; (b) the exercise of boards of directors and management of their fiduciary duty of oversight; (c) the day-to-day operations of a business, including contractual and online relationships with customers and suppliers; and (d) sale or change-of-control transactions.
+
+Code: LAW 6767
+Title: Cannabis Law and Policy
+Description: No description available.
+
+Code: LAW 6791
+Title: Public International Law
+Description: An introduction to the legal rules governing the conduct of states vis-à-vis other states, individuals, and international organizations, with reference to major current events and issues. Topics include the nature and sources of international law; the establishment and recognition of states; principles concerning state sovereignty, territory, and jurisdiction; the law of treaties; state responsibility; use of force; the protection of individuals; and relationships between international and national law.
+
+Code: LAW 6801
+Title: Remedies
+Description: This course examines the remedial consequences of lawsuits and the remedial choices open to litigants: essential strategic information for students considering a litigation-oriented practice. It covers compensatory remedies, injunctions, and special remedies such as constructive trusts. It also clarifies the meaning of equity and the role of equity in modern American law, as well as the developing law of unjust enrichment. The course focuses on private law (tort, contract, property), but it also includes some coverage of remedies for enforcement of Constitutional rights and public law.
+
+Code: LAW 6803
+Title: Roman Law
+Description: This course investigates the rich body of Roman laws on slaves, crime, and women and children. Students will explore the evolution of power over marginalized groups and penalties for crimes at the beginnings of the Western legal system in order to consider ideas of identity, agency, responsibility, and punishment from a cultural and historical perspective. Through an examination of the legal sources (in translation) and the study of the rise and changes of governmental institutions of justice, this course will examine the evolution of jurisprudence: the development of conceptions of power and shifts in the understanding of just punishment. The course is designed as an introduction to these topics suitable for all students.
+
+Code: LAW 6821
+Title: Securities Regulation
+Description: This course analyzes key issues under the U.S. federal securities laws, principally the Securities Act of 1933 and the Securities Exchange Act of 1934, with respect to the domestic and international offer and sale of securities. It includes a study of what constitutes a security, the public offering process, mandatory disclosure requirements for public companies, exemptions from registration (including exempt global offerings), and potential liabilities and sanctions.
+
+Code: LAW 6822
+Title: Social Science and the Law
+Description: This course examines the relationship of social science to law, focusing on the growing use of social science in the legal system. Over the past several decades, increasing numbers of social scientists have conducted systematic research on the operation of law and legal institutions. At the same time, social scientists themselves are testifying as experts in increasing numbers, encouraging lawyers and judges at both the trial and appellate levels to rely on social science evidence to decide cases. Social science research is also used as a tool in law reform. The aim of the course is to develop a critical analysis of these uses of social science in law and litigation. Are social scientists asking the right questions? Are lawyers, judges, legislators, and legal reformers using social science findings appropriately? Is the law's increasing reliance on social science problematic or advantageous -- or both?
+
+Code: LAW 6861
+Title: Supervised Teaching
+Description: No description available.
+
+Code: LAW 6862
+Title: Supervised Experiential Learning
+Description: No description available.
+
+Code: LAW 6871
+Title: Supervised Writing
+Description: No description available.
+
+Code: LAW 6881
+Title: Supervised Teaching and Supervised Writing - Lawyering Program Honors Fellows
+Description: Lawyering Program Honors Fellows serve for the full academic year as teaching assistants in the Lawyering course. With training and guidance from the Lawyering faculty, Honors Fellows work on myriad course-related tasks and some program-wide initiatives. In addition to meeting regularly with first-year students and critiquing papers, Honors Fellows may help design course assignments and documents, participate in simulations, and assist the research attorneys with the teaching of legal research. Honors Fellows also teach classes on the Bluebook. Additionally, Honors Fellows serve as educational mentors to first-year students and may participate in workshops on basic law-school skills.
+
+Code: LAW 6883
+Title: Corporate Finance Transactions Workshop: Bootcamp
+Description: This course will cover the day-to-day function of lawyers practicing corporate finance (both in-house and as outside counsel). Topics will include basic corporate finance principles, accounting for lawyers and how to learn and stay on top of current issues and trends, non-GAAP measures, important investor disclosures in both the private and public company context, relations with the CFO, audit committee and board of directors and significant shareholders, capital raising and other transformative transactions and financings, developing high quality compliance and risk management policies and procedures, the impact of significant litigation and government investigations.
+
+Code: LAW 6891
+Title: Taxation of Corporations and Shareholders
+Description: This course examines the federal income taxation of corporate transactions, including incorporations, dividends, redemptions, liquidations, and reorganizations.
+
+Code: LAW 6893
+Title: Technology Transactions
+Description: This course is designed to familiarize students with common issues that arise in, and how they are addressed by attorneys who structure, technology transactions.
+
+Code: LAW 6897
+Title: The Business of Law Firms in Today's Tech Economy: Operations, People, and Strategies for Success
+Description: This course helps students understand the structure, operation, key financial metrics, technology and the business and human capital strategies employed to optimize law firm performance. In addition to providing insight regarding decisions impacting business operations andstructure,focus will be placed on how law firms are adapting (or failing to adapt) to changing technology, including how these changes affect the lives and careers of associates and partners.
+
+Code: LAW 6898
+Title: The Art of Negotiation in Business and Sports
+Description: In this course, we will be analyzing and incorporating negotiation techniques and strategies, along with problem solving solutions, through in-depth simulations and experiential learning exercises taught by top executives who have successfully negotiated in business and sports. Students will get the opportunity to improve their skills through practical training and guidance from one of the most experienced negotiators in professional sports, Michael Huyghue. This course involves direct supervision of the student's performance; numerous opportunities for performance, feedback, and self-evaluation; and an in-depth classroom instructional component. The classroom component includes negotiation simulations with collaborative problem solving for actual business problems of sports organizations. Lastly, this course implements both formative and summative assessment methods in its curriculum to measure and improve student learning and provide meaningful feedback to students.
+
+Code: LAW 6921
+Title: Trial Advocacy
+Description: The course is devoted to the study and weekly performance of the full range of trial techniques. Fundamental skills are taught in the context of challenging procedural and substantive law problems. Each stage of the trial is examined: jury selection, opening statement, direct examination, cross-examination, objections, impeachment, exhibits, expert witnesses, child witnesses, pre-trial, and closing argument. In addition to a lecture and student exercises every week, students will do a full day jury trial exercise at the completion of the course on a weekend at a local court with an actual judge and jury. All weekly performances are digitally recorded and reviewed and then re-reviewed by another faculty member with the student individually. There are occasional written assignments and class attendance is mandatory for all exercises sessions and the first class lecture.
+
+Code: LAW 6941
+Title: Trusts and Estates
+Description: The course surveys the law of succession to property, including wills and intestate succession, as well as the law of trusts. The course covers the basic aspects of the federal gift and estate taxes, but does not examine them intensively.
+
+Code: LAW 6985
+Title: Becoming Thriving Lawyers
+Description: No description available.
+
+Code: LAW 7001
+Title: Anti-Liberalisms
+Description: No description available.
+
+Code: LAW 7012
+Title: Advanced Criminal Procedure: Post-Conviction Remedies
+Description: This seminar examines the procedural and substantive law governing collateral challenges to criminal convictions in state and federal courts, and explores the tensions between the criminal justice system's competing interests in finality and production of reliable convictions and sentences. The course includes a historical overview of modern habeas corpus, and will examine substantive areas of habeas law, including exhaustion, procedural default, successive petitions, cognizable claims, prejudice and harmless error, the role of innocence, the enactment and interpretation of the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), statutes of limitations and equitable tolling.
+
+Code: LAW 7034
+Title: First Amendment Law Clinic III
+Description: A continuation of the First Amendment Clinic for advanced students, with emphasis on leadership roles and advanced litigation skills.
+
+Code: LAW 7078
+Title: Critical Theory in Clinical Practice
+Description: Critical Theory in Clinical Practice, open only to students concurrently enrolled in a Cornell Law School clinic, focuses on issues relating to critical theory, social justice, and their intersection with clinical practice. Students will engage with issues of race, gender, class, disability, and other elements of social difference through academic scholarship and in-class exercises, and by exploring how these issues impact their clinic work. Lecture, case rounds, and in-class discussion will form the foundation of instruction. The course seeks to increase community and dialogue amongst clinical students across practice areas, and provide an entry-point into an interdisciplinary, systemic, and critical examination of legal practice representing marginalized, under-resourced, and public interest clients. The class will meet every other week for a total of seven times. Enrollment is limited to students currently enrolled in a Cornell Law School clinic.
+
+Code: LAW 7084
+Title: Asian Americans and the Law
+Description: Asian Americans have played a prominent role in America's legal history. Despite their small numbers, Asian Americans have been at the center of many legal controversies -- some historic that involved issues still of relevance today and some contemporary that present challenging and contentious questions. The objective of this course is to examine the legal history of people of Asian descent in the United States. The method of the class is to focus on primary legal sources: the Constitution, statutes, regulations, and judicial decisions, to trace this history and the themes it reveals. The seminar will be divided into four units, each to be covered over approximately three classes. We begin in Unit 1 with "Arrival, Exclusion, and Citizenship" -- the arrival of Asians in America and the first immigration statutes, the exclusion laws, the recent travel ban, and the question of citizenship. In Unit 2, we examine "Historical Discrimination" -- early violence against Asian Americans and efforts by state and local governments to regulate Asians in the United States. In Unit 3, we turn to "Internment and Redress and Reparations" -- the internment of Japanese Americans during World War II and the efforts to obtain redress and reparations. Finally, in Unit 4, we consider "Contemporary Issues" -- profiling and the question of "spies," employment discrimination and the so-called "Bamboo Ceiling," education and the thorny issue of reverse discrimination, the concept of the model minority, and contemporary violence against Asians, including during the pandemic. The last class will be reserved for summation and concluding discussions about the themes of the class.
+
+Code: LAW 7134
+Title: Digital Assets
+Description: This course will introduce students to the law and policy governing digital assets, particularly crypto assets, a super-set of computer software protocols. The professor will approach the course from his perspective as a full-time business planner and advisor with more than 40 years of experience in major law firms and the SEC. His clientele includes several of the more notable investors, traders, exchanges, development teams and banks in the digital assets industry. The professor also volunteers his time on regulatory and legislative projects addressing the digital assets industry. The recent bankruptcies of FTX and other centralized crypto companies will be explored in this seminar. Crypto assets include cryptocurrencies such as Bitcoin, Ether, AVAX and stablecoins, consumption tokens, non-fungible tokens ("NFTs") and decentralized finance ("DeFi") assets and exchanges, which are sometimes managed by decentralized autonomous organizations ("DAOs"). The applicable law is a combination of securities, commodities, derivatives, banking, money transmission, business organization and other US federal and state laws. Attention also will be given to non-US law and to emerging global frameworks and standards, as well as state laws and pending federal legislation. Monetary & fiscal policy views, game theory and concerns about regulatory capture, the environment and inclusion of historically underbanked communities also will inform instruction and classroom discussions. Pedagogy of the course will consist of assigned weekly readings (articles, cases, existing and proposed regulations and legislation) underlying seminar discussions. Sometimes the professor will lecture. There will likely be occasional guest speakers from diverse sectors of the digital assets industry and the practicing Bar. Students will be expected to participate via Q&A when guest speakers present. A final paper (approximately 15 pages in length) also will be required. The student's grade will be determined by the professor based upon class participation (50%) and the final paper (50%). In order to assure success in this class, students should expect to (1) complete all readings timely and attend class, (2) participate in class actively by asking and answering questions demonstrating understanding of the assigned readings, (3) research, outline for discussion in class, and prepare a thoughtful final paper, and (4) visit the professor during office hours as necessary to address pressing questions if and when they arise. The syllabus for this course will be available by early August. Because the law and policy of digital assets is in flux, reading assignments might vary after the course begins in August, particularly for the final month of the class.
+
+Code: LAW 7135
+Title: Bioethics and the Law Seminar
+Description: No description available.
+
+Code: LAW 7156
+Title: Copyright Litigation Lawyering
+Description: This seminar will allow students to gain the knowledge, expertise and confidence to successfully advocate and resolve copyright disputes. Seminar content will include the elements of direct and secondary liability; demonstrating and defending against claims of substantial similarity; navigating through the ever-evolving defense of fair use; enhancing or minimizing actual and statutory damages; the application of the Copyright Act statute of limitations; and negotiating strategies. Student will sharpen their skills in applying these concepts through in-class presentations in nearly every class, many of which will be videotaped. Students will also prepare a 5-page memo, based on the facts of an actual case, analyzing whether infringing content qualifies for fair use. Towards the end of the semester each student will start a mock litigation based on a hypothetical fact pattern by drafting a complaint and answering a fellow student's complaint. During the final two classes each student will negotiate with a fellow student (one playing the role of plaintiff's counsel and the other defendant's counsel) in an attempt to settle the mock litigation. The negotiation sessions will be videotaped. After each session, fellow students and the professor will provide feedback and guidance.
+
+Code: LAW 7169
+Title: Deals Seminar: Real Estate Transactions
+Description: In this seminar, students will learn to analyze and evaluate customary commercial real estate transaction agreements, such as purchase and sale contracts, management, development and joint venture agreements, space and ground leases, debt financing instruments and commitment letters and term sheets, with particular attention given to the give and take involved in negotiating these documents and their business rationale.
+
+Code: LAW 7178
+Title: Moral Foundations of Anti-Discrimination
+Description: What makes discrimination wrongful, when it is? Does its wrongness depend on social context and historical background? Does it depend on harmful consequences? What makes a certain ground of discrimination an improper ground? Is indirect discrimination ("disparate impact") really a form of discrimination or perhaps a mild form of affirmative action? What should be the reach and scope of anti-discrimination law? Should it allow for exemptions on religious or free speech grounds? We will address these and similar questions at a fairly abstract level, trying to understand the philosophical principles that might explain the various aspects of anti-discrimination law. Most of the legal examples will be focused on discrimination cases in the context of employment and service provision (Title VII),  but we will also consider racial profiling, disability cases, and some others.
+
+Code: LAW 7179
+Title: Digital Life Research Seminar
+Description: This seminar focuses on the societal perspectives on digital technology. Speakers will come from a range of disciplines including computer science, data science, engineering, OR, humanities, social sciences, law, and policy and will present work in progress that considers ethical and political questions related to the design, development, and deployment of digital, computational, and information systems and devices. Topics include accountable algorithms, bias in machine learning, AI and the workplace, privacy, and cybersecurity.
+
+Code: LAW 7267
+Title: Comparative Contract Law
+Description: The main focus of the course is to analyze some key institutions of contract law from a comparative perspective. The course will start with the illustration and the discussion of some general principles of contracts (civil law tradition v. common law tradition), such for instance formation and termination of contract. After a general introduction, the focus will be on a specific issue: illegality in contract law. Illegality is a fundamental problem that must be handled with attention. It covers different cases and obliges jurists to answer to difficult questions, such as if it is right that a party to a contract tainted by illegality not be able to recover from the other party the money initially paid under the contract or to what extent illegal conduct may deprive a claimant of its rights. The topic assumes primary importance because from the twentieth century onwards the statutes that include prohibitions have been multiplied, for instance to protect collective values, the environment, health, and so on. Faced with the flourishing of this kind of legislation, appropriate remedies must be applied. This issue will be analyzed in detail to make students aware of the fundamental similarities and differences between the contract laws in different legal systems.
+
+Code: LAW 7299
+Title: Constitutionalism from the Global South: Theory, Practice, Critique
+Description: No description available.
+
+Code: LAW 7311
+Title: Immigration and Refugee Law
+Description: This course explores the evolving relationship between U.S. immigration policy and our national purposes. Immigration plays a central role in contemporary American life, significantly affecting our foreign relations, human rights posture, ethnic group relations, labor market conditions, welfare programs, public services, and domestic politics. It also raises in acute form some of the most basic problems that our legal system must address, including the rights of insular minorities, the concepts of nationhood and sovereignty, fair treatment of competing claimants for scarce resources, the imperatives of mass administrative justice, and pervasive discrimination. In approaching these questions, the course draws on diverse historical, judicial, administrative, and policy materials.
+
+Code: LAW 7315
+Title: International Law and the Use of Force
+Description: No description available.
+
+Code: LAW 7373
+Title: Judicial Decision Making
+Description: Judges play a central role in the justice system. Despite their importance, judicial decision making remains poorly understood. How do judges make decisions? What influences their rulings? Obviously, the relevant law and the facts of cases matter, but whatother internal or external factors shape their judgments? Drawing on the work of judges, legal scholars, and social scientists, this seminar explores those questions. Among other things, the potential impact of political ideology, religion, race, gender, life experience, cognitive limitations, professional norms, workload, selection and retention, specialization, collegiality, hierarchy, litigant characteristics, and public opinion will be examined. The implications for effective advocacy, court reform, and the achievement of social justice will be addressed.
+
+Code: LAW 7399
+Title: Land Use and Administrative Law in New York City
+Description: No description available.
+
+Code: LAW 7405
+Title: International Law and the Use of Force
+Description: We will explore legal and policy frameworks involving armed conflict. A descriptive approach is utilized to examine what the law is, while a normative approach is embraced to inquire whether the law is what it should be. Beginning with the law related to utilizing armed force, we will assess paradigms such as traditional just war theory and the emerging "revisionist" perspective, the present United Nations construct, and other related models. Law and policy involving the conduct of hostilities and enforcement of that law are examined from an international, domestic, and comparative perspective. Practical application of law and policy is emphasized by engaging in a thorough case study of an actual incident involving the use of armed force and by exploring the effect of emerging technologies, such as cyber, artificial intelligence, and space capabilities, on the law.
+
+Code: LAW 7406
+Title: Law and Economics Colloquium
+Description: This Colloquium will feature a series of presentations by leading scholars from around the country who are engaged in research at the intersection of law and economics. Typically, we will spend two weeks on each paper. In the first session, we will discuss the paper and situate it in the relevant literature. In the second week, the author visits our class to present and respond to questions about the paper, and we are joined by other law faculty and members of the Cornell community. Students are expected to participate in these discussions and write multiple response papers during the term, which review and critique the working papers. Final grades are based on students' response papers, presentations, and in-class participation. There are no formal prerequisites. Although a background in economics and/or statistics may be helpful, it is not expected, and students who are curious and prepared to work through the ideas in the papers are strongly encouraged to enroll.
+
+Code: LAW 7440
+Title: Law and Social Change: Comparative Law in Africa
+Description: This seminar is designed for students interested in a comparative study of law in Africa. The seminar will include an introduction to multiple African legal systems, as well as African customary law, constitutional law, labor law, property law and family law. The seminar will examine the current law in the context of changes that have taken place in African society from colonization through the present day. Students will read cases and statutes from multiple African countries. Students will be encouraged to choose an area of law to conduct a comparative analysis in the required final paper. The seminar creates opportunities for multicultural experiences through immersion in South Africa's society and culture during a three-week winter trip to Johannesburg, South Africa, where students will receive instruction at the University of Johannesburg. (Travel assistance will be available based on demonstrated need. Please contact, Program Manager, IAD at 190 Uris Hall for more information.) The main objective of this aspect of the program is to enhance and reinforce academic learning by providing students the opportunity to actively engage with individuals and organizations directly involved in the administration of law in Africa in a variety of concentrations. The seminar will examine problems of law and how they have been addressed in Africa with particular attention to the interaction of the common law, African customary law, and other imported systems of law. Legal interaction between Africa and Europe, which began before colonial rule, intensified during the colonial period and has continued after independence. During the Colonial period, the Common Law and Civil law were imported into Africa and operated alongside customary law. The result is that pluralism of law is a common feature of legal systems in nearly all African states. The conflicts between the imported laws and customary law have generated considerable interest in reform and the integration of laws in various African countries as well as creating an opportunity to look to other legal system for alternative approaches.
+
+Code: LAW 7450
+Title: Topics in Presidential Power
+Description: No description available.
+
+Code: LAW 7572
+Title: Litigation Drafting
+Description: This course focuses on drafting documents typically encountered during the pretrial phase of civil litigation. As drafters, lawyers must think strategically about, and understand the conventions unique to, each document. Students will have repeated opportunities to develop essential drafting and professional skills through a combination of in-class exercises and take-home writing assignments related to pleadings, motions, discovery requests, affidavits, demand letters, and settlement agreements.
+
+Code: LAW 7598
+Title: Negotiation and Facilitation Seminar
+Description: Introduces students to the theory and practice of Negotiation and Facilitation in both legal and non-legal contexts. Theories of negotiation, conflict style, adversarial negotiation, and problem-solving negotiation will be covered, with an emphasis on developing necessary skills for use in meetings, with people in conflict, and with groups problem-solving together. Readings and lectures will provide students with a framework for analyzing negotiations as well as tools and concepts useful in negotiating more effectively, while practical exercises will highlight the challenges of this important but often-neglected lawyering skill. Simulations, exercises, readings and discussions will be used for this seminar. Participants will practice negotiation and will learn some of the challenges of this important, but often neglected, lawyering skill.
+
+Code: LAW 7621
+Title: Issues in Poverty Law
+Description: In this seminar we will examine some of the ways in which the legal system (the law, courts, lawyers, and litigation) responds to some of the most severe problems of poverty.  The concept of "judicial review" will be critical to our efforts, i.e. what role can and should the courts, our third branch of government, play in shaping social policy. We will also pay special attention to how courts and public bodies make decisions -- what factors get special consideration from decision makers.   The assigned readings will serve as the basis of class discussions.  Topics will include education, homelessness, public assistance, race and criminal justice, substance abuse, housing, and other areas of relevance.
+
+Code: LAW 7655
+Title: Property Theory and Practice
+Description: This seminar focuses on lease law in the 50 states. I am an Associate Reporter of the ongoing Restatement of the Law Fourth, Property. As I am working on restating the lease law in the 50 states (along with Tom Merrill at Columbia and Henry Smith at Harvard) and consider the policy direction when the state laws are split, this seminar enables students to get involve in the "restating" process. Each week, the discussion centers around a number of closely related issues. Moreover, I have collected information on lease law for more than 100 countries in the world. The instructor thus will also compare the lease law provisions in the US with these countries. A reasonable amount of reading (mostly Restatement drafts) will be assigned.
+
+Code: LAW 7698
+Title: Comparative Private Law
+Description: No description available.
+
+Code: LAW 7737
+Title: Social Entrepreneurship
+Description: This class will allow students to begin the process of creating an advocacy project around a special population or novel approach of their own choosing.  Students will spend the semester developing their projects.  The class is designed to support students in working in areas not addressed (or under-addressed) by existing clinical or legal service programs.  Students may work alone or with one or more partners.   
+Students must be comfortable in a less structured, more entrepreneurial environment, and be highly motivated by their chosen topic.  They should have a project idea ready for the first class.  Students should feel free to contact Doug Lasdon with questions about the class.  They can email Doug at   dlasdon@urbanjustice.org.
+
+Code: LAW 7740
+Title: Law and Economics: A Game-Theoretic Approach
+Description: This course introduces graduate students to the main concepts and ideas of law and economics, founded on elementary game theory. These ideas are then applied to contemporary policy concerns, from promoting economic development and designing welfare interventions in developing countries, to controlling corruption and financial fraud. The defining feature of the course is the structuring of these topics within a common conceptual framework, and training students to develop these ideas further and apply them to new research questions.
+
+Code: LAW 7745
+Title: Seminar on Mergers and Acquisitions
+Description: The focus of this course is developing the lawyering skills required by an attorney advising a client who is selling or acquiring a business. Individual drafting exercises, as well as strategy discussions and negotiations by student teams acting as counsel to the buyer or seller, will be interspersed with lectures on the business acquisition process and analysis of selected publicly available documentation of actual acquisition transactions. The typical chronology of an acquisition: negotiation by the buyer and the seller of the basic terms of the deal including selection of structure (sale of stock or assets; merger); drafting and negotiation of a term sheet or letter of intent; due diligence investigation; drafting and negotiation of the definitive acquisition agreement; handling of problems encountered between the execution of the agreement and the closing of the acquisition; and the closing.
+
+Code: LAW 7760
+Title: Movement Lawyering Clinic I
+Description: This course gives students the opportunity to engage in the movement lawyering. The course hasboth a classroom component and a community component. This course gives students the opportunity to engage in the movement lawyering. The course has both a classroom component and a community component.
+
+Code: LAW 7762
+Title: Movement Lawyering Clinic II
+Description: This course gives students the opportunity to engage in the movement lawyering. The course has both a classroom component and a community component. Clinic participants will gain first hand experience, knowledge, and skills in how to work with organizers to use the law to support and defend justice movements. Students will work with lawyers, community organizations, and activists to understand strategies and tactics of movement legal work. They will follow the lead of movement participants and community members to build power and assist in creating lasting change.
+
+Code: LAW 7763
+Title: Movement Lawyering Clinic III
+Description: This course gives students the opportunity to engage in the movement lawyering. The course has both a classroom component and a community component. Clinic participants will gain first hand experience, knowledge, and skills in how to work with organizers to use the law to support and defend justice movements. Students will work with lawyers, community organizations, and activists to understand strategies and tactics of movement legal work. They will follow the lead of movement participants and community members to build power and assist in creating lasting change.
+
+Code: LAW 7780
+Title: The Woke Constitution
+Description: No description available.
+
+Code: LAW 7785
+Title: Law of Genocide and War Crimes Trials
+Description: Beginning in November 1945, in an unprecedented attempt to bring war criminals to justice, more than 20 senior government officials and military leaders of Hitlerʼs Third Reich were indicted and tried, in what has become known as the Nuremberg Trial, for crimes against peace, war crimes, and crimes against humanity. Earlier that fall, the SS commandants, officers and guards who had been arrested by the British upon the liberation of the Bergen-Belsen concentration camp, had been tried before a British military tribunal. These were the first of numerous trials of Nazi war criminals and related criminal and civil proceedings arising out of the Holocaust. This seminar will examine legal and ethical issues raised in these and other trials of Nazi war criminals and individuals accused of collaborating with the Nazis in perpetrating crimes against humanity, including the 1947 "Justice Trial" of Nazi judges and senior officials of the Third Reich Ministry of Justice, the Eichmann Trial in Jerusalem and the 1963-64 Tel Aviv trial of Hersz Barenblat, the head of the Jewish police in the ghetto of Bedzin, Poland. The course will also examine the history of the Genocide Convention, and the developing law of genocide and crimes against humanity with respect to atrocities in the former Yugoslavia, Rwanda and Darfur, including the evolving law on rape and sexual violence as a weapon of war.
+
+Code: LAW 7789
+Title: Women in Business Law and International Trade
+Description: Business laws can have substantial positive and negative implications for gender equality. Discriminatory laws or the absence of legislation could threaten women's economic security or create a business environment that does not adequately support working women. On the contrary, supportive laws could promote women's career growth, ability to run businesses, and equal employment opportunities, bringing economic advantages to women and society. In addition, trade liberalization policies as a primary source of economic development can affect gender equality. This explains why gender equality lies at the heart of the 2030 Agenda for Sustainable Development, which asserts gender equality as a fundamental human right and a necessary foundation for a sustainable world. This course examines women's rights in business and trade law as a gateway toward economic growth and development. The course introduces the basics of gender and the law. It, also, looks into the relationship between gender equality and business law, including the various legal aspects of governance and board diversity, women and ownership, gender equality and alternative dispute resolution, and the challenges and advantages facing women in business law. An examination of the relevance of integrating gender issues in trade policies and a discussion of the implications of women's economic empowerment on trade follows. Economic empowerment of women is also highlighted, including promoting women in entrepreneurship, monitoring women into management roles, and empowering women in the workplace. Also, a course on women in business and trade law cannot be completed without elaborating on the role of gender equality in promoting the SDGs. The course concludes with a timely overview of how technology could be used to promote gender equality in general and women's rights in business and trade law in particular.
+
+Code: LAW 7805
+Title: Advanced Labor Law Clinic
+Description: The Advanced Labor Law Clinic provides students another opportunity to deepen their understanding of traditional labor and employment law by representing the interests of workers with typical workplace issues. There is no classroom component to this course. Students will dedicate their time to addressing client inquiries related to organizing, collective bargaining, unfair labor practice charges, the Family Medical Leave Act, the Americans with Disabilities Act or other workplace issues. Students may also have the opportunity to represent their clients in a case before the National Labor Relations Board, in mediation or arbitration pursuant to the dispute resolution mechanism in the collective bargaining agreement. In addition to the domestic labor law inquiries, interested students may have the opportunity to address international labor law topics as well. The international labor law work typically occurs in Latin America. During the semester, there will likely be two guest speakers and two panel discussions on timely labor law topics, which students will be required to attend, along with weekly meetings to discuss case preparation and advancement. In this course students will advance the following skills: interviewing, counseling, factual investigation, legal research and writing, problem-solving and depending on the assignment, trial preparation skills (direct and cross-examinations, opening statement and evidentiary arguments).
+
+Code: LAW 7811
+Title: Capital Punishment Clinic I
+Description: Death penalty litigation: investigation and the preparation of petitions and briefs. Case selection and student assignments depend on both pedagogical factors and litigation needs of clinic clients. Students read the trial and lower court record and research legal issues. Some students are involved in investigation, while others primarily assist in the preparation of briefs, petitions and other case documents. No student will be required to participate in investigation. All students are included in discussions regarding the necessary investigation, research, and strategy for the cases.
+
+Code: LAW 7814
+Title: Advanced Transnational Disputes Clinic
+Description: In this course, students learn to use strategic litigation to influence the progressive development of the law. Clinic clients and partners include those appearing before international investor-state arbitral tribunals, national courts,such as U.S. federal courts, and other fora. Students learn key skills through acting as counsel for parties as well as for amici curiae in disputes that implicate the protection of fundamental rights. The course includes a seminar component as well as extensive, supervised work as part of a case team.
+
+Code: LAW 7815
+Title: Capital Punishment Clinic II
+Description: Death penalty litigation: investigation and the preparation of petitions, memoranda, and briefs. This course is taught as a clinic. Two or possibly three capital cases are worked on by students. Case selection depends on both pedagogical factors and litigation needs of the inmates. Students read the record and research legal issues. Some students are involved in investigation, while others assist in the preparation of papers. All students are included in discussions regarding the necessary investigation, research, and strategy for the cases.
+
+Code: LAW 7833
+Title: Criminal Defense Trial Practicum: Local Court
+Description: Students in this course represent defendants in non-felony criminal cases. The course has  classroom, courtroom and client representation components. The classroom component focuses on all aspects of the handling of a criminal case, including criminal law and procedure, ethics, trial strategy, plea bargaining and trials. The courtroom component involves attendance at court proceedings, including pre-trial conferences. Students will also interview clients and witnesses, and prepare clients and witnesses for trial. All students will conduct negotiations with the District Attorney's Office, do legal research, conduct fact investigation, prepare discovery demands and engage in motion practice.
+
+Code: LAW 7837
+Title: International Human Rights Clinic
+Description: This Clinic provides students with an opportunity to gain firsthand experience in international human rights advocacy. Through a critical seminar and practical case and project work, students will examine and engage in local, global, and transnational efforts to advance human rights. Students will develop skills such as interviewing, fact-finding, project and case management, international and comparative legal research, legal drafting, and oral advocacy by working on projects and cases for human rights organizations, judges, intergovernmental human rights experts or bodies, and individuals. The course will give students experience in diverse methods of human rights advocacy, such as fact-finding and reporting, domestic and international litigation, legal assistance and counseling, and human rights education. Examples of past projects include conducting field research in Zambia for a report on the problem of sexual violence against girls in schools, preparing an amicus brief in support of a petition on the right to free education in Colombia, and participating in a trial advocacy training program on human trafficking for judges and lawyers in Liberia. Students will also have the opportunity to examine critically the ethical, political, cultural, and other challenges that affect the promotion of human rights. Some projects may involve optional international travel, and some projects may address human rights issues within the United States.
+
+Code: LAW 7839
+Title: Entrepreneurship Clinic I
+Description: The Entrepreneurship Clinic provides students who are interested in transactional work with an opportunity to learn about the legal issues specific to starting and running a business venture. Weekly classes, which may include guest speakers, will introduce students to the common legal questions that entrepreneurs face, including how to choose and form a business entity, structure the ownership of the business, contract with employees and independent contractors, protect intellectual property, and set up the venture for successful financing. Building on the concepts learned in class, student teams will represent local entrepreneurs and start-up businesses on a variety of transactional matters. The client work will introduce students to fundamental transactional skills, ranging from legal research to drafting term sheets and contracts.
+
+Code: LAW 7842
+Title: Immigration Law and Advocacy Clinic II
+Description: No description available.
+
+Code: LAW 7843
+Title: Immigration Law and Advocacy Clinic III
+Description: No description available.
+
+Code: LAW 7851
+Title: Externship
+Description: This course allows students, as externs to work full time at approved placement sites (most sites are non-profit organizations or governmental agencies) during the fall or spring semester of their third year or the spring semester of their second year.  The course purpose is to provide a bridge between the study of law and its practice. The student must be supervised/mentored by an attorney and engage in meaningful and "attorney-like" work at the placement which furthers the student's education and career goals. In addition to work responsibilities for the placement, the extern will create a Learning Agenda, prepare weekly Journal entries, engage in a regular electronic Discussion Board with other externs and the instructor, possibly host the faculty director for a site visit, and do a written Description of Placement.
+
+Code: LAW 7854
+Title: Tenants Advocacy Practicum I
+Description: In this course, students will provide information, legal advice, and representation to tenants. The student work in this practicum will directly address the needs of local residents financially impacted by the current pandemic. Students will work on cases for tenants facing a wide variety of housing issues (including but not limited to habitability issues, payment disputes, lease violations, unlawful lockouts, and small claims actions) or seeking eviction defense and homelessness prevention.
+
+Code: LAW 7855
+Title: International Human Rights: Litigation and Advocacy I
+Description: In this clinical course, students will work on projects that will expose them to diverse forms of human rights advocacy. The clinic is litigation-oriented, although clinic students may also be exposed to legislative advocacy and may have the opportunity to engage in fact-finding and research regarding human rights violations abroad. A current sampling of projects includes: (1) appellate advocacy on behalf of prisoners in Malawi who have been denied the right to counsel, and collaboration with lawyers in Malawi to reduce prison overcrowding and protect the rights of pre-trial detainees (in the past, a number of clinic students have traveled to Malawi to work directly with prisoners there); (2) representation of a prisoner at Guantanamo who was tortured by U.S. interrogators; and (3) working with lawyers around the world to promote the implementation of international norms regarding the application of the death penalty.
+
+Code: LAW 7857
+Title: Farmworker Legal Assistance Clinic I
+Description: Permission of instructor required. Students who wish to apply to the clinic should submit a resume, transcript, and short statement of interest (no more than two pages) to Prof. Lyon. For more information about the clinic, email Prof. Lyon (beth.lyon@cornell.edu) and schedule a meeting. This course requires off premises travel to meet with clients and participate in hearings. Employment on a farm is one of the worlds' most difficult and dangerous occupations. Farmworkers experience geographic, linguistic, and cultural isolation, separation from family, immigration insecurity reinforced by policing practices, workplace sexual violence, and exclusion from protective employment laws. Working with the new clinic's community partners, Farmworker Legal Assistance Clinic I student attorneys will handle immigration and employment matters on behalf of farmworkers in the region, work that will typically involve negotiation and often require litigation. Students will also work in brief advice and referral outreach sessions in farmworker communities. Clinic participants may also have the opportunity to work on research and writing projects with civil rights, environmental protection, and farmworker rights organizations. Farmworker Clinic students will participate in a lawyering seminar and work with a clinic partner on their assigned cases. The lawyering seminar will focus on skills students need for effective client representation. Students will develop key lawyering skills, including interviewing, counseling, fact investigation, drafting, negotiation, language accessible practice, and, in some cases, trial advocacy.
+
+Code: LAW 7858
+Title: Farmworker Legal Assistance Clinic II
+Description: Students collaborate with farmworkers, farmworker families, and partner organizations to use the law in service of their clients' goals. Students who have completed the first semester of any clinical course can seek the instructors' permission to enroll in Farmworker Clinic II, for 1, 2, 3, 4, 5 or 6 credits, depending on the number of projects undertaken. Students in Farmworker Clinic II work on individual cases for clients and/or non-litigation advocacy projects. They attend roughly four one-hour seminar class "case rounds" meetings during the semester, usually at the same time that Farmworker Clinic I meets. Other multi-clinic classes and trainings will be made available as well.
+
+Code: LAW 7859
+Title: Farmworker Legal Assistance Clinic III
+Description: Students collaborate with farmworkers, farmworker families, and partner organizations to use the law in service of their clients' goals. Students who have completed the first semester of any clinical course can seek the instructors' permission to enroll in Farmworker Clinic III, for 1, 2, 3, 4, 5 or 6 credits, depending on the number of projects undertaken. Students in Farmworker Clinic II work on individual cases for clients and/or non-litigation advocacy projects. They attend roughly four one-hour seminar class "case rounds" meetings during the semester, usually at the same time that Farmworker Clinic I meets. Other multi-clinic classes and trainings will be made available as well.
+
+Code: LAW 7867
+Title: First Amendment Law Clinic
+Description: This will be the first semester of the newly-created First Amendment Clinic. Students will engage in litigation and policy analysis supporting the interests of news outlets, journalists, researchers, and other newsgatherers in aid of their critical function of reporting and communicating important news and information, as well as human rights advocates, political activists, and other individuals targeted based on their expression. The Clinic's cases involve the intersection of Freedom of Information laws or the First Amendment with several substantive areas of law related to the promotion of social justice: immigration, criminal justice, scientific integrity, democratic institutions and norms, human rights, journalism, and internet speech. Students will have the opportunity to vet potential cases, conduct offensive and defensive legal research, write party and amicus briefs, and, if they continue in the clinic next year, may have the possibility of conducting oral argument. The First Amendment Clinic is committed to teamwork and developing student's collaborative skills, and students will have the opportunity to work on these skills in tandem with members of other clinics with which we are co-counseling. In addition, in the clinic seminar, practitioners in the field will speak to the class to provide additional practical insight to students. Finally, students will have the option to visit a newsroom as part of the clinic's "field trip" toward the end of the semester. Students who sign up for the clinic will be required to participate in a "bootcamp" to take place the weekend after the first week of classes. To apply, please submit a resume, statement of interest, short writing sample, and a transcript.
+
+Code: LAW 7868
+Title: First Amendment Law Clinic 2
+Description: A continuation of the First Amendment Clinic for advanced students, with emphasis on leadership roles and advanced litigation skills.
+
+Code: LAW 7871
+Title: Labor Law Clinic
+Description: The Labor Law Clinic will provide students a practical opportunity to learn labor law, while making meaningful contributions to the labor movement and working people. This clinic will combine a substantive classroom component with practical experience. Students will advise labor unions and workers on a variety of legal issues that surface during the semester and may have the opportunity to represent unions in different forums. Students will communicate directly with union representatives and will be required to sort through the facts, research the issues, and provide information and advice. Students will routinely draft legal memoranda, prepare and file pleadings and briefs as required. Students may have the opportunity to represent unions at hearings, mediation or arbitration. Students may also be required to observe a hearing before the National Labor Relations Board, Public Employment Relations Board or an arbitration. Students have also been invited to observe the collective bargaining process.
+A small number of students will have the opportunity to dedicate their clinical time to international labor law. Interested students can support the work of nonprofit organizations or global union federations with ongoing cases or projects. These projects occasionally involve a short period of field work outside of the country, typically in Latin America.
+
+Code: LAW 7878
+Title: International Human Rights Clinic: Litigation and Advocacy III
+Description: In this clinical course, students will work on projects that will expose them to diverse forms of human rights advocacy. The clinic is litigation-oriented, although clinic students may have the opportunity to engage in fact-finding and research regarding human rights violations abroad.
+
+Code: LAW 7891
+Title: Tenants Advocacy Practicum II
+Description: In this course, students will continue to provide information, legal advice, and representation to tenants. Students will work on cases for tenants facing a wide variety of housing issues (including but not limited to habitability issues, payment disputes, lease violations, unlawful lockouts, and small claims actions) or seeking eviction defense and homelessness prevention.
+
+Code: LAW 7892
+Title: Tenants Advocacy Practicum III
+Description: In this course, students will continue to provide information, legal advice, and representation to tenants. Students will work on cases for tenants facing a wide variety of housing issues (including but not limited to habitability issues, payment disputes, lease violations, unlawful lockouts, and small claims actions) or seeking eviction defense and homelessness prevention. Students will draft legal memoranda and may prepare pleadings for town, village, and city court cases. Students may have the opportunity to appear (likely virtually) in court.
+
+Code: LAW 7905
+Title: Advocacy for LGBT Communities Practicum
+Description: Prerequisite: completion of 2 full semesters of law study at a U.S. law school. Permission of the instructor.  Limited enrollment.  12 to 16 hours of work per week. This course has two components. First, a weekly seminar that covers a survey of different legal topics affecting lesbian, gay, bisexual and transgender (LGBT) individuals and communities. Topics include relationship recognition, parentage, custody, asylum, employment discrimination, and more. This seminar generally takes place at Cornell Law School. Second, students will spend, on average, 8 hours per week doing client work and case rounds in Syracuse at the offices of the Volunteer Lawyers Project of Onondaga County. Students will work on a variety of legal cases and advocacy projects that advance or defend the rights of lesbian, gay, bisexual and transgender (LGBT) individuals and communities.  Students will work on developing fundamental lawyering skills such as interviewing, client counseling, and drafting of court forms.  Students will also have the opportunity to engage in public education, legal research and other advocacy.  Students must be able to arrange for their own travel to and from Syracuse on a weekly basis. Students are requested to submit a resume, transcript and letter of interest when applying.
+
+Code: LAW 7906
+Title: Advocacy for LGBT Communities Practicum II
+Description: Prerequisite: Completion of LGBT Practicum I. Completion of 2 full semesters of law study at a U.S. law school. Permission of the instructor.  Limited enrollment.  Class may be taken for 2 or 3 credits; 6 to 10 hours of work per week. Students will continue the client work portion of the Practicum I.  Students will work with instructor to identify number of hours worked in Syracuse versus remotely. Students will attend on average 1 hour of class per week for case rounds and for new subject material not covered during their time in Practicum I.
+
+Code: LAW 7914
+Title: Gender Justice Clinic
+Description: Students in the Gender Justice Clinic examine and engage in local, national, and global efforts to combat gender-based violence and discrimination. Students work in teams under faculty supervision on cases and projects that address a variety of issues relating to gender justice, including domestic violence, sexual assault, obstetric violence, gender-based discrimination at work, child and forced marriage, and violence and discrimination against people who are transgender and incarcerated, work in the sex industry, or are trafficking survivors. Clinic members provide legal advice and representation to individuals, engage with regional and international human rights bodies, draft or analyze proposed legislation or policy documents, conduct fact-finding and reporting, or contribute to legal trainings and community education initiatives.
+
+Code: LAW 7916
+Title: Gender Justice Clinic III
+Description: Students who have completed the Gender Justice Clinic II may seek the instructors' permission to enroll in the Gender Justice Clinic III for 2, 3, 4, 5, or 6 credits, with credits reflecting the workload taken on. Clinic students contribute to efforts to address gender-based violence and discrimination by representing people in a variety of legal matters and undertaking advocacy projects in collaboration with community partners. Students will gain experience in legal advocacy on gender justice issues and develop lawyering and leadership skills. Students will participate in regular weekly team meetings and attend some of the seminars of the full Gender Justice Clinic. Students who wish to enroll in the Clinic should pre-register and contact Prof. Brundige to discuss their participation by the end of the pre-registration period. Supplementary application materials are not required. Please also contact Prof. Brundige if you have any questions about the course.
+
+Code: LAW 7923
+Title: Protest and Civil Disobedience Defense Practicum I
+Description: Depending on case assignment and litigation needs, students in the practicum typically represent clients arrested in connection with protest activities in their criminal court proceedings, appellate proceedings or federal civil rights litigation, and/or protesters who may face arrest and need front end counseling. If case needs allow, students will also participate in drafting a handbook that will be published for use by mass protest event organizers and attorneys. The course classroom component will revolve around developing skills, approaches and strategies for legal representation in the protest context. Special attention will be paid to the unique challenges and opportunities involved in mass arrests and ongoing civil disobedience movements. Class discussions will also focus on the role and legal ramifications of civil disobedience in the United States. Core skills advanced include: interviewing and counseling clients, factual investigation, basic and advanced legal research and writing, case analysis and strategy development, trial preparation, witness preparation, oral argument, and potentially trial or appellate practice. This course may require travel off premises.
+
+Code: LAW 7925
+Title: New York Attorney General Practicum I
+Description: The New York State Attorney General offers a clinic in which law students work 12-15 hours per week in the Attorney General's Syracuse Regional Office and attend a weekly class at Cornell. Under the supervision of an Assistant Attorney General, students perform legal research, writing, analysis, draft original legal documents and provide trial support. Students will have an opportunity to attend hearings, trials, court arguments, and pre-trial proceedings. Students will acquire litigation skills as well as specialized knowledge of public advocacy litigation. The class will focus on legal and ethical issues seen in litigation and review student experiences working in the Attorney General's office. Each week there will be a different subject area of Attorney General practice discussed or there will be a guest speaker. Topics include medical malpractice, defective highway design, 1983 civil rights actions in Federal Court, petitions in State Court seeking to overturn state actions, prisoner claims public advocacy litigation. Guest speakers will be attorneys serving in various capacities in State or Federal government and often include a judge or court attorney. There will also be a pro bono opportunity to accompany an attorney to a volunteer legal services clinics operated by the Onondaga County Bar Association.
+
+Code: LAW 7935
+Title: Civil Rights and Civil Liberties Clinic
+Description: No description available.
+
+Code: LAW 7938
+Title: Advanced Civil Rights and Civil Liberties Clinic
+Description: No description available.
+
+Code: LAW 7945
+Title: Federal Indian Law Practicum I
+Description: This ongoing practicum course represents tribes and tribal members in matters involving federal Indian law, large or small, and regardless of forum or the location of the tribe. One current case involves pursuing a claim against the Department of the Interior under The Judgment Funds Act on behalf of disenrolled members of the Saginaw Chippewa Indian Tribe of Michigan. Student work on that matter includes research and document preparation related to filing an appeal of a decision of the Assistant Secretary of Indian Affairs in federal court, while concurrently developing a broad-based knowledge of a voluminous historical and administrative record, which includes expert reports, research memoranda, client declarations and interview transcripts.
+
+Code: LAW 7946
+Title: Federal Indian Law Practicum II
+Description: This ongoing clinical course is pursuing a claim against the Department of the Interior under The Judgment Funds Act on behalf of disenrolled members of the Saginaw Chippewa tribe. We have filed a complaint asking the Secretary to perform a non-discretionary action to re-enroll our clients. Because the tribe is not a necessary party we have avoided issues of sovereign immunity, but expect that it may be raised in an attempt to join the tribe. The Department has filed a motion to dismiss and we responded and are awaiting judgment. We will continue to develop strategies that will permit us to go forward regardless of the decision. Student work will entail designing an administrative appeal and preparing documents for a motion for summary judgment. Students will continue gathering and preparing evidence as well as preparing memoranda on the various tactics. The voluminous historical record remains to be fully cataloged and exhibits for the client declarations also remain to be prepared.
+
+Code: LAW 7949
+Title: Federal Indian Law Practicum III
+Description: This ongoing practicum course represents tribes and tribal members in matters involving federal Indian law, large or small, and regardless of forum or the location of the tribe. One current case involves pursuing a claim against the Department of the Interior under The Judgment Funds Act on behalf of disenrolled members of the Saginaw Chippewa Indian Tribe of Michigan. Student work on that matter includes research and document preparation related to ongoing federal court litigation, while concurrently developing a broad-based knowledge of a voluminous historical and administrative record, which includes expert reports, research memoranda, client declarations and interview transcripts.
+
+Code: LAW 7953
+Title: Securities Law Clinic I
+Description: The course will focus on fundamental investigatory and advocacy skills applicable to representation of public investors in disputes subject to arbitration at the Financial Industry Regulatory Authority (f/k/a National Association of Securities Dealers), with particular attention to the elderly and to small investors. Substantive legal topics will include the scope and nature of binding arbitration under the Federal Arbitration Act and New York law, and the legal and regulatory remedies available to defrauded investors. Coursework will include training in skills such as interviewing potential clients, evaluating potential claims, preparing pleadings, conducting discovery, representing clients at hearings and negotiating settlements. Class work will include presentations by nationally-recognized experts on topics applicable to evaluation of securities accounts, trading, and products. Students will have the opportunity under faculty supervision to represent investors, to provide public education to community groups as to investment frauds, to draft position statements to regulatory authorities, and/or to participate in preparing amicus briefs, in support of public investors.
+
+Code: LAW 7954
+Title: Securities Law Clinic II
+Description: The course will focus on fundamental investigatory and advocacy skills applicable to representation of public investors in disputes subject to arbitration at the Financial Industry Regulatory Authority (f/k/a National Association of Securities Dealers), with particular attention to the elderly and to small investors. Substantive legal topics will include the scope and nature of binding arbitration under the Federal Arbitration Act and New York law, and the legal and regulatory remedies available to defrauded investors. Coursework will include training in skills such as interviewing potential clients, evaluating potential claims, preparing pleadings, conducting discovery, representing clients at hearings and negotiating settlements. Class work will include presentations by nationally-recognized experts on topics applicable to evaluation of securities accounts, trading, and products. Students will have the opportunity under faculty supervision to represent investors, to provide public education to community groups as to investment frauds, to draft position statements to regulatory authorities, and/or to participate in preparing amicus briefs, in support of public investors.
+
+Code: LAW 7955
+Title: Securities Law Clinic III
+Description: The course will focus on fundamental investigatory and advocacy skills applicable to representation of public investors in disputes subject to arbitration at the Financial Industry Regulatory Authority (f/k/a National Association of Securities Dealers), with particular attention to the elderly and to small investors. Substantive legal topics will include the scope and nature of binding arbitration under the Federal Arbitration Act and New York law, and the legal and regulatory remedies available to defrauded investors. Coursework will include training in skills such as interviewing potential clients, evaluating potential claims, preparing pleadings, conducting discovery, representing clients at hearings and negotiating settlements. Class work will include presentations by nationally-recognized experts on topics applicable to evaluation of securities accounts, trading, and products. Students will have the opportunity under faculty supervision to represent investors, to provide public education to community groups as to investment frauds, to draft position statements to regulatory authorities, and/or to participate in preparing amicus briefs, in support of public investors.
+
+Code: LAW 7957
+Title: Clinic Spanish Conversation
+Description: No description available.
+
+Code: LAW 7958
+Title: Advanced Spanish Clinic Conversation
+Description: This course is for students enrolled in a clinic in the spring 2024 semester. The class will focus on verbal and written communication and language comprehension. Please note that this class is not for students looking to learn basic Spanish conversational skills; instead, the course will focus on strengthening legal vocabulary. A minimum level of Spanish comprehension is required to enroll.
+
+Code: LAW 7959
+Title: Transnational Disputes Clinic
+Description: Students in this course learn to use strategic litigation to influence the progressive development of the law. Clinic clients and partners include those appearing before international investor-state arbitral tribunals, national courts, such as U.S. federal courts, and other fora. Students learn key skills through acting as counsel for parties as well as for amici curiae in disputes that implicate the protection of fundamental rights. This course includes a seminar component as well as extensive, supervised work as part of a case team.
+
+Code: LAW 7964
+Title: Veterans Practicum
+Description: In the Veterans Law Practicum I, students will provide information, legal advice, and representation to veterans. The student work in this practicum will directly address the gaps in legal representation for veterans seeking access to various veteran-specific benefits programs. Obtaining and accessing benefits can impact the lives of veterans in many ways: by preventing homelessness, improving a veteran's economic security and wellbeing, and providing access to medical care. Students will work on cases to secure service-connected disability compensation, discharge upgrades, overpayment issues, and other related claims. The students will interview veterans and conduct substantive research into the applicable law, including Title 38 Code of Federal Regulations, Uniform Code of Military Justice, and Federal Legislation. Students will draft legal memoranda and may prepare briefings for Veteran District Offices and/or the Board of Veterans Affairs. Students may have the opportunity to appear virtually at hearings. The students may also circulate veterans benefits information to the community in conjunction with the Tompkins County Department of Veterans Services. Students will develop key lawyering skills (including interviewing, client counseling, fact investigation, drafting, and oral advocacy), gain substantive and procedural knowledge of veteran benefits laws and regulations, and engage with the ethical implications of creating an attorney-client relationship. Students are requested to submit a statement of interest.
+
+Code: LAW 7965
+Title: Veterans Practicum II
+Description: In the Veterans Law Practicum II, students will continue advocating for veterans to obtain service-connected disability compensation, discharge upgrades, and other related claims. Students may also perform research and draft memoranda on policy issues affecting veterans benefits programs. The classroom component of the course will mostly consist of case rounds, in which students discuss their current cases with fellow students and with the instructor. Advanced students will be expected to take on leadership roles within the Practicum and assist newer students with understanding the substantive and procedural issues involved in veterans advocacy.
+
+Code: LAW 7991
+Title: Cornell Research Colloquium
+Description: This seminar is a course in advanced academic research methodology. The Colloquium is designed to prepare the students to engage in doctoral-level research, analysis and writing, especially in comparative and international contexts. How is the researcher to select an object or subject of investigation? How should she formulate research questions? How should she engage in the study of foreign and domestic legal institutions, doctrines and/or cultures? How is interdisciplinary work to be accomplished?
+The early portions of the course will involve discussing readings in comparative research methodology, including functionalism, Common Core analysis, legal transplant theory, historicism, law and development, legal pluralism, cultural analysis, colonial studies, and comparative institutionalism. In the latter portions of the course, students will present and critique their methodologically reflective research projects. A modest number of external speakers will be invited to present their work in progress for the purposes of generating methodologically oriented discussion.
+

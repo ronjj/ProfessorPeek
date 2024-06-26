@@ -1,0 +1,496 @@
+Code: PUBPOL 1111
+Title: Building Success at Brooks
+Description: This course offers a jumpstart for Brooks School students majoring in Public Policy or Health Care Policy to facilitate in planning their college experience. The course will help students develop goals for their time as a Cornell Undergraduate, including how best to integrate curricular and extracurricular activities and begin exploring career options.
+
+Code: PUBPOL 2040
+Title: Economics of the Public Sector
+Description: The public sector now spends nearly two out of every five dollars generated as income in the U.S. economy. A thorough knowledge and understanding of this important sector is an essential part of training in policy analysis and management. This course provides an overview of the public sector of the U.S. economy, the major categories of public expenditures, and the main methods used to finance these expenditures. The principles of tax analysis and cost-benefit analysis are presented with a focus on the role of public policy in improving economic efficiency, promoting the goals of equity and social justice, and improving equity by altering the distribution of wealth and income.
+
+Code: PUBPOL 2101
+Title: Statistics for Public Policy
+Description: "Introduction to Statistics for Public Policy" introduces basic statistical techniques used by researchers to investigate social, economic, and political phenomena. Topics include data presentation and descriptive statistics, measures of central tendency and dispersion, random variables and their probability distributions, joint and conditional distributions, expected value, conditional expectation, statistical sampling and inference, interval estimation and confidence intervals, hypothesis testing using t and F distributions, correlation, bivariate regression analysis, and statistical elaboration. A lab accompanies the course lectures. In problem sets and exams, students calculate statistics by hand to develop familiarity with data analysis. They also learn and apply basic commands using Stata statistical software.
+
+Code: PUBPOL 2120
+Title: Disruptive and Emerging Technologies: Policy and Practice
+Description: Artificial Intelligence (AI), autonomous systems, robotics, and quantum technologies (to name but a few) present novel, disruptive, and often unforeseen challenges for policymakers globally. This half-semester course will provide an overview of critical technology policy challenges, with a focus on 4th Industrial Revolution technologies and their impact on international peace and security. Students will begin by exploring the theories of technological innovation and the history of disruptive and emerging technologies in practice. A focused case study approach is then adopted to present a week-by-week real-world analysis of the current pressing technological and security challenges faced by policymakers at a domestic and international level. As a means to prepare for the final assessments, students will produce a mid-term paper answering the question 'How has the 4th Industrial Revolution impacted international peace and security?' (5 pages of double-spaced text excluding tables, figures, and references). Students will then be required to conduct independent research on a technology of their choice from the module. Towards the end of term, the students will present on this research, and write a short policy report on the technology researched, with a focus on the security and policy challenges it presents (10-12 pages of double-spaced text excluding tables, figures, and references). Presentations will be 10 mins (max) and will focus on your chosen topic for the policy report. Students will present in the final week of class.
+
+Code: PUBPOL 2220
+Title: Controversies About Inequality
+Description: In recent years, poverty and inequality have become increasingly common topics of public debate, as academics, journalists, and politicians attempt to come to terms with growing income inequality, with the increasing visibility of inter-country differences in wealth and income, and with the persistence of racial, ethnic, and gender stratification. This course introduces students to ongoing social scientific debates about the sources and consequences of inequality, as well as the types of public policy that might appropriately be pursued to reduce (or increase) inequality. These topics will be addressed in related units, some of which include guest lectures by faculty from other universities (funded by the Center for the Study of Inequality). Each unit culminates with a highly spirited class discussion and debate.
+
+Code: PUBPOL 2250
+Title: Social Problems in the United States
+Description: "Social Problems in the U.S." teaches students how to think like a social scientist when encountering claims about major contemporary issues. Through readings and assignments, students develop an analytical toolkit for evaluating the scope, causes, consequences, and proposed solutions to a wide range of complicated social problems, such as: childhood poverty, racial segregation and discrimination, job insecurity, family instability, discrimination by sexual identity, unequal pay for women's work, gender imbalances in family life, health disparities, food insecurity, drug abuse, and educational inequality. Rather than cover all of these (and other) social problems in depth, the course emphasizes a conceptual framework that can be applied broadly. The semester culminates with a written proposal examining a social problem and developing an approach to address it with public policy.
+
+Code: PUBPOL 2301
+Title: Introduction to Public Policy
+Description: The pressing issues of our time—from climate change to national security, from immigration to policing, from global economic development to domestic voting rights—are deeply intertwined with public policy decisions made by governments. In this course, we consider how societal conditions come to be defined as problems for governments to solve, the role of public and private actors in influencing policy processes, and how we know whether policies achieve their goals. Course readings, lectures, discussions, and experiential learning assignments provide opportunities for students to critically analyze public policy processes and outcomes from multiple disciplinary perspectives, including economics, political science, and sociology. The course also introduces students to key areas of public policy including technology policy; environmental and sustainability policy; global security; health policy; inequality and social policy; international development; and race, racism and public policy.
+
+Code: PUBPOL 2370
+Title: Race, Racism, and Public Policy
+Description: Public policy is a fundamental mechanism for addressing the most vexing and important social problems of our time. Racial inequality and structural racism are chief among such problems. Policy is thus widely understood and frequently touted as a means for redressing the harms of racism. Yet, public policy has also been identified as a channel through which racism flows. These seemingly paradoxical understandings of the relationships between racism and public policy raise critical questions about equality, democracy, the economy, and politics. This course examines such questions. questions. We begin by theoretically grounding key concepts such as "race" "racism" and "public policy." We then consider the historical record, highlighting the fundamental role of racism in shaping politics and policy. Next, we build on these conceptual and historical foundations through thematic investigation of core policy elements (e.g., policy design, policy implementation, policy feedback), key policy institutions (e.g., legislatures, parties) and significant policy actors (e.g., social movement organizations, interest groups). Finally, the class wraps up with a series of policy "deep dives" involving close examination of specific policy domains (e.g., housing, health, the enviornment). This course provides students with the knowledge and analytical tools necessary to better understand the realities and complexities of race, racism, and public policy in the United States.
+
+Code: PUBPOL 3020
+Title: Being Native in the 21st Century: American Indian and Alaska Native Politics, History, and Policy
+Description: The course examines the historical political landscape of American Indians and Alaska Natives in the United States and the interplay between tribal interests, politics, and the federal government. The course also looks at contemporary Native issues, federal policy and programs, tribal governance, relations between Tribal Nations and states and between Tribal Nations and the federal government. Finally, the course will explore Indigenous pop-culture and its influence on federal policy.
+
+Code: PUBPOL 3041
+Title: U.S. Immigration Law and Policy
+Description: This course addresses the major themes and controversies in United States immigration law and policy, including: Constitutional limits on legislative and executive power; the role of administrative agencies and the federal courts; the role of state versus federal decision-makers; the admission and removal (deportation) of noncitizens; protections of asylum-seekers and refugees; illegal immigration; strategies of immigration law enforcement; immigration detention; due process rights in removal proceedings; and civil rights of noncitizens.  This course will also briefly address some key issues in alienage law and policy, including the rights of noncitizens (including noncitizens without immigration status) to education, work and public benefits.
+
+Code: PUBPOL 3080
+Title: Economics of the U.S. Social Safety Net
+Description: This course provides an overview of the major programs that make up the social safety net in the United States. We will review the economic rationale behind social programs, identify the economic consequences of these programs, and assess the empirical research on these topics. A major emphasis of the course will be on understanding the strengths and limitations of the core methodologies used in the existing economics literature.
+
+Code: PUBPOL 3120
+Title: Research Design, Practice, and Policy
+Description: Examines systematic approaches for addressing questions about poverty, family life, racial inequality, and a range of other issues central to public policy. It emphasizes the logic and methods of social science research, including the measurement of social phenomena, generalizing results to groups of interest, establishing cause and effect, social experiments, survey research, and qualitative methods. It develops skills to critically evaluate the research of others and provides hands-on experience applying research methods to policy-related problems.
+
+Code: PUBPOL 3140
+Title: Political Journalism
+Description: This course will explore the traditional dynamic and norms of political press coverage in the United States, and the impact of those patterns on both the government and the nation; some of the ways longstanding norms have recently shifted, and continue to shift; the larger historical forces and long-term trends driving those changes; and the theoretical questions, logistical challenges and ethical dilemmas these changes pose for both political journalists and those they cover. The course will equally cover the practice of political reporting, including weekly analysis and discussion of current press coverage, in-class exercises and simulations, readings from academic and journalistic sources, and visits from leading political reporters and former spokespeople able to offer a firsthand perspective on the topics.
+
+Code: PUBPOL 3190
+Title: Nonprofits and Public Policy
+Description: The Nonprofit sector plays an important role in society and makes up a growing share of the U.S. economy. In this course, we use economic theory and econometric tools to examine the nonprofit market and how it gets shaped by public policy. Topics covered include theories of the nonprofit market, determinants of charitable giving and volunteering, the role played by religion, competition between nonprofits and for-profits in labor markets, and the effects of taxes, subsidies and regulations.
+
+Code: PUBPOL 3200
+Title: International Human Rights
+Description: This course will address major challenges in international human rights law, policy, and practice. Specific topics include children's rights, women's rights, LGBTQI+ rights, the rights of refugees and migrants, the rights of people with disabilities, the rights of minorities and freedom from discrimination, freedom from torture, the right to life, the death penalty, modern slavery, and the right to sustainable development. We will also discuss the role of non-governmental organizations (NGOs) and corporations with respect to human rights, as well as the impact of actions (and inactions) by states and institutions in the "Global North" on the realization of human rights in states in the "Global South."
+
+Code: PUBPOL 3230
+Title: Public Policy for an Aging Society
+Description: This course is designed to introduce students to important theories, concepts, and empirical findings in the study of aging and policy, giving them a deeper understanding of the issues people encounter as they grow older. While the course will primarily cover current U.S. policies and trends, we will also discuss some historical aspects and compare to policies found elsewhere.
+
+Code: PUBPOL 3270
+Title: Constitutional Law: An Introduction
+Description: In this course, we will examine one of the most important documents in American history – our Constitution.  Course topics will include the historical background of the document from the Magna Carta to the Declaration of Independence and the Articles of Confederation.  We will look at the creation of the Constitution, including the conflict between strong supporters of this proposed new Constitution (Federalists) and their opponents (Anti-Federalists). How did the Founders resolve their differences and what led the States to adopt a document limiting and balancing the powers of the President, Congress, and the Judiciary? We shall look at the constant tension (from the beginning to the present) over the balance of power between the three co-equal branches.  We shall discuss the role of the Constitution from both empirical and theoretical perspectives and look at how it has evolved from 1788 to the present day. Special attention will be paid to the use of Amendments, particularly the Bill of Rights, to address events/circumstances unforeseen by the drafters.  Finally, the course will discuss critical cases where the Supreme Court defined and redefined what the Constitution meant.
+
+Code: PUBPOL 3280
+Title: Fundamentals of Population Health
+Description: Population health focuses on the health and well‐being of entire populations. Populations may be geographically defined, such as neighborhoods or counties; may be based on groups of individuals who share common characteristics such as age, race‐ethnicity, disease status, or socioeconomic status; or may be specific patient groups "attributed" to accountable healthcare organizations using a variety of methods. With roots in epidemiology, public health, and demography, key tools of population health include health measurement, risk stratification, chronic care management, identifying "upstream" social determinants of health, cross-sector collaboration to improve prevention and wellness, and increasing health equity. Given the shifting health care environment – from fee‐for‐service to value‐based care – students who are able to apply tools to measure analyze, evaluate, and improve the health of populations (and achieve the Triple Aim) will be well‐positioned for jobs in health care, health policy, public health, and medicine (among others) as the field continues to evolve.
+
+Code: PUBPOL 3320
+Title: Mental Health Care Delivery and Policy
+Description: Mental illnesses are common in the United States. More than 1 in 5 adults (greater than 50 million people) live with a mental health illness and 1 in 5 youth (ages 13-18) will have experienced a seriously debilitating mental illness in their lifetime. Yet, less than half of those who need treatment receive it: Depression is the leading cause of disability, suicide is the 2nd leading cause of death among youth aged 10-14, and unmet mental health needs have profound long-term consequences including reductions in overall health and quality of life; substance use and addiction; family disruption; criminal justice system involvement; homelessness; unemployment and productivity losses; and early preventable mortality. This course provides an overview of the state of mental health in the United States with a focus on the drivers of mental well-being, mental illness, and mental health inequities. We will examine how mental health practice and policy can improve (or impede) community mental well-being, quality of mental health care, and mental health outcomes for those experiencing mental illness. Intentional focus will be given to topics such as stigma, historical trauma, and racism in addition to the importance of culturally intentional and patient-centered evidence-based care in order to collectively envision healthier and more equitable futures.
+
+Code: PUBPOL 3400
+Title: The Economics of Consumer Policy
+Description: Familiarizes students with the economic analysis of consumer policy issues. Uses the tools of microeconomic analysis to investigate the interaction between government and the marketplace, with an emphasis on how that interaction affects consumers. Examines the rationale for and effects of regulation of industry. Considers alternative theories of regulation, including the capture, economic, and public interest theories. Applies those theories to specific types of regulation, including economic regulation of specific industries (e.g., telecommunications, electricity, trucking, railroads, postal services) as well as to broader social regulation (e.g., health, safety, environmental). The effects of regulatory reform in numerous industries are also examined. An attempt is made to examine current topics relating to consumer policy.
+
+Code: PUBPOL 3450
+Title: Democracy Promotion in Modern U.S. Foreign Policy
+Description: Promotion and support of democracy is a well-established principle of U.S. foreign policy. However, even four decades after its insertion into Washington's approach overseas, it is misunderstood and still under challenge, internally within the U.S. Government and from external actors. In this course, the modern origins of democracy support, or promotion, will be examined, beginning with the values-based focus of the Carter Administration's foreign policy leading into its Cold War use in the Reagan presidency. The development of bipartisan democracy promotion through succeeding Administrations up to the challenges under Donald Trump and the Biden Administration's response, including the Summit for Democracy process, will be examined. Real-world applications and connections will be central. How democracy assistance is conducted and how it is perceived will be a focus of the course. Course participants will discuss the relationship between democracy promotion and its distinction with human rights and the concept of "democracy prevention" as a response by external actors to democracy promotion.
+
+Code: PUBPOL 3510
+Title: United We Stand - Divided We Fall: The Rise of Polarization and Social Division - and What it Means
+Description: When did bipartisan become a bad word? Should we unfriend and unfollow people who have different opinions than our own? How did we become a country that grows more polarized and divided every year? Most importantly, can we change, or are we destined to continue down this path?
+
+Code: PUBPOL 3530
+Title: Child Welfare in the United States: Challenges, Policy, and Practice
+Description: An introduction to the U.S. Child Welfare System. Topics to be covered include legislation that has shaped child welfare practice, the impact on children of abuse and neglect, foster care, and adoption, including the long-term outcomes for children in residential treatment centers in congregate care facilities.
+
+Code: PUBPOL 3550
+Title: Economics of Education
+Description: The economics of education is about understanding how and why people make decisions to invest in education, the effect of education on long-term social and economic outcomes, the behavior of those institutions that "produce" education, and how best to design and implement public policies affecting the level and distribution of education resources. The basic tools of economics provide a framework to evaluate education policies including K-12 school finance, student financial aid, and college admissions. Throughout the course, there will be an emphasis on examining empirical tests of the economic theory and measuring the effects of policy initiatives on educational outcomes.
+
+Code: PUBPOL 3680
+Title: Towards a Policy of Democratic Unity
+Description: Democratic leaders are increasingly concerned with authoritarian attempts to alter long-established values and interests of democracy, human rights, and the rule of law.  Questions as to the abuse of Interpol against dissidents, the harsh reaction by China to WHO attempts to address the pandemic, and the rejection by Russia of its international obligations bring new policy questions but also solutions to this topic. As the international liberal order framework of the last 75 years shows its age, the question of which nations and value systems will shape the world for the next 75 years becomes more pressing.  Are democracies capable of jointly addressing this challenge? How far do democratic alliances go before national interests take charge?   In this course, students will draw upon real-life case studies and scenarios through interaction with diplomats, civil society, and other practitioners in this arena. Students in this course will be equipped to shape the debate of a framework of human rights, the rule of law, and democracy for the future and present their ideas through the use of a structured debate as a final project.
+
+Code: PUBPOL 3710
+Title: Migration: Histories, Controversies, and Perspectives
+Description: This introductory course introduces students to issues and debates related to international migration and will provide an interdisciplinary foundation to understanding the factors that shape migration flows and migrant experiences. We will start by reviewing theories of the state and historical examples of immigrant racialization and exclusion in the United States and beyond. We will critically examine the notions of borders, citizenship/non-citizenship, and the creation of diasporas. Students will also hear a range of perspectives by exposing them to Cornell guest faculty who do research and teach on migration across different disciplines and methodologies and in different world areas. Examples include demographic researchers concerned with immigrant inequality and family formation, geographic perspectives on the changing landscapes of immigrant metropolises, legal scholarship on the rights of immigrant workers, and the study of immigrant culture from a feminist studies lens. Offered each fall semester.
+
+Code: PUBPOL 3720
+Title: Addiction Medicine Practice and Policy
+Description: A community-engaged addiction medicine course that draws from experts in the field to address the neurobiology of addiction, risk and protective factors for substance misuse and addiction, barriers to treatment such as stigma, the recovery continuum, and a focus on drug policy and law in historical and contemporary context. Students will complete a community engaged project and field trips will be offered. This course is geared toward future clinicians, policy makers, healthcare leaders, data analysts, and engaged citizens who care about human wellbeing and health equity.
+
+Code: PUBPOL 3764
+Title: Intellectual Property Law and Policy
+Description: This course covers domestic copyright law, which protects creative expression; patent law, which protects novel and useful inventions; and trademark law, which protects brand identifiers.  It also explores common law intellectual property rights like trade secret protections.  The aim of the course is not simply to learn what the law is, but why.
+
+Code: PUBPOL 3830
+Title: Ethics and Public Policy
+Description: Ethics asks what is good and bad, what is right and wrong, what is happiness, and what is the virtuous path? We will explore ethical dilemmas of society, how those questions translate into public policy, and how public policy is used to carve an ethic. We will focus on ethical questions future leaders in public policy could, should, or will be asking. We investigate some controversial questions that sit at the core of our own moral connection with public policy ethics and how those translate into action such as human interaction with society and nature, what is our moral responsibility as individuals and decision-makers, equity, and how ethical considerations translate into public policy. These ethical dilemmas public policy actors face, and their decisions can affect many domestically and internationally and impact in intended and unintended ways. Delving into understanding these ethical questions when developing public policies can help decision-makers craft policies that consider sound moral principles that impact stakeholders. This course builds a foundation of ethical principles and philosophies and then translates into action.
+
+Code: PUBPOL 4000
+Title: Directed Readings
+Description: For study that predominantly involves library research and independent reading.
+
+Code: PUBPOL 4010
+Title: Empirical Research
+Description: For study that predominantly involves data collection and analysis.
+
+Code: PUBPOL 4020
+Title: Supervised Fieldwork
+Description: For study that involves both responsible participation in a community setting and reflection on that experience through discussion, reading, and writing. Academic credit is awarded for this integration of theory and practice.
+
+Code: PUBPOL 4030
+Title: Teaching Apprenticeship
+Description: For study that includes assisting faculty with instruction.
+
+Code: PUBPOL 4060
+Title: Engaged Learning About Policy Making in Washington D.C.
+Description: The core course at Cornell in Washington is an experiential learning class that focuses on engaging with the professional experience of being in DC. Its primary purposes are to give students to build their understanding of their internship work by analyzing and reflecting on that work, understanding the context and structures of the policy and political world with which they are engaging, and learning and practicing the professional forms of writing that that world uses. This process occurs through readings, written assignments, guest speakers, and signature events.
+
+Code: PUBPOL 4080
+Title: Demographic Techniques
+Description: This is the second course in the demographic techniques sequence. It has two foci. First, we will learn the basics of constructing single and multiple decrement life tables, along with extensions to cause-deleted life tables. Second, we will learn the basics of survival analysis, as well as how survival analysis relates to life tables. Although the primary goal is learning to use these techniques, this class also has a heavy emphasis on thinking about how to use these methods to produce something new and important for research.
+
+Code: PUBPOL 4101
+Title: Causal Reasoning and Policy Evaluation I
+Description: This course covers methods used by social scientists to identify causal relationships in data, with a focus on evaluating the effects of real-world policies. Many social science analyses--including in the economics fields of public, labor, health, and development-aim to answer these types of policy-related causal questions: What is the effect of having health insurance on someone's health? Does the death penalty reduce crime? Will lowering class sizes increase students' academic achievement? The goal of this course is to train you to become both a high-quality consumer and producer of this type of research. You will learn about several research designs and data analysis methods for identifying causal relationships in data, read and assess empirical papers that apply these methods, and apply these methods to datasets yourself.
+
+Code: PUBPOL 4370
+Title: The Economics of Health Care Markets
+Description: Health care systems and health policy are undergoing rapid change as medical technology advances and costs rise. Debates concerning the delivery, regulation and financing of health care have intensified. This course uses basic economic tools to analyze central questions in health care today, as well as fundamental issues in health policy: For example, what is the current role of the government in the health sector, and what should it be? What is the social insurance role of the government, and how is it played out in policies that impact the health of the population? How is health insurance structured, and what are the implications of having employers be the providers of private health insurance? This course is about applying economic tools of policy analysis to gain insight into the workings of the health care system and to analyze current issues in health policy. It is mainly a U.S. institutions-based course, with some international comparisons. It should be of interest to students preparing for all kinds of careers in health care, and to others with an interest in important public policy issues.
+
+Code: PUBPOL 4640
+Title: Regulation and Infrastructure Policy
+Description: Infrastructure provides essential services such as road and highway transportation, ports and airports, communications, electricity, clean drinking water, and wastewater treatment. This course examines policies related to operation, maintenance, and especially funding and financing of critical physical infrastructure. It includes regulatory issues such as controlling market power, ensuring adequate service quality, and maintaining the assets in question.
+
+Code: PUBPOL 4717
+Title: Energy Transition: Policy, Financial, and Business Interactions
+Description: The course utilizes discussions, presentations, research papers, and simulations to explore the policy, financial, and business implications, opportunities, and risks, of climate change, specifically the energy transition to a low-carbon economy. We will explore potential public policies in the context of their business impacts, effectiveness, and political viability. How does different policy design encourage distinct long-term pathways within a highly capital-intensive industry? What industries are most impacted by a transition to a lower carbon economy? How do incentives and structures influence business actors toward a smoother transition, or wasted capital expenditures, and stranded assets? Are financial markets pricing in an energy transition? What is the role of financial and market regulators in ensuring long-term "beneficial" capital allocation? With an industry in decline, what are the business strategy options for the management of a fossil fuel producer? What are the policy, financial, and business implications for clean energy firms, electric vehicle manufacturers, and the metals and mining industry? Additional readings, research, and presentations are required of Master's students.
+
+Code: PUBPOL 4960
+Title: State Policy and Advocacy Clinic I
+Description: We will learn how to design and advocate for specific state-level public policies by practicing these skills before the legislative and administrative branches of the State of New York. In consultation with the professor, student teams will design public policy proposals based on a review of the academic, governmental and think tank literature; conversations with subject matter experts at Cornell and various NGOs; research and analysis of similar proposals in other states and countries; conversations with state and local policymakers; and discussions with community members and organizations, including community partners with lived experience. Although we will engage in policy design and advocacy primarily in New York State, we will also provide research and policy design services to stakeholders in other states, especially when a comparative or multi-state approach offers strategic benefits.
+
+Code: PUBPOL 4980
+Title: Honors Seminar
+Description: This course is designed to provide students with guidance and resources as they design and conduct their honors thesis project. As part of this process, students will be introduced to a range of topics and skills related to engaging in research in the social sciences.
+
+Code: PUBPOL 4990
+Title: Honors Program
+Description: Provides students with the opportunity to undertake basic or applied research that will be preparation of a thesis representing original work of publishable quality. Intended for students who desire the opportunity to extend their interests and efforts beyond the current course offerings in the department. Furthermore, the program is designed to offer the student the opportunity to work closely with a professor on a topic of interest. The number of hours of thesis credit is determined by the student's research mentor. See the director of undergraduate studies for more details.
+
+Code: PUBPOL 5000
+Title: Special Studies
+Description: This course is for students wishing to do independent study with a PADM faculty member.
+
+Code: PUBPOL 5009
+Title: Career Management for Public Affairs
+Description: This course prepares MPA students to enter the job market with the expertise and experience to launch a successful career as well as obtain professional skills necessary to be leaders in the field of public affairs workplace. Topics covered in this course include the importance of self-assessment, the independent job search, networking, and best practices in resume/cover letter writing and interviewing.
+
+Code: PUBPOL 5020
+Title: Native Politics and the Nation-to-Nation Relationship
+Description: The course examines the historical political landscape of American Indians and Alaska Natives in the United States and the interplay between tribal interests, politics, and the federal government. The course also looks at contemporary Native issues, federal policy and programs, tribal governance, relations between Tribal Nations and states and between Tribal Nations and the federal government. Finally, the course will explore Indigenous pop-culture and its influence on federal policy.  Classes will all be in person and will be a mixture of lectures and discussion-based seminars. The majority of classes will have a guest lecturer related to that week's topic. Guest lectures will include, but not limited to, political appointees, congressional staff, political advocates, elected tribal leaders, and more.
+
+Code: PUBPOL 5041
+Title: U.S. Immigration Law and Policy
+Description: This course addresses the major themes and controversies in United States immigration law and policy, including: Constitutional limits on legislative and executive power; the role of administrative agencies and the federal courts; the role of state versus federal decision-makers; the admission and removal (deportation) of noncitizens; protections of asylum-seekers and refugees; illegal immigration; strategies of immigration law enforcement; immigration detention; due process rights in removal proceedings; and civil rights of noncitizens.  This course will also briefly address some key issues in alienage law and policy, including the rights of noncitizens (including noncitizens without immigration status) to education, work and public benefits.
+
+Code: PUBPOL 5060
+Title: Experiential Learning in Policy Making in Washington, DC
+Description: The core course at Cornell in Washington is an experiential learning class that focuses on engaging with the professional experience of being in DC. Its primary purposes are to give students to build their understanding of their internship work by analyzing and reflecting on that work, understanding the context and structures of the policy and political world with which they are engaging, and learning and practicing the professional forms of writing that that world uses. This process occurs through readings, written assignments, guest speakers, and signature events.
+
+Code: PUBPOL 5080
+Title: Economics of the U.S. Social Safety Net
+Description: This course provides an overview of the major programs that make up the social safety net in the United States. We will review the economic rationale behind social programs, identify the economic consequences of these programs, and assess the empirical research on these topics. A major emphasis of the course will be on understanding the strengths and limitations of the core methodologies used in the existing economics literature.
+
+Code: PUBPOL 5111
+Title: Public Administration
+Description: This course prepares students to work within government departments and agencies, state and local authorities, and nonprofit public benefit corporations; and with private firms working in the public interest at the interface with governments and public benefit corporations. While the emphasis is on local and mid-size organizations, some material will address international and domestic national level organizations. As a first-year graduate program course it prepares students to conduct research on public organizations leadership and management and to be effective in public careers. It also prepares upper-level undergraduate students for internships and entry into public-sector careers.
+
+Code: PUBPOL 5113
+Title: Key Management Issues in the Biotech and Pharmaceutical Industries
+Description: This course provides an overview of the key management issues facing the pharmaceutical and biotechnology industries. The emphasis is on the United States because it is the largest and most profitable market, but we will briefly cover issues affecting global markets.
+
+Code: PUBPOL 5119
+Title: Leadership for Public Service Executives
+Description: This course for Executive Master of Public Administration (EMPA) students addresses the role of leaders and leadership in public organizations (i.e., government entities). The course will be especially valuable for students considering or already engaged in government careers at the local, state, and national level, as well as with private firms that interact with the public sector.
+
+Code: PUBPOL 5122
+Title: Negotiation Skills for Executives
+Description: Public affairs is a field that is heavily shaped by conflict, as well as opportunities for collaboration. Learning how to negotiate conflict and collaboration is therefore essential for successful professional practice. In this course, you will learn how to improve your negotiations skills through applied tools, best practices, and case studies. Students will also have the opportunity to practice their negotiations through live, active negotiation exercises with peers.
+
+Code: PUBPOL 5128
+Title: Rethinking Development for Executives
+Description: Debates on theories and practice of international development suggest that there have been serious challenges in ensuring aid effectiveness. Substantial investments made by 'donor' countries often fail to yield the intended development results. At the heart of such debates are varying, contested notions and frameworks to achieve 'development' and 'progress'. This short course attempts to familiarize students with how different actors perceive development and how that impacts development programming in local contexts. The course will assess the prevalent paradigms of development, from the United Nations system to the bilateral and multilateral frameworks and from international NGOs to the religious charities. Class participants will learn about the challenges faced and constraints reproduced by the international development bureaucracies. Each week, students would be expected to read and discuss the suggested readings, cite country contexts and address an applied development question. For final project, students will be given the option to apply course readings, discussions to a policy issue that they will complete with independent research and online inquires with development practitioners.
+
+Code: PUBPOL 5140
+Title: Political Journalism
+Description: This course will explore the traditional dynamic and norms of political press coverage in the United States, and the impact of those patterns on both the government and the nation; some of the ways longstanding norms have recently shifted, and continue to shift; the larger historical forces and long-term trends driving those changes; and the theoretical questions, logistical challenges and ethical dilemmas these changes pose for both political journalists and those they cover. The course will equally cover the practice of political reporting, including weekly analysis and discussion of current press coverage, in-class exercises and simulations, readings from academic and journalistic sources, and visits from leading political reporters and former spokespeople able to offer a firsthand perspective on the topics.
+
+Code: PUBPOL 5190
+Title: Nonprofits and Public Policy
+Description: The Nonprofit sector plays an important role in society and makes up a growing share of the U.S. economy. In this course, we use economic theory and econometric tools to examine the nonprofit market and how it gets shaped by public policy. Topics covered include theories of the nonprofit market, determinants of charitable giving and volunteering, the role played by religion, competition between nonprofits and for-profits in labor markets, and the effects of taxes, subsidies and regulations.
+
+Code: PUBPOL 5200
+Title: International Human Rights Law and Policy
+Description: This course will address major challenges in international human rights law, policy, and practice. Specific topics include children's rights, women's rights, LGBTQI+ rights, the rights of refugees and migrants, the rights of people with disabilities, the rights of minorities and freedom from discrimination, freedom from torture, the right to life, the death penalty, modern slavery, and the right to sustainable development. We will also discuss the role of non-governmental organizations (NGOs) and corporations with respect to human rights, as well as the impact of actions (and inactions) by states and institutions in the "Global North" on the realization of human rights in states in the "Global South".
+
+Code: PUBPOL 5210
+Title: Intermediate Microeconomics for Public Affairs
+Description: The primary learning goals of this course are (1) to understand the core concepts of microeconomics and (2) to develop analytical/problem-solving skills. This course differs from typical intermediate-level microeconomic courses in that there will be more emphasis on the role of policy and the public sector in the economy, although understanding the role and effectiveness of markets will remain central.  This course is not a substitute for a full-semester comprehensive course in public economics but is a good foundation for that field-level course.
+
+Code: PUBPOL 5270
+Title: Constitutional Law: An Introduction
+Description: In this course, we will examine one of the most important documents in American history – our Constitution.  Course topics will include the historical background of the document from the Magna Carta to the Declaration of Independence and the Articles of Confederation.  We will look at the creation of the Constitution, including the conflict between strong supporters of this proposed new Constitution (Federalists) and their opponents (Anti-Federalists). How did the Founders resolve their differences and what led the States to adopt a document limiting and balancing the powers of the President, Congress, and the Judiciary? We shall look at the constant tension (from the beginning to the present) over the balance of power between the three co-equal branches.  We shall discuss the role of the Constitution from both empirical and theoretical perspectives and look at how it has evolved from 1788 to the present day. Special attention will be paid to the use of Amendments, particularly the Bill of Rights, to address events/circumstances unforeseen by the drafters.  Finally, the course will discuss critical cases where the Supreme Court defined and redefined what the Constitution meant.
+
+Code: PUBPOL 5310
+Title: Applied Multivariate Statistics in Public Affairs
+Description: This class is an applied introduction to multivariate statistical inference that is aimed at graduate students with little prior statistical experience, and satisfies the Quantitative Methods and Analytics requirement in the MPA Program. We will begin with a brief introduction to basic statistical concepts and probability theory before introducing the linear regression model. We then review several tools for diagnosing violations of statistical assumptions, including how to deal with outliers, missing data, omitted variables, and weighting. We will next consider situations in which linear regression will yield biased estimates of the population parameters of interest, with particular attention paid to measurement error, selection on unobservables, and omitted variables. The course will end with an introduction to extensions of the linear regression model, including models for binary and categorical outcomes. While statistical modeling is the focus of the course, we proceed with the assumption that models are only as good as the theoretical and substantive knowledge behind them. Thus, in covering the technical material, we will spend considerable time discussing the link between substantive knowledge and statistical practice. The course is designed primarily for professional masters students.
+
+Code: PUBPOL 5313
+Title: Managerial Statistics for Public Affairs Executives
+Description: An introduction to statistical methods commonly used in managerial decision making.  Topics to be covered include the descriptive analysis of data, inferential methods (estimation and hypothesis testing), regression and correlation analysis, as well as quality control methods.  The course will involve a research project designed to give experience in collecting and interpreting data.
+
+Code: PUBPOL 5320
+Title: Mental Health Care Delivery and Policy
+Description: Mental illnesses are common in the United States. More than 1 in 5 adults (greater than 50 million people) live with a mental health illness and 1 in 5 youth (ages 13-18) will have experienced a seriously debilitating mental illness in their lifetime. Yet, less than half of those who need treatment receive it: Depression is the leading cause of disability, suicide is the 2nd leading cause of death among youth aged 10-14, and unmet mental health needs have profound long-term consequences including reductions in overall health and quality of life; substance use and addiction; family disruption; criminal justice system involvement; homelessness; unemployment and productivity losses; and early preventable mortality. This course provides an overview of the state of mental health in the United States with a focus on the drivers of mental well-being, mental illness, and mental health inequities. We will examine how mental health practice and policy can improve (or impede) community mental well-being, quality of mental health care, and mental health outcomes for those experiencing mental illness. Intentional focus will be given to topics such as stigma, historical trauma, and racism in addition to the importance of culturally intentional and patient-centered evidence-based care in order to collectively envision healthier and more equitable futures.
+
+Code: PUBPOL 5340
+Title: Regulation and Infrastructure Policy
+Description: Infrastructure provides essential services such as road and highway transportation, ports and airports, communications, electricity, clean drinking water, and wastewater treatment. This course examines policies related to operation, maintenance, and especially funding and financing of critical physical infrastructure. It includes regulatory issues such as controlling market power, ensuring adequate service quality, and maintaining the assets in question.
+
+Code: PUBPOL 5343
+Title: Program Evaluation for Executives
+Description: This course is a general introduction to evaluation research for assessing social programs and interventions. The course uses an evolutionary and systems thinking perspective on evaluation. Students will learn essential concepts in program evaluation that will enable them to design a high-quality evaluation plan for a program or intervention. The basic steps involved in creating any evaluation plan are explained, including: 1) Preparation (entering the system, developing a memorandum of understanding, identifying internal stakeholders, creating working group(s), and assessing evaluation capacity); 2) Program Model Development (stakeholder analysis, program review, program boundary analysis, program lifecycle analysis, logic modeling, program pathway models, setting evaluation scope, identifying relevant prior research); and 3) Evaluation Plan Creation (evaluation purpose, evaluation questions/hypotheses, measurement, sampling, design, data management and analysis, reporting and utilization).
+
+Code: PUBPOL 5370
+Title: Economics of Health Care Markets
+Description: Health care systems and health policy are undergoing rapid change as medical technology advances and costs rise. Debates concerning the delivery, regulation and financing of health care have intensified. This course uses basic economic tools to analyze central questions in health care today, as well as fundamental issues in health policy: For example, what is the current role of the government in the health sector, and what should it be? What is the social insurance role of the government, and how is it played out in policies that impact the health of the population? How is health insurance structured, and what are the implications of having employers be the providers of private health insurance? This course is about applying economic tools of policy analysis to gain insight into the workings of the health care system and to analyze current issues in health policy. It is mainly a U.S. institutions-based course, with some international comparisons. It should be of interest to students preparing for all kinds of careers in health care, and to others with an interest in important public policy issues.
+
+Code: PUBPOL 5400
+Title: Economics of Consumer Policy
+Description: This course is designed to develop students' critical understanding of government policies aimed toward protecting consumers' wellbeing in markets. The course uses the tools of microeconomic analysis to investigate the various rationales for and the effects of these forms of government regulation. Economic theory is applied to the study of specific consumer protection policies in the United States and elsewhere.
+
+Code: PUBPOL 5414
+Title: Project Management
+Description: This hands-on, graduate-level course is designed to prepare leaders how to best manage public sector projects including but not limited to government agencies, nonprofits, consulting firms, and think tanks. The goal of this course is to build project management strategies including fundamental processes as well as invest in innovative trends and new approaches to plan, manage, and implement projects. The class also includes skill building to effectively manage teams which includes leadership, equity, critical thinking, and conflict resolution. As a graduate-level course, students are expected have thoroughly read all assigned materials prior to class and to be well-prepared to participate meaningfully throughout the semester. This course is highly engaged, and students will be working on teams collaborating throughout the semester to practice these skills.
+
+Code: PUBPOL 5415
+Title: Project Management for Executives
+Description: This Executive Master of Public Administration (EMPA) course is designed to prepare leaders on how to best manage public sector projects including but not limited to government agencies, nonprofits, consulting firms, and think tanks. The goal of this course is to build project management strategies including fundamental processes, innovative trends, and approaches to plan, manage, and implement projects. The course also invests in skill building to effectively manage teams which includes equity, critical thinking, and conflict resolution. This course is highly engaging, and students will be working on teams collaborating to build these skills.
+
+Code: PUBPOL 5424
+Title: Public Budgeting and Finance for Executives
+Description: This course will contribute to the success of future public and nonprofit leaders by introducing them to a critical aspect of public service management - budgeting and finance. The class covers the terminology, components, practices, documents, and methods of public budgeting and finance at all levels of government and in the non-profit world.
+
+Code: PUBPOL 5425
+Title: Accounting for Corporate, Governmental, and Nonprofit Organizations
+Description: This course is designed for students who have no previous training or experience in accounting. It consists of 5 modules: Fundamental Accounting Issues, Financial Accounting Issues, Managerial Accounting Issues, Nonprofit Accounting Issues, and Governmental Accounting Issues. In each module, where appropriate, financial statement analysis/ratio analysis will be incorporated to facilitate a deeper understanding of the material. Students will demonstrate their knowledge of the material in three ways: exams, case studies, and participation/article discussions.
+
+Code: PUBPOL 5433
+Title: Managing Change in Public Affairs for Executives
+Description: This graduate-level course addressing change management processes in public administration is designed for Executive Master of Public Administration (EMPA) students pursuing careers in government agencies, state and local authorities, and nonprofit organizations; and with private firms working in the public interest at the interface with government agencies.  A central theme of the course is planning and understanding how to implement change processes within public institutions to ensure they welcome change and remain vibrant learning organizations at the service of their constituents. The objectives of the course are to provide students with analytical tools to properly implement change management processes in government institutions where organizational change is rarely encouraged or practiced. Concepts are paired with a case study for the class as well as empower students to develop a controlled case study of their own to encourage learning through application. As a graduate-level course, students are expected to have thoroughly read all materials prior to class and be well-prepared to discuss readings/cases/case memos with colleagues.
+
+Code: PUBPOL 5435
+Title: Public and Nonprofit Marketing for Executives
+Description: In this course students will learn how to develop marketing strategies and messages for nonprofit organizations and how to apply these strategies to the promotion of public policy. Students will understand how traditional marketing techniques can be very useful for increasing charitable donations, gaining support for a public issue, recruiting volunteers, and achieving an organizational mission. The course will cover how to develop key elements of strategic marketing campaigns, including SWOT analysis, SMART goals and objectives, message construction, and creative stories for digital media. We will be exploring cases of mission-driven organizations and entities including government; health and human services; social, economic, and racial justice; education; and the environment.
+
+Code: PUBPOL 5441
+Title: Effective Writing for Public Policy
+Description: The course explores policy writing in its various forms, including: memos, briefs, position papers, op-eds, legislative testimony, formal letters, email, press releases, and social media. This course will feature lectures, interactive discussion, written deliverables, workshops, and guest speakers. As a graduate-level course, students are expected to have thoroughly read all materials prior to class and be prepared to discuss readings in class.
+
+Code: PUBPOL 5442
+Title: Effective Policy Writing for Public Affairs Executives
+Description: The course explores policy writing in its various forms, including: memos, briefs, position papers, op-eds, legislative testimony, formal letters, email, press releases, and social media. While this course is designed for Executive Master of Public Administration (EMPA) students. This course will feature lectures, interactive discussion, written deliverables, workshops, and guest speakers.  As a graduate-level course, students are expected to have thoroughly read all materials prior to class and be prepared to discuss readings in class.
+
+Code: PUBPOL 5449
+Title: Systems Thinking in Public Affairs
+Description: This course serves as an introduction to systems thinking methods and technical tools in the field of public affairs.  Students will develop skills that allow them to understand how to improve their analysis of complex, unpredictable, real-world systems.
+
+Code: PUBPOL 5450
+Title: Democracy Promotion in Modern U.S. Foreign Policy
+Description: Promotion and support of democracy is a well-established principle of U.S. foreign policy. However, even four decades after its insertion into Washington's approach overseas, it is misunderstood and still under challenge, internally within the U.S. Government and from external actors. In this course, the modern origins of democracy support, or promotion, will be examined, beginning with the values-based focus of the Carter Administration's foreign policy leading into its Cold War use in the Reagan presidency. The development of bipartisan democracy promotion through succeeding Administrations up to the challenges under Donald Trump and the Biden Administration's response, including the Summit for Democracy process, will be examined. Real-world applications and connections will be central. How democracy assistance is conducted and how it is perceived will be a focus of the course. Course participants will discuss the relationship between democracy promotion and its distinction with human rights and the concept of "democracy prevention" as a response by external actors to democracy promotion.
+
+Code: PUBPOL 5451
+Title: International Public and NGO Management
+Description: This course develops from a general discussion of the differences between management of international public and NGO organizations and similar organizations at the national level or below, through an examination of the management process in the context of results-based management, which is the dominant approach taken in both public and non-governmental organizations. It then examines the application of analysis methods to specific organizations. The goal is to provide students with the tools to be intelligent consumers of international services, effective participants in their governance and, at an introductory level, how to evaluate them.
+
+Code: PUBPOL 5455
+Title: Comparative Public Administration
+Description: The purpose of this seminar is to provide graduate students with an introduction to the scholarly development of comparative public administration, as well as criteria for comparison in public leadership, accountability/transparency, political participation, and the interaction of culture, politics, and public management.
+
+Code: PUBPOL 5500
+Title: Introduction to Senior Living and Related Programs
+Description: With the aging population, longer life expectancies and the population bulge of the baby boomers, serving both the hospitality and housing/care needs of seniors will be a tremendous growth area. The facilities and programs to serve these populations have certain specialized aspects related to healthcare, but they also share a number of the operating characteristics of many hospitality and real estate operations and design.
+
+Code: PUBPOL 5510
+Title: United We Stand - Divided We Fall: The Rise of Polarization and Social Division - and What it Means
+Description: When did bipartisan become a bad word? Should we unfriend and unfollow people who have different opinions than our own? How did we become a country that grows more polarized and divided every year? Most importantly, can we change, or are we destined to continue down this path?
+
+Code: PUBPOL 5543
+Title: Health Law for Managers
+Description: This course examines how health law and regulations affect health care systems so that administrators and executives can proactively plan to avoid pitfalls that impede operational efficiencies, quality of care delivered and organizational profitability. By presenting a wide range of legal issues encountered in health care, this course is designed to equip students with an understanding of the legal environment in which health care services are provided and to develop skills in analyzing many of the current legal and ethical issues facing health care practitioners, administrators and other decision-makers.
+
+Code: PUBPOL 5563
+Title: Managerial Finance
+Description: This course provides an introduction to business finance through video lectures and assignments. Topics include basic financial accounting, time value of money, stock and bond valuation, capital budgeting, portfolio theory, asset-pricing models, cost of capital, dealing with risk, capital structure, acquisitions, and options. Application of theory to practical applications will be emphasized.
+
+Code: PUBPOL 5570
+Title: Health Care Organizations
+Description: This course familiarizes students with the organizational structure of the U.S. health care system. First, we will talk about the history of U.S. health care and develop an understanding of the financial streams and different institutions. Second, we will study the purpose of and issues related to health insurance and the different coexisting U.S. insurance systems. We will also analyze why people are un- and underinsured and how health care reforms tried to address this issue. Third, we will learn about health care providers, outpatient and inpatient care as well as reimbursement methods, including "value-based" reimbursement. Then, we study access and quality of medical care. Finally, we will discuss rising health care costs in an international comparison and briefly talk about other health care systems.
+
+Code: PUBPOL 5583
+Title: Managing Operations
+Description: This course prepares students to think analytically and managerially about operations processes, and to use the tools and intuition they acquire to ensure that the operations in production and service systems support the business strategies for these systems. A process view of operations will be used to analyze different key operational dimensions such as flow time management, service operations management, quality management, inventory management and supply chain management.
+
+Code: PUBPOL 5607
+Title: Global Policy Challenges
+Description: This course will provide an overview of critical global policy challenges, with a focus on their implications for international relations and international policy. Students will explore the complexities of international relations, global climate change, conflict trends, disruptive technologies, nuclear proliferation, the great power implications of the space race, and emerging global policy challenges. By the end of the course, students will be equipped with the knowledge and analytical skills necessary to address pressing global issues and propose informed policy solutions.
+
+Code: PUBPOL 5640
+Title: Data Analytics in Health Care
+Description: This course provides students with a hands-on understanding of how to make the best use of the data available within a healthcare setting to improve patient care, healthcare operations and overall healthcare system. Students will be expected to complete case studies and hands on analysis with healthcare data.  Throughout the course students will learn basic and intermediate SQL concepts.
+
+Code: PUBPOL 5659
+Title: Cross-Cultural Communication for Executives
+Description: When you're at work, you probably interact with employees, clients, and leaders from different backgrounds and cultures. Your Social Style® plays a role in how you communicate and behave in the workplace and how others, in turn, interact with you. This course will prepare you to communicate effectively, efficiently, and empathetically with people of different cultural backgrounds no matter your Social Style®.
+
+Code: PUBPOL 5660
+Title: Strategic Management and Organizational Design of Health Care Systems
+Description: Examines strategy and design issues faced by health care organizations. Topics include analysis of market conditions, organizational culture issues, development of an organizational mission and management strategy, the management of professionals, and the importance of roles, structure, and interand intra-institutional relationships within organizations. Taught via a case study approach.
+
+Code: PUBPOL 5679
+Title: Desktop and Modeling Solutions
+Description: This course presents an advanced approach to data-intensive problem-solving using Microsoft Excel. Advanced concepts such as external queries, data tables, arrays, iterative techniques and macros will be reviewed. These will then be incorporated into an integrated business model. Emphasis will be on clear, separated input and output, data integrity, user interface design, documentation, maintainability, robustness and user support.
+
+Code: PUBPOL 5680
+Title: Towards a Policy of Democratic Unity
+Description: Democratic leaders are increasingly concerned with authoritarian attempts to alter long-established values and interests of democracy, human rights, and the rule of law.  Questions as to the abuse of Interpol against dissidents, the harsh reaction by China to WHO attempts to address the pandemic, and the rejection by Russia of its international obligations bring new policy questions but also solutions to this topic. As the international liberal order framework of the last 75 years shows its age, the question of which nations and value systems will shape the world for the next 75 years becomes more pressing.  Are democracies capable of jointly addressing this challenge How far do democratic alliances go before national interests take charge?   In this course, students will draw upon real-life case studies and scenarios through interaction with diplomats, civil society, and other practitioners in this arena. Students in this course will be equipped to shape the debate of a framework of human rights, the rule of law, and democracy for the future and present their ideas through the use of a structured debate as a final project.
+
+Code: PUBPOL 5690
+Title: Regression Analysis and Managerial Forecasting
+Description: Teaches various statistical methods for managerial decision making, with a particular emphasis on regression and forecasting. Other topics include ANOVA, correlation, confounding, interaction, and statistical process control. Emphasizes applications to health care organizations.
+
+Code: PUBPOL 5700
+Title: Accounting, Financial Reporting and Decision Making
+Description: Introduces the basic concepts of financial and managerial accounting with emphasis on health care applications. Explains the measurement system of business operations, business valuation, financial reporting, budgeting, cost allocation, service and product costing, and special reports for managerial use. Ethical and international issues are integrated throughout the course materials with real world applications. At the conclusion of the course, students should be able to read, understand, and analyze the annual financial reports of an organization. Collaborative learning, cases, discussions, readings, research, presentations, speakers, problem solving, videotapes, and lectures are used for teaching the course.
+
+Code: PUBPOL 5710
+Title: Organizational Development and Human Resource Management in Health Care Organization
+Description: Explores (1) the theoretical foundation of organizational theory, research, and human resource management with an emphasis on implementation; (2) real-world problems while analyzing, exploring, and discussing varied interpretations of selected cases; (3) the building blocks of managerial activity, internal organizational issues, performance issues related to organization design, and strategic issues. Key organizational change and development concepts enhance students' perspectives on how the theories, strategies, and practices relate to today's organizations. The course serves as a framework to establish the theory and the conceptual and competency foundations necessary for applying interventions.
+
+Code: PUBPOL 5717
+Title: Energy Transition: Policy, Financial, and Business Interactions
+Description: The course utilizes discussions, presentations, research papers, and simulations to explore the policy, financial, and business implications, opportunities, and risks, of climate change, specifically the energy transition to a low-carbon economy. We will explore potential public policies in the context of their business impacts, effectiveness, and political viability. How does different policy design encourage distinct long-term pathways within a highly capital-intensive industry? What industries are most impacted by a transition to a lower carbon economy? How do incentives and structures influence business actors toward a smoother transition, or toward wasted capital expenditures, and stranded assets? Are financial markets pricing in an energy transition?  What is the role of financial and market regulators in ensuring long-term "beneficial" capital allocation? With an industry in decline, what are the business strategy options for management of a fossil fuel producer? What are the policy, financial, and business implications for clean energy firms, electric vehicle manufacturers, and the metals and mining industry? Additional readings, research, and presentations are required of Master's students.
+
+Code: PUBPOL 5720
+Title: Addiction Medicine Practice and Policy
+Description: A community-engaged addiction medicine course that draws from experts in the field to address the neurobiology of addiction, risk and protective factors for substance misuse and addiction, barriers to treatment such as stigma, the recovery continuum, and a focus on drug policy and law in historical and contemporary context. Students will complete a community engaged project and field trips will be offered. This course is geared toward future clinicians, policy makers, healthcare leaders, data analysts, and engaged citizens who care about human well being and health equity.
+
+Code: PUBPOL 5783
+Title: Comparative Health Care Systems
+Description: This course is designed to make students familiar with comparative health care system analyses. Students learn about basic methodological tools to analyse and compare different health care systems using the example of the U.S. We learn about a unifying framework that allows us to categorize health care systems and benchmark them against each other.
+
+Code: PUBPOL 5787
+Title: Leadership in the Algorithmic Age: AI and Public Policy
+Description: Artificial Intelligence (AI) has emerged as a transformative force in society, impacting various facets of our lives. As AI technologies advance, the need for effective public policy frameworks becomes increasingly critical. This graduate-level course explores the dynamic intersection of AI and public policy, delving into the ethical, regulatory, and practical considerations that shape the development and implementation of policies governing AI. This course also emphasizes the need for proactive development of policies to navigate the challenges and opportunities presented by AI technologies. Through a combination of lectures, readings, discussions, and a practical policy project, students will gain a holistic perspective on the challenges and opportunities presented by AI technologies in society.
+
+Code: PUBPOL 5797
+Title: Fundamentals of Cybersecurity Policy
+Description: Cybersecurity is a top priority for individuals, organizations, and governments. Cyber risks impact public health and safety, financial systems, business operations, national security, geopolitical relationships, and more.  Because systems are interconnected and interdependent, and cybercriminals and nation-state actors often look for the weakest link to gain access, reasonable cybersecurity is a shared responsibility.  Policies, laws, and frameworks addressing cybersecurity have advanced considerably over the years, but do not always keep pace with evolving technologies, uses, and threats.  Now, with the widespread use of AI and the ever-expanding Internet of Things, the implications and impact of cybersecurity policy have become all the more critical.
+
+Code: PUBPOL 5823
+Title: Disruptive Innovation in Health Care II
+Description: The goal of this course is to empower students with current, cutting-edge insights on the external threats and opportunities presented by technology and insurgent forces in healthcare, and how "incumbents" can successfully respond to these threats and opportunities in a COVID and post-COVID world. My hope is that you will be inspired to understand and embrace "disruption," and to become an innovator, an influencer, and a force in creating a new and better healthcare world.
+
+Code: PUBPOL 5848
+Title: The Fight Against Unemployment: Advocacy and Policy
+Description: Unemployment is damaging to individuals, families, and society. Governments around the world have attempted to mitigate these harms, in some countries through generous out-of-work benefits, targeted retraining services for job seekers, and disincentives for employers to lay workers off in the first place. But why is unemployment so persistent in capitalist societies? What does it mean for an individual to be unemployed? What can the US learn from other countries to better combat unemployment and reduce its socially damaging effects? Students will work with community partners to assist the unemployed or conduct policy-relevant research.
+
+Code: PUBPOL 5853
+Title: Digital Transformation for Executives
+Description: Digital transformation isn't just for tech startups. It's a critical strategic focus area for today's leaders — and an initiative necessary for nearly every organization or venture to compete. In this course, you will learn how to find and produce new, streamlined, and disruptive business ideas through digital auditing and a rapid ideation process.
+
+Code: PUBPOL 5900
+Title: Special Topics in Health Administration and Finance
+Description: A special topics course specifically designed for students in the Sloan Program in Health Administration. Possible multiple offerings using adjunct faculty teaching in areas of expertise not covered in depth in the Sloan core curriculum and relevant to students preparing for careers in health management. Format ranges from intensive courses offered over several full days to longer courses meeting on a weekly basis. Each section represents a separate stand-alone course occurring over the dates indicated.
+
+Code: PUBPOL 5910
+Title: Master of Public Administration (MPA) Capstone
+Description: Provides 2nd year MPA students with opportunities to practice skills they've learned in their coursework and professional experiences to address policy or management problems for real-world clients in government or nonprofit agencies in the US. MPA students may use the reports produced in this course to meet the MPA professional writing requirement.
+
+Code: PUBPOL 5913
+Title: VUCA Leadership for Executives
+Description: This course is designed to provide students with an opportunity to expand their knowledge and understanding of the key leadership skills required for success in today's volatile, uncertain, complex, and ambiguous business world. It will build on the skills discussed in NCC 5040 Leading Teams and Managing and Leading Organizations, through discussion and interaction with an experienced practitioner and former leader of the United States Army. The course will be comprised of four modules: 1) Leadership Principles for a Volatile, Uncertain, Complex and Ambiguous World; 2) Developing and Communicating Vision and Strategy; 3) Setting Conditions for Success; and, 4) Character and Leadership.
+
+Code: PUBPOL 5920
+Title: Public Affairs Externships
+Description: Combines a professional public affairs externship in a metropolitan area with academic study to provide experience and understanding of the planner's role in formulating and implementing plans and policies. Externships are available in international organizations, federal, state, and local government agencies, legislative offices, and comparable settings include development of research, analysis, and other technical skills.  Weekly seminars draw on student field experiences, assigned readings, and guest speakers to examine current issues of federal, urban, and regional policy from the perspective of public affairs practice.
+
+Code: PUBPOL 5930
+Title: Writing Professional Reports for Public Affairs
+Description: This 7 week seminar course will focus on writing for policy and professional audiences in public affairs. This course is directed toward second-year students in the MPA program who plan to complete a professional report to meet the MPA degree writing requirement. Students will define their research project for a client organization, and develop the professional report proposal, project management workplan, and literature review for their professional report.
+
+Code: PUBPOL 5940
+Title: Consulting for Nonprofit and Government Organizations
+Description: This class teaches practical skills that will enable students to work with clients in the local community, learn about organizational structure and culture, and gain real-world experience as they complete a public-service project. Students receive instruction on topics such as organizational development, program evaluation, project management, professional communication, and strategic planning. A significant portion of the course will focus on project management.
+
+Code: PUBPOL 5943
+Title: Negotiation Essentials
+Description: Negotiation is the art and science of securing an agreement between two or more interdependent parties. A basic premise of the course is that while a manager needs technical and analytical skills in order to develop optimal solutions, a broad array of negotiation skills is needed for these solutions to be accepted and implemented.The course is designed to help you approach negotiations with confidence. You have the opportunity to develop your negotiating skills experientially and to gain insight into what works, what does not, and why.
+
+Code: PUBPOL 5949
+Title: Systems Thinking, Mapping, and Leadership Practicum I
+Description: This engaged learning course will connect students to real-world problems in systems thinking, mapping, and leadership.  Students will learn about how to apply a range of cutting-edge tools in systems thinking to a complex problem presented by a public affairs client organization (topics change annually).  Note that this course requires a one-week field component held over winter break that represents .5 credit of the overall course grade.
+
+Code: PUBPOL 5950
+Title: Executive Master of Public Administration Capstone
+Description: Field Studies are the Capstone for Brooks School Executive Master of Public Administration (EMPA) students. The course is designed to act as an integrative experience combining the competencies and knowledge gained during the student's time in the EMPA Program and the experiences gained in employment. The field study allows students to work on a long-term project within their organization that has been identified as relevant to the coursework and important to the organization.
+
+Code: PUBPOL 5951
+Title: Field Studies in Health Administration and Planning
+Description: Students interested in developing administrative and program-planning research skills are given an opportunity to evaluate an ongoing phase of health care agency activity in the light of sound administrative practice and principles of good medical care. In planning and carrying out the research, students work closely with a skilled practicing administrator and with members of the faculty.
+
+Code: PUBPOL 5953
+Title: Health Managers Practicum
+Description: The course is the first half of the integrative capstone experience combining the competencies and knowledge gained during the first three semesters of the students' time at Sloan and the experiences gained in employment. In part 1 of this course, students work with their managers, capstone faculty, and Executives-In-Residence to identify a performance improvement project, strategy implementation project, or business development project that is of high importance to their organization. Students define the problem, research best practices, and trial solutions. Students present their preliminary findings and how they applied their coursework to their field study while on campus.
+
+Code: PUBPOL 5954
+Title: Health Managers Practicum, Part II
+Description: The course is the second half of the integrative capstone experience combining the competencies and knowledge gained during the last two semesters of the students' time at Sloan and the experiences gained in employment. In part two of this course, students track and analyze their data, perform a financial analysis, and present their findings.
+
+Code: PUBPOL 5960
+Title: State Policy and Advocacy Clinic I
+Description: We will learn how to design and advocate for specific state-level public policies by practicing these skills before the legislative and administrative branches of the State of New York. In consultation with the professor, student teams will design public policy proposals based on a review of the academic, governmental and think tank literature; conversations with subject matter experts at Cornell and various NGOs; research and analysis of similar proposals in other states and countries; conversations with state and local policymakers; and discussions with community members and organizations, including community partners with lived experience.  Although we will engage in policy design and advocacy primarily in New York State, we will also provide research and policy design services to stakeholders in other states, especially when a comparative or multi-state approach offers strategic benefits.
+
+Code: PUBPOL 5990
+Title: Challenges and Trends in the Health Services Industry
+Description: Provides students with information and exposure to current and emerging issues in the health services industry. Topics may include financial management of health care facilities, human resource management, information systems, cost-effective clinical decision making, quality measurement and outcomes, public health, and entrepreneurship in the health services industry.
+
+Code: PUBPOL 6000
+Title: Special Problems for Graduate Students
+Description: Independent advanced study by graduate students recommended by their chair or advisor and approved by the program director and the instructor.
+
+Code: PUBPOL 6040
+Title: Qualitative, Survey, and Mixed Method Approaches to Policy Research
+Description: Introduces students to theories and methods of data collection techniques such as in-depth interviews, ethnography, focus groups, and surveys as well as mixed-method approaches used in policy and evaluation research. Addresses the strengths and weaknesses of various methods and the design of qualitative and mixed-method studies. Covers epistemology, ethics, induction and deduction, measurement, validity, and triangulation. Also discusses more concrete issues such as gaining access to a field site, developing a qualitative interview guide and survey questionnaire, conducting a qualitative interview, managing data, and assessing data quality.
+
+Code: PUBPOL 6060
+Title: Demographic Techniques
+Description: This is the second course in the demographic techniques sequence. It has two foci. First, we will learn the basics of constructing single and multiple decrement life tables, along with extensions to cause-deleted life tables. Second, we will learn the basics of survival analysis, as well as how survival analysis relates to life tables. Although the primary goal is learning to use these techniques, this class also has a heavy emphasis on thinking about how to use these methods to produce something new and important for research. The grad students will also be asked to complete a 10 page research proposal.
+
+Code: PUBPOL 6090
+Title: Empirical Strategies for Policy Analysis
+Description: Focuses on empirical strategies to identify the causal effects of public policies and programs. The course uses problem sets based on real-world examples and data to examine techniques for analyzing nonexperimental data including control function approaches, matching methods, panel-data methods, selection models, instrumental variables, and regression-discontinuity methods. The emphasis throughout, however, is on the critical role of research design in facilitating credible causal inference. The course aids students in both learning to implement a variety of statistical tools using large data sets, and in learning to select which tools are best suited to a given research project.
+
+Code: PUBPOL 6390
+Title: Microeconomics for Policy Analysis
+Description: This comprehensive course covers microeconomic theory and its application to public policy analysis. Topics addressed include consumer decision-making, the theory of the firm, general equilibrium, welfare economics, monopolies and oligopolies, strategy, and market imperfections.
+
+Code: PUBPOL 6440
+Title: Health Economics Workshop
+Description: Presentations of completed papers and work in progress by faculty members, advanced graduate students, and speakers from other universities. Focuses on professionalization and on the formulation, design, and execution of research papers and dissertations.
+
+Code: PUBPOL 6810
+Title: Demography Training Seminar
+Description: CPC's weekly training seminar provides training and professional development to graduate students in demography and serves as a requirement for the graduate demography minor. Includes workshops and presentations of completed papers and work in progress by faculty members, advanced graduate students, and external speakers.
+
+Code: PUBPOL 6900
+Title: Professional Seminar in Public Policy
+Description: This course consists of an introduction to policy research and the PhD program for graduate students. Enrolled students will become familiar with: a) current topics in policy research, b) resources and opportunities available for research in public policy and at Cornell more broadly, and c) best practices for success in graduate school.
+
+Code: PUBPOL 8990
+Title: Master's Thesis and Research
+Description: Students conduct independent master's thesis research under the supervision of a public policy faculty member.
+
+Code: PUBPOL 9990
+Title: Doctoral Thesis and Research
+Description: Students conduct independent doctoral thesis research under the supervision of a public policy faculty member.
+

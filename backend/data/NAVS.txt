@@ -1,0 +1,32 @@
+Code: NAVS 1101
+Title: Introduction to Naval Science
+Description: Involves a study of fundamental aspects of naval science. This includes contributions to sea power, different warfare communities involved in the physical development of naval forces, and study of resource management and naval science prospects for the future. Naval uniforms, customs, and traditions are also covered.
+
+Code: NAVS 1141
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+
+Code: NAVS 2201
+Title: Leadership and Management
+Description: Introduces the student to the fundamental concepts of leading Sailors and Marines and serves as part of the NROTC leadership development continuum.  Develops the elements of leadership vital to the effectiveness of Navy/Marine Corps officers by reviewing the theories and parameters of leadership and management within and outside of the naval science and progressing through values development, interpersonal skills, management skills, and application theory.  Practical applications are explored through the use of experiential exercises, readings, case studies, and laboratory discussions.
+
+Code: NAVS 2241
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+
+Code: NAVS 3201
+Title: Naval Ship Systems I (Engineering)
+Description: Introduces primary ship-systems and their interrelationships. Basic principles of thermodynamics, propulsion, mechanical operation, internal communications, electronics, ship structure, and other marine systems are covered.
+
+Code: NAVS 3341
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+
+Code: NAVS 4302
+Title: Naval Operations and Seamanship
+Description: Covers the application of the nautical rules and maneuvering board in order to avoid collisions at sea. Other aspects of naval surface ship operations that are introduced include visual and electronic communications methods, tactical disposition of forces, ship handling theory, and deck seamanship topics.
+
+Code: NAVS 4441
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+

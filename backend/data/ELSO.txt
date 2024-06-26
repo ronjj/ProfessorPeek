@@ -1,0 +1,36 @@
+Code: ELSO 6210
+Title: Improving Pronunciation
+Description: When we think about pronunciation, we often think about individual sounds, but other features of speech are often more important for making oneself understood. These features, such as pausing, intonation and stress, make up the melody of English. By the end of this course, students will increase their awareness of and control over the aspects of spoken English that most affect intelligibility, gain confidence for being understood by listeners, and develop strategies for more self-directed learning beyond the course.
+
+Code: ELSO 6220
+Title: Taking Part in Discussions
+Description: Participating in class and group discussions is essential for becoming a part of academic and professional communities as discussions are used to share and create new knowledge, challenge ideas, negotiate identity, and have a voice. This course is designed to provide students with opportunities to improve participation and fluency in academic discussions. By the end of this course, students will learn strategies to prepare for entering, politely disagreeing, participating in, and leading discussions. This course will provide opportunities to try out new techniques and strategies in an interactive, supportive environment. Students will leave this course with more confidence to assert their voice and express their opinions.
+
+Code: ELSO 6230
+Title: Designing and Delivering Effective Presentations
+Description: Whether presenting for seminars, journal club meetings, conferences, or in classes, being comfortable presenting is an essential part of graduate studies. This course will provide students with strategies for preparing and delivering presentations that are clear, compelling, persuasive, concise, and visually effective, as well as offer opportunities to practice delivering presentations in front of a supportive audience.
+
+Code: ELSO 6515
+Title: Preparing to Write Workshop
+Description: This course is designed for multilingual domestic and international graduate and professional students who are in the early stages of a writing project or who want to learn strategies in preparation for future writing projects. During this course, students will explore general and discipline-specific writing processes, approaches to understanding types of writing in their field, strategies for reading and note-taking, library resources specific to their field, ways to use technology to support writing, and approaches for generating ideas and prose with more ease. Students will have time during class to apply the strategies to a current or upcoming writing project.
+
+Code: ELSO 6535
+Title: Research Paper Writing Workshop
+Description: This course is designed to assist multilingual domestic and international graduate and professional students in making progress on drafting a research paper (e.g., research article, dissertation, thesis, seminar paper, conference paper, research proposal). Students will discuss features of research papers (e.g., review of the literature, sections of research papers), learn about strategies for writing (e.g., constructing paragraphs, determining structure), and practice strategies for setting and meeting writing goals.
+
+Code: ELSO 6565
+Title: Thesis and Dissertation Writing Workshop
+Description: This course is designed to assist multilingual domestic and international graduate and professional students in making progress on drafting parts of their theses and dissertations. This course provides writing strategies, structured writing time, a supportive writing community, and access to writing resources.
+
+Code: ELSO 6595
+Title: Revising and Editing Workshop
+Description: This course is designed to assist multilingual domestic and international graduate and professional students who have writing that they want to assess and improve. Students will work on matters such as organization, argument, framing, editing for style, creating flow, modifying syntax, proofreading for surface-level errors, assessing the incorporation of source material (i.e., references), utilizing GAI tools (e.g. ChatGPT), and improving overall readability.
+
+Code: ELSO 6610
+Title: Communicating in the Workplace
+Description: This course is designed for multilingual and international graduate and professional students who will need to communicate in English in professional contexts. Students will learn about differences between academic and workplace communication, explore communication strategies effective for different workplace situations, and consider cultural aspects of workplace communication.
+
+Code: ELSO 6620
+Title: Preparing for the Professional Job Search
+Description: This course introduces a series of professional job application steps, including the giving elevator pitches, networking, searching for jobs, interpreting job ads, attending job fairs, making digital profiles, writing resumes and cover letters, interviewing, and becoming familiar with relevant resources. By the end of this course, students will be aware of the different dimensions of applying for professional jobs, including their cultural and linguistic implications.  This course will be useful to students to develop their job application documents and skills.
+

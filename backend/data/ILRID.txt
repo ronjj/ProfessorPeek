@@ -1,0 +1,64 @@
+Code: ILRID 1510
+Title: Introduction to Industrial and Labor Relations
+Description: An ILR education is grounded in the social sciences. Students and faculty explore and gain an understanding of the workplace through economics, sociology, psychology, history, political science, labor relations, and law and society perspectives. Students also learn how work and workplace issues fit into the larger society and economy. As a result, they acquire knowledge and skills that help them to think critically, analyze the social and economic relationships impacting the workplace and solve problems facing work and workers.
+
+Code: ILRID 1525
+Title: Psychology of Work: Theories and Applications
+Description: This course examines the underlying psychological processes that impact how and why we work, how we succeed in accomplishing work goals, and how we work together. Students will be exposed to foundational theories from a variety of disciplines, primarily psychology and micro-organizational behavior, which can help us to understand human behavior in work contexts and will examine how these theories can be applied to inform effective organizational policies and practices. The course offers a theoretical and practical examination of numerous topics, including personality, motivation, judgment and decision making, social influence, power, conflict and fairness, and morality at work.
+
+Code: ILRID 1700
+Title: Introduction to Organizations and Management
+Description: This is an introductory course intended for students outside of the ILR School to acquire a basic understanding of management and organizations.This course will fulfill the management requirement for the university-wide undergraduate business minor.  Students will learn contemporary and historical perspectives on work, management, formal organizations, and the role of business in society.
+
+Code: ILRID 2250
+Title: Writing Seminar in ILR
+Description: Writing seminar whose topic changes depending on semester and instructor.
+
+Code: ILRID 2510
+Title: Foundations of Diversity Dynamics
+Description: The purpose of this course is to introduce you to core concepts related to diversity and inclusion. We will begin with an exploration of social identities and how they relate to key psycho-social processes –such as social cognition, power and privilege, stereotyping, and status differentiation – underlying interpersonal and intergroup dynamics in settings characterized by demographic diversity. We will then turn to an analysis of remedies or interventions for addressing diversity-related challenges and unpack what is meant by "equity and inclusion." A guiding assumption for this course is that in order to fully understand the implications of diversity for society, you must personally confront issues having to do with power, privilege, stereotypes, identity, and discrimination. In an effort to increase awareness and understanding, we will adopt an experiential approach whenever possible, including videos and related discussions, experiential exercises and activities, fieldwork, and written assignments.
+
+Code: ILRID 2610
+Title: Intergroup Dialogue
+Description: Intergroup dialogue is a form of communication specifically designed for people to engage with one another across social, cultural, and power differences in a critical and meaningful way. This class prepares students to live and work in a diverse world, and educates them in making choices that advance equity. Its main objectives are to: explore our human capacity and need to connect with ourselves and others; increase understanding of personal and social identities and how they inform our lives; explore the effects of social inequity at personal, interpersonal, and structural levels (including the ways in which it disrupts human connection); develop students' skills to communicate, work, and lead effectively across difference; and strengthen individual and collective capacities to strategize for change on campus and beyond.
+
+Code: ILRID 2660
+Title: Essential Desktop Applications
+Description: Provides skills in the use of personal computers that run the Windows operating system. Covers fundamental technical concepts and time-saving techniques for Windows, and Microsoft Excel, Access, and PowerPoint. Emphasizes hands-on experience and development of PC-based solutions and strategies by using examples that address human resource and other practical real-world issues. Students will take the industry-recognized Microsoft test to gain certification as a Microsoft Office Specialist (MOS) in Excel. The skills developed in this course are useful prerequisites for several elective courses in human resource management and essential in the 21st-century workplace.
+
+Code: ILRID 3610
+Title: Workplace Inclusion: Theory and Practice
+Description: This online course is for ILR WIDE student fellows to immerse themselves more deeply in theoretical and scholarly writings about workplace inclusion and to reflect critically on their practical internship experiences as a group. Each week, the course will have 75 minutes of synchronous and 75 minutes of asynchronous instruction. Asynchronous instruction will include analysis and reflection of course readings through a discussion board moderated by the instructor. Our synchronous class meetings will focus on how course frameworks and dialogue skills manifest in workplace settings and how the credit internship expands our academic understandings of dialogue and workplace inclusion. Synchronous meetings will also provide us an opportunity for collective critical reflection on the benefits and challenges of fellows' experiential learning.
+
+Code: ILRID 4635
+Title: The Fight Against Unemployment: Advocacy and Policy
+Description: Unemployment is damaging to individuals, families, and society. Governments around the world have attempted to mitigate these harms, in some countries through generous out-of-work benefits, targeted retraining services for job seekers, and disincentives for employers to lay workers off in the first place. But why is unemployment so persistent in capitalist societies? What does it mean for an individual to be unemployed? What can the US learn from other countries to better combat unemployment and reduce its socially damaging effects? Students will work with community partners to assist the unemployed or conduct policy-relevant research.
+
+Code: ILRID 4645
+Title: The Fight Against Unemployment: Engaged Learning Option
+Description: In the Engaged Learning Option, you will work locally in the community, either with the attorneys at Legal Assistance of Western New York to assist unemployed clients, or with Dr. Ian Greer on a research project gathering and analyzing data.
+
+Code: ILRID 4699
+Title: Advanced Desktop Applications
+Description: This course will incorporate advanced topics in Microsoft Excel and Access. The Excel portion will focus on advanced use of functions, creating form controls, macros, pivot tables, and organization and analysis of large data sets to incorporate into a model. The Access portion will focus on integrated use with Excel and complex relationships and queries.
+
+Code: ILRID 4826
+Title: Leading Dialogue Across Difference: Practicum in Intergroup Relations
+Description: Through theoretical and experiential learning, students in EDUC 4826 will further develop knowledge and skills gained in EDUC 2610 for leadership across social, cultural, and political differences. Through weekly seminar sessions, students gain a working knowledge of scholarly literature drawn from the fields of critical intergroup dialogue, practice theory, social identity theory, and social justice education. Students learn about the theories and empirical evidence on why and how communication and collaboration across difference work. Moreover, through unique experiential learning opportunities in the classroom, students practice communication and collaboration across difference, as well as facilitation skills fundamental to leading intergroup dialogue processes.
+
+Code: ILRID 6635
+Title: The Fight Against Unemployment: Advocacy and Policy
+Description: Unemployment is damaging to individuals, families, and society. Governments around the world have attempted to mitigate these harms, in some countries through generous out-of-work benefits, targeted retraining services for job seekers, and disincentives for employers to lay workers off in the first place. But why is unemployment so persistent in capitalist societies? What does it mean for an individual to be unemployed? What can the US learn from other countries to better combat unemployment and reduce its socially damaging effects? Students will work with community partners to assist the unemployed or conduct policy-relevant research.
+
+Code: ILRID 6645
+Title: The Fight Against Unemployment: Engaged Learning Option
+Description: In the engaged learning option, you will work with community partners providing legal advice or workforce development services, or gather and analyze research data supervised by Prof. Ian Greer.
+
+Code: ILRID 6990
+Title: Advanced Desktop Applications
+Description: This course will incorporate advanced topics in Microsoft Excel and Access. The Excel portion will focus on advanced use of functions, creating form controls, macros, pivot tables, and organization and analysis of large data sets to incorporate into a model. The Access portion will focus on integrated use with Excel and complex relationships and queries.
+
+Code: ILRID 7570
+Title: The Enterprise of Social Science Research
+Description: Designed for social science MS/PhD students early in their academic career, this course provides an overview of philosophical debates about the aims and nature of social science research, processes involved in initiating research projects, and key methods of data collection and analysis. It will also introduce students to the ILR School, its various sub-fields and disciplines, and to academia, both as an institution and as a career. The aim of the course is to give students the foundational knowledge needed to undertake a graduate research degree and pursue a career as a researcher.
+

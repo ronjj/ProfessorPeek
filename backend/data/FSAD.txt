@@ -1,0 +1,100 @@
+Code: FSAD 1140
+Title: Principles of Design Computing
+Description: The course will cover foundational skills and best practices for design communication in terms of the underlying principles of computing technologies. This course will help students become versatile in utilizing various approaches and tools for tasks in Design and Environmental Analysis (DEA) and Fiber Science & Apparel Design (FSAD) programs. The first module will cover the foundations of 2D graphics and technical drawing. The second module will be an introduction to 3D modeling and rendering. Each module will start as one class with a focus on general principles and will be followed by the class dividing into two sections for applications specific to DEA and FSAD programs. The final module will include an introduction to Generative Artificial Intelligence techniques as a part of a collaborative final project where students will work in multidisciplinary teams to design, curate, and propose an exhibition (DEA) for a fashion collection (FSAD). Through lectures, class activities, homework and projects, the course will help students build confidence in digital design skills and be encouraged to explore further on their own.
+
+Code: FSAD 1170
+Title: Fashion Graphics
+Description: Students develop both familiar and unfamiliar methods that enable them to visualize the fashioned body and ancillary expressions of fashion. Fashion graphics is explored as a communicative strategy essential in most aspects of fashion development.
+
+Code: FSAD 1250
+Title: Fashion, Art and Design Thinking
+Description: Introduction to the visual arts and design that explores aesthetic and cross-cultural dimensions of fashion as a visual, material, and embodied practice. Lectures emphasize the intersections between fashion, art, and design through slide presentations, historical artifacts from the Cornell Fashion + Textile Collection, hands-on activities, and discussions. We consider social, cultural, political, aesthetic, scientific, economic, and historical aspects of fashion design, visual expression, and everyday embodied dressing.
+
+Code: FSAD 1450
+Title: Introduction to Fashion Design
+Description: This course covers the principles of garment assembly and flat-patternmaking for apparel design, as well as the use of mass production equipment and methods to analyze, develop, and assemble garments. Studio projects include an emphasis on innovative design and high-quality garment assembly techniques for upscale markets.
+
+Code: FSAD 2310
+Title: Fashion Product Management
+Description: This course is an overview of the fashion supply chain with emphasis on the U.S. apparel industry. Students will learn key concepts for managing the development, marketing, and distribution of fashion products including consumer behavior, trend forecasting, brand management, merchandise planning, and multi-channel distribution.
+
+Code: FSAD 2370
+Title: Structural Fabric Design
+Description: This course provides a basic understanding of how fabrics are formed and the relationship between fabric structure and fabric performance. Students completing this class will have a strong understanding of common fabric structures, be able to identify fabric structure visually and appreciate the relationship between fabric construction and performance in apparel and other end uses.
+
+Code: FSAD 2650
+Title: Creative Patternmaking for Fashion Design
+Description: The goal of this apparel studio course is to expand student confidence and competencies in flat pattern analysis, design, and fitting techniques. In this course, students learn the basic principles and methods of 2D flat patternmaking as well as creative patternmaking concepts. Exercises, assignments, and projects are designed to teach the knowledge and skills needed to create well-balanced and quality patterns for 3D garment designs. 2D/3D CAD technology for patternmaking and fit testing is introduced.
+
+Code: FSAD 3200
+Title: Global Textile and Apparel Sustainability
+Description: This course explores sustainability in the textile and apparel industries in relation to the 17 Sustainable Development Goals articulated by the United Nations Department of Economic and Social Affairs. Students will engage with industry challenges, practices, and successes in increasing sustainability via guest speakers, case studies, research reports and corporate reports.  Aspects of sustainability impacting personal welfare of producers and consumers, environmental impacts and economic potential will be explored.
+
+Code: FSAD 3250
+Title: Color and Surface Design of Textiles
+Description: Studio experience in the surface design of textiles combined with exercises in color theory. Textile projects use techniques such as natural dyes, block printing, silk painting, shibori, silk screen, and embroidery to produce a portfolio of textile designs. Studio work is augmented by lectures on pattern and color theory illustrated by slides and textile examples.
+
+Code: FSAD 3770
+Title: Experimental Fashion
+Description: The collection course provides opportunity for students to analyze information gathered from previous experiences and in the course to be used as visual meta narrative in the creation of a collection of fashion related objects. Objects must respond to, and satisfy a global design challenge of 'importance'. Using design for clothes, textiles, jewelry, shoes, accessories, photography, film, moving image, blog, fashion forecasting, visual journalism, fashion styling, show direction, or other fashion promotional aspect relating to the fashion industries. The primary ambition of the course is to build a range of high-level skills in the students' chosen sector, medium, or media.
+
+Code: FSAD 4000
+Title: Directed Reading
+Description: For study that predominantly involves library research and independent reading by and individual student or a group of students in a field of FSAD not otherwise provided through course work in the department or elsewhere at the university.
+
+Code: FSAD 4010
+Title: Empirical Research
+Description: For study that predominantly involves data collection and analysis, or laboratory or studio projects by an individual student or a group of students in a field of FSAD not otherwise provided through course work in the department or elsewhere at the university.
+
+Code: FSAD 4020
+Title: Supervised Fieldwork
+Description: For study that involves both responsible participation in a community setting and reflection on that experience through discussion, reading, and writing by an individual student or a group of students in a field of FSAD not otherwise provided through course work in the department or elsewhere at the university.
+
+Code: FSAD 4025
+Title: Design for Change: Imagining Decolonial Futures
+Description: This course explores the role of design in reshaping the world towards social justice and sustainability. Designing for change requires creating different cultural patterns and worldviews — examining taken-for-granted assumptions, narratives, and myths of the hegemonic cultural model (known as Modernity) that limit our capacity to imagine the world differently. As the world is enmeshed in colossal interconnected crises, it seems that imagination has been funneled to two avenues: techno-solutions to the symptoms of the crises and dystopic futures. This course explores two main ideas: a) alternatives are possible, b) the area of design for change would benefit from exchanges with different cultures and knowledge systems. Designing decolonial futures is about weaving together knowledge from multiple cultures, thus recognizing and creating alternatives based on different ways of understanding the world.
+
+Code: FSAD 4030
+Title: Teaching Apprenticeship
+Description: For study that includes teaching methods in the field and assisting faculty with instruction.
+
+Code: FSAD 4370
+Title: Knitwear Design and Other Knit Applications
+Description: This course covers the design and creation of knit garments and other knit products via a variety of machine-knit shaping techniques. Students will work on hand-flat and electronic software driven machines to program and create shaped knit panels for a variety end-uses. Draping, blocking, and linking techniques will be covered. Students are required to develop design ideas via mood board and sketchbook research and to make verbal/visual presentations of their work at regular critiques. Students will have access to equipment and supplies such as yarn, but should expect to purchase bring in supplies such as drawing materials, scissors, a tape measure and dot grid notebook.
+
+Code: FSAD 4460
+Title: Nanotechnology in Fibers and Textiles
+Description: This course covers the development of functional fibers and textiles thru nanotechnology. This course introduces nanomaterials, nano-finishes and nanocoating processes used for functional fibers and textiles. This course also emphasizes the structure-property of the nanofibers and nanotextiles and predict their end-use. Examples of nanotechnological products based on nanofibers and nanotextiles in the market are included. This course also discusses environmental issues and the sustainability aspects regard to nanotechnology used in fibers and textiles. Through lectures, readings, discussion, projects and presentations, this course highlights the role of nanotechnology for the development of functional fibers and textiles.
+
+Code: FSAD 4660
+Title: Textiles, Apparel, and Innovation
+Description: Designed for students in all FSAD options. Explores the relationship between materials and design with a concentration on the use of innovative textile materials in apparel. Both aesthetic and functional issues are addressed. The course consists of a combination of lectures, discussion of readings, oral reports, a research paper, and project work. The class engages elders from the local community to solve real-life problems using design thinking methodologies.
+
+Code: FSAD 4770
+Title: Negotiated Fashion
+Description: This second course builds on FSAD 3770; students must retain the big ideas and themes developed in the first course. Motifs will be finalized and applied to collections. The primary ambition is to demonstrate a range of expert skills necessary to articulate and operate as creator and director of fashion within the global fashion system. Students will consolidate previous explorations and experiences to create a philosophical position about fashion driven by concept. Objects and scenarios will be completed to a "professional standard" worthy of exhibition at an international 'young creator' level. Much of the course will be spent developing concepts, proposing ideas and finally fabricating fashion objects that are relevant to fashion markets 6 months hence.
+
+Code: FSAD 4990
+Title: Honors Thesis Research
+Description: The student prepares a thesis, based on independent research, including a research statement, background, approach, results (which could be a description of a creative work), and discussion. The student may also produce creative work. Students make an open presentation of work, either a seminar or an exhibition, and an oral defense with the committee. Interested students should obtain a FSAD Honors Program application form from the FSAD undergraduate office (T57 HEB) and submit the application to the department before the end of the fall semester of junior year. For more information students should contact the Director of Undergraduate Studies at fsad-dus@cornell.edu.
+
+Code: FSAD 6000
+Title: Special Problems for Graduate Students
+Description: Independent advanced work by graduate students recommended by their chair and approved by the department chair and instructor.
+
+Code: FSAD 6025
+Title: Design for Change: Imagining Decolonial Futures
+Description: This course explores the role of design in reshaping the world towards social justice and sustainability. Designing for change requires creating different cultural patterns and worldviews — examining taken-for-granted assumptions, narratives, and myths of the hegemonic cultural model (known as Modernity) that limit our capacity to imagine the world differently. As the world is enmeshed in colossal interconnected crises, it seems that imagination has been funneled to two avenues: techno-solutions to the symptoms of the crises and dystopic futures. This course explores two main ideas: a) alternatives are possible, b) the area of design for change would benefit from exchanges with different cultures and knowledge systems. Designing decolonial futures is about weaving together knowledge from multiple cultures, thus recognizing and creating alternatives based on different ways of understanding the world.
+
+Code: FSAD 6460
+Title: Nanotechnology in Fibers and Textiles
+Description: This course covers the development of functional fibers and textiles by nanotechnology. This course introduces nanomaterials, nano-finishes and nanocoating processes used for functional fibers and textiles. This course also emphasizes the structure-property of the nanofibers and nanotextiles and predict their end-use. Examples of nanotechnological products based on nanofibers and nanotextiles in the market are included. This course also discusses environmental issues and the sustainability aspects regard to nanotechnology used in fibers and textiles. Through lectures, readings, discussion, projects and presentations, this course highlights the role of nanotechnology for the development of functional fibers and textiles.
+
+Code: FSAD 8990
+Title: Master's Thesis and Research
+Description: A course for Fiber Science or Apparel Design Graduate Students doing research related to completing their Master's degree.
+
+Code: FSAD 9990
+Title: Doctoral Thesis and Research
+Description: Dissertation research for PhD candidates in Fiber Science or Apparel Design.
+

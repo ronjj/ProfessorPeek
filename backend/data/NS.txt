@@ -1,0 +1,152 @@
+Code: NS 1150
+Title: Nutrition, Health, and Society
+Description: Introduction to Human Nutrition, Health, and Society provides fundamental knowledge for majors and non-majors in nutrition. The role of nutrition in health promotion and disease prevention is introduced from biological, social, and structural perspectives.
+
+Code: NS 1400
+Title: Introduction to Human Biology, Health, and Society
+Description: Introduction to Human Biology, Health, and Society is intended for first-year Human Biology, Health, and Society (HBHS) majors. The course provides a foundational framework for the major as well as an introduction to disciplines involved in understanding, integrating, and improving human health from biological, behavioral, environmental, and public policy perspectives. Students will have the opportunity to explore these sub-disciplines and develop interests that will guide their future course choices as well as develop critical thinking skills, the ability to work in groups, communicate, reflect on social and cultural perceptions, and critically read scientific literature.
+
+Code: NS 1600
+Title: Introduction to Public Health
+Description: Introduction to Public Health is intended for Global and Public Health Sciences majors and for other students majoring in related disciplines. The course provides the basic principles, practices, and policies of public health, including an introduction to the infrastructure and organization of public health; methods of data collection and surveillance; disease promotion and prevention; health disparities; the achievements, challenges, and controversies in the field; and the range of career opportunities available in the field. This course has a particular focus on public health assessment, policy development, and assurance in the United States.
+
+Code: NS 2060
+Title: Preparation for Engaged Learning in Global and Public Health Sciences
+Description: This course provides foundational knowledge about community-engaged and experiential learning as it relates to global and public health and creates a dynamic classroom environment and community of learners to develop the essential orientations and skills required for success in the experiential learning and future careers in global and public health.
+
+Code: NS 2061
+Title: Site-Specific Preparation for Engaged Learning in Global and Public Health Sciences
+Description: This course provides pre-engagement preparation tailored to the research project or site where students will complete the experiential learning required for the GPHS major. Students will meet with the faculty member in charge, at a time and place to be arranged.
+
+Code: NS 2450
+Title: Social Science Perspectives on Food and Nutrition
+Description: Uses theories, concepts, and methods from the social sciences to examine food, eating, and nutrition. The food choice process model is used as a framework to examine the scope of social science aspects of nutrition. Assignments include examinations, short homework papers, and two research projects, one qualitative and one quantitative, for which students prepare proposals, collect and interpret data, and write reports.
+
+Code: NS 2470
+Title: Food for Contemporary Living
+Description: During this laboratory course, the understanding of food ingredients and techniques of food preparation is applied to positive nutritional practices and health promotion goals; basic food science and nutrition principles, food safety/sanitation, sensory evaluation, and social-cultural influences on food choices; food preparation, recipe modification, sensory evaluation (taste testing required); basic cooking skills, techniques. Introduction to basic menu planning and meeting nutritional requirements while restricted to a budget. Lab performance and a lab practical factored into final student evaluation; attendance at all labs is expected.
+
+Code: NS 3090
+Title: Global Health Case Studies from Weill Cornell Medicine
+Description: Weill Cornell Medicine faculty from several clinical departments including the department of medicine, department of surgery, department of anesthesiology, department of pediatrics, department of psychiatry, department of radiation oncology, department of public health, and department of emergency medicine, share their experiences in global health and international work. These global health experts will present their experiences abroad in a seminar style course.
+
+Code: NS 3200
+Title: Introduction to Human Biochemistry
+Description: Presents the principles of biochemistry within the context of human health and disease. Teaches the metabolism of carbohydrates, lipids, and proteins from a perspective that emphasizes their role in supporting the structure and physiological functions of the major organs of the body. Incorporates the concepts of enzyme catalysis, enzyme regulation, hormone action, and bioenergetics within this framework. Covers he fundamental concepts of eukaryotic DNA structure, function, and gene expression with reference to their importance in regulating metabolism.
+
+Code: NS 3320
+Title: Methods in Nutritional Sciences
+Description: Laboratory introduction to principles and analytical techniques of nutritional research. Emphasizes analytical concepts and skills required to determine nutrient function and nutritional status of individuals and populations. Topics include methods of nutrient, metabolite, and enzyme analysis in body fluids; methods for assessing individual food intake and nutritional status; methods for assessing body composition and energy expenditure; and methods for assessing the composition of foods.
+
+Code: NS 3450
+Title: Introduction to Physiochemical and Biological Aspects of Foods
+Description: Comprehensive introduction to the physical, chemical, and nutritional properties of foods and to the principles and practice of food science and technology. Topics include chemistry and functionality of commodities and ingredients, chemical, physical and biological phenomena that affect food quality, techniques of processing and preservation, microbiology and fermentation, food safety, regulation, and contemporary issues.
+
+Code: NS 3980
+Title: Research in Human Nutrition and Health
+Description: Provides an introduction to a range of topics and skills related to engaging in research in the fields of human health and nutrition, including constructing research questions, searching and assessing available literature, considering ethical implications of research with humans and animals, working with scientific data, and communicating scientific work. Some weekly sessions feature expert guest speakers from around campus, and the course includes several workshop sessions designed to give students practical experience in important research-related skills. NS 3980 is a required component of the DNS Honors Program, but non-DNS majors may enroll, and DNS majors may enroll whether or not they are interested in applying to the DNS Honors Program.
+
+Code: NS 4000
+Title: Directed Readings
+Description: Study that predominantly involves library research and independent reading.
+
+Code: NS 4010
+Title: Empirical Research
+Description: Study that predominantly involves data collection and analysis or laboratory or studio projects.
+
+Code: NS 4020
+Title: Supervised Fieldwork
+Description: Study that involves both responsible participation in a community setting and reflection on that experience through discussion, reading, and writing. Academic credit is awarded for this integration of theory and practice.
+
+Code: NS 4030
+Title: Teaching Apprenticeship
+Description: Study that includes assisting faculty with instruction.
+
+Code: NS 4060
+Title: Experiential Learning in Global and Public Health Sciences
+Description: Formalized active learning opportunity for students in the Global and Public Health Sciences major to develop and apply academic knowledge, principles and skills to a public health problem in a supervised community or research setting, either domestic or international.
+
+Code: NS 4410
+Title: Nutrition and Disease
+Description: This course presents the role of nutrition in disease using review of the current literature and application to clinical cases. Students use their foundational knowledge in the sciences to understand the etiology and pathophysiology of disease states and learn where nutrition plays a critical role in the development, prevention, and/or management of disease. Application of knowledge to case studies is emphasized to develop skills in integrating nutrition into the assessment and management of acute illness and chronic medical conditions. The course prepares students to recognize the impact of nutrition in disease and apply this information personally and professionally in the areas of public health, community nutrition, clinical dietetics and clinical medicine.
+
+Code: NS 4420
+Title: Implementation of Nutrition Care
+Description: Develop skills necessary to implement nutrition care. Application of the nutrition care process as it applies to clinical settings is emphasized. Students develop skills to perform nutrition assessment, nutrition diagnosis, nutrition intervention, monitoring, and evaluation. Content includes principles of MNT for acute and chronic diseases, menu planning for disease states, the role of other allied health practitioners in assuring nutritional health, and reimbursement and legislation in dietetics practice.
+
+Code: NS 4450
+Title: Toward a Sustainable Global Food System: Food Policy for Developing Countries
+Description: Comprehensive presentation and discussion of policy options for a sustainable global food system, with focus on developing countries. Topics include economic policy related to nutrition, health, consumption, production, natural resource management, trade, markets, gender roles, armed conflict, and ethics. A social entrepreneurship approach based on case studies and active participation by students will be used.
+
+Code: NS 4480
+Title: Economics of Food and Malnutrition
+Description: This course focused on the economics of food and malnutrition from the perspective of individuals and households; that is, a micro-economic approach. Topics include characteristics and constraints associated with food production in both developed and developing countries; the determinants of household food security; the social and economic causes and consequences of undernutrition; the social and economic causes and consequences of obesity; intervention design to reduce food insecurity, undernutrition and obesity.
+
+Code: NS 4570
+Title: Health, Poverty, and Inequality: A Global Perspective
+Description: Course focuses on global health challenges, and how they are related to poverty and inequality.
+
+Code: NS 4600
+Title: Explorations in Global and Public Health
+Description: This capstone course provides guidance, conceptual tools, feedback and a dedicated space in the schedule for students to design, complete and communicate a capstone project on a topic of their choosing that allows them to demonstrate their mastery of the learning outcomes for the Global and Public Health Sciences major or Global Health minor.
+
+Code: NS 4990
+Title: Honors Problem
+Description: All DNS Honors students must complete a total of six credits in NS 4990 Honors Problem. Students must complete three credits of NS 4990 in each of their last two semesters. These credits are supervised by the DNS Honors Program Director and represent both a student's research with their faculty advisor, as well as the program's required writing tasks, and presenting their project in a research symposium. Writing tasks include a progress report, abstract, literature review, full thesis draft, and final thesis. Research activities may include reviewing the literature, writing a proposal, developing research methods, collecting data in the field or laboratory, analyzing data, and writing the honors thesis. Additional research credit is taken as NS 4000, NS 4010, NS 4020, or equivalent.
+
+Code: NS 4997
+Title: Experiential Learning in Global and Public Health in Washington, DC
+Description: This course centers on the student's global and public health internship in Washington DC to engage in an applied and holistic way with the global and public health policy world. Students will contribute to some work of their host organization and identify a particular global and public health policy issue they have encountered in their internship. They will analyze this issue in NS 4997 using guidance provided in their ePortfolios and they will do further analysis on it using complementary frameworks and perspectives gained from the policy and politics course - NS 4998.
+
+Code: NS 4998
+Title: Engaged Learning About Policy Making in Washington D.C.
+Description: The core course at Cornell in Washington is an experiential learning class that focuses on engaging with the professional experience of being in DC. Its primary purposes are to give students to build their understanding of their internship work by analyzing and reflecting on that work, understanding the context and structures of the policy and political world with which they are engaging, and learning and practicing the professional forms of writing that that world uses. This process occurs through readings, written assignments, guest speakers, and signature events.
+
+Code: NS 5550
+Title: Leadership in Dietetics Practice
+Description: Principles, theories and foundational skills of leadership are explored in the context of evidence-based dietetics practice through seminars, skill-building workshops, case-studies, role-playing scenarios and reflection on the application of leadership to practice. NS 5550 is a required course to fulfill Dietetic Internship competencies, as outlined in the Learning Outcomes, as well as learning outcomes for the Cornell Graduate School and Graduate Field of Nutrition.
+
+Code: NS 6000
+Title: Special Problems for Graduate Students
+Description: Emphasizes independent advanced work. Experience in research laboratories in the Division of Nutritional Sciences may be arranged.
+
+Code: NS 6190
+Title: Division of Nutritional Sciences Seminar
+Description: Lectures on current research in nutrition.
+
+Code: NS 6250
+Title: Community Nutrition in Action
+Description: Provides students enrolled as dietetic interns with supervised, in-depth experiences in a community nutrition program and fosters the integration of research, theory, and practice. Through placements in community programs, students gain experience in program administration and in assessing, designing, implementing, and evaluating food and nutrition programs for targeted populations through public and private organizations. In weekly seminars (and other seminars and observations as arranged) students integrate theory and practice, reflect upon their placement experience, learn about community nutrition research, and explore the many issues facing community food and nutrition practitioners.
+
+Code: NS 6310
+Title: Micronutrients: Function, Homeostasis, and Assessment
+Description: This course further expands on the material covered in introductory courses in nutritional biochemistry by providing a broad perspective of the function, homeostasis, and metabolism of the principal dietary micronutrients.
+
+Code: NS 6350
+Title: Introduction to Community Nutrition Research for Dietetic Interns
+Description: Introduces the paradigms, concepts, methods, and issues involved in community nutrition research. Students design and conduct individual research projects to inform community nutrition programs. Lectures, readings, and class discussion support students as they conduct their research activities.
+
+Code: NS 6455
+Title: Toward a Sustainable Global Food System: Food Policy for Developing Countries
+Description: Comprehensive presentation and discussion of policy options for a sustainable global food system, with focus on developing countries. Topics include: economic policy related to nutrition, health, consumption, production, natural resource management, trade, markets, gender roles, armed conflict, and ethics. A social entrepreneurship approach based on case studies and active participation by students will be used.
+
+Code: NS 6480
+Title: Economics of Food and Malnutrition
+Description: This course focused on the economics of food and malnutrition from the perspective of individuals and households; that is, a micro-economic approach. Topics include characteristics and constraints associated with food production in both developed and developing countries; the determinants of household food security; the social and economic causes and consequences of undernutrition; the social and economic causes and consequences of obesity; intervention design to reduce food insecurity, undernutrition and obesity.
+
+Code: NS 6980
+Title: International Nutrition Seminar
+Description: Discussions and presentations by Cornell faculty, graduate students, and invited outside speakers representing a range of multisectoral perspectives on global nutrition. Topics and themes focus on research, policy, and programs related to nutrition in low- and middle-income countries.
+
+Code: NS 7030
+Title: Seminar in Nutritional Sciences
+Description: This graduate nutrition course addresses the analytic and professional skills required to critique original research publications and make public presentations to a broad audience. Students critically analyze and interpret findings from research articles published in a wide variety of journals related to the field of nutritional sciences. Students present these critiques to a broad multi-disciplinary audience, and participate in the seminars presented by other students.
+
+Code: NS 8990
+Title: Master's Thesis and Research
+Description: A course for Division of Nutritional Sciences (DNS) Graduate Students doing research related to completing their Master's degree.
+
+Code: NS 9990
+Title: Doctoral Thesis and Research
+Description: A course for Division of Nutritional Sciences (DNS) Graduate Students doing research related to completing their Doctoral degree.
+

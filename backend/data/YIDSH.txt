@@ -1,0 +1,8 @@
+Code: YIDSH 1776
+Title: Elementary Yiddish I
+Description: Elementary Yiddish I is the first in a three-class sequence that will enable students to meet their Arts & Sciences language requirement in Yiddish. It provides an introduction to reading, writing, listening, and speaking skills. Yiddish contains a wealth of embedded knowledge about Ahkenazi Jewish life, both historical and contemporary. In addition to language competence the course will build understanding of this legacy through songs, humor, holiday traditions, literature, and other cultural products.
+
+Code: YIDSH 2276
+Title: Intermediate Yiddish
+Description: Intended for intermediate students, this is the third in a three-course sequence, designed to enable students to meet the College of Arts & Sciences language requirement. Students will increase their understanding of the language in cultural context and will further develop their capacity to produce both spoken and written Yiddish.
+

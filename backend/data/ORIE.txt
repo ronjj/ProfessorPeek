@@ -1,0 +1,212 @@
+Code: ORIE 3150
+Title: Financial and Managerial Accounting
+Description: Covers principles of accounting, financial reports, financial-transactions analysis, financial-statement analysis, budgeting, job order and process-cost systems, standard costing and variance analysis, and economic analysis of short-term decisions.
+
+Code: ORIE 3300
+Title: Optimization I
+Description: Formulation of linear programming problems and solutions by the simplex method. Related topics such as sensitivity analysis, duality, and network programming. Applications include such models as resource allocation and production planning. Introduction to interior-point methods for linear programming.
+
+Code: ORIE 3500
+Title: Eng Probability and Statistics: Modeling and Data Science II
+Description: A rigorous foundation in theory combined with the methods for modeling, analyzing, and controlling randomness in engineering problems. Probabilistic ideas are used to construct models for engineering problems, and statistical methods are used to test and estimate parameters for these models. Specific topics include random variables, probability distributions, density functions, expectation and variance, multidimensional random variables, and important distributions including normal, Poisson, exponential, hypothesis testing, confidence intervals, and point estimation using maximum likelihood and the method of moments.
+
+Code: ORIE 4100
+Title: Manufacturing Systems Design: A Consulting Boot Camp
+Description: This project-based course puts students in the roles of analysts and advisors to an industrial firm facing broad challenges in customer service, product quality, market share, and profitability. Students, working in teams, design a manufacturing logistics system and conduct capacity, material flow, and cost analyses of their design. By taking a view that integrates marketing, distribution, manufacturing, and engineering, students help the company transform into a world-class competitor.
+
+Code: ORIE 4340
+Title: Applications of Optimization: Modeling and Computation
+Description: This course will cover the use of optimization models in several industries. Covered industries will include manufacturing, process, distribution, retail, and transportation. We will not cover models used exclusively in the financial industry.  In each covered industry we will start with simple text-book models, and then extend these models to reflect the realities of the industry, the existing business decisions processes and the available data.  We expect to have lectures from experts in some of these industries, each of whom will also discuss Operations Research roles and careers.
+
+Code: ORIE 4350
+Title: Introduction to Game Theory
+Description: Broad survey of the mathematical theory of games, including such topics as two-person matrix and bimatrix games; cooperative and noncooperative n-person games; and games in extensive, normal, and characteristic function form. Economic market games. Applications to weighted voting and cost allocation.
+
+Code: ORIE 4570
+Title: Reinforcement Learning with Operations Research Applications
+Description: The ongoing information revolution and the advent of the big data era make quantitative methods in the business context indispensable. This course introduces reinforcement learning, decision-making under uncertainty, and related algorithms through the lens of OR applications. Examples will be drawn from real-world problems in operations, revenue management, queuing, finance, transportation, healthcare, and other areas of interest. The course will cover modeling and applications, basic theory, and algorithms.
+
+Code: ORIE 4580
+Title: Simulation Modeling and Analysis
+Description: Introduction to Monte Carlo simulation and discrete-event simulation. Topics include: random variate and process generation; data-driven distribution modeling; input and output analysis; modeling, analysis and optimization of complex systems.  Emphasizes tools and techniques needed in practice; in particular, modeling in simulation in Python, as well as commercial discrete-event simulation languages.
+
+Code: ORIE 4630
+Title: Operations Research Tools for Financial Engineering
+Description: Introduction to the applications of OR techniques, e.g., probability, statistics, and optimization, to finance and financial engineering. The course reviews probability and statistics and surveys assets returns, ARIMA time series models, portfolio selection using quadratic programming, regression, CAPM and factor models, option pricing, GARCH models, fixed-income securities, and resampling techniques. Covers the use of R for statistical calculations, simulation, and optimization.
+
+Code: ORIE 4990
+Title: Teaching in ORIE
+Description: Involves working as a TA in an ORIE course. The instructor assigns credits (the guideline is 1 credit per four hours per week of work with a limit of 3 credits).
+
+Code: ORIE 4999
+Title: ORIE Project
+Description: Project-type work, under faculty supervision, on a real problem existing in some firm or institution. Opportunities in the course may be discussed with the associate director.
+
+Code: ORIE 5100
+Title: Manufacturing Systems Design: A Consulting Boot Camp
+Description: This project-based course puts students in the roles of analysts and advisors to an industrial firm facing broad challenges in customer service, product quality, market share, and profitability. Students, working in teams, design a manufacturing logistics system and conduct capacity, material flow, and cost analyses of their design. By taking a view that integrates marketing, distribution, manufacturing, and engineering, students help the company transform into a world-class competitor.
+
+Code: ORIE 5110
+Title: Case Studies
+Description: Presents students with an unstructured problem that resembles a real-world situation. Students work in project groups to formulate mathematical models, perform computer analyses of the data and models, and present oral and written reports.
+
+Code: ORIE 5140
+Title: Model Based Systems Engineering
+Description: Fundamental ideas of systems engineering, and their application to design and development of various types of engineered systems. Defining system requirements, creating effective project teams, mathematical tools for system analysis and control, testing and evaluation, economic considerations, and the system life cycle. Content utilizes model-based systems engineering, which is the integration of systems modeling tools, such as SysML, with tools for systems analysis, such as Matlab and Modelica. The vision for this integration is the ability to create and analyze complete parametric representations of complex products and systems. These systems make it possible to investigate the impact of changing one aspect of a design on all other aspects of design and performance. This course will familiarize students with these modeling languages. Off-campus students must provide their own Windows 7, internet-connected, computer with administrator access in order to install the commercial software used in this course.
+
+Code: ORIE 5160
+Title: Topics in Data Science and OR
+Description: Each year, the course will cover a different advanced topic at the intersection of data science and operations research, with the specific topic to be chosen by the instructor that year. The class will entail advanced reading, homework, and course project. Example semester-long topics include: Multi-arm bandit models in ML and OR, Statistical recovery in data science and OR, Graphical models in data science and OR, Causal inference in data science and OR, and Reinforcement learning in data science and OR.
+
+Code: ORIE 5210
+Title: Financial Engineering Colloquium
+Description: A weekly guest speaker series designed to broaden students' understanding and knowledge of the financial markets, challenges that industry is facing and learn about a variety of career paths within the field of quantitative finance.  Every week the students will hear from a different seasoned finance professional.
+
+Code: ORIE 5215
+Title: Financial Engineering Career Practicum
+Description: A professional development course designed specifically for MEng students in ORIE concentrating in Financial Engineering. Through a series of panels and hands-on workshops, students will develop effective job search materials and participate in active exercises covering topics such as networking, interviewing for specific career paths, and other communication skills for today's professional environments.
+
+Code: ORIE 5220
+Title: Applied Financial Engineering (in NYC)
+Description: Project course in Manhattan satisfying the engineering design project requirement for the M.Eng degree.
+
+Code: ORIE 5230
+Title: Quantitative Trading Strategies
+Description: This course covers numerical techniques for quantitative trading in Finance. The main computational tool is Python. The computational techniques draw from interpolation, linear algebra, optimization, stochastic control, Monte Carlo simulation, queuing theory, finite difference methods, binomial trees, as well as statistical techniques such as regression, co-integration and principal components analysis. The applications include pricing, market microstructure, hedging and asset allocation for bonds, futures, equities and options. The focus is on theories that can be implemented in trading situations and the Interactive Brokers platform is used extensively for trading assignments.
+
+Code: ORIE 5240
+Title: Bond Mathematics and Mortgage-Backed Securities
+Description: A transaction-oriented course covering U.S. Bond markets. The course covers valuation, trading strategies, and risk profiles of bonds, with a special emphasis on mortgage-backed securities.
+
+Code: ORIE 5252
+Title: Special Topics in Financial Engineering
+Description: This course is taught by a seasoned finance professional and focuses on the tools and techniques used by quantitative traders. The topics covered include risk measurement and management, alpha forecasting methods, and the development and application of trade execution cost models. The emphasis of the course is to enable students to apply quantitative financial models within a real-life trading environment.
+
+Code: ORIE 5253
+Title: Special Topics in Financial Engineering II
+Description: This course is taught by a seasoned finance professional and provides an overview of the current challenges in the asset management industry and proposes practical solutions to overcome these challenges.
+
+Code: ORIE 5254
+Title: Special Topics in Financial Engineering III
+Description: This course is taught by a seasoned finance professional and is designed to familiarize students with the most recent developments in the equity derivatives marketplace. The emphasis will be on practical side of trading and analyzing attractive strategies in the equity derivatives markets.
+
+Code: ORIE 5255
+Title: Special Topics in Financial Engineering IV
+Description: This course is taught by a seasoned finance professional and will introduce students to the subject of market microstructure and the hottest areas of study within the field. Specifically, the course will focus on the recent electronification of the financial markets, and the resulting effects.
+
+Code: ORIE 5256
+Title: Special Topics in Financial Engineering V
+Description: This course is taught by a seasoned finance professional. Machine learning (ML) is changing virtually every aspect of our lives. As it relates to finance, this is the most exciting time to adopt a disruptive technology that will transform how everyone invests for generations. Students will learn scientifically sound ML tools used in the financial industry.
+
+Code: ORIE 5257
+Title: Special Topics in Financial Engineering VI
+Description: Algorithmic trading and ML-powered tools have impacted all asset classes: beyond the most liquid (and well-studied) equity markets, we have observed a growing number of assets (such as bonds, foreign exchange, crypto, on-line adverts, etc.) that are now primarily traded electronically, yet not necessarily via a classical exchange. In this course, we will cover the tools required to compete in FX, Rates and Crypto markets, covering the main protocols (price-streams, second-price auctions, etc.) with particular emphasis on how to apply the latest ML techniques to gain a competitive edge.
+
+Code: ORIE 5258
+Title: Python for Finance
+Description: Python is rapidly becoming a golden standard for quantitative finance. In this course students will be exposed to the powerful and fast open-source data science libraries and specific applications of analyzing financial data sets.
+
+Code: ORIE 5300
+Title: Optimization I
+Description: Formulation of linear programming problems and solutions by the simplex method. Related topics such as sensitivity analysis, duality, and network programming. Applications include such models as resource allocation and production planning. Introduction to interior-point methods for linear programming.
+
+Code: ORIE 5340
+Title: Applications of Optimization: Modeling and Computation
+Description: This course will cover the use of optimization models in several industries. Covered industries will include manufacturing, process, distribution, retail, and transportation. We will not cover models used exclusively in the financial industry.  In each covered industry we will start with simple text-book models, and then extend these models to reflect the realities of the industry, the existing business decisions processes and the available data.  We expect to have lectures from experts in some of these industries, each of whom will also discuss Operations Research roles and careers.
+
+Code: ORIE 5350
+Title: Introduction to Game Theory
+Description: Broad survey of the mathematical theory of games, including such topics as two-person matrix and bimatrix games; cooperative and noncooperative n-person games; and games in extensive, normal, and characteristic function form. Economic market games. Applications to weighted voting and cost allocation.
+
+Code: ORIE 5355
+Title: Applied Data Science: Decision-Making Beyond Prediction
+Description: This course considers the data science challenges beyond training an accurate predictive model, especially for systems about people (data of behavior), and for people (deployed models to influence behavior). Whether for online marketplaces, transportation, governmental, or urban systems, effective data science in such settings requires dealing with user incentives and strategic behavior, networked and decentralized decision-making, and privacy and ethics concerns. Primary evaluation will be through programming based assignments (in Python) and conceptual questions.
+
+Code: ORIE 5380
+Title: Optimization Methods
+Description: This course covers algorithmic and computational tools for solving optimization problems with the goal of providing decision-support for business intelligence. We will cover the fundamentals of linear, integer and nonlinear optimization. We will emphasize optimization as a large-scale computational tool, and show how to link programming languages with optimization software to develop industrial-strength decision-support systems. We will demonstrate how to incorporate uncertainty into optimization problems. Throughout the course, we will cover a variety of modern applications, including pricing and marketing for e-commerce, ad auctions on the web, and on-line ride-sharing.
+
+Code: ORIE 5500
+Title: Eng Probability and Statistics: Modeling and Data Science II
+Description: A rigorous foundation in theory combined with the methods for modeling, analyzing, and controlling randomness in engineering problems. Probabilistic ideas are used to construct models for engineering problems, and statistical methods are used to test and estimate parameters for these models. Specific topics include random variables, probability distributions, density functions, expectation and variance, multidimensional random variables, and important distributions including normal, Poisson, exponential, hypothesis testing, confidence intervals, and point estimation using maximum likelihood and the method of moments.
+
+Code: ORIE 5530
+Title: Modeling Under Uncertainty
+Description: We will learn how to model randomness, analyze its impact, and make optimal decisions when it is present. We will cover stochastic modeling techniques, statistical principles, simulation, and decision-making under uncertainty. Using applications, we will demonstrate how we can use statistical principles to gain insight from data generated by systems with randomness. We will use simulation models to assess the performance of such systems and gauge how it changes in response to our decisions. We will introduce and use stochastic modeling techniques, such as Markov chains and Poisson processes, to build models of random phenomena and use these to gain understanding and guide decisions. As well as covering theoretical concepts, the course will put substantial emphasis in computational implementation of both simulation and decision-making problems.
+
+Code: ORIE 5570
+Title: Reinforcement Learning with Operations Research Applications
+Description: The ongoing information revolution and the advent of the big data era make quantitative methods in the business context indispensable. This course introduces reinforcement learning, decision-making under uncertainty, and related algorithms through the lens of OR applications. Examples will be drawn from real-world problems in operations, revenue management, queuing, finance, transportation, healthcare, and other areas of interest. The course will cover modeling and applications, basic theory, and algorithms.
+
+Code: ORIE 5580
+Title: Simulation Modeling and Analysis
+Description: Introduction to Monte Carlo simulation and discrete-event simulation. Topics include: random variate and process generation; data-driven distribution modeling; input and output analysis; modeling, analysis and optimization of complex systems.  Emphasizes tools and techniques needed in practice; in particular, modeling and simulation in Python, as well as commercial discrete-event simulation languages.
+
+Code: ORIE 5581
+Title: Monte Carlo Simulation
+Description: Introduction to Monte Carlo simulation. Topics include: random variate and process generation; data-driven distribution modeling; input and output analysis. Emphasizes modeling and simulation in Python.
+
+Code: ORIE 5600
+Title: Financial Engineering with Stochastic Calculus I
+Description: Introduction to continuous-time models of financial engineering and the mathematical tools required to use them, starting with the Black-Scholes model. Driven by the problem of derivative security pricing and hedging in this model, the course develops a practical knowledge of stochastic calculus from an elementary standpoint, covering topics including Brownian motion, martingales, the Ito formula, the Feynman-Kac formula, and Girsanov transformations.
+
+Code: ORIE 5630
+Title: Operations Research Tools for Financial Engineering
+Description: Introduction to the applications of OR techniques, e.g., probability, statistics, and optimization, to finance and financial engineering. The course reviews probability and statistics and surveys assets returns, ARIMA time series models, portfolio selection using quadratic programming, regression, CAPM and factor models, option pricing, GARCH models, fixed-income securities, and resampling techniques. Covers the use of R for statistical calculations, simulation, and optimization.
+
+Code: ORIE 5750
+Title: Applied Machine Learning
+Description: Learn and apply key concepts of modeling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, and dimensionality reduction.
+
+Code: ORIE 5910
+Title: Manufacturing Option Project
+Description: Project course coordinated by Center for Manufacturing Enterprise.
+
+Code: ORIE 5915
+Title: MEng Career Practicum
+Description: A professional development course designed specifically for MEng students in ORIE. Through a series of panels and hands-on workshops, you will develop effective job search materials and participate in active exercises covering topics such as networking, interviewing for specific career paths, and other communication skills for today's professional environments.
+
+Code: ORIE 5925
+Title: M.Eng. Professional Review
+Description: No description available.
+
+Code: ORIE 5980
+Title: ORIE Master of Engineering Project
+Description: Initial segment of the Master of Engineering project experience, culminating in a project charter that details the problem statement, the data and resources to be used, and a work plan for the spring semester.
+
+Code: ORIE 5999
+Title: Special Projects in ORIE
+Description: Faculty-supervised project work that may involve independent readings, scholarly research, or an applied project in collaboration with a Cornell entity or an external partner organization.  Students must submit a proposal detailing the project goals, statement of work, deliverables, and learning outcomes.  The proposal must be approved by the supervising faculty member and the student's program director.
+
+Code: ORIE 6300
+Title: Mathematical Programming I
+Description: Rigorous treatment of the theory and computational techniques of linear programming and its extensions, including formulation, duality theory, algorithms; sensitivity analysis; network flow problems and algorithms; theory of polyhedral convex sets, systems of linear equations and inequalities, Farkas' Lemma; and exploiting special structure in the simplex method and computational implementation.
+
+Code: ORIE 6500
+Title: Applied Stochastic Processes
+Description: Introduction to stochastic processes that presents the basic theory together with a variety of applications. Topics include Markov processes, renewal theory, random walks, branching processes, Brownian motion, stationary processes, martingales, and point processes.
+
+Code: ORIE 6700
+Title: Statistical Principles
+Description: Topics include review of distribution theory of special interest in statistics: normal, chi-square, binomial, Poisson, t, and F; introduction to statistical decision theory; sufficient statistics; theory of minimum variance unbiased point estimation; maximum likelihood and Bayes estimation; basic principles of hypothesis testing, including Neyman-Pearson Lemma and likelihood ratio principle; confidence interval construction; and introduction to linear models.
+
+Code: ORIE 6730
+Title: Mathematics of Deep Learning
+Description: Empirical observation of deep neural networks shows surprising phenomena that classical statistical theory fails to fully describe. For example, bounds on generalization error from classical statistics grow with the flexibility of the model class but neural networks often exhibit low generalization error despite being extremely flexible. Also, training deep neural networks with stochastic gradient descent produces accurate models despite non-convexity of the loss landscape. A recently emerged literature is developing new theory to explain these and other mysteries. After presenting relevant theoretical results from classical statistics and a brief refresher on deep learning, the course will present theoretical results from recent research articles, complementing them with empirical evidence, emphasizing what is unknown along with what is known.
+
+Code: ORIE 7170
+Title: Theory of Linear Models
+Description: Properties of the multivariate normal distribution. Distribution theory for quadratic forms. Properties of least squares and maximum likelihood estimates. Methods for fixed-effect models of less than full rank. Analysis of balanced and unbalanced mixed-effects models. Restricted maximum likelihood estimation. Some use of software packages and illustrative examples.
+
+Code: ORIE 7590
+Title: Selected Topics in Applied Probability
+Description: Topics are chosen from current literature and research areas of the staff.
+
+Code: ORIE 7999
+Title: PhD Independent Research
+Description: Independent research for ORIE Ph.D. students.
+
+Code: ORIE 9000
+Title: ORIE Graduate Colloquium
+Description: Weekly one and one-half hour meeting devoted to presentations by distinguished visitors, by faculty members, and by advanced graduate students on topics of current research in the field of operations research.
+

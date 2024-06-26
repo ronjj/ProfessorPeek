@@ -1,0 +1,24 @@
+Code: TIBET 1111
+Title: Elementary Modern Tibetan I
+Description: This is an introductory course and no previous knowledge is required. It focuses on developing basic abilities to speak as well as to read and write in modern Tibetan, Lhasa dialect. Students are also introduced to modern Tibetan studies through selected readings and guest lectures.
+
+Code: TIBET 1121
+Title: Elementary Classical Tibetan I
+Description: Introduces students to the grammar of Classical Literary Tibetan as found in Indian treatises translated from Sanskrit into Tibetan, as well as indigenous Tibetan philosophical works. The course progresses through a sequence of the basic rudiments of the language, including an introduction to the script and its romanization, pronunciation (central Lhasan dialect), normative dictionary order, and the basic categories of grammar. Following these preliminaries, students proceed to guided readings in Tibetan literature designed to introduce them to the formal approach of Tibetan lexical semantics with an emphasis on the role of verbs in determining argument realization options. Over the duration of the course, students encounter new vocabulary (and associated Buddhist concept hierarchies) and increasingly complex sentence structures. This course thus provides a solid foundation for the later exploration of other genres of literature and styles of composition.
+
+Code: TIBET 2201
+Title: Intermediate Classical Tibetan I
+Description: This two-semester class is designed to assist students who already have the equivalent of at least one year of Tibetan language study. The course is intended to build on this foundation so that students gain greater proficiency in reading a variety of classical Tibetan writing styles and genres, including (especially in the second semester) texts relevant to their research.
+
+Code: TIBET 2211
+Title: Intermediate Modern Tibetan I
+Description: For those whose knowledge is equivalent to a student who has completed the first-year course. The course focuses on the further development of their skills in using the language to engage with practical topics and situations, such as seeing a doctor, reading news, writing letters, and listening to music.
+
+Code: TIBET 3301
+Title: Advanced Classical Tibetan I
+Description: This class is designed to assist students who already have the equivalent of at least two years of Classical Tibetan language study. The course is intended to build on this foundation so that students gain greater proficiency in reading a variety of classical Tibetan writing styles and genres, including texts relevant to their research.
+
+Code: TIBET 3311
+Title: Advanced Modern Tibetan I
+Description: For those whose knowledge is equivalent to a student who has completed the second-year course. The course develops students' reading comprehension skills through reading selected modern Tibetan literature. Tibetan is used as the medium of instruction and interaction to develop oral fluency and proficiency.
+

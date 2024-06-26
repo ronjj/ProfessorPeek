@@ -1,0 +1,176 @@
+Code: FDSC 1101
+Title: Science and Technology of Foods
+Description: Explores the application of science and technology to foods. Lectures elucidate the role of engineering, biotechnology, chemistry, biochemistry, nutrition, toxicology, and microbiology in supplying the world with safe and nutritious food. An overview of food science as a discipline and career choice is given. A laboratory exercise in food development is undertaken.
+
+Code: FDSC 1200
+Title: Farm to Label
+Description: Farm to Label will focus on contemporaneous topics in agriculture and food science covering an eclectic array of areas including the history, technology and products that are part of the food supply. Farm to Label is a dynamic course designed to provide students with a comprehensive understanding of the sustainable agricultural practices and food production processes that underpin the modern food industry. This course delves into critical topics such as agricultural systems, environmental sustainability, food safety, quality control, and marketing strategies. Weekly topics will include: (1) Evolution of things like fire, cooking and meat-eating (2) Historical pathways will be covered on products such as salt, spices and spam (3) Technological advances such as pasteurization, high pressure processing and consumer level technology.
+
+Code: FDSC 2000
+Title: Introduction to Physiochemical and Biological Aspects of Foods
+Description: Comprehensive introduction to the physical, chemical, and nutritional properties of foods and to the principles and practice of food science and technology. Topics include chemistry and functionality of commodities and ingredients, chemical, physical and biological phenomena that affect food quality, techniques of processing and preservation, microbiology and fermentation, food safety, regulation, and contemporary issues.
+
+Code: FDSC 2205
+Title: Growing Grapes and Making Wines Laboratory
+Description: Field trips, vineyard and winery work provide opportunities for application of knowledge gained in Grapes to Wines lecture course. Students will produce a wine, from grape harvest determination to cold stabilization. Some winery activities between laboratory sessions plus a two-day field trip expected.
+
+Code: FDSC 2310
+Title: The Science and Technology of Beer
+Description: This course uses beer and brewing science as a starting point to explore topics in fermentation biology, food chemistry, food processing, and sensory perception. Students will learn to recognize the major sensory and chemical features that distinguish different beer styles or defects, and understand how raw materials and choices during production lead to these outcomes. Several guest lectures, including brewers and producers of raw materials, will also be included.
+
+Code: FDSC 3930
+Title: Craft Fermentations
+Description: The course will cover the science and commerce of craft fermentations, focusing on smaller-scale, complex processes. Products will include vinegar, miso and alcoholic beverages. Fermented foods are growing in popularity due to their inherent organoleptic complexity and potential human health benefits. The course will focus on the science of fermentations and invite in a variety of expert practitioners from a range of different companies to offer their perspectives. A different fermented food will be covered each week using examples that highlight complex fermentations which result from a succession of microbial populations during the course of the fermentation.
+
+Code: FDSC 3940
+Title: Applied and Food Microbiology
+Description: Food Science 3940 will focus on the origin, transmission, consequences, and management of diverse microbiota throughout the food chain. Topics in this course generally include: 1) the microbiota of different food systems, 2) the physiology, metabolism, and pathogenesis of important groups of microbes, and 3) application of food microbiology to the industrial sector. You will receive a basic education in interdisciplinary subjects that require knowledge of microbiology, food safety, epidemiology, public health, biotechnology, and cell metabolism. Knowledge and expertise gained in this course will support your qualification for a future career in food science, biotechnology, or microbiology.
+
+Code: FDSC 3950
+Title: Food Microbiology Laboratory
+Description: Work includes study of the physiological characteristics of representative food microorganisms, practice in using general and rapid methods for microbiological testing and control of food products, and practice in the application of a systematic approach to controlling the safety of foods, or addressing a food safety issue.
+
+Code: FDSC 4010
+Title: Concepts of Food Product Development
+Description: Introduction to topics and events sequence that provide the foundation for development of new food products, building upon knowledge acquired from other food science courses. The course allows students to integrate and apply basic concepts into case-based learning experiences to enhance professional skills, utilizing individual assessments and team-work assignments.
+
+Code: FDSC 4050
+Title: Dairy Chemistry
+Description: This course will discuss the general composition of milk, with a special focus on the chemistry and functionality of the high value components of milk (lipids and proteins).
+
+Code: FDSC 4100
+Title: Sensory Evaluation of Food
+Description: Topics include the sensory evaluation methods used to test the flavor, appearance, and texture of foods by quantitative description and simple difference testing; consumer testing for product acceptability; sensory tests in quality control; strategic product research; and product development. Presents the psychological principles in sensory testing and statistical methods for sensory data analysis. The lab provides firsthand experience in organizing and conducting sensory tests and an introduction to online data collection and analysis.
+
+Code: FDSC 4210
+Title: Food Engineering Principles
+Description: Introduces the engineering principles underlying food processes and equipment with an emphasis on their utility in manufacturing operations. Focus is on applications of engineering concepts and transport phenomena to unit operations and process development. Topics include the fundamental principles of thermodynamics, mass and energy balance, fluid mechanics, heat and mass transport, refrigeration, and psychrometrics.
+
+Code: FDSC 4230
+Title: Unit Operations and Food Packaging
+Description: This lecture course surveys unit operations, engineering/manufacturing principles, and materials common in the commercial processing and packaging of foods and beverages. The objective of this course is for students to understand common unit operations and packaging materials used to manufacture foods with consistency, quality, and safety.
+
+Code: FDSC 4240
+Title: Food Processing Laboratory
+Description: This is a senior-level laboratory course focused on demonstrating engineering principles, unit operations, and technologies commonly used during processing and packaging of foods. This laboratory is open to all Food Science majors.
+
+Code: FDSC 4310
+Title: The Science and Technology of Beer Laboratory
+Description: An introduction to the practical application of brewing. Students will make several different styles of beer in a laboratory setting to understand how raw materials and processing technologies influence the production of recognizable beer styles. Emphasis will be placed on sanitation, raw material selection, yeast selection, and the manipulation of process variables to control product outcomes. Students will also learn the alternatives in current practice for finishing, carbonation, and packaging.
+
+Code: FDSC 4400
+Title: Wine and Grape Flavor Chemistry
+Description: Uses a (bio)-chemical perspective to investigate viticulture and enological factors that impact flavor and other quality attributes (mouthfeel, color, stability) of wine and wine grapes.
+
+Code: FDSC 4500
+Title: Advanced Winemaking Theory and Practice I
+Description: Provides an in-depth study of the chemical, physical, technological, microbiological and regulatory fundamentals of winemaking. Concentration is on grape and must handling, juice adjustments and treatments, diverse production methods and wine styles, and regulatory compliance. Equipment used in grape processing and wine production is studied. Course builds on previous winemaking course material regarding grape processing and alcoholic and malolactic fermentation.
+
+Code: FDSC 4510
+Title: Advanced Winemaking Theory and Practice I Laboratory
+Description: Students will produce, monitor, and evaluate diverse wine styles from several grape varieties using different vinification techniques. The laboratory includes introductory lectures, grape handling and vinification using various equipment and production methods, and emphasizes good production practices including sanitation. Students must develop their own winemaking plan for several different grape varieties, and participate in self-guided wine production activities, thus previous experience in wine production is highly recommended.
+
+Code: FDSC 4880
+Title: Global Food, Energy, and Water Nexus – Engage the US, China, and India for Sustainable Future
+Description: This course is offered by six Departments at Cornell, in collaboration with five Universities in China and India. Video conferencing will be used to connect classrooms in the three countries in real time. Important issues related to the food, energy, and water nexus and its implications for nutrition security, one health, environmental sustainability,climate change, and economic development in the US, China, India, and other countries will be described. Challenges associated with these issues will be evaluated and strategies to address them will be proposed. Engagement of these countries with each other and the rest of the world will be explored. The course serves as a platform for students from Cornell, China, and India to learn from and interact with each other in the same class, and to share their thinking, creativity, and perspectives on these issues.
+
+Code: FDSC 4960
+Title: Undergraduate Internship in Food Science
+Description: On-the-job learning experience under the supervision of professionals in a cooperating organization. A learning contract is written between the faculty supervisor and students, stating the conditions of the work assignment, supervision, and reporting. All 4960 internship courses must adhere to the CALS guidelines at cals.cornell.edu/academics/student-research/internship.
+
+Code: FDSC 4970
+Title: Individual Study in Food Science
+Description: May include individual tutorial study, a special topic selected by a professor or a group of students, or selected lectures of a course already offered. Since topics vary, the course may be repeated for credit.
+
+Code: FDSC 4980
+Title: Undergraduate Teaching Experience
+Description: Students assist in teaching a course appropriate to their previous training and experience. Students meet with a discussion or laboratory section and regularly discuss objectives with the course instructor.
+
+Code: FDSC 4990
+Title: Undergraduate Research in Food Science
+Description: Students conduct original research directed by a food science faculty member.
+
+Code: FDSC 5010
+Title: Concepts of Food Product Development
+Description: Introduction to topics and events sequence that provide the foundation for development of new food products, building upon knowledge acquired from other food science courses. The course allows students to integrate and apply basic concepts into case-based learning experiences to enhance professional skills, utilizing individual assessments and team-work assignments.
+
+Code: FDSC 5050
+Title: Dairy Chemistry
+Description: This course will discuss the general composition of milk, with a special focus on the chemistry and functionality of the high value components of milk (lipids and proteins).
+
+Code: FDSC 5100
+Title: Sensory Evaluation of Food
+Description: Topics include the sensory evaluation methods used to test the flavor, appearance, and texture of foods by quantitative description and simple difference testing; consumer testing for product acceptability; sensory tests in quality control; strategic product research; and product development. Presents the psychological principles in sensory testing and statistical methods for sensory data analysis. The lab provides firsthand experience in organizing and conducting sensory tests and an introduction to online data collection and analysis.
+
+Code: FDSC 5205
+Title: Growing Grapes and Making Wines Graduate Laboratory
+Description: Field trips, vineyard and winery work provide opportunities for application of knowledge gained in Grapes to Wines lecture course. Students will produce a wine, from grape harvest determination to cold stabilization. Some winery activities between laboratory sessions plus a two-day field trip expected.
+
+Code: FDSC 5210
+Title: Food Engineering Principles
+Description: Applications of engineering concepts and transport phenomena to unit operations in food processing. Emphasis on the fundamental principles of thermodynamics, material and energy balances and momentum, heat and mass transport processes.
+
+Code: FDSC 5230
+Title: Unit Operations and Food Packaging
+Description: This lecture course surveys unit operations, engineering/manufacturing principles, and materials common in the commercial processing and packaging of foods and beverages. The objective of this course is for students to understand common unit operations and packaging materials used to manufacture foods with consistency, quality, and safety.
+
+Code: FDSC 5310
+Title: The Science and Technology of Beer
+Description: This course uses beer and brewing science as a starting point to explore topics in fermentation biology, food chemistry, food processing, and sensory perception. Students will learn to recognize the major sensory and chemical features that distinguish different beer styles or defects, and understand how raw materials and choices during production lead to these outcomes. Several guest lectures, including brewers and producers of raw materials, will also be included.
+
+Code: FDSC 5500
+Title: Advanced Winemaking Theory and Practice I
+Description: Provides an in-depth study of the chemical, physical, technological, microbiological and regulatory fundamentals of winemaking. Concentration is on grape and must handling, juice adjustments and treatments, diverse production methods and wine styles, and regulatory compliance. Equipment used in grape processing and wine production is studied. Course builds on previous winemaking course material regarding grape processing and alcoholic and malolactic fermentation.
+
+Code: FDSC 5510
+Title: Advanced Winemaking Theory and Practice I Laboratory
+Description: Students will produce, monitor, and evaluate diverse wine styles from several grape varieties using different vinification techniques. The laboratory includes introductory lectures, grape handling and vinification using various equipment and production methods, and emphasizes good production practices including sanitation.
+
+Code: FDSC 5930
+Title: Craft Fermentations
+Description: The course will cover the science and commerce of craft fermentations, focusing on smaller-scale, complex processes. Products will include vinegar, miso and alcoholic beverages. Fermented foods are growing in popularity due to their inherent organoleptic complexity and potential human health benefits. The course will focus on the science of fermentations and invite in a variety of expert practitioners from a range of different companies to offer their perspectives. A different fermented food will be covered each week using examples that highlight complex fermentations which result from a succession of microbial populations during the course of the fermentation.
+
+Code: FDSC 6000
+Title: Seminar in Food Science
+Description: Weekly seminar series on contemporary topics and issues in the field of food science and technology. Representatives from academia, industry, and government provide presentations on a wide variety of topics. Graduate students in the field of food science and technology may use the forum to present their required thesis research seminar.
+
+Code: FDSC 6010
+Title: Principles and Applications of Food Science and Technology
+Description: Students are first introduced to the principles and applications in food chemistry, food microbiology, food processing and engineering, sensory science, and international food science. Then students review and discuss the research literature in these fields.
+
+Code: FDSC 6310
+Title: The Science and Technology of Beer Laboratory
+Description: An introduction to the practical application of brewing. Students will make several different styles of beer in a laboratory setting to understand how raw materials and processing technologies influence the production of recognizable beer styles. Emphasis will be placed on sanitation, raw material selection, yeast selection, and the manipulation of process variables to control product outcomes. Students will also learn the alternatives in current practice for finishing, carbonation, and packaging.
+
+Code: FDSC 6400
+Title: Wine and Grape Flavor Chemistry
+Description: Uses a (bio)-chemical perspective to investigate viticulture and enological factors that impact flavor and other quality attributes (mouthfeel, color, stability) of wine and wine grapes.
+
+Code: FDSC 6880
+Title: Global Food, Energy, and Water Nexus – Engage the US, China, and India for Sustainable Future
+Description: This course is offered by six Departments at Cornell, in collaboration with five Universities in China and one India. Video conferencing will be used to connect classrooms in the three countries in real time. Important issues related to the food, energy, and water nexus and its implications for nutrition security, one health, environmental sustainability, climate change, and economic development in the US and these two countries will be described. Challenges associated with these issues will be evaluated and strategies to address them will be proposed. Engagement of these countries with each other and the rest of the world will be explored. The course serves as a platform for students from Cornell, China, and India to learn from and interact with each other in the same class, and to share their thinking, creativity, and perspectives on these issues.
+
+Code: FDSC 6950
+Title: Current Readings in Food Science
+Description: Seminar series on current topics chosen by participating faculty members and students on a rotating basis. Format consists of weekly discussion groups with each participant presenting at least one oral report based on independent reading. Multiple sections focusing on different topics may be taught in any given semester. Topics include food microbiology and food safety, food chemistry, sensory evaluation, and food engineering and materials science. Interested students should contact the designated instructor(s) for each semester.
+
+Code: FDSC 6960
+Title: Graduate Internship in Food Science
+Description: On-the-job learning experience under the supervision of professionals in a cooperating organization. A learning contract is written between the faculty supervisor and students, stating the conditions of the work assignment, supervision, and reporting. All 6960 internship courses must adhere to the CALS guidelines at www.cals.cornell.edu/cals/current/student-research/internship/index.cfm.
+
+Code: FDSC 6970
+Title: Graduate Individual Study in Food Science
+Description: Independent study for graduate students.
+
+Code: FDSC 6980
+Title: Graduate Teaching Experience
+Description: Designed to give graduate students teaching experience through involvement in planning and teaching courses under the supervision of field faculty members. The experience may include leading discussion sections; preparing, assisting in, or teaching lectures and laboratories; and tutoring.
+
+Code: FDSC 8900
+Title: Master's Level Thesis Research
+Description: Thesis Research for MS students in the Field of Food Science & Technology.
+
+Code: FDSC 9900
+Title: Doctoral-Level Thesis Research
+Description: Dissertation research for PhD students in the Field of Food Science & Technology.
+

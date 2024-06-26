@@ -1,0 +1,20 @@
+Code: VTBMS 3460
+Title: Principles of Animal Physiology
+Description: General course in animal physiology emphasizing principles of operation, regulation, and integration common to a broad range of living systems from the cellular to the organismal level. Structure/function relationships are stressed along with underlying physico-chemical mechanisms.
+
+Code: VTBMS 7010
+Title: Mouse and Stem Cell Pathology
+Description: Introduction to principles and methods of pathology. Pathology role in stem cell research, regenerative medicine and cancer biology. Systematic evaluation of mouse models, with a particular attention to such topics as experimental design, model validation, identification of novel phenotypes, histotechnology and mouse necropsy.
+
+Code: VTBMS 7020
+Title: The Practice of Laboratory Animal Medicine
+Description: A laboratory animal veterinarian must be trained in the regulatory aspects of research and teaching utilizing animals; in addition they must understand the principles of facility management and design. Also, to work with researchers, a lab animal veterinarian must have knowledge of basic research methodologies and animal welfare issues. This course may also be of interest to other veterinarians, veterinary students, and researchers who wish to understand the workings of the specialized field that oversees and enables the use of animals in research and teaching. The topics covered include: Laboratory Animal Medicine: Laws, Regulations, and Policies; Design and Management of Animal Facilities; Anesthesia, Analgesia, and Euthanasia; Techniques of Experimentation; Control of Biohazards used in animal research; Selected zoonoses/xenozoonoses; Genetic monitoring; Transgenic and knock-out mice; Factors influencing animal research; Animal models in biomedical research; Research in Lab Animal and Comparative Medicine; Lab Animal Behavior. The course will meet for 1 hour weekly and will extend over the course of two years, though each term is independent and can be taken separately.
+
+Code: VTBMS 7030
+Title: The Biology and Diseases of Laboratory Animals
+Description: Intended for veterinarians entering the field of laboratory animal medicine.  It may also be of interest to other veterinarians, veterinary students, and researchers with a basic knowledge of anatomy and pathology who use animals in research or teaching.  This course will cover the main laboratory animal species (rodents, rabbits, non-human primates, ruminants, swine, dogs, cats, ferrets, reptiles, amphibians, and fish).  The biology, husbandry, diseases, pathology, and main research uses of these species will be covered.  The course will meet for 2 hours weekly and will extend over the course of two years.
+
+Code: VTBMS 7200
+Title: Biomedical and Biological Sciences Seminar
+Description: Designed to train graduate students in public presentation and critical analysis of scientific data. Students are required to give a seminar on their research, and provide constructive feedback to others on the quality of their presentation and data.
+

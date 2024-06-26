@@ -1,0 +1,24 @@
+Code: UKRAN 1100
+Title: Introduction to the Geography, History, Culture, and Language of Ukraine
+Description: The course offers a general overview of the geography, history, literature, cinema, fine arts, music, and language of this Eastern European country of some 40 million people. At various historical periods since the 18th century, Ukraine had been controlled by the Russian Empire and Soviet Union, gained independence in 1991, and become the target of a military invasion by Russian Federation in 2022. Through assigned readings, videos, and other materials, students will gain a degree of understanding of the historical and social forces that shape Ukrainian everyday life, natural environments, and popular culture, and its current place in Europe and the world.
+
+Code: UKRAN 1121
+Title: Elementary Ukrainian I
+Description: This course teaches language as a gateway to Ukrainian literature, history, and arts and the means of communication in everyday life, offering thorough grounding in listening, speaking, reading, and writing.
+
+Code: UKRAN 2133
+Title: Intermediate Ukrainian I
+Description: The course starts with a review and subsequent reinforcement of grammar fundamentals and core vocabulary pertaining to the most common aspects of daily life. Principal emphasis is placed on further development of students' communicative skills (oral and written) on such topics as the self, family, studies and leisure, travel, meals and others.
+
+Code: UKRAN 2200
+Title: Ukraine's Culture and Language within the Legacy of the USSR, Russian Invasion, and Other Crises
+Description: This course offers a close look at the language and culture in independent Ukraine: Western vs. Slavic linguistic heritage, Internet styles, Russian vis-a-vis Ukrainian influence, and more. Mileposts of the 20th and the 21st centuries are discussed in depth. This is not a course in history or government; the recent complex (often cataclysmic) events in Ukraine are investigated in the context of the everyday life of our contemporaries. How have Ukrainians pursued self-determination through culture and language after decades of oppression and control? The course is taught by a recent refugee from the Ukrainian war who is especially interested in Ukraine's new role on the world stage. Why the yellow-and-blue flags and bumper stickers in our streets and parking lots?
+
+Code: UKRAN 3133
+Title: Advanced Ukrainian I
+Description: This content-based modular course aims to develop students' capacity to use the Ukrainian language as a research and communication tool in a variety of specialized functional and stylistic areas that include literary fiction, scholarly prose, printed and broadcast journalism. It is designed for students with interest in the history, politics, literature, culture and other aspects of contemporary Ukraine, as well as those who plan to do their research, business or reporting about Ukraine.
+
+Code: UKRAN 3305
+Title: Reading and Writing for Heritage Speakers of Ukrainian
+Description: Intended for students who speak more or less standard Ukrainian but have only beginner's understanding of Ukrainian grammar and have not learned to read or write in Ukrainian well (or have not learned written Ukrainian at all). May be taught slightly faster or slower in a given year, depending on the needs and interests of the students. Two classes a week teach writing and grammar and related reading. These classes are required, and the students who take them receive 2 credit hours. The third (optional) class teaches reading and discussion, focusing on contemporary styles.
+

@@ -1,0 +1,16 @@
+Code: NEPAL 1121
+Title: Elementary Nepali I
+Description: This course is intended for beginners of the Nepali language. The course aims to develop basic Nepali language functions. The emphasis is on basic grammar structures, and four basic skills of language learning: speaking, listening, reading, and writing, using culturally up-to-date materials and texts. Devanagari script for reading and writing is also introduced. No previous knowledge of Nepali is required to enroll this course.
+
+Code: NEPAL 2201
+Title: Intermediate Nepali Conversation I
+Description: Intermediate instruction in spoken grammar and verbal comprehension skills, with special attention to developing technical vocabularies and other verbal skills appropriate to students' professional fields.
+
+Code: NEPAL 2203
+Title: Intermediate Nepali Composition I
+Description: Systematic review of written grammar and reading comprehension, with special attention to the technical vocabularies, necessary writing skills, and published materials typical of advanced students' professional fields.
+
+Code: NEPAL 3301
+Title: Advanced Nepali I
+Description: Reading of advanced texts, together with advanced drill on the spoken language.
+

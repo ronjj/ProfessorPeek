@@ -1,0 +1,32 @@
+Code: BIOAP 1100
+Title: Domestic Animal Biology
+Description: This course introduces functional anatomy and physiology of livestock, companion animals and poultry. Building from biomolecules and cellular function to the entire organism, the content aims to integrate understanding of structure-function relationships offering comparisons between mammals and birds. Knowledge of systems physiology through this course will be relevant for pursuing basic and applied fields in animal science, biology and veterinary medicine. This course is suitable for life sciences majors.
+
+Code: BIOAP 3110
+Title: Principles of Animal Physiology
+Description: General course in animal physiology emphasizing principles of operation, regulation, and integration common to a broad range of living systems from the cellular to the organismal level. Structure/function relationships are stressed along with underlying physico-chemical mechanisms.
+
+Code: BIOAP 3190
+Title: Laboratory in Physiology
+Description: Student-conducted in vitro and in vivo experiments designed to illustrate basic physiological processes, physiological research techniques, instrumentation, experimental design, and interpretation of results. Techniques include anesthesia, surgical procedures, dissection, and real-time computer recording and analysis. Experiments with isolated living tissues or live anesthetized animals examine properties of membranes and epithelia, blood, nerves, skeletal and smooth muscle; cardiovascular, respiratory, renal, and reproductive function and their regulation by the nervous and endocrine systems.
+
+Code: BIOAP 4270
+Title: Fundamentals of Endocrinology
+Description: Physiology and regulation of endocrine secretions. Emphasizes neuroendocrine, reproductive, growth, and metabolic aspects of endocrinology. Examples are selected from many animals, including humans.
+
+Code: BIOAP 4980
+Title: Teaching Experience
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and assisting in biology courses. This experience may include supervised participation in a discussion group, assisting in a biology laboratory, assisting in field biology, or tutoring.
+
+Code: BIOAP 6100
+Title: By Scientific Design: Skill Building for a Career in the Life Sciences
+Description: This class is designed to prepare first year graduate students for a career in the life sciences. Topics will include grant writing, public presentations, design of experiments, interpretation of data, and literature analysis. Students will also gain practical experience in common techniques used in virology, crystallography, and gene expression.
+
+Code: BIOAP 6270
+Title: Fundamentals of Endocrinology
+Description: Physiology and regulation of endocrine secretions. Emphasizes neuroendocrine, reproductive, growth, and metabolic aspects of endocrinology. Examples are selected from many animals, including humans.
+
+Code: BIOAP 7570
+Title: Current Concepts in Reproductive Biology
+Description: For description and learning outcomes, see ANSC 7570.
+

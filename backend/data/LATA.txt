@@ -1,0 +1,60 @@
+Code: LATA 1210
+Title: Elementary Quechua I
+Description: 1210-1220 is an introductory sequence that allows students to develop basic fluency in Quechua, the most widely spoken indigenous language in the Americas. Students learn elements of Quechua's phonetics, vocabulary, morphology and syntax through an interactive approach and gain awareness of regional and dialectal differences. The course focuses on oral and written skills, with emphasis on tasks based on familiar contexts of use. It also introduces learners to the history, culture and geography of the Andes through exposure to cultural practices, proverbs, folklore, and artefacts of the region (e.g. textiles). Students will reflect on Quechua as an endangered language and on the significance of keeping this very popular indigenous language of Latin America alive.
+
+Code: LATA 1950
+Title: The Invention of the Americas
+Description: When did the 'Americas' come in to being?  Who created 'them' and how? What other geographic units of analysis might we consider in thinking about what Iberian explorers and intellectuals initially called the 'fourth part' of the world?  Given the scope and extent of the Spanish and Portuguese empires, could 'the Americas' extend from the Caribbean to the Philippines?  This course takes up such questions as a means to explore the history of what would become-only in the nineteenth century-'Latin America.' We move from the initial "encounters" of peoples from Africa and Iberia with the "New World," the creation of long-distance trade with, and settlement in, Asia, and the establishment of colonial societies, through to the movements for independence in most of mainland Spanish America in the early 19th century and to the collapse of Spanish rule in the Pacific and Caribbean later that century. Through lectures, discussions and the reading of primary sources and secondary texts, the course examines the economic and social organization of the colonies, intellectual currents and colonial science, native accommodation and resistance to colonial rule, trade networks and imperial expansion, labor regimes and forms of economic production, and migration and movement.
+
+Code: LATA 1951
+Title: Foreign Policy as Subversion
+Description: To what extent does the ideal of the US as a vanguard for democracy and freedom in the world match up with other aspects—military, economic, and humanitarian—of US foreign policy? This same question about the degree to which discourses and practices correspond might be asked of other countries, like the Soviet Union, China, and Britain, but this course examines the ways in which US foreign policy has been deployed over the course of the twentieth century and the ways those policies have been perceived and received by people living in Latin America and Southeast Asia. Particular case studies will be addressed stemming from the faculty's specializations (for example, Vietnam, Cambodia, Guatemala, and Chile) and the emphasis is on the role of the United States in Latin America and Southeast Asia. Prominent themes will include forms of subversion, from military muscle to economic coercion, and how and why they have changed over time; meanings of liberty, democracy, freedom, and sovereignty in different places and times; popular responses to policies and actions of foreign administrations; the relationships between sovereign states and transnational corporations; the uses and abuses of History in the formulation and justification of policy initiatives and in local responses to them; and the complexities involved in discerning internal and external forces in an increasingly transnational world.
+
+Code: LATA 2055
+Title: Race and Slavery in the Early Atlantic World
+Description: The legacies of slavery remain all too obvious in the modern Atlantic World. From demographic imbalances to pervasive social and economic inequality, much of the recent past has involved addressing that destructive early modern heritage. This course traces the roots of slavery and race in the Atlantic World from 1400 to 1800. Through lectures, readings, and class discussion, we will examine how politics, culture, gender, and the law intersected to shape the institution of slavery and the development of conceptions of race. As an Atlantic World course, we will take a comparative perspective and ask how different imperial regimes (Spanish, Portuguese, French, and English) fostered different systems of race and slavery in the Americas. We will also ask how the law as a lived experience, gender norms, and imperial politics all worked to shape the production of racial hierarchies.
+
+Code: LATA 2170
+Title: Early Modern Iberian Survey
+Description: This course explores major texts and themes of the Hispanic tradition from the 11th to the 17th centuries. We will examine general questions on literary analysis and the relationship between literature and history around certain events, such as medieval multicultural Iberia, the creation of the Spanish Inquisition in the 15th century and the expulsion of the Jews in 1492; the encounter between the Old and the New Worlds; the 'opposition' of high and low in popular culture, and of the secular and the sacred in poetry and prose. Readings may be drawn from medieval short stories and miracle collections; chivalric romances, Columbus, Lazarillo de Tormes, Cervantes, Lope de Vega, Calderón, and Sor Juana Inés de la Cruz, among others.
+
+Code: LATA 2252
+Title: Diasporas from the Spanish Caribbean
+Description: This seminar examines the Puerto Rican, Cuban, and Dominican diasporas in the United States. We will examine US relations with these three countries; the root causes of this Caribbean migration; their history in particular urban areas of the United States; and the political, social, and cultural issues that have attracted attention.
+
+Code: LATA 3010
+Title: Latinx Theatre Production
+Description: In this course, we will develop a toolbox of performance techniques based on methods developed in the Spanish-speaking and Latinx contexts. These techniques will be used in preparing short, original, collectively-created or scripted plays for production and public presentation in the October 2024 regional microtheater festival in upstate New York and/or the annual downtown Ithaca holiday pastorela in December.
+
+Code: LATA 3290
+Title: Comparative Politics of Latin America
+Description: This course is designed as an introduction to political, economic, and social issues in 20th century Latin America. Topics are organized chronologically, beginning with the crisis of agro-export economies and oligarchic rule in the 1930s, the onset of state-led development and mass politics in the 1930s and 40s, the military takeovers and revolutionary struggles of the 1960s and 70s, patterns of democratization and market liberalization in the 1980s and 90s, and the recent experience with populist and leftist governments in much of the region. Among the main issues covered are populism and corporatism, dependency theory and import-substitution industrialization, different patterns of authoritarian rule, social movements and revolution, democratic breakdowns and transitions, the debt crisis and market reforms, and U.S.-Latin American relations. Throughout the semester, we will draw on examples from the entire region, but focus on paradigmatic national cases. Knowledge of Spanish or Portuguese is not required.
+
+Code: LATA 3609
+Title: Brazilian Ensemble - Deixa Sambar
+Description: Deixa Sambar performs several styles of samba, Brazil's national music. Members need not have prior background in music-making, but a good sense of rhythm is desirable. Members include students as well as Ithaca community members, brasileiros as well as newcomers to Brazilian culture. Rehearsals develop playing skills, with a deep emphasis on cultural understanding of this vital, community-based music.
+
+Code: LATA 3613
+Title: Cornell Steel Band
+Description: The Cornell Steel Band explores the wide variety of music for an orchestra of instruments fashioned from 55-gallon oil drums, and an "engine room" of non-pitched percussion. Interwoven into the focus on hands-on practice is reflection on the meanings of steel band, historically and in the present, in its native Trinidad and Tobago and here in the United States. Formal musical training is not necessary, though a sense of rhythm and a good ear are helpful.
+
+Code: LATA 4000
+Title: Contemporary Issues in Latin - Latino America
+Description: Interested in Latino Studies and Latin American Studies? This course will explore topics in Anthropology, Art, Economics, History, Literature, Government, Sociology, etc., of US Latino and Latin American contexts. Course features guest speakers from Cornell and other institutions.
+
+Code: LATA 4250
+Title: Time and History in Ancient Mexico
+Description: An introduction to belief systems in ancient Mexico and Central America, emphasizing the blending of religion, astrology, myth, history, and prophecy. Interpreting text and image in pre-Columbian books and inscriptions is a major focus.
+
+Code: LATA 6000
+Title: Contemporary Issues in Latin-Latino America
+Description: Interested in Latino Studies and Latin American Studies? This course will explore topics in Anthropology, Art, Economics, History, Literature, Government, Sociology, etc., of US Latino and Latin American contexts. Course features guest speakers from Cornell and other institutions.
+
+Code: LATA 6020
+Title: Latinx Theatre Production
+Description: In this course, we will develop a toolbox of performance techniques based on methods developed in the Spanish-speaking and Latinx contexts. These techniques will be used in preparing short, original, collectively-created or scripted plays for production and public presentation in the October 2024 regional microtheater festival in upstate New York and/or the annual downtown Ithaca holiday pastorela in December.
+
+Code: LATA 7250
+Title: Time and History in Ancient Mexico
+Description: Explores the ways Mesoamericans understood the world and their place in it, and the ways they constructed history as these are reflected in the few books that have survived from the period before the European invasion. Examines the structure of writing and systems of notation, especially calendars, and considers their potential for illuminating Mesoamerican world views and approaches to history. Primary focus is detailed analysis of five precolumbian books: Codex Borgia, a central Mexican manual of divinatory ritual; Codex Boturini, a history of migration in central Mexico; Codex Nuttall, a Mixtec dynastic history; and two Maya books of astrology and divination, Codex Dresden and Codex Madrid.
+

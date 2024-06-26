@@ -1,0 +1,164 @@
+Code: DEA 1101
+Title: Visual Literacy and Design Studio
+Description: This course is an introductory design studio.  The primary course objective is to introduce principles of visual literacy as it pertains to two-dimensional and three-dimensional issues in design at all scales.  Concepts about representation, expression, composition, color, form, light, structure, and function will be explored through project based learning.  The emphasis will be on learning explicit compositional concepts, visualization skills, and media techniques as well as implicit design sensitivities to serve the student throughout the rest of his or her DEA experience and beyond.
+
+Code: DEA 1110
+Title: Making a Difference by Design
+Description: This course provides a broad overview of design applied various disciplines, scales, and problem contexts, and how design can offer an alternative, and often more human-centered perspective towards solving the problems around us. With a focus on designing with a human-centered mindset in this age of technology, we will examine topics on the role of design in wearable computing, virtual and tangible interfaces, robotics to biology. We will also apply the lens of design to issues on sustainability, healthy environments, diversity and inclusion, and designing for social good. Each week, through case studies and familiar examples, DEA 1110 explores how designing is part of every discipline.
+
+Code: DEA 1140
+Title: Principles of Design Computing
+Description: The course will cover foundational skills and best practices for design communication in terms of the underlying principles of computing technologies. This course will help students become versatile in utilizing various approaches and tools for tasks in Design and Environmental Analysis (DEA) and Fiber Science & Apparel Design (FSAD) programs. The first module will cover the foundations of 2D graphics and technical drawing. The second module will be an introduction to 3D modeling and rendering. Each module will start as one class with a focus on general principles and will be followed by the class dividing into two sections for applications specific to DEA and FSAD programs. The final module will include an introduction to Generative Artificial Intelligence techniques as a part of a collaborative final project where students will work in multidisciplinary teams to design, curate, and propose an exhibition (DEA) for a fashion collection (FSAD). Through lectures, class activities, homework and projects, the course will help students build confidence in digital design skills and be encouraged to explore further on their own.
+
+Code: DEA 1500
+Title: Introduction to Environmental Psychology
+Description: Environmental Psychology is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams.
+
+Code: DEA 1501
+Title: Introduction to Environmental Psychology - Writing in the Major
+Description: Human-Environment Relations is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams. Lecture and discussion sections. WIM section attends a regular lecture but also meets weekly with a graduate writing instructor. The two principal objectives of WIM section:
+
+Code: DEA 2020
+Title: Introduction to Sustainable Design
+Description: This course introduces the histories, concepts, and frameworks that underlie our understanding of sustainability and how they are shaping environmentally conscious design practices - explored through an investigation of materials, processes, products, practices, and material culture. We utilizes exploratory, participatory, and open-ended learning methods to facilitate design inquiry and propose a more environmentally and socially just future.
+
+Code: DEA 2201
+Title: Magnifying Small Spaces Studio
+Description: We often observe, define and interact with the human body as a collection of discreet and varied selves: biological, kinesthetic, phenomenological, physiological. This studio focuses on the constellation of ontologies that form our understanding of what it means to be human, and the corresponding impact these have on how we design and who we design for. At the core of our work will be the question of whether engaging the body as a manifold of ontologies allow designers to better understand and construct the built environment.
+
+Code: DEA 2510
+Title: History of Design Futures
+Description: This course examines the history and theory of environmental design from the classical era to the 20th century with an emphasis on design and innovation as a catalyst for cultural change. How have design innovations broadened the palate of human expression and experience? Key projects, methods, and ideas from across the world will be explored encouraging a speculative approach to historical material.
+
+Code: DEA 2730
+Title: Human Centered Design Methods
+Description: This course explores the use of design methods to generate ideas and evaluate designed objects, environments, and interfaces. Lectures cultivate an understanding of the various methods, while hands-on activities provide opportunity to apply these methods to the design of a small device and its interactions with people and things.
+
+Code: DEA 3301
+Title: Design UX with Technology Studio
+Description: This intermediate-level studio focuses on designing innovative commercial and/or learning/workplace environments. Various types of users experience design and evaluation approaches to design-problem solving will engage students in innovative interior design processes and outcomes. Effective use of technology for user experience simulation will be emphasized throughout the course.
+
+Code: DEA 3500
+Title: The Ambient Environment
+Description: Introduces human-factor considerations in lighting, acoustics, noise control, indoor air quality and ventilation, and the thermal environment. Views the ambient environment as a support system that should promote human efficiency, productivity, health, and safety. Emphasizes the implications for planning, design, and management of settings and facilities.
+
+Code: DEA 3510
+Title: Human Factors and Inclusive Design
+Description: The course explores how human factors and user inclusivity can be systematically considered and implemented in the development of products (e.g., the capabilities and constraints of the physical, cognitive and cultural makeup of human beings). The course includes practical exercises and field project work.
+
+Code: DEA 3530
+Title: Planning and Managing the Workplace: Evidence-Based Design and Organizational Ecology
+Description: Examine how the physical design and management of workplaces impacts both the health and performance of knowledge workers and also an organization's overall business outcomes. Learn about the latest trends in various workplace settings. Analyze the components of work and provide relevant and applicable design solutions. Learn the fundamentals of ethnographic methods for collecting user information to inform decision making about planning and managing workplaces to maximize health, efficiency, safety, productivity, and profitability.
+
+Code: DEA 4000
+Title: Directed Readings
+Description: For study that predominantly involves library research and independent reading.
+
+Code: DEA 4010
+Title: Empirical Research
+Description: For study that predominantly involves data collection and analysis or laboratory or studio projects.
+
+Code: DEA 4020
+Title: Supervised Fieldwork
+Description: For study that involves both responsible participation in a community setting and reflection on that experience through discussion, reading, and writing. Academic credit is awarded for this integration of theory and practice.
+
+Code: DEA 4025
+Title: Design for Change: Imagining Decolonial Futures
+Description: This course explores the role of design in reshaping the world towards social justice and sustainability. Designing for change requires creating different cultural patterns and worldviews — examining taken-for-granted assumptions, narratives, and myths of the hegemonic cultural model (known as Modernity) that limit our capacity to imagine the world differently. As the world is enmeshed in colossal interconnected crises, it seems that imagination has been funneled to two avenues: techno-solutions to the symptoms of the crises and dystopic futures. This course explores two main ideas: a) alternatives are possible, b) the area of design for change would benefit from exchanges with different cultures and knowledge systems. Designing decolonial futures is about weaving together knowledge from multiple cultures, thus recognizing and creating alternatives based on different ways of understanding the world.
+
+Code: DEA 4030
+Title: Teaching Apprenticeship
+Description: For study that includes teaching methods in the field and assisting faculty with instruction. Students must have demonstrated a high level of performance in the subject to be taught and in the overall academic program.
+
+Code: DEA 4050
+Title: Design Portfolio and Communication
+Description: This course is designed for students who want to learn the basic principles of visual communication and how to apply them in concert with design methodologies in order to solve communication and design problems. Visual communication can clarify, distill and translate complex designs, data and ideas. The class introduces principles of graphic design and visual communications using a range of representation techniques. It explores ways to communicate ideas digitally through text, image and video. The focus will be on the applications in Adobe Creative Cloud, including Illustrator, InDesign, Photoshop and AfterEffects.
+
+Code: DEA 4220
+Title: Ecological Literacy and Design
+Description: This course is a design-oriented lecture/seminar course for students who are concerned about the role they play as design professionals in affecting the biophysical world. The course's prime objective is to develop a new worldview founded on a broader sensitivity for things living and an accompanying set of meaningful environmental ethics. The course's secondary objectives are to develop a deeper knowledge of environmental issues, construct conceptual frameworks for analysis of these issues and to demonstrate how ecological knowledge can be applied to design.
+
+Code: DEA 4401
+Title: Adaptive Reuse Studio: Recycling the Built Environment
+Description: Economic and social forces have created the need for the adaptive reuse of existing structures vs new construction throughout the built environment.  Utilizing sustainable principles and the LEED rating system, this comprehensive studio challenges students to complete all phases of a historic preservation project using an historic structure in the Northeast.  Site visits for building assessments, professional practice tutorials, and seminars on preservation enable students to develop a holistic understanding of how a building thinks and learns over time.
+
+Code: DEA 4500
+Title: Policy Meets Design: High-Impact Facilities of the 21st Century
+Description: Active participation from local and global leads, industry, and healthcare providers, students examine how well-designed environments and policies empower people, organizations, and communities to achieve their health-related operational and business objectives.  Students apply the lessons from high-impact environments to their specific area of interest (e.g. senior living, healthcare, hospitality, education, housing, landscape, and urban planning).
+
+Code: DEA 4590
+Title: Problem-Seeking through Programming
+Description: An architectural program is used to define the design problem, guide the design process and evaluate design solutions.  Students will develop skills in preparing a program while keeping in mind the potential audiences.  This course emphasizes the role of social science research and environment - behavior interaction in facility planning and in the design process.
+
+Code: DEA 4990
+Title: Senior Honors Thesis
+Description: Opportunity for DEA majors to undertake original research and scholarly work leading to the preparation of a thesis. Students work closely with their thesis advisor on a topic of interest. For information, students should visit https://www.human.cornell.edu/dea/academics/undergraduate/honors.
+
+Code: DEA 5304
+Title: Design Accountability: Evaluation of the Physical Environment
+Description: Designers must be accountable for the impact of the environment on the people who experience it. Well-constructed evaluations are a means to objectively assess whether we have achieved the intended design goals. This course illustrates the theoretical roots of evaluation and provides guidance on conducting building and landscape evaluation research.
+
+Code: DEA 6000
+Title: Special Problems for Graduates
+Description: For study of special problems in the areas of interior design, human environment relations, or facilities planning and management.
+
+Code: DEA 6010
+Title: Directed Readings
+Description: For study that predominantly involves library research and independent study.
+
+Code: DEA 6020
+Title: Graduate Empirical Research
+Description: For study that predominantly involves collection and analysis of research data.
+
+Code: DEA 6025
+Title: Design for Change: Imagining Decolonial Futures
+Description: This course explores the role of design in reshaping the world towards social justice and sustainability. Designing for change requires creating different cultural patterns and worldviews — examining taken-for-granted assumptions, narratives, and myths of the hegemonic cultural model (known as Modernity) that limit our capacity to imagine the world differently. As the world is enmeshed in colossal interconnected crises, it seems that imagination has been funneled to two avenues: techno-solutions to the symptoms of the crises and dystopic futures. This course explores two main ideas: a) alternatives are possible, b) the area of design for change would benefit from exchanges with different cultures and knowledge systems. Designing decolonial futures is about weaving together knowledge from multiple cultures, thus recognizing and creating alternatives based on different ways of understanding the world.
+
+Code: DEA 6030
+Title: Graduate Practicum
+Description: For study that predominantly involves field experience in community settings.
+
+Code: DEA 6040
+Title: Future Body Craft: Fabricating On-Skin Interfaces
+Description: This course explores the intersectional field of Hybrid Body Craft, which applies design, engineering, and social science research for hybridizing emerging slim technology with body decoration practices. Examined through the lens of on-skin interfaces (i.e., smart tattoos and bandages) and electronic textiles in Human-Computer Interaction and Wearable Computing, students will develop prototyping skills in soft circuitry through tailored hands-on labs developed by the Hybrid Body Lab and critically reflect on representative papers in the field through readings and discussions. The skills students develop in the course will cumulate in the prototyping and design of a final project: a Future Body Craft of their choice.
+
+Code: DEA 6200
+Title: Studies in Human-Environment Relations
+Description: This course is a seminar course intended for graduate students in Design and Environmental Analysis and graduate students in related fields. The course introduces students to the history, theories, and major research trends in the field of human-environment relations. Human environment relations refer to the interaction between the built environment and human behavior. The course draws upon literature from multiple disciplines, including environmental psychology, human factors/ergonomics, sociology, human development, facility planning, geography, and urban planning.
+
+Code: DEA 6210
+Title: Architectural Robotics
+Description: Embedding robotics into the fabric of the built environment fosters a more interactive and potentially more intimate relationship between the spaces we live in and us, and represents a new frontier for design, computing, and psychology. Part-seminar, part-lab, this course considers the design, technical, social, ecological, and ethical challenges and opportunities of architectural robotics.
+
+Code: DEA 6500
+Title: Problem-Seeking through Programming
+Description: Each student is required to attend DEA 4590 lectures, complete all required readings and assignments, and meet with the instructor and with other graduate students. An additional programming project is required for all graduate students.
+
+Code: DEA 6510
+Title: Human Factors and Inclusive Design
+Description: Intended for graduate students who want a more thorough grounding in human factors than is provided by DEA 3510. Implications of human physical and physiological characteristics and limitations on the design of settings, products, and tasks. An introduction to engineering anthropometry, biomechanics, control/display design, work physiology, and motor performance. Includes practical exercises and field project work.
+
+Code: DEA 6520
+Title: The Ambient Environment
+Description: DEA 6520 is intended for graduate students who want a more thorough grounding in human factors considerations than is provided by DEA 3500. Introduces human-factor considerations in lighting, acoustics, noise control, indoor air quality and ventilation, and the thermal environment. Views the ambient environment as a support system that should promote human efficiency, productivity, health, and safety. Emphasizes the implications for planning, design, and management of settings and facilities.
+
+Code: DEA 6530
+Title: Planning and Managing the Workplace: Evidence-based Design and Organizational Ecology
+Description: Work environments have cultural, health, performance and economic implications for a society, community, organization, or individual. Workplace has transformed during the post pandemic era. The environmental, operational, social and cultural elements of the future workplace are in flux and the vision for the future workplace offers an opportunity for innovation and transformation. We will join industry leaders to collectively solve this paradigm. During the class, we will combine practical tools and scientific knowledge from  sychology, Organizational Behavior, User Experience Design, Systems Engineering, Human Factors, Cognitive Engineering, Human Centered Design and Architecture to create a  successful vision for the high performing workplace of the future.
+
+Code: DEA 6560
+Title: Research Methods in Social Sciences
+Description: For graduate students who want to gain an understanding of research design and methods. Course begins with fundamentals of research design and covers internal and external validity, measurement reliability and validity, and a variety of tools and techniques.
+
+Code: DEA 7100
+Title: DEA Graduate Pro Seminar
+Description: This pro seminar meets once per week, and consists of professional development workshops (e.g., grant writing, scholarly presentations, research communications, IRB, nonacademic career) as well as student presentations of thesis development. The goal is to support young graduate students optimize their graduate experience at Cornell.
+
+Code: DEA 8990
+Title: Master's Thesis and Research
+Description: Thesis research for Design + Environmental Analysis (DEA) master's students.
+
+Code: DEA 9990
+Title: Ph.D. Thesis and Research
+Description: Dissertation research for Design + Environmental Analysis (DEA) Ph.D. students.
+

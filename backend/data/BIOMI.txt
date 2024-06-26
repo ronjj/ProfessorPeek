@@ -1,0 +1,64 @@
+Code: BIOMI 1120
+Title: Microbes, the Earth, and Everything
+Description: We live on a microbial earth. If we happen to consider microbes in our daily lives most people conjure images of disease, but in reality we depend on microbes to sustain our world. This course showcases the vast microbial world that hides in plain sight all around us and use microbial examples to explore both fundamental biological principles and the scientific method. Course modules emphasize basic concepts from evolution, molecular biology and genetics, diversity, and ecology. Learn about the tiny titans and miniature monsters that are the life support system of our planet, how they have shaped human civilizations, and how they reveal the unifying principles of life. This course is suitable for non-life sciences majors.
+
+Code: BIOMI 2100
+Title: Genesis
+Description: This class will explore the current theories about the chemical origins of life on earth, and will then use these insights to discuss the search for life on other planets, inside the Solar system and outside. Topics will include origin of the Sun, the Big Bang, the formation of Earth, the origin of life, from the prebiotic synthesis of amino acids, nucleobases, and other building blocks of life, the evolution of primitive protocells, the earliest RNA-based catalysts, the evolution of protein synthesis machinery, and the origins of eukaryotic cells. We will conclude with strategies and progress in identifying life on other planets in our solar system and on planets orbiting other stars.
+
+Code: BIOMI 2500
+Title: Public Health Microbiology
+Description: This course will use a variety of teaching methods (including historical and current case studies and databases) to help students understand basic principles of microbiology as they apply to the emergence, transmission, pathogenicity, and control of infectious human disease. Major topics include water and food borne disease, zoonotic diseases, sexually transmitted diseases and antibiotic resistance.
+
+Code: BIOMI 2900
+Title: General Microbiology Lectures
+Description: Comprehensive overview of the biology of microorganisms, with emphasis on bacteria. Topics include microbial cell structure and function, physiology, metabolism, genetics, diversity, and ecology. Also covers applied aspects of microbiology such as biotechnology, the role of microorganisms in environmental processes, and medical microbiology.
+
+Code: BIOMI 2911
+Title: General Microbiology Laboratory
+Description: This class will introduce you to current concepts and laboratory techniques in microbiology. Our goal is to show you how scientists use experiments to learn about the microbes around us, with an emphasis on bacteria. This course complements the Microbiology lecture by providing students with hands-on investigations into the microbial world.
+
+Code: BIOMI 3210
+Title: The Gut Microbiome
+Description: The microbes on and in our bodies are as abundant as our own cells. These diverse microorganisms provide us with metabolic capacities beyond our own and are essential to good health, but can also play a role in disease.This course will introduce the microbes of the human body, discuss their origins, adaptations to the body, molecular interactions, and associations with health and disease.
+
+Code: BIOMI 3500
+Title: Marine Microbes and Disease in a Changing Ocean
+Description: Marine microorganisms fuel globally significant elemental cycles through their activities. They also drive diseases in multicellular life through pathogenesis, modulation of host-associated microbiomes, and through induction of stressors (e.g. toxins, hypoxia). The purpose of this course is to provide junior- and senior-level students a background in biological oceanography, marine microbial ecology, biogeochemistry, and disease pathogenesis in marine habitats. The emphasis of the course is on understanding how biology affects and is affected by the oceans, and how organisms interact to produce ocean biological phenomena. The course is divided into 4 modules: 1) Marine microbial diversity and ocean structure; 2) Ocean biogeochemistry; 3) Marine disease pathogenesis; and 4) Pollution and climate change. This course will equip students with foundations for further undergraduate courses in ocean sciences and environmental dynamics, and for graduate studies in biological oceanography and marine biology.
+
+Code: BIOMI 3940
+Title: Applied and Food Microbiology
+Description: Food Science 3940 will focus on the origin, transmission, consequences, and management of diverse microbiota throughout the food chain. Topics in this course generally include: 1) the microbiota of different food systems, 2) the physiology, metabolism, and pathogenesis of important groups of microbes, and 3) application of food microbiology to the industrial sector. You will receive a basic education in interdisciplinary subjects that require knowledge of microbiology, food safety, epidemiology, public health, biotechnology, and cell metabolism. Knowledge and expertise gained in this course will support your qualification for a future career in food science, biotechnology, or microbiology.
+
+Code: BIOMI 4090
+Title: Principles of Virology
+Description: Principles of Virology is a course designed to convey the basic principles of virus biology, to illustrate the key concepts of virus-host interactions and their consequences for virus replication and pathogenesis of viral disease. The course focuses on identifying unifying principles underlying virus biology and highlighting important differences between viruses. Viruses infecting plants, animals, and bacteria will be discussed. A graduate level component of this course will further focus on seminal virology research findings and the cutting-edge technologies used in modern experimental virology through primary literature reading assignments provided in addition to the lecture material.
+
+Code: BIOMI 4850
+Title: Bacterial Genetics
+Description: Bacteria and archaea are the driving force behind all major environmental cycles on the planet, they are critical players in a broad range of agricultural and industrial applications, as well as being responsible for many of the greatest medical challenges and opportunities facing humanity. Additionally, the underpinning of all molecular biology basically comes from work in bacteria. Systems being discovered in bacteria and archaea are continuing to drive the latest technologies in gene modification and genetic engineering across the life sciences. This course will provide a fundamental understanding of the genetics of bacteria and archaea and how this information can be used to understand the uniquely important role they play in the natural environment and current and future applications.
+
+Code: BIOMI 4980
+Title: Teaching Experience
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and assisting in biology courses. This experience may include supervised participation in a discussion group, assisting in a biology laboratory, assisting in field biology, or tutoring.
+
+Code: BIOMI 6090
+Title: Principles of Virology
+Description: Principles of Virology is a course designed to convey the basic principles of virus biology, to illustrate the key concepts of virus-host interactions and their consequences for virus replication and pathogenesis of viral disease. The course focuses on identifying unifying principles underlying virus biology and highlighting important differences between viruses. Viruses infecting plants, animals, and bacteria will be discussed. A graduate level component of this course will further focus on seminal virology research findings and the cutting-edge technologies used in modern experimental virology through primary literature reading assignments provided in addition to the lecture material.
+
+Code: BIOMI 6850
+Title: Bacterial Genetics
+Description: For description and learning outcomes, see BIOMI 4850.
+
+Code: BIOMI 7100
+Title: Fundamentals of Environmental Microbiology
+Description: Graduate level introduction to environmental microbiology including an introduction to microbial cell physiology, overview of microbial habitats (soil, groundwater, freshwater and marine habitats), biogeochemical cycles, environmental pathogens, principals of microbial ecology and microbial/viral evolution. Emphasis on how microorganisms interact with environmental conditions, and how their communities are shaped by physicochemical conditions.
+
+Code: BIOMI 7970
+Title: Scientific Communication Skills
+Description: The ability to communicate effectively is essential for success as a scientist. The primary goal of this course is to provide students with an opportunity to develop self-confidence and refine their formal oral presentation skills. Students are asked to present topical seminars that are critically evaluated by the instructor. Feedback for improving the presentation and peer evaluations are emphasized.
+
+Code: BIOMI 7990
+Title: Microbiology Seminar
+Description: The microbiology seminar series hosts local, national, and international speakers for research seminars. Students in BioMi 7990 gain insight into current topics and cutting-edge methods in microbiology, and are provided with networking opportunities with established scientists, as well as opportunities to present their own seminars.
+

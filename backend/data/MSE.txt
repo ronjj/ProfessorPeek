@@ -1,0 +1,164 @@
+Code: MSE 1140
+Title: Materials: The Future of Energy
+Description: New technologies are urgently needed to fulfill projected global energy requirements. Materials properties typically limit the performance that can be achieved in generation, transport, and utilization of energy. This course will explore how new materials can increase our energy supply, facilitate transportation of energy, and decrease consumption. Materials issues in photovoltaic, fuel cell, battery, transportation, lighting, and building technologies will be studied.
+
+Code: MSE 1190
+Title: Biomaterials for the Skeletal System
+Description: Biomaterials exist at the intersection of biology and engineering. This course explores natural structural materials in the human body, their properties and microstructure, and their synthetic and semi-synthetic replacements. Bones, joints, teeth, tendons, and ligaments are used as examples, with their metal, plastic, and ceramic replacements. Topics covered include mechanical properties, corrosion, toxicity, and biocompatibility. Case studies of design lead to consideration of regulatory approval requirements and legal liability issues.
+
+Code: MSE 1700
+Title: FWS: Scientific Breakthroughs: Reality or Hyperbole
+Description: Scientists excitedly announce their latest result—"it's a breakthrough!"—and science journalists and others proclaim that the breakthrough will revolutionize our lives. But is it so? Or are they speculating, exaggerating, or complicit in fraud? Some scientific breakthroughs do change our lives (CRISPR-Cas9) while others fade away ignominiously (Theranos). Case studies will help us develop a critical eye: we will read red-hot announcements along with dispassionate retrospectives, identifying the signs that distinguish flimsy or inflated claims from solid and credible statements. To detect hype, we need only common sense and logical reasoning, not specific or deep scientific expertise. Using carefully constructed and richly argued essays, along with dialogues and speeches, we will interpret and assess the claims of some prominent examples of trumpeted breakthroughs.
+
+Code: MSE 2610
+Title: Mechanical Properties of Materials: From Nanodevices to Superstructures
+Description: Examines the mechanical properties of materials (e.g., strength, stiffness, toughness, ductility) and their physical origins. Explores the relationship of the elastic, plastic, and fracture behavior to microscopic structure in metals, ceramics, polymers, and composite materials. Discusses effects of time and temperature on materials properties. Emphasizes considerations for design and optimal performance of materials and engineered objects.
+
+Code: MSE 2900
+Title: Special Projects in Materials Science and Engineering
+Description: This course is intended for an individual student, or small group of students, to pursue a particular project, analytical investigation, or experimental investigation outside of regular courses. The course may also be used for formal or informal instruction supplementing regular courses in the major. Students taking the course must obtain approval from an MSE field member who will be responsible for supervising and evaluating the project work.
+
+Code: MSE 2910
+Title: Research Involvement IIa
+Description: Supervised independent research project in association with faculty members and faculty research groups of the department. Students design experiments, set up the necessary equipment, and evaluate the results. Creativity and synthesis are emphasized. Each semester may be taken as a continuation of a previous project or as a one-semester affiliation with a research group.
+
+Code: MSE 3010
+Title: Materials Chemistry
+Description: Provides a molecular understanding of materials properties: introductory quantum chemistry, physical organic chemistry, crystal/ligand field theory, sol-gel chemistry, electrochemistry, and corrosion.  Materials addressed include polymers, biopolymers, organic semiconductors, photoresists, silicate glasses, optical materials, and silica nanoparticles.
+
+Code: MSE 3030
+Title: Thermodynamics of Condensed Systems
+Description: Introduces the three laws of thermodynamics as the fundamental basis for thermal and chemical equilibrium, coupled with statistical mechanical interpretations for entropy. Applies these principles to understand the equilibrium behavior of matter, with a focus on condensed liquid and solid phases. Develops concepts of phase equilibria, phase diagrams, chemical reactions, solution behavior and electrochemistry. Includes an introduction to statistical mechanics and applications in ideal gas behavior, gas and crystal heat capacity, and electron Fermi-Dirac statistics. Applications and examples will be drawn from a range of sub-disciplines spanning metallurgy to polymers.
+
+Code: MSE 3110
+Title: Junior Laboratory I
+Description: Practical laboratory covering the characterization of materials, analysis of data, and presentation of results. Labs are based on concepts from the chemistry of materials (MSE 3010) and thermodynamics of condensed systems (MSE 3030) courses. Experiments include calorimetry, spectroscopic characterization, nanoparticle growth, polymer OLED devices, and molecular origins of spectral data features. Comprehensive data analysis including statistical data analysis, curve fitting and experimental uncertainty is emphasized. Includes an introduction to formal technical writing.
+
+Code: MSE 3900
+Title: Special Projects in Materials Science and Engineering
+Description: This course is intended for an individual student, or small group of students, to pursue a particular project, analytical investigation, or experimental investigation outside of regular courses. The course may also be used for formal or informal instruction supplementing regular courses in the major. Students taking the course must obtain approval from an MSE field member who will be responsible for supervising and evaluating the project work. Course may normally be used only as an advisor approved elective within the MSE curriculum.
+
+Code: MSE 3910
+Title: Research Involvement IIIa
+Description: Supervised independent research project in association with faculty members and faculty research groups of the department. Students design experiments, set up the necessary equipment, and evaluate the results. Creativity and synthesis are emphasized. Each semester may be taken as a continuation of a previous project or as a one-semester affiliation with a research group.
+
+Code: MSE 4020
+Title: Mechanical Properties of Materials, Processing, and Design
+Description: Relationship between microscopic mechanisms and macroscopic mechanical behavior of engineering materials, how mechanical properties can be modified, and criteria for selection and use of materials in design. Stress, strain and elastic constants as tensor quantities, viscoelasticity and damping, plastic deformation, creep deformation, fracture, and fatigue.
+
+Code: MSE 4030
+Title: Senior Materials Laboratory I
+Description: Experiential learning course in which students participate in eitber a faculty or industry led, semester-long, team research project. Teams of three or four students research a topic, define research questions, design and conduct original research to answer the questions, and analyze their data. Group presentations and a final journal style paper required. In addition to developing research skills, students practice and develop communication/team skills, presentation skills, and technical writing skills.
+
+Code: MSE 4050
+Title: Senior Experimental Thesis I
+Description: First semester of a two-semester thesis course involving research in faculty laboratories. Students work alongside faculty, postdocs, and graduate students to conduct original materials research over both semesters, and present the results in conference-style talks, a poster, a written thesis, and a research paper. Lectures and discussion groups explore aspects of effective research including defining problems, proposal writing, searching and using the existing research literature, communicating technical results in progress reports, talks, posters and papers. Completion of both 4050 and 4060 is required to satisfy the senior laboratory requirement for graduation, and is required for graduation with honors.
+
+Code: MSE 4071
+Title: Materials Design Concepts Transition
+Description: Transition course between the initial design course MSE 3070 and the capstone design course MSE 4070. Students develop a proposal to prototype a product design concept after an investigation of available resources and a quantitative feasibility analysis. The students write a brief summarizing the business value proposition of the product in the context of a startup; this brief is used to identify MBA students as mentors for the 4070 teams.
+
+Code: MSE 4510
+Title: Materials Processing and Manufacturing
+Description: How a material is made into its final form has great importance to its structure and therefore to its properties and performance. This course is aimed at giving students an understanding of the state-of-the-art material processing and manufacturing technologies as well as how these processes influence materials' microstructure and properties. With a unified approach this course will introduce the fundamentals of materials processing applied to metals, ceramics, and polymers. Different material processing routes from melt-based and powder-based processes to shape forming, joining, surface engineering and additive manufacturing will be discussed. Emphasis will be placed on the physics of the process as well as on how the processes will influence the properties of emerging materials and applications.
+
+Code: MSE 4900
+Title: Special Projects in Materials Science and Engineering
+Description: This course is intended for an individual student, or small group of students, to pursue a particular project, analytical investigation, or experimental investigation outside of regular courses. The course may also be used for formal or informal instruction supplementing regular courses in the major. Students taking the course must obtain approval from an MSE field member who will be responsible for supervising and evaluating the project work. Course may normally be used only as an advisor approved elective within the MSE curriculum.
+
+Code: MSE 4910
+Title: Research Involvement IVa
+Description: Supervised independent research project in association with faculty members and faculty research groups of the department. Students design experiments, set up the necessary equipment, and evaluate the results. Creativity and synthesis are emphasized. Each semester may be taken as a continuation of a previous project or as a one-semester affiliation with a research group.
+
+Code: MSE 4950
+Title: Undergraduate Teaching Involvement
+Description: Gives credit to students who help in the laboratory portions of select MSE courses. The number of credits earned is determined by the teaching load and is typically 1-3.
+
+Code: MSE 5005
+Title: MSE MEng Professional Development
+Description: Development of leadership skills and application to problem solving, forming and working on teams, project management, and networking. Development of graphical, verbal, and written communication skills. Effective technical project presentations. Professional portfolio development and marketing. Interpersonal skills and effective group behavior. Corporate, academic, and other cultures.  Ethics in professional practice. Personal goal setting and progress metrics.
+
+Code: MSE 5010
+Title: MEng Project - Ongoing
+Description: Master of Engineering research project. Integration of technical, teamwork, and leadership skills to achieve a specific technical project goal defined by a project sponsor. MSE 5010 is for students who intend to complete their project in a later semester. Accordingly, success in MSE 5010 will be measured by progress against defined project goals. Students planning to complete course requirements in the current term should take MSE 5011.
+
+Code: MSE 5011
+Title: MEng Project - Terminal
+Description: Master of Engineering research project. Integration of technical, teamwork, and leadership skills to achieve a specific technical project goal defined by a project sponsor. MSE 5011 is for students who intend to complete their project in the current semester. Accordingly, success in MSE 5011 will be measured by successful completion of all final project deliverables. Students planning to complete course requirements in a later term should take MSE 5010.
+
+Code: MSE 5070
+Title: Interdisciplinary Design Concepts
+Description: This course emphasizes entrepreneurial driven technology designs (forward engineering) by integrating mechanical, chemical, and materials engineering through the understanding of early stage product development complexities. These complexities include staging invention and innovation via the critical selection of materials, assessing product mechanics and processes for final product function, performance, reliability, cost and technical marketability. Students will attend lectures, participate in establishing a Tech Startup integrated into the Johnson School MBA mentoring program, attend startup design reviews, give a series of individual/group presentations, and write a startup issue paper.
+
+Code: MSE 5210
+Title: Properties of Solid Polymers
+Description: Course provides a general introduction to this diverse field including synthetic and natural polymers for engineering applications. Covers structure, order, and dynamics integrating aspects of chemistry, physics, and engineering as needed to understand macromolecular materials. Relationships between structure and properties are elucidated from a materials science perspective. Examples from current literature are also discussed to expose students to the state-of-the-art in the field.
+
+Code: MSE 5320
+Title: Glass: Structure, Properties and Modern Applications
+Description: Course develops a foundational understanding of the glassy state and nature of the glass transition. Introduces phenomenology, chemistry and structure of key oxide glass families, with an emphasis on silicate glasses and the interaction of oxide components. Recent advances in glass relaxation and the implications of the statistical nature of glass structure are also discussed. Contemporary and emerging applications in optical communication, displays, and electronics packaging are explored within the context of key optical, mechanical and thermal properties.  Students will gain an understanding of modern glass theory, familiarity with glass technology, and practical know-how of a glass "power user".
+
+Code: MSE 5410
+Title: Nanofabrication and Characterization of Electronics
+Description: This course will give an introduction to modern nanofabrication technologies with emphasis on integrated circuits manufacturing. Thermal budget, scaling of geometry, pitch and registry and control of parametric yield will be used for integration guidelines. Physical principles and process modeling will be covered in lectures and labs will include a series of fabrication steps of lithography, metallization, plasma etching and annealing to produce semiconductor devices (Schottky diodes, pn junction diodes, MOS capacitors, and MOSFETs). Recent advances in nanofabrication will be briefly reviewed for their possible technology insertion and main integration challenges.
+
+Code: MSE 5411
+Title: Nanofabrication and Characterization of Electronics Laboratory
+Description: This course provides an introduction to nanofabrication technologies with emphasis on Si-based integrated circuits manufacturing as well as modern electronics based on GaN, 2D materials etc. The lab, primarily taught in the Cornell Teaching Cleanroom, includes basic fabrication steps of lithography, metallization, plasma etching and annealing. A series of devices will be fabricated: solar cells, MOS capacitors and transistors, 2D transistors, GaN HEMTs and LEDs.
+
+Code: MSE 5445
+Title: Semiconductor Electronic and Photonics Devices
+Description: The class develops the fundamentals of semiconductor electronic and photonic devices that power to-day's computation, communication, and memory industries. It relates the basics of pn junctions to their applications in solar cells, light emitting diodes, and lasers. Majority and minority carrier transport in heterostructure bipolar transistors is related to gain and speed limits of amplifiers for 5G communications and beyond. Schottky diodes and their applications in power electronics, and in field effect transistors of many flavors ranging from Silicon CMOS and FinFETs to GaN high electron mobility transistors are covered. Tunneling transport, flash memory, and DRAM devices are discussed. The course uses industrially relevant simulation tools, and the laboratory component gives students firsthand experience of measuring and appreciating the power and the limitations of semiconductor devices, and the reason for their revolutionary influence on our lives and society. MEng students and ECE PhD students who enroll in the 5000 level will be required to complete one extra design laboratory project compared to the 4000 level class.
+
+Code: MSE 5520
+Title: Advanced Topics in Metal Additive Manufacturing
+Description: Additive Manufacturing (AM) is a rapid manufacturing technology capable of producing highly complex parts directly from a computer file. In this course, we provide a detailed overview of different AM processes. The fundamentals of each technology in terms of the process principals (e.g. whether it involves photopolymer curing, sintering, melting, high velocity impact, etc.), different design considerations, common defects and post processing steps will be covered. The second part of the course will focus on melt-based AM. Fundamentals of solidification and microstructure-property relationships in major classes of metallic materials including aluminum alloys, steels, titanium and nickel-based super alloys will be discussed.
+
+Code: MSE 5625
+Title: Supramolecular Biophysics
+Description: This course will describe how biomolecules cooperate to assembly structures, build material, and process information. We will start by discussing stoichiometric assembly macromolecular complexes. Then, we'll discuss how biomolecules assemble to make 1D, 2D and 3D materials. These include, cytoskeletal filaments, phospholipid bilayers, and biomolecular condensates. Finally, we'll discuss how cells use these phenomena for control (regulation) and computation.
+
+Code: MSE 5710
+Title: Analytical Techniques for Material Science
+Description: Covers techniques used to determine the composition and structure of materials, both synthetic and biological. The aim is a level of understanding that allows students to choose suitable methods, to appreciate the physical basis of techniques so as to recognize their limitations, and to be able to interpret literature in specialty journals of the field. Modern approaches to determine composition, chemical structure and microstructure will be emphasized. It is not the intent of this course to train students as hands on users of particular instruments.
+
+Code: MSE 5801
+Title: Materials Structure and Electronic Properties
+Description: Course is intended for first year graduate students in MSE, or graduate students in other fields, needing a solid foundation in structural and electronic properties for advanced study/research in materials. Atomic and molecular structure of crystalline, molecular, semicrystalline, and amorphous materials including: crystallography and symmetry; reciprocal lattice; order and disorder; point defects. Diffraction techniques for structural characterization: Bragg's Law, structure factors; thin film and size broadening; Debye scattering; symmetry breaking. Use of tensors to describe macroscopic physical properties and connections between symmetry and properties. Electrical properties of materials including: mechanisms of conduction; band structure and correlation with crystallography; modification of electrical properties in materials; charge transport across interfaces and semiconductor junctions; interaction of materials with light; fundamental semiconductor electronic devices (e.g. diodes, MOSFETS).
+
+Code: MSE 5810
+Title: Materials Chemistry
+Description: Provides a molecular understanding of materials properties: introductory quantum chemistry, physical organic chemistry, crystal/ligand field theory, sol-gel chemistry, electrochemistry, and corrosion.  Materials addressed include polymers, biopolymers, organic semiconductors, photoresists, silicate glasses, optical materials, and silica nanoparticles.
+
+Code: MSE 5820
+Title: Mechanical Properties of Materials, Processing, and Design
+Description: Relationship between microscopic mechanisms and macroscopic mechanical behavior of engineering materials, how mechanical properties can be modified, and criteria for selection and use of materials in design. Stress, strain and elastic constants as tensor quantities, viscoelasticity and damping, plastic deformation, creep deformation, fracture, and fatigue.
+
+Code: MSE 5830
+Title: Thermodynamics of Condensed Systems
+Description: Introduces the three laws of thermodynamics as the fundamental basis for thermal and chemical equilibrium, coupled with statistical mechanical interpretations for entropy.  Applies these principles to understand the equilibrium behavior of matter, with a focus on condensed liquid and solid phases.  Develops concepts of phase equilibria, phase diagrams, chemical reactions, solution behavior and electrochemistry.  Includes an introduction to statistical mechanics and applications in ideal gas behavior, gas and crystal heat capacity, and electron Fermi-Dirac statistics.  Applications and examples will be drawn from a range of sub-disciplines spanning metallurgy to polymers. Extended assignments and independent study of advanced concepts required.
+
+Code: MSE 5998
+Title: External Industrial Internship
+Description: Off-campus internship with industry in which a student gains knowledge and experience in the field of materials science.
+
+Code: MSE 6060
+Title: Condensed Matter Structure
+Description: This course provides an advanced understanding of the atomic structure of materials and how this structure is determined (characterization methods). Descriptions of structure in crystals, liquid, and amorphous solids/glasses. Short- and long-range order, microstructures, nanostructures. Brief review of fundamental aspects of bonding, lattices, quasicrystals, and x-ray scattering. The majority of the course is centered on techniques, such as diffraction methods, pair distribution (PDF/RDF), XPS, EELS, XANES, and EXAFS. Examples of application may include polymer structure, nanoparticles, nano-composite structures, surfaces, interfaces in semiconductors, structure of photonic materials, and biological materials. The morphology of crystals will be covered through the Wulff net and nanoparticle shape control. Articles by leaders within the fields of materials science, chemistry, and physics make up a large portion of the class.
+
+Code: MSE 8000
+Title: Research in Materials Science
+Description: Independent research in materials science under the guidance of a member of the staff.
+
+Code: MSE 8005
+Title: Principles and Practices of Graduate Research
+Description: A series of discussion-based workshops that help incoming PhD students in materials science and engineering form a cohort and succeed in their first year and beyond. Professional development topics include strategies for: matching and communicating with a research advisor, preparing and practicing for the PhD qualifying exam, transitioning from undergraduate study to graduate study, navigating professional responsibilities, persuasive writing for fellowship and funding applications, career planning and goal setting with individual development plans, and communicating professionally with elevator pitches. Qualifying exam and fellowship preparation create a framework for building personal and professional connections with other students.
+
+Code: MSE 8010
+Title: Materials Science and Engineering Colloquium
+Description: Lectures by visiting scientists, Cornell staff members, and graduate students on subjects of interest in materials sciences, especially in connection with new research.
+
+Code: MSE 8020
+Title: Materials Science Research Group Seminars
+Description: Short presentations on research in progress by students and staff.
+

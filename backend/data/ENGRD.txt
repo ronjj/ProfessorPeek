@@ -1,0 +1,56 @@
+Code: ENGRD 2020
+Title: Statics and Mechanics of Solids
+Description: This course presents the methods for analyzing deformable structures in equilibrium. It is fundamental to mechanical analysis and design and is the basis for many advanced courses and professions in mechanical, civil, materials, biomedical and biological engineering.
+
+Code: ENGRD 2100
+Title: Introduction to Circuits for Electrical and Computer Engineers
+Description: This course is an introduction to electronic circuits. We start with the basic quantities used to characterize circuit operation (like current, voltage, and power) and then enforce several physical laws to form the basis of our approach to circuit analysis. Networks comprising passive circuit elements such as resistors, inductors, and capacitors will be examined under constant dc, transient, and sinusoidal steady-state conditions. Active components including transistors and Op-Amps will be introduced and used to build simple amplifiers and switching power converters. Many of these ideas will be unified mathematically through the use of Laplace transforms and associated transfer functions. In the lab part of the course, we will learn how to use modern instruments to test circuits, and explore the concepts from lecture applied to real circuits. Finally, we will develop some simple modeling software in MATLAB to numerically predict the results from analysis and experiment.
+
+Code: ENGRD 2110
+Title: Object-Oriented Programming and Data Structures
+Description: Intermediate programming in a high-level language and introduction to software engineering. Topics include object-oriented programming (objects, classes, subtypes, encapsulation, polymorphism), program correctness (specifications, invariants, testing), algorithm analysis (asymptotic complexity, big "O" notation), recursion, data structures (lists, trees, stacks, queues, heaps, hash tables, graphs), iteration and searching/sorting, graph algorithms, and concurrent and event-driven programming (graphical user interfaces, synchronization). Java is the principal programming language.
+
+Code: ENGRD 2112
+Title: Object-Oriented Design and Data Structures - Honors
+Description: Intermediate software design and introduction to key computer science ideas. Topics are similar to those in CS 2110 but are covered in greater depth, with more challenging assignments. Topics include object-oriented programming, program structure and organization, program reasoning using specifications and invariants, recursion, design patterns, concurrent programming, graphical user interfaces, data structures as in CS 2110, sorting and graph algorithms, asymptotic complexity, and simple algorithm analysis. Java is the principal programming language.
+
+Code: ENGRD 2190
+Title: Chemical Process Design and Analysis
+Description: Engineering problems involving material and energy balances. Batch and continuous reactive systems in the steady and unsteady states. Introduction to phase equilibria for multicomponent systems. Examples drawn from a variety of chemical and biomolecular processes.
+
+Code: ENGRD 2202
+Title: Biomedical Transport Phenomena
+Description: Quantitative analysis of transport phenomena in physiological systems, including fluid mechanics and mass transfer. Fluid statics, mass and momentum conservation, laminar and turbulent flow, microscale and macroscale analytical methods, mass transport with biochemical reactions, applications to transport in tissue and organs.
+
+Code: ENGRD 2210
+Title: Thermodynamics
+Description: Presents the definitions, concepts, and laws of thermodynamics. Topics include the first and second laws, thermodynamic property relationships, and applications to vapor and gas power systems, refrigeration, and heat pump systems. Examples and problems are related to contemporary aspects of energy and power generation and to broader environmental issues.
+
+Code: ENGRD 2250
+Title: The Earth System
+Description: EAS 2250 provides a broad math-, physics-, and chemistry-based introduction to the earth sciences, including geology, paleontology, oceanography, and atmospheric science. Topics covered include formation of the Earth, the chemistry and physics of the Earth's interior, plate tectonics, weathering and erosion, soil development, stream and groundwater flow, volcanism and crustal deformation, the evolution of life, ocean and atmospheric structure, circulation and heat transport, ocean waves and tides, generation of storms, seawater chemistry, mineral and energy resources, and climate change.
+
+Code: ENGRD 2300
+Title: Digital Logic and Computer Organization
+Description: This course provides an introduction to the design and implementation of digital circuits and microprocessors. Topics include transistor network design, Boolean algebra, combinational circuits, sequential circuits, finite state machine design, processor pipelines, and memory hierarchy. Design methodology using both discrete components and hardware description languages is covered in the laboratory portion of the course.
+
+Code: ENGRD 2510
+Title: Engineering Processes for Environmental Sustainability
+Description: Students will quantitatively understand and analyze environmental issues such as: the impact of industrial contaminants and excess nutrients on water quality; the global carbon cycle; improving global access to clean water. This course integrates principles from chemistry, biology, math and engineering to understand and solve real-world problems that impact three major environmental compartments: air, water, and soil. Students will solve mass and energy balances beginning with simple, closed systems, then progress through reactive, open systems to describe environmental fate and transport of pollutants, natural environmental cycles and remediation scenarios. Students will be exposed to technical and lay material from interdisciplinary sources to understand the environmental externalities – social, political, economic and cultural – that must be considered when proposing solutions to today's most pressing environmental issues. BE and EnvE students must complete either BEE 2510 or BEE 2600 according to their academic plan. Students who complete both BEE 2510 and BEE 2600 receive engineering credit toward their degree for only one of these courses.
+
+Code: ENGRD 2600
+Title: Principles of Biological Engineering
+Description: Focuses on the integration of biological principles with engineering, math, and physical principles. Students learn how to formulate equations for biological systems in class and practice in homework sets. Topics range from molecular principles of reaction kinetics and molecular binding events to macroscopic applications such as energy and mass balances of bioprocessing and engineering design of implantable sensors. Students will also experience scientific literature searches as related to the biological engineering topics, and critical analysis and evaluation of relevant information sources. BEE students must complete either BEE 2510 or BEE 2600 according to their academic plan. BEE students who complete both BEE 2510 and BEE 2600 receive engineering credit for only one of these courses.
+
+Code: ENGRD 2610
+Title: Mechanical Properties of Materials: From Nanodevices to Superstructures
+Description: Examines the mechanical properties of materials (e.g., strength, stiffness, toughness, ductility) and their physical origins. Explores the relationship of the elastic, plastic, and fracture behavior to microscopic structure in metals, ceramics, polymers, and composite materials. Discusses effects of time and temperature on materials properties. Emphasizes considerations for design and optimal performance of materials and engineered objects.
+
+Code: ENGRD 2700
+Title: Eng Probability and Statistics: Modeling and Data Science
+Description: Gives students a working knowledge of basic probability and statistics and their application to engineering. Includes computer analysis of data and simulation. Topics include random variables, probability distributions, expectation, estimation, testing, experimental design, quality control, and regression.
+
+Code: ENGRD 2720
+Title: Data Science for Engineers
+Description: An introduction to data science for engineers. The data science workflow: acquisition and cleansing, exploration and modeling, prediction and decision making, visualization and presentation. Tools for data science including numerical optimization, the Discrete Fourier Transform, Principal Component Analysis, and probability with a focus on statistical inference and correlation methods. Techniques for different steps in the workflow including outlier detection, filtering, regression, classification, and techniques for avoiding overfitting. Methods for combining domain-agnostic data analysis tools with the types of domain-specific knowledge that are common in engineering. Ethical considerations. Optional topics include classification via neural networks, outlier detection, and Markov chains. Programming projects in Python.
+

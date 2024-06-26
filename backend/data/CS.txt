@@ -1,0 +1,389 @@
+Code: CS 1110
+Title: Introduction to Computing: A Design and Development Perspective
+Description: Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recursion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming. Weekly labs provide guided practice on the computer, with staff present to help.
+
+Code: CS 1112
+Title: Introduction to Computing: An Engineering and Science Perspective
+Description: Programming and problem solving using Python. Emphasizes the systematic development of algorithms and programs. Topics include iteration, functions, arrays, strings, recursion, object-oriented programming, algorithms, and data handling and visualization. Assignments are designed to build an appreciation for complexity, dimension, randomness, simulation, and the role of approximation in engineering and science. Weekly discussion section provides guided practice on the computer, with staff present to help. NO programming experience is necessary; some knowledge of Calculus is required.
+
+Code: CS 1132
+Title: Short Course in MATLAB
+Description: Introduction to the MATLAB programming language. Covers the basic programming constructs of MATLAB, including assignment, conditionals, iteration, functions, arrays, vectorized computation, and scientific graphics. Designed for students who need MATLAB for research or other courses. Does not assume any previous programming experience.
+
+Code: CS 1133
+Title: Short Course in Python
+Description: Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Designed for students who need Python for research or other courses. Does not assume any previous programming experience.
+
+Code: CS 1620
+Title: Visual Imaging in the Electronic Age
+Description: Interdisciplinary survey course designed to introduce students in the creative arts, science, and engineering to the concepts of 2D and 3D digital pictorial representation and display. It is a concept course that concentrates on "why" rather than "how." Topics include perspective representations, display technology, how television works, bandwidth concepts, digital photography, computer graphics modeling and rendering, color perception, 3D data acquisition, volumetric imaging, and historical precedents, primarily from the art world.
+
+Code: CS 1710
+Title: Introduction to Cognitive Science
+Description: This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.
+
+Code: CS 1998
+Title: First-year and Nontechnical Team Projects
+Description: First-year and Nontechnical Team Projects.
+
+Code: CS 2024
+Title: C++ Programming
+Description: An intermediate introduction to the C++ programming language and the C/C++ standard libraries. Topics include basic statements, declarations, and types; stream I/O; user-defined classes and types; derived classes, inheritance, and object-oriented programming; exceptions and templates. Recommended for students who plan to take advanced courses in computer science that require familiarity with C++ or C.
+
+Code: CS 2110
+Title: Object-Oriented Programming and Data Structures
+Description: Intermediate programming in a high-level language and introduction to software engineering. Topics include object-oriented programming (objects, classes, subtypes, encapsulation, polymorphism), program correctness (specifications, invariants, testing), algorithm analysis (asymptotic complexity, big "O" notation), recursion, data structures (lists, trees, stacks, queues, heaps, hash tables, graphs), iteration and searching/sorting, graph algorithms, and concurrent and event-driven programming (graphical user interfaces, synchronization). Java is the principal programming language.
+
+Code: CS 2112
+Title: Object-Oriented Design and Data Structures - Honors
+Description: Intermediate software design and introduction to key computer science ideas. Topics are similar to those in CS 2110 but are covered in greater depth, with more challenging assignments. Topics include object-oriented programming, program structure and organization, program reasoning using specifications and invariants, recursion, design patterns, concurrent programming, graphical user interfaces, data structures as in CS 2110, sorting and graph algorithms, asymptotic complexity, and simple algorithm analysis. Java is the principal programming language.
+
+Code: CS 2800
+Title: Mathematical Foundations of Computing
+Description: Covers the mathematics that underlies most of computer science. Topics include mathematical induction; logical proof; propositional and
+predicate calculus; sets, functions, and relations; graphs; combinatorics and discrete mathematics; basic probability theory; andfinite-state machines. These topics are discussed in the context ofapplications to many areas of computer science.
+
+Code: CS 2850
+Title: Networks
+Description: This interdisciplinary course examines network structures and how they matter in everyday life. The course examines how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects each of these worlds. Tools of graph theory and game theory are taught and then used to analyze networks. Topics covered include the web, the small world phenomenon, markets, neural networks, contagion, search and the evolution of networks.
+
+Code: CS 3110
+Title: Data Structures and Functional Programming
+Description: Advanced programming course that emphasizes functional programming techniques and data structures. Programming topics include recursive and higher-order procedures, models of programming language evaluation and compilation, type systems, and polymorphism. Data structures and algorithms covered include graph algorithms, balanced trees, memory heaps, and garbage collection. Also covers techniques for analyzing program performance and correctness.
+
+Code: CS 3300
+Title: Visual Data Analytics for the Web
+Description: This course will cover technologies for representing, modeling and displaying data in the context of interactive web pages. Practical skills for building web pages will be mixed with data mining algorithms and visualization design theory. We will use the D3 Javascript library to develop both static and dynamic visualizations, learn more about programming in Javascript, and explore web scalable vector graphics (SVG). Through design critique and formal study, we will identify the techniques visualization developers employ to create the "right" visualization for a given use case.
+
+Code: CS 3410
+Title: Computer System Organization and Programming
+Description: Introduction to computer organization, systems programming and the hardware/ software interface. Topics include instruction sets, computer arithmetic, datapath design, data formats, addressing modes, memory hierarchies including caches and virtual memory, I/O devices, bus-based I/O systems, and multicore architectures. Students learn assembly language programming and design a pipelined RISC processor.
+
+Code: CS 3700
+Title: Foundations of AI Reasoning and Decision-Making
+Description: Introduction to major topics in artificial intelligence, including heuristic search, game-playing, knowledge representation and reasoning, planning, probabilistic inference, sequential decision-making and reinforcement learning.
+
+Code: CS 3780
+Title: Introduction to Machine Learning
+Description: The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.
+
+Code: CS 4090
+Title: Teaching Experience in Computer Science
+Description: Earn course credit for working as a consultant or ugrad TA in a computer science course.
+
+Code: CS 4210
+Title: Numerical Analysis and Differential Equations
+Description: Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.
+
+Code: CS 4320
+Title: Introduction to Database Systems
+Description: Introduction to modern database and data storage systems. Concepts covered include data models, query languages, database designs, storage structures, access methods, query processing and optimization, transaction management, and recovery in both relational and nonrelation data storage systems.
+
+Code: CS 4321
+Title: Practicum in Database Systems
+Description: Students build part of a database system in Java.
+
+Code: CS 4414
+Title: Systems Programming
+Description: CS 4414 exposes students to programming applications at the systems level and to the operating-systems abstractions that these applications depend on. Students learn to make design choices guided by performance, hardware, security and other systems properties. Operating systems abstractions covered include process and memory management, file systems and storage, networking, threads and multiprocess concurrency along with synchronization abstractions including locks and condition variables, and security abstractions for isolation and authorization. Students gain experience with C/C++ programming, major command-line tools and techniques for debugging, instrumenting and tuning applications.
+
+Code: CS 4420
+Title: Computer Architecture
+Description: This course aims to provide a strong foundation for students to understand modern computer system architecture and to apply these insights and principles to future computer designs. The course is structured around the three primary building blocks of general-purpose computing systems: processors, memories, and networks. The first half of the course focuses on the fundamentals of each building block. Topics include processor microcoding and pipelining; cache microarchitecture and optimization; and network topology, routing, and flow control. The second half of the course delves into more advanced techniques and will enable students to understand how these three building blocks can be integrated to build a modern shared-memory multicore system. Topics include superscalar execution, branch prediction, out-of-order execution, register renaming and memory disambiguation; VLIW, vector, and multithreaded processors; memory protection, translation, and virtualization; and memory synchronization, consistency, and coherence. This course includes a significant project decomposed into five lab assignments. Throughout the semester, students will gradually design, implement, test, and evaluate a complete multicore system capable of running real parallel applications at the register-transfer level.
+
+Code: CS 4450
+Title: Introduction to Computer Networks
+Description: This course introduces the basic architectural and design principles of computer networking including the design of communication protocols, congestion control, routing and switching, Internet, data center networks and wireless networks.
+
+Code: CS 4620
+Title: Introduction to Computer Graphics
+Description: Introduction to the principles of computer graphics in two and three dimensions.  Topics include digital images, filtering and antialiasing, 2-D and 3-D affine geometry, ray tracing, perspective and 3-D viewing, the graphics pipeline, curves and surfaces, and human visual perception. This course emphasizes fundamental techniques in graphics, with both written and practical assignments.  May be taken with or without concurrent enrollment in CS 4621.
+
+Code: CS 4621
+Title: Computer Graphics Practicum
+Description: Provides CS 4620 students with hands-on experience in computer graphics programming on modern graphics hardware. This course emphasizes effective use of graphics APIs and the architecture of graphics applications.  A final project involves building a substantial interactive graphics system.  The course uses Javascript and WebGL for code development.
+
+Code: CS 4701
+Title: Practicum in Artificial Intelligence
+Description: Artificial Intelligence project class. Topic choice is student driven and (small) teams are encouraged, but each individual team member must do substantial implementation with significant average weekly time commitment. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, machine learning, genetic algorithms, planning, natural language processing, computer vision. Should be taken only by students with significant experience in Artificial Intelligence, such as those who have already taken CS 3700, CS 3780, CS 4670, or CS 4740.
+
+Code: CS 4745
+Title: Computational Linguistics II
+Description: An in-depth exploration of modern computational linguistic techniques. A continuation of  LING 4424 - Computational Linguistics I. Whereas LING 4424 covers foundational techniques in symbolic computational modeling, this course will cover a wider range of applications as well as coverage of neural network methods. We will survey a range of neural network techniques that are widely used in computational linguistics and natural language processing as well as a number of techniques that can be used to probe the linguistic information and language processing strategies encoded in computational models. We will examine ways of mapping this linguistic information both to linguistic theory as well as to measures of human processing (e.g., neuroimaging data and human behavioral responses).
+
+Code: CS 4750
+Title: Foundations of Robotics
+Description: Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester.
+
+Code: CS 4756
+Title: Robot Learning
+Description: How do we get robots out of the labs and into the real world with all it's complexities?
+Robots must solve two fundamental problems -- (1) Perception: Sense the world using different modalities and (2) Decision making: Act in the world by reasoning over decisions and their consequences. Machine learning promises to solve both problems in a scalable way using data. However, it has fallen short when it comes to robotics.
+This course dives deep into robot learning, looks at fundamental algorithms and challenges, and case-studies of real-world applications from self-driving to manipulation.
+
+Code: CS 4775
+Title: Computational Genetics and Genomics
+Description: Computational methods for analyzing genetic and genomic data. Topics include sequence alignment, hidden Markov Models for discovering sequence features, motif finding using Gibbs sampling, phylogenetic tree reconstruction, inferring haplotypes, and local and global ancestry inference. Prior knowledge of biology is not necessary to complete this course.
+
+Code: CS 4814
+Title: Introduction to Computational Complexity
+Description: Explores the power and limitations of efficient computation. Understanding how the notion of efficient computation changes with respect to resources such as time, space, randomness, advice, and interaction. Concrete computational models that we will study will include Turing machines, Boolean circuits, Decision trees, and Branching Programs. Advanced topics may include error-correcting codes, probabilistic checkable proofs, and circuit lower bounds.
+
+Code: CS 4820
+Title: Introduction to Analysis of Algorithms
+Description: Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases , approximation algorithms, local search heuristics, and online algorithms).
+
+Code: CS 4830
+Title: Introduction to Cryptography
+Description: A rigorous introduction to the theoretical foundations of the cryptography that powers much of the modern world. Topics include one-way functions, secret-key encryption, zero-knowledge proofs, signatures, public-key encryption etc. As this is a theoretical class, the emphasis will be on formal definitions and proofs.
+
+Code: CS 4997
+Title: Practical Training in Computer Science
+Description: This independent study course offers CS majors (i.e., undergraduates whose applications to affiliate with the CS major have been approved) an opportunity to reflect on concepts from computer science as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the computer science major.
+
+Code: CS 4998
+Title: Team Projects
+Description: Advanced independent work in computer science as part of a student-led team project.
+
+Code: CS 4999
+Title: Independent Reading and Research
+Description: Independent reading and research for undergraduates.
+
+Code: CS 5112
+Title: Algorithms and Data Structures for Applications
+Description: Fundamental algorithms and data structures used in current applications. Algorithms include graph algorithms, hashing and streaming/sketching techniques. Applications will include selected topics in storage and memory systems, machine learning and security.
+
+Code: CS 5220
+Title: Applied High-Performance and Parallel Computing
+Description: Models for parallel programming and survey of parallel machines. Existing parallel programming languages, vectorizing compilers, and parallel libraries and toolboxes.
+
+Code: CS 5320
+Title: Introduction to Database Systems
+Description: Introduction to modern database and data storage systems. Concepts covered include data models, query languages, database design, storage structures, access methods, query processing and optimization, transaction management, and recovery in both relational and nonrelational data storage systems.
+
+Code: CS 5321
+Title: Practicum in Database Systems
+Description: Students build part of a real database system in C++ Java.
+
+Code: CS 5414
+Title: Distributed Computing Principles
+Description: Studies the abstractions and algorithms that constitute the foundations for implementing concurrent and distributed computing, with emphasis on supporting fault-tolerance. Topics vary to reflect advances in the field but typically include global state snapshots, causality and clocks (logical and physical), agreement and consensus, primary-backup and state-machine replication, quorums, and gossip. Students undertake a substantial software project to put these ideas into practice. Many students obtain additional project credit by co-registering in CS 4999 or CS 5999.
+
+Code: CS 5420
+Title: Advanced Computer Architecture
+Description: This course discusses advanced topics in computer architecture beyond the material that is covered in undergraduate courses such as ECE 4750/CS 4420. In particular, the course places special focus on multicore and multiprocessor architectures (coherence, consistency, synchronization, interconnects, OS support, etc.), as well as advanced architecture techniques (simultaneous multithreading, speculative loads and stores, neural branch predictors, hardware resource management, memory scheduling, etc.) Students work on parallel programming assignments that emphasize hardware-aware performance optimization.
+
+Code: CS 5436
+Title: Privacy in the Digital Age
+Description: This course introduces students to privacy technologies and surveys the current state of digital privacy from multiple perspectives, including technology, law, policy, ethics, economics, and surveillance.
+
+Code: CS 5456
+Title: Introduction to Computer Networks
+Description: This course introduces the basic architectural and design principles of computer networking including the design of communication protocols, congestion control, routing and switching, Internet, data center networks and wireless networks.
+
+Code: CS 5620
+Title: Introduction to Computer Graphics
+Description: Introduction to the principles of computer graphics in two and three dimensions. Topics include digital images, filtering and antialiasing, 2-D and 3-D affine geometry, ray tracing, perspective and 3-D viewing, the graphics pipeline, curves and surfaces, and human visual perception. Homework assignments require some Java programming.
+
+Code: CS 5621
+Title: Computer Graphics Practicum
+Description: Provides CS 4620 students with hands-on experience in computer graphics programming on modern graphics hardware. This course emphasizes effective use of graphics APIs and the architecture of graphics applications.  A final project involves building a substantial interactive graphics system.  The course uses Javascript and WebGL for code development.
+
+Code: CS 5650
+Title: Virtual and Augmented Reality
+Description: This course presents an introduction to virtual and augmented reality technologies, with focus on fundamental principles from 3D math, human perception, graphics, and interaction. Concepts from the contributing fields of computer vision, computer graphics and human computer interaction will be introduced in the context of virtual and augmented reality. Students will be tasked with creating their own virtual or augmented reality application as a course project.
+
+Code: CS 5682
+Title: HCI and Design
+Description: Human-Computer Interaction (HCI) and design theory and techniques. Methods for designing, prototyping, and evaluating user interfaces. Basics of visual design, graphic design, and interaction design. Understanding human capabilities, interface technology, interface design methods, prototyping tools, and interface evaluation tools and techniques.
+
+Code: CS 5700
+Title: Foundations of Artificial Intelligence
+Description: Introduction to major topics in artificial intelligence, including heuristic search, game-playing, knowledge representation and reasoning, planning, probabilistic inference, sequential decision-making and reinforcement learning.
+
+Code: CS 5727
+Title: Optimization Methods
+Description: This course covers algorithmic and computational tools for solving optimization problems with the goal of providing decision-support for business intelligence. We will cover the fundamentals of linear, integer and nonlinear optimization. We will emphasize optimization as a large-scale computational tool, and show how to link programming languages with optimization software to develop industrial-strength decision-support systems. We will demonstrate how to incorporate uncertainty into optimization problems. Throughout the course, we will cover a variety of modern applications, including pricing and marketing for e-commerce, ad auctions on the web, and on-line ride-sharing.
+
+Code: CS 5750
+Title: Foundations of Robotics
+Description: Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester.
+
+Code: CS 5756
+Title: Robot Learning
+Description: How do we get robots out of the labs and into the real world with all it's complexities?
+Robots must solve two fundamental problems -- (1) Perception: Sense the world using different modalities and (2) Decision making: Act in the world by reasoning over decisions and their consequences. Machine learning promises to solve both problems in a scalable way using data. However, it has fallen short when it comes to robotics.
+This course dives deep into robot learning, looks at fundamental algorithms and challenges, and case-studies of real-world applications from self-driving to manipulation.
+
+Code: CS 5780
+Title: Introduction to Machine Learning
+Description: The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.
+
+Code: CS 5781
+Title: Machine Learning Engineering
+Description: Machine learning is increasingly driven by advances in the underlying hardware and software systems. This course will focus on the challenges inherent to engineering machine learning systems to be correct, robust, and fast. The course walks through the development of a software library for machine learning from scratch, with each assignment requiring students to build models in their own library. Topics will include: tensor languages and auto-differentiation; model debugging, testing, and visualization; fundamentals of GPUs; compression and low-power inference. Guest lectures will cover current topics from ML engineers.
+
+Code: CS 5785
+Title: Applied Machine Learning
+Description: Learn and apply key concepts of modeling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, and dimensionality reduction.
+
+Code: CS 5787
+Title: Deep Learning
+Description: Students will learn deep neural network fundamentals, including, but not limited to, feed-forward neural networks, convolutional neural networks, network architecture, optimization methods, practical issues, hardware concerns, recurrent neural networks, dataset acquisition, dataset bias, adversarial examples, current limitations of deep learning, and visualization techniques. We still study applications to problems in computer vision and to a lesser extent natural language processing and reinforcement learning. There will also be a session on understanding publications in deep learning, which is a critical skill in this fast moving area.
+
+Code: CS 5814
+Title: Introduction to Computational Complexity
+Description: Explores the power and limitations of efficient computation. Understanding how the notion of efficient computation changes with respect to resources such as time, space, randomness, advice, and interaction. Concrete computational models that we will study will include Turing machines, Boolean circuits, Decision trees, and Branching Programs. Advanced topics may include error-correcting codes, probabilistic checkable proofs, and circuit lower bounds.
+
+Code: CS 5820
+Title: Introduction to Analysis of Algorithms
+Description: Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases, approximation algorithms, local search heuristics, and online algorithms).
+
+Code: CS 5830
+Title: Cryptography
+Description: Introductory course in Cryptography. Topics include one-time pads, stream ciphers, block ciphers, authenticated encryption, asymmetric encryption, digital signatures, and more. The focus is on contemporary cryptographic algorithms used in practice, with some introduction to formal analyses.
+
+Code: CS 5998
+Title: Master of Engineering Internship
+Description: Off-campus internship with industry in which a student gains knowledge and experience in the field of computer science.
+
+Code: CS 5999
+Title: Master of Engineering Project
+Description: Independent or group project under the direction of a CS field member or researcher. Projects involve the development of a computer science application (software or hardware) useful in exploring and/or solving an engineering problem with a computer science focus.
+
+Code: CS 6006
+Title: Succeeding in the Graduate Environment
+Description: This is an onboarding course that first-year PhD students in Computer Science are required to attend during their first semester at Cornell. This course seeks to more formally present some of the "hidden curriculum" that is so often the marker of success in graduate school. Topics will include: your health, wellness, and finances; selecting an advisor and research direction; applying for grants and fellowships; giving a professional talk; setting and managing expectations; choices and consequences in computing.
+
+Code: CS 6115
+Title: Certified Software Systems
+Description: In recent years, it has become practical to build large software systems using formal proof assistants. Examples of such certified systems include the seL4 microkernel, the CompCert C compiler, the Vellvm LLVM compiler, and the Bedrock library. This course provides a hands-on introduction to programming using the Coq proof assistant. Assessment is based on participation and a substantial course project.
+
+Code: CS 6158
+Title: Software Engineering in the Era of Machine Learning
+Description: Recent advances in Machine Learning have led to remarkable results in natural language processing, video generation, code generation, etc. On one hand, Machine Learning enables solving challenging software engineering problems through data-driven techniques. On the other hand, Machine Learning systems present novel software engineering challenges that traditional methods cannot handle. This course will explore research in this important intersection of software engineering and machine learning.  Topics that will be covered include 1) foundational software engineering concepts, such as testing, debugging, and program analysis, 2) software engineering techniques for improving the quality of machine learning systems, and 3) the use of machine-learning techniques (including Large Language Models) to improve software engineering.
+
+Code: CS 6172
+Title: Program Synthesis
+Description: An introduction to program synthesis: the problem of automatically generating programs from specifications of their desired behavior. Program synthesis draws on the fields of programming languages and artificial intelligence with the aim of helping to improve software engineering by automatically generating code; help expand the usability of computers by allowing non-coders to harness the power of programming languages; and help us build more interpretable, symbolic AI systems that can write new code. Covers classic areas such as programming-by-example, constraint-based synthesis using SMT solvers, type-directed program synthesis, and inductive logic programming. Covers recent developments in mixed discrete/continuous and neural/symbolic program synthesis. Covers deep learning methods for building efficient, scalable program synthesizers.
+
+Code: CS 6210
+Title: Matrix Computations
+Description: Stable and efficient algorithms for linear equations, least squares, and eigenvalue problems. Direct and iterative methods are considered. Numerical programming is used extensively.
+
+Code: CS 6410
+Title: Advanced Systems
+Description: Advanced course in systems, emphasizing contemporary research in distributed systems. Topics may include communication protocols, consistency in distributed systems, faulttolerance, knowledge and knowledge-based protocols, performance, scheduling, concurrency control, and authentication and security issues.
+
+Code: CS 6662
+Title: Computational Imaging
+Description: Computational imaging is the holistic design of imaging systems together with algorithms, blending ideas from computer vision, optics, imaging, and machine learning to overcome the limits of traditional cameras and imaging systems (e.g. capturing the first image of the black hole and imaging light-fields). This course will provide an overview of the state of the art in computational imaging. We will learn how to mathematically model different aspects of imaging systems, such as noise, aberrations, and light propagation. In addition, we will learn how to formulate and solve imaging inverse problems using both classical and modern deep-learning-based approaches. Throughout the course, we will discuss exciting active research topics such as lensless imaging, compressive imaging, phase microscopy, time-of-flight imaging, and tomography. The class will culminate in an open-ended final project.
+
+Code: CS 6672
+Title: 3D Vision
+Description: The ability to infer, model, and utilize 3D information from perceptual input is crucial to various intelligent systems (e.g., self-driving vehicles, mobile robots) and AI tasks (e.g., 2D image/3D asset generation, robot manipulation). The course will investigate the fundamentals and the latest advances in 3D vision as well as their applications in different fields. The topics include image formation, multi-view geometry, (neural) 3D representations, learning-based 3D algorithms, neural rendering, generative models, etc. The course will feature a mixture of lectures, paper presentations (both classic and modern), and a group final project. The students will play around various algorithms and models and improve or propose a creative use of them.
+
+Code: CS 6740
+Title: Advanced Language Technologies
+Description: Graduate-level introduction to technologies for the computational treatment of information in human-language form, covering modern natural-language processing (NLP) and/or information retrieval (IR). Possible topics include language modeling, word embeddings, text categorization and clustering, information extraction, computational syntactic and semantic formalisms, grammar induction, machine translation, latent semantic analysis (LSI), and clickthrough data for web search.
+
+Code: CS 6741
+Title: Topics in Natural Language Processing and Machine Learning
+Description: Robust language understanding has the potential to transform how we interact with computers, extract information from text and study language on large scale. This research-oriented course examines machine learning and inference methods for recovering language structure and meaning. Possible topics include structured prediction and deep learning, methods for situated language understanding, language grounding, and learning to generate text.
+
+Code: CS 6742
+Title: Natural Language Processing and Social Interaction
+Description: More and more of life is now manifested online, and many of the digital traces that are left by human activity are increasingly recorded in natural-language format. This research-oriented course examines the opportunities for natural language processing to contribute to the analysis and facilitation of socially embedded processes. Possible topics include sentiment analysis, learning social-network structure, analysis of text in political or legal domains, review aggregation systems, analysis of online conversations, and text categorization with respect to psychological categories.
+
+Code: CS 6752
+Title: Formal Methods for Robotics
+Description: How can we guarantee robots will never cause harm? How can we prove that complicated mechanical systems, controlled by computers and programmed by people, will always behave as expected under changing conditions and in a variety of uncertain environments? How do we formalize what such behaviors are? Guaranteeing safety, predictability and reliability of robots is crucial for the assimilation of such systems into society, be it at home or in the workplace. While every robotics researcher working with or on a robot is aware of safety issues, only recently the robotics community has begun looking at ways to either formally prove or grarantee by design different behavioral properties such as safety and correctness. This class will present recent results on the topic of formal methods for robotics and automation that combine and extend ideas from control theory, dynamical systems, automata theory, logic, model checking, synthesis, and hybrid systems.
+
+Code: CS 6758
+Title: Deep Learning for Robotics
+Description: Deep learning has become a pivotal force in recent robotics research advancements, from estimating the state of the world to solving complex long-horizon tasks. The new paradigm shifts from traditional feature and model engineering to learning task-relevant representations from raw data. This is fueled by increasingly more affordable hardware and diverse data sources from which algorithms may learn from. This graduate-level course examines how deep learning approaches have been applied to robotics problems, including various topics of robot perception and control. We will also discuss the recent trend of large-scale representation learning and foundation models for robotics.
+
+Code: CS 6783
+Title: Machine Learning Theory
+Description: This course on machine learning theory introduces basic results, tools, and techniques used in analysis of statistical and online learning algorithms. The course also introduces the basics of computational learning theory.
+
+Code: CS 6784
+Title: Advanced Topics in Machine Learning
+Description: Extends and complements CS 3780 (formally CS 4780) and CS 5780, giving in-depth coverage of new and advanced methods in machine learning.
+
+Code: CS 6789
+Title: Foundations of Reinforcement Learning
+Description: State-of-art intelligent systems often need the ability to make sequential decisions in an unknown, uncertain, possibly hostile environment, by actively interacting with the environment to collect relevant data. Reinforcement Learning is a general framework that can capture the interactive learning setting. This graduate level course focuses on theoretical and algorithmic foundations of Reinforcement Learning. The topics of the course will include: basics of Markov Decision Process (MDP); Sample efficient learning in discrete MDPs; Sample efficient learning in large-scale MDPs; Off-policy policy optimization; Policy gradient methods; Imitation learning & Learning from demonstrations; Contextual Bandits. Throughout the course, we will go over algorithms, prove performance guarantees, and also discuss relevant applications. This is an advanced and theory-heavy course: there is no programming assignment and students are required to work on a theory-focused course project.
+
+Code: CS 6814
+Title: Probabilistic Proofs
+Description: This course offers a graduate-level introduction to the theory of probabilistic proof systems. The area has deep connections to many aspects of theoretical computer science, including complexity theory and hardness of approximation, coding theory, cryptography and quantum computing. Topics covered will include the PCP theorem, interactive proofs, zero knowledge, succinct arguments, and quantum proof systems.
+
+Code: CS 6820
+Title: Analysis of Algorithms
+Description: Methodology for developing and analyzing efficient algorithms. Understanding the inherent complexity of natural problems via polynomial-time algorithms, advanced data structures, randomized algorithms, approximation algorithms, and NP-completeness. Additional topics may include algebraic and number theoretic algorithms, circuit lower bounds, online algorithms, or algorithmic game theory.
+
+Code: CS 6828
+Title: Modern Prediction Paradigms: Responsible Machine Learning
+Description: Predictive algorithms influence and shape society. The use of machine learning to make predictions about people raises a host of basic questions: What does it mean for a predictive algorithm to be fair to individuals from marginalized groups? On what basis should we deem a predictive algorithm to be valid? And when should we trust (or distrust) a predictor's output? This course surveys recent developments in the theory of responsible machine learning. We overview new paradigms for formulating learning problems and highlight key algorithmic tools in the study of fairness, validity, and robustness. Topics covered include: Multicalibration and Outcome Indistinguishability, Omniprediction, Performative Prediction, Distributional Robustness, and Verification of Learning.
+
+Code: CS 6830
+Title: Cryptography
+Description: A rigorous introduction to the theoretical foundations of the cryptography that powers much of the modern world. As this is a theoretical class, the emphasis will be on formal definitions and proofs. E.g., what does it mean to communicate securely? Can I prove that I am who I claim to be without revealing additional information (such as information that allows others to impersonate me)?
+
+Code: CS 6840
+Title: Algorithmic Game Theory
+Description: Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or more generally, economic concepts. Designing and analyzing large-scale multi-user systems and as well as such markets, requires good understanding of tools from algorithms, game theory, and graph theory. The course will develop mathematically sophisticated techniques at the interface between algorithms and game theory, and will consider their applications to markets, auctions, networks, as well as the Internet.
+
+Code: CS 6850
+Title: The Structure of Information Networks
+Description: For description, see INFO 6850.
+
+Code: CS 7090
+Title: Computer Science Colloquium
+Description: Weekly meeting for the discussion and study of important topics in the field.
+
+Code: CS 7190
+Title: Seminar in Programming Languages
+Description: The Programming Languages Discussion Group meets weekly to discuss papers in the area of programming languages, program analysis, and compilers. The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in this area. The seminar is open to everybody interested in languages and compilers. First-year and second-year students are especially encouraged to participate.
+
+Code: CS 7290
+Title: Seminar on Scientific Computing and Numerics
+Description: Talks on various methods in scientific computing, the analysis of their convergence properties and computational efficiency, and their adaptation to specific applications.
+
+Code: CS 7390
+Title: Database Seminar
+Description: The database seminar is the weekly meeting of students and faculty interested in data management and data mining at Cornell. We typically discuss one or two papers on related topics per session. We focus on recent and seminal papers of general interest.
+
+Code: CS 7490
+Title: Systems Research Seminar
+Description: The Systems Research Seminar discusses recent, interesting papers in the systems area, broadly defined to span operating systems, distributed systems, networking, architecture, databases, security, and programming languages. The goal is to foster technical discussions among the Cornell systems research community.
+
+Code: CS 7670
+Title: Special Topics in Computer Vision
+Description: Informal weekly seminar in which current topics in computer vision are discussed.
+
+Code: CS 7690
+Title: Computer Graphics and Vision Seminar
+Description: The Graphics/Vision Research Seminar discusses recent research in the areas of computer graphics and computer vision. The goal is to foster technical discussions and collaboration among the Cornell graphics and vision research community.
+
+Code: CS 7790
+Title: Seminar in Artificial Intelligence
+Description: The AI seminar will meet weekly for lectures by graduate students, faculty, and researchers emphasizing work-in-progress and recent results in AI research.
+
+Code: CS 7794
+Title: Seminar in Natural Language Understanding
+Description: This course, the NLP seminar, is a weekly meeting for people currently or soon to be actively doing research in NLP. (Students simply looking to learn more about NLP should not enroll, but should take one of our lecture courses instead.) One participant leads discussion each week, either of a recently published paper or of their own work in progress.
+
+Code: CS 7796
+Title: Robotics Seminar
+Description: Informal seminar in which current topics in robotics are discussed.
+
+Code: CS 7890
+Title: Seminar in Theory of Algorithms and Computing
+Description: The theory seminar will meet weekly for lectures by graduate students, faculty, and researchers emphasizing work-in-progress and recent results related to theory of computing.
+
+Code: CS 7999
+Title: Independent Research
+Description: Independent research for CS PhD students who have not yet passed their A-exam.
+

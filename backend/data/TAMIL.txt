@@ -1,0 +1,8 @@
+Code: TAMIL 1121
+Title: Elementary Tamil I
+Description: Introduces students to the basic grammatical and syntactical skills required to function adequately in a Tamil-speaking environment. Of particular interest to students planning to conduct scholarly research or fieldwork in that region of the world. Introduces students to the rich culture of the Indian subcontinent where Tamil is spoken.
+
+Code: TAMIL 4431
+Title: Directed Study
+Description: Intended for advanced language study.
+

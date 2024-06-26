@@ -1,0 +1,36 @@
+Code: REAL 5370
+Title: Real Estate Seminar Series
+Description: Designed to bring students weekly into direct contact with real-estate professionals mainly through the use of videoconferences originating from locations around the world.
+
+Code: REAL 5560
+Title: Creating the Built Environment
+Description: Real estate professionals and city and regional planners play a vital role in creating the built environment. Understanding the physical form of real estate, and the rules that govern that form, is critically important if one is to meaningfully engage in the practice of real estate development. In this course, we examine in detail the physical form of the built environment, and students gain an understanding of the principles and organizing strategies that underlie it. We examine the following building types in depth: residential, retail, hotel and mixed use. Students exit this course with a deeper understanding of why the built environment takes the shape it does and the opportunities for innovations.
+
+Code: REAL 5561
+Title: Innovation and Strategy in Commercial Real Estate Development
+Description: In this course, we will examine in detail the physical form of workplace design and the specific principles and organizing strategies that affect it. We address the history of office building design, current trends in workplace culture and new forms of office space. We discuss issues affecting office building design, including environmental sustainability, building efficiency, building code and construction, and leasing and operations. Students exit the course with a deeper understanding of why the built environment takes the shape it does and the opportunities for innovation.
+
+Code: REAL 5950
+Title: Construction Planning and Operations
+Description: Prepares students for responsibilities in overseeing the engineering and management of construction; on time-on budget. Emphasis is placed on the management processes for organizing, planning, and controlling the activities of complex development and construction programs. Students study the contracts for engineering, architecture, and construction; focusing on cost estimation and schedule control, responsibilities and risks, and the relationships among owners, designers, contractors, and suppliers. The potential for project disruption is discussed with special emphasis on dispute resolution methods.
+
+Code: REAL 6101
+Title: The Economics of Urban Real Estate Markets and the Built Environment
+Description: This course is designed to provide students with an understanding of the economics of urban real estate markets and the built environment. This will include links between market drivers of property use and value, durability of buildings and infrastructure, finance, and social policy. The course begins with analysis of the 2007 housing market crash and the financial crisis it precipitated. Spatial patterns of development and real estate values are then considered, including patterns extending out from city centers, moving up high in tall commercial buildings, and differences across metropolitan areas. The course concludes with assessment of how new strategies to facilitate urban transportation along with work-from-home have potential to threaten central city office markets and affect patterns of development in cities.
+
+Code: REAL 6230
+Title: Real Estate Statistical Modeling
+Description: This course provides students with education in the use of statistical methods applied to real estate property and market data for the purpose of making informed decisions about allocations of resources to real estate. Both elementary and advanced statistical methods are covered in the course and students receive training in the statistical functions of Excel, STATA, and @RISK. Also, students gain exposure to the expanding number of real estate data bases offered by vendors. An important component of the course is the series of required assignments that involve finding answers to specific questions encountered in practice that can be best answered with statistical analysis of relevant data. Building statistics-based forecasting and valuation models is essential for completing the course assignments.
+
+Code: REAL 6580
+Title: Residential and Commercial Development
+Description: Explores the residential and commercial-development process from site acquisition through delivery of the finished product. Topics include market feasibility, land planning and acquisition, product selection and design, project financing and feasibility, schedule and budgetary controls, contracting and construction, marketing, and sales activities. Composition of the development project team is discussed. Classes are supplemented by visiting professionals. The course includes a semester-long project based on an actual property and market opportunity.
+
+Code: REAL 6595
+Title: Special Topics in Real Estate
+Description: This course addresses pertinent issues relative to real estate.  Topics vary each semester.
+
+Code: REAL 6640
+Title: Management Communication
+Description: The purpose of this course is to improve writing and speaking skills as applied in the real estate industry contexts and practices. Students learn to think critically and strategically about communication, to produce messages that are clear, concise, efficient, and effective. Students will have opportunities to practice effective communication elements in a variety of genres, ranging from shorter messages to complex reports and decks, as well as persuasive speeches. More specifically, students will learn how to adjust their communication choices when communicating in different written and oral genres typical in real estate situations. Overall, the goal is to make students' communications clearer, succinct, efficient, effective, and persuasive. Students are evaluated on the communication skills that they will regularly demonstrate through class activities, discussions, preparation, etc.
+

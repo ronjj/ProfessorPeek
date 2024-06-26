@@ -1,0 +1,176 @@
+Code: EAS 1101
+Title: Climate and Energy: a 21st Century Earth Science Perspective
+Description: Most people alive today will face unprecedented challenges and opportunities at the intersection of climate change and global energy demand. These two issues are inexorably linked to each other, and to virtually all global health and development "grand challenges." Fundamentally, this course asks how we humans, as a species, found our way in to the current bottleneck of climate and energy challenges, and how we, as a society, might find solutions that guarantee future generations can enjoy a stable climate, a secure and nutritious food supply, and access to clean energy. Students learn the fundamental background that they will need to be an informed citizen on these timely and extremely important issues.
+
+Code: EAS 1220
+Title: Earthquake!
+Description: Explores the science of natural hazards, their societal impacts, and means of mitigation. The focus is on earthquakes, volcanoes, and tsunami, but hurricanes, severe weather, climate change, landslides, wildfires, and the threat of extinction from a future impact by an extraterrestrial body are also considered.
+
+Code: EAS 1310
+Title: Basic Principles of Meteorology
+Description: Simplified treatment of the structure of the atmosphere: heat balance of the Earth; general and secondary circulations; air masses, fronts, and cyclones; and hurricanes, thunderstorms, tornadoes, and atmospheric condensation. The optional 1-credit laboratory for the course is offered as EAS 1330.
+
+Code: EAS 1330
+Title: Basic Meteorology Lab
+Description: Required for atmospheric science majors but is optional for other students taking EAS 1310.
+
+Code: EAS 1540
+Title: Introductory Oceanography
+Description: This class relies more on intuitive reasoning rather than complicated mathematical formulas to convey basic concepts about how the ocean works. For this reason, the class is very accessible to non-science majors. The class covers standard material about how the ocean works, but also includes current environmental threats facing the ocean such as global warming, ocean acidification, overfishing and coastal pollution. Students will gain a depth of knowledge about the ocean and global warming to enable them to speak and write confidently about contemporary public issues regarding the health of the ocean, global warming and a sustainable future. This course satisfies the Physical and Biological Sciences (PBS) requirement for students in most colleges. For students in A&S and CALS, this course counts as "in-college" credit.
+
+Code: EAS 1560
+Title: Introductory Oceanography with Laboratory
+Description: This class relies more on intuitive reasoning rather than complicated mathematical formulas to convey basic concepts about how the ocean works. For this reason, the class is very accessible to non-science majors. The class covers standard material about how the ocean works, but also includes current environmental threats facing the ocean such as global warming, ocean acidification, overfishing and coastal pollution. Students will gain a depth of knowledge about the ocean and global warming to enable them to speak and write confidently about contemporary public issues regarding the health of the ocean, global warming and a sustainable future. This course satisfies the Physical and Biological Sciences (PBS) requirement for students in most colleges and the Introductory Life Sciences/Biological Sciences requirement for students in CALS. For students in A&S and CALS, this course counts as "in-college" credit. This course is suitable for non-life sciences majors.
+
+Code: EAS 1600
+Title: Environmental Physics
+Description: Fundamentals of radiation, thermodynamics, and mechanics will be introduced and used to understand energy and mass transfers in natural and built environments. Students will describe, identify and use basic principles of physics to discuss and assess renewable energy systems and solve environmental physics problems, using a physics vocabulary and appropriately quantifying results. The course is offered in the spring semester as a flipped class, meeting twice weekly. The course is offered in the fall semester as a web-based, online course and covers the same material.
+
+Code: EAS 2250
+Title: The Earth System
+Description: EAS 2250 provides a broad math-, physics-, and chemistry-based introduction to the earth sciences, including geology, paleontology, oceanography, and atmospheric science. Topics covered include formation of the Earth, the chemistry and physics of the Earth's interior, plate tectonics, weathering and erosion, soil development, stream and groundwater flow, volcanism and crustal deformation, the evolution of life, ocean and atmospheric structure, circulation and heat transport, ocean waves and tides, generation of storms, seawater chemistry, mineral and energy resources, and climate change.
+
+Code: EAS 2900
+Title: Introduction to Programming for Meteorology and Climate Science
+Description: Introduction to Python programming and visualization specifically tailored to applications in meteorology and climate science. Topics include: basic Python programming, data manipulation, and instruction in the use of scientific analysis and visualization packages such as numpy, pandas, xarray, cartopy, and metpy.
+
+Code: EAS 3010
+Title: Evolution of the Earth System
+Description: Life activities alter the physical and chemical environment of Earth's surface and are altered by that environment, while physical and chemical processes transform rock, transfer material, and create new rocks that record Earth's environmental history. The interactions over very long times constitute a coevolution of Earth and Life. Course uses modern systems and ancient systems to illustrate principles, methods of reconstructing deep history, and the context of natural change inherent to life and earth.
+
+Code: EAS 3030
+Title: Introduction to Biogeochemistry
+Description: Control and function of the Earth's global biogeochemical cycles. Begins with a review of the basic inorganic and organic chemistry of biologically significant elements, and then considers the biogeochemical cycling of carbon, nutrients, and metals that take place in soil, sediments, rivers, and the oceans. Topics include weathering, acid-base chemistry, biological redox processes, nutrient cycling and limitation, trace gas fluxes, bio-active metals, the use of isotopic tracers, controls on atmospheric carbon dioxide, and carbon cycle models. Interactions between global biogeochemical cycles and other components of the Earth system are discussed. Co-enrollment in one lab/discussion section per week is required.
+
+Code: EAS 3050
+Title: Climate Dynamics
+Description: Discusses processes that determine climate and contribute to its change, including atmospheric radiation, ocean circulation, and atmospheric dynamics. Investigates contemporary climate change issues and discusses them in the context of natural variability of the system.
+
+Code: EAS 3410
+Title: Atmospheric Thermodynamics and Hydrostatics
+Description: Introduction to the thermodynamics and hydrostatics of the atmosphere and to the methods of description and quantitative analysis used in meteorology. Topics include thermodynamic processes of dry air, water vapor, and moist air and concepts of hydrostatics and stability.
+
+Code: EAS 3450
+Title: Environmental Geophysics
+Description: Fundamentals of subsurface imaging by geophysical methods as used in oil exploration and environmental investigations. Covers seismic reflection, refraction, gravity, magnetics, resistivity, and ground-penetrating radar (GPR) techniques.
+
+Code: EAS 3555
+Title: Marine Microbes and Disease in a Changing Ocean
+Description: Marine microorganisms fuel globally significant elemental cycles through their activities. They also drive diseases in multicellular life through pathogenesis, modulation of host-associated microbiomes, and through induction of stressors (e.g. toxins, hypoxia). The purpose of this course is to provide junior- and senior-level students a background in biological oceanography, marine microbial ecology, biogeochemistry, and disease pathogenesis in marine habitats. The emphasis of the course is on understanding how biology affects and is affected by the oceans, and how organisms interact to produce ocean biological phenomena. The course is divided into 4 modules: 1) Marine microbial diversity and ocean structure; 2) Ocean biogeochemistry; 3) Marine disease pathogenesis; and 4) Pollution and climate change. This course will equip students with foundations for further undergraduate courses in ocean sciences and environmental dynamics, and for graduate studies in biological oceanography and marine biology.
+
+Code: EAS 4010
+Title: Fundamentals of Energy and Mineral Resources
+Description: The sustainable development of humanity requires natural resources for the basics of life and for increasing global standards of living. Minerals and energy are critical for human existence now and for future generations, and so new resources must be discovered, developed efficiently, and kept in the circular economy through reuse and recycling. Discovery means fully understanding the Earth, including the geological processes that concentrate resources in the subsurface and the surficial conditions that may challenge resource extraction. Realistic estimates needed for future consumption include changing global demand and new technologies. Finally, we need to be aware of the social and political dimensions of mineral and energy resource management that regulate and control aspects of resource-related social development.
+
+Code: EAS 4060
+Title: Geodesy
+Description: Explores the methods and applications of geodesy by focusing heavily on Global Satellite Navigation Network (GNSS) data and Interferometric Synthetic Aperture Radar data (InSAR).  The course covers some of the key principles of geodesy, including how to describe and measure the shape of the Earth, how to find, select and process data of a range of types, and applications to problems relating to ground displacement (e.g., volcanoes, earthquakes, extraction of groundwater) and surface processes/characteristics (e.g., soil moisture, vegetation).
+
+Code: EAS 4510
+Title: Synoptic Meteorology II
+Description: Structure and dynamics of large-scale midlatitude weather systems, such as cyclones, anticyclones, and waves, with consideration of processes that contribute to temperature changes and precipitation. Lab sessions involve real-time weather forecasting and the application of a numerical model of the atmosphere to the study of selected large-scale midlatitude weather events.
+
+Code: EAS 4550
+Title: Geochemistry
+Description: Chemistry applied to understanding the Earth and the Solar System including its formation and evolution, and processes occurring on the Earth's surface and in its interior. The course covers thermodynamics and kinetics of geochemical processes, aquatic and environmental chemistry, geochronology, trace element and isotope geochemistry, paleoclimatology, and the carbon cycle and organic geochemistry.
+
+Code: EAS 4580
+Title: Volcanology
+Description: Volcanic rocks constitute a significant component of the surface of all the terrestrial planets. Volcanoes are the main location of mass and energy exchange between the external and internal parts of our planet, making volcanic processes key not only for the physical and chemical evolution of the planet, but also to the evolution of climate and life. This course incorporates the physics and chemistry of magmatic processes related to volcanic activity in several modules followed by exercises done in class and complemented by weekly assignments.
+
+Code: EAS 4590
+Title: Earthquake Physics
+Description: No description available.
+
+Code: EAS 4800
+Title: Atmospheric Chemistry: From Air Pollution to Global Change
+Description: This course investigates the science of atmospheric chemistry as its relation to air pollution and global change. Students examine the chemistry and physics that determines atmospheric composition on local to global scales including the effects of biogeochemistry and atmospheric photochemistry.
+
+Code: EAS 4840
+Title: Inverse Methods in the Natural Sciences
+Description: An exploration of solution methods for inverse problems with examples taken from geophysics and related fields, with particular attention to making inferences from inaccurate, incomplete, or inconsistent physical data. Applications include medical and seismic tomography, earthquake location, image processing, and radio/radar imaging. Linear algebra (including condition numbers) and probability and statistics (including error analysis, Bayes theorem, Gibbs distribution, and Markov chains) are reviewed. Methods covered include nonlinear least-squares, maximum likelihood methods, and local and global optimization methods, including simulated annealing and genetic algorithms.
+
+Code: EAS 4910
+Title: Undergraduate Research
+Description: Introduction to the techniques and philosophy of research in the earth sciences and an opportunity for undergraduates to participate in current faculty research projects. Topics chosen in consultation with, and guided by, a faculty member. A short written report is required, and outstanding projects are prepared for publication.
+
+Code: EAS 4940
+Title: Special Topics in Earth and Atmospheric Sciences
+Description: The department teaches "trial" courses under this number. Offerings vary by semester and are advertised by the department before the beginning of the semester.
+
+Code: EAS 4960
+Title: Internship Experience
+Description: Students with internship opportunities may be able to receive credit through this course.
+
+Code: EAS 4970
+Title: Individual Study in Atmospheric Science
+Description: Topics are arranged at the beginning of the semester for individual study or for group discussions.
+
+Code: EAS 4980
+Title: Teaching Experience in Earth and Atmospheric Sciences
+Description: The student assists in teaching an EAS course appropriate to his or her previous training. The student meets with a discussion or laboratory section, prepares course materials, grades assignments, and regularly discusses course objectives and teaching techniques with the faculty member in charge of the course.
+
+Code: EAS 5000
+Title: Master Engineering Design Project
+Description: Project with significant engineering content that is required for the M.Eng. program.
+
+Code: EAS 5051
+Title: Climate Dynamics
+Description: Discusses processes that determine climate and contribute to its change, including atmospheric radiation, ocean circulation, and atmospheric dynamics. Investigates contemporary climate change issues and discusses them in the context of natural variability of the system.
+
+Code: EAS 5060
+Title: EAS Workshops on How to Succeed
+Description: No description available.
+
+Code: EAS 5840
+Title: Inverse Methods in the Natural Sciences
+Description: An exploration of solution methods for inverse problems with examples taken from geophysics and related fields, with particular attention to making inferences from inaccurate, incomplete, or inconsistent physical data. Applications include medical and seismic tomography, earthquake location, image processing, and radio/radar imaging. Linear algebra (including condition numbers) and probability and statistics (including error analysis, Bayes theorem, Gibbs distribution, and Markov chains) are reviewed. Methods covered include nonlinear least-squares, maximum likelihood methods, and local and global optimization methods, including simulated annealing and genetic algorithms.
+
+Code: EAS 6550
+Title: Geochemistry
+Description: Chemistry applied to understanding the Earth and the Solar System including its formation and evolution, and processes occurring on the Earth's surface and in its interior. The course covers thermodynamics and kinetics of geochemical processes, aquatic and environmental chemistry, geochronology, trace element and isotope geochemistry, paleoclimatology, and the carbon cycle and organic geochemistry.
+
+Code: EAS 6580
+Title: Volcanology
+Description: Volcanic rocks constitute a significant component of the surface of all the terrestrial planets. Volcanoes are the main location of mass and energy exchange between the external and internal parts of our planet, making volcanic processes key not only for the physical and chemical evolution of the planet, but also to the evolution of climate and life. This course incorporates the physics and chemistry of magmatic processes related to volcanic activity in several modules followed by exercises done in class and complemented by weekly assignments.
+
+Code: EAS 6590
+Title: Earthquake Physics
+Description: No description available.
+
+Code: EAS 6800
+Title: Atmospheric Chemistry: From Air Pollution to Global Change
+Description: This course investigates the science of atmospheric chemistry as its relation to air pollution and global change. Students examine the chemistry and physics that determines atmospheric composition on local to global scales including the effects of biogeochemistry and atmospheric photochemistry.
+
+Code: EAS 6920
+Title: Special Topics in Earth and Atmospheric Sciences
+Description: Study of topics in earth and atmospheric science that are more specialized or different from other courses. Special topics depend on staff and student interests.
+
+Code: EAS 7010
+Title: Thesis Research
+Description: Thesis research for geological sciences graduate students.
+
+Code: EAS 7800
+Title: Earthquake Record Reading
+Description: Analysis and interpretation of real-time geophysical data focusing on interesting and significant events that happen during the semester, emphasizing seismogram interpretation of large earthquakes.
+
+Code: EAS 7910
+Title: Atmospheric Science Seminar
+Description: No description available.
+
+Code: EAS 7930
+Title: Earth Science Seminar
+Description: Seminar course for graduate students in geological sciences with topics in tectonics, seismology, petrology, and similar disciplines. Emphasis on mountain belts, but other topics entertained.
+
+Code: EAS 8500
+Title: Master's Level Thesis Research in Atmospheric Science
+Description: Thesis research for atmospheric science master's students.
+
+Code: EAS 9500
+Title: Graduate-Level Dissertation Research in Atmospheric Science
+Description: Dissertation research for atmospheric science Ph.D. students only before "A" exam has been passed.
+
+Code: EAS 9510
+Title: Doctoral-Level Dissertation Research in Atmospheric Science
+Description: Dissertation research for atmospheric science Ph.D. students after "A" exam has been passed.
+

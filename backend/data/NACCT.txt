@@ -1,0 +1,8 @@
+Code: NACCT 5520
+Title: Advanced Accounting
+Description: Detailed analytical study of special issues and situations in financial accounting. Continuous emphasis is placed on the relationship between theory and practice to reflect the latest professional pronouncements. Highly technical topics related to corporation, partnership, government, and not-for-profit organizations, with a focus on business combinations and the particular accounting challenges that they present.
+
+Code: NACCT 5530
+Title: Auditing and Assurance
+Description: Theory and practice of independent examination of financial statements. Discussion of relationships with clients; working papers, assurance procedures, including evaluations of internal controls, accounting principles, risk assessment, liability, and professional ethics.
+

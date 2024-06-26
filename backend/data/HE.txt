@@ -1,0 +1,40 @@
+Code: HE 1115
+Title: Critical Reading and Thinking
+Description: In this course, students will gain greater awareness of how they manage their time and how they work with themselves. Through self-study and self-reflection, students will examine their ways of doing things and practice different approaches to time management, improving sleep and managing stress, as well as study skills including test preparation, reading, writing and problem-solving. Learning outcomes: students will develop greater self-awareness of their tendencies and how they do things, and will be able to evaluate how they are doing in terms of academics and personal well-being.
+
+Code: HE 1150
+Title: FWS: Why People Change: The Ecology of Development from Childhood to Adulthood
+Description: Topics in the Health Equity First-Year Writing Seminar examine the biological, cultural, environmental, policy and societal factors that allow all humans to lead healthy lives, and the factors that create health inequity and equity. Students will engage with a variety of reading materials and writing styles to develop their communication skills and tools for achieving health equity for all humans. Topics vary by semester.
+
+Code: HE 1151
+Title: FWS: Matters in Health and the Environment
+Description: Topics in the Sustainability & Society First-Year Writing Seminar examine the dynamic and interconnected relationship between humans and the environment, with a focus on how humans shape, and are shaped by, the environment. Students will engage with a variety of reading materials and writing styles to explore diverse perspectives and possibilities for cultivating a resilient and sustainable society. Topics vary by semester.
+
+Code: HE 1152
+Title: FWS: Topics in Technology and Human Flourishing
+Description: Topics in the Technology & Human Flourishing&nbsp;First-Year Writing Seminar focus on the role of technology in addressing societal challenges and enhancing the human condition, across various fields such as healthcare, design, or sustainability. Students will engage with a variety of reading materials and writing styles that analyze, inform and advocate for technology as a transformative tool for improving human well-being. Topics vary by semester.
+
+Code: HE 1200
+Title: Partnership Program
+Description: The Human Ecology Peer Partnership Program provides mentorship through a network of faculty and upper-class students to incoming students of color, specifically during their first semester.
+
+Code: HE 1800
+Title: Blazing Your Trail in Human Ecology
+Description: This 1-credit, S/U course is an advising seminar that orients new students to Human Ecology and Cornell, including knowledge and strategies of how to be successful in college. The class prioritizes opportunities for students to explore identity and belonging and situate their academic and career pathways within their contexts of their values and goals. Through readings, written reflections, and in-class discussions, students will develop a four-year plan, foster skills to direct their own learning, gain familiarity with Cornell's code of academic integrity, and learn strategies to balance academic success, health and wellbeing. Students also practice skills to engage responsibly with others across diverse perspectives and to be able to learn with and from their communities, both on and off campus.
+
+Code: HE 2000
+Title: Human Ecology: Pathways to Racial and Social Justice
+Description: This course will demonstrate how injustice and inequity are rooted in historical, geographical, structural, social, and psychological forces and contemplate ways in which society can move forward to improve the quality of human experience. These phenomena are manifested along the dimensions of housing, education, health, income/wealth, transportation and recreation as well as in the personal activities of daily living.  The ecology of injustice and inequity will be examined through an interdisciplinary lens, stretching across the disciplines and majors of the College of Human Ecology: human development/psychology, design and nutrition. In this course, students will explore the ways in which racism and intersecting systems of structural oppression impact people's ability to thrive using design, social science and natural science approaches.
+
+Code: HE 3100
+Title: Mentoring in Higher Education
+Description: The primary objective of the mentoring course is to encourage high standards of scholarship and leadership in the College of Human Ecology through peer mentorship. The program provides peer mentors with the opportunity to reflect on their practice while encouraging high quality achievement, professional ethics and devotion to services in this area of the sciences.
+
+Code: HE 4040
+Title: Human Ecology Exchange Program
+Description: Human Ecology students may extend their experience off-campus with exchange programs.  Students should meet with their academic advisors or student development counselors to discuss their options.
+
+Code: HE 4060
+Title: Special Topics in Translational Research
+Description: Translational research involves the bidirectional transfer of knowledge between research and practice. In this course, students will learn and apply research on a special topic within translational research and learn with and from community partners. Each section has a unique topical and partnership focus.
+

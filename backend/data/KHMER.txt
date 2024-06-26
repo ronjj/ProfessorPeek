@@ -1,0 +1,20 @@
+Code: KHMER 1100
+Title: Elements of Khmer Language and Culture
+Description: This course will introduce basic Khmer/Cambodian language and culture to anyone with interest in the subject matter, those planning to travel to Cambodia, heritage students, etc.
+
+Code: KHMER 1121
+Title: Elementary Khmer I
+Description: Gives a thorough grounding in speaking and reading.
+
+Code: KHMER 2201
+Title: Intermediate Khmer I
+Description: Continuing instruction in spoken and written Khmer. Intermediate level of reading Khmer.
+
+Code: KHMER 3301
+Title: Advanced Khmer I
+Description: Continuing instruction in spoken and written Khmer; emphasis on enlarging vocabulary, increasing reading speed, and reading various genres and styles of prose.
+
+Code: KHMER 4431
+Title: Directed Study
+Description: Intended for advanced language study.
+

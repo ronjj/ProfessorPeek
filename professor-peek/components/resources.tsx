@@ -1,4 +1,4 @@
-import "./resources.css"
+import "./component-styles/resources.css"
 
 export const Resources = () => {
   return (

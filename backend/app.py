@@ -238,7 +238,6 @@ def query_index():
       "Question: {question}\n"
       "Answer: "
     )
-
     custom_prompt_template = PromptTemplate(custom_prompt_template)
     query_engine.update_prompts(
         {"response_synthesizer:refine": custom_prompt_template}

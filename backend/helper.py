@@ -24,6 +24,9 @@ def convert_to_json(api_response_text):
                 'course_description': course_description
             })
     
-    # Convert the list of courses to a JSON string
-    json_response = jsonify(courses)
-    return json_response
+    if not courses:
+        return jsonify({'error': 'No relevant information found. Please try adjusting your search.'})
+    else:
+        # Convert the list of courses to a JSON string
+        json_response = jsonify(courses)
+        return json_response

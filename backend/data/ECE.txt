@@ -1,0 +1,264 @@
+Code: ECE 2100
+Title: Introduction to Circuits for Electrical and Computer Engineers
+Description: This course is an introduction to electronic circuits. We start with the basic quantities used to characterize circuit operation (like current, voltage, and power) and then enforce several physical laws to form the basis of our approach to circuit analysis. Networks comprising passive circuit elements such as resistors, inductors, and capacitors will be examined under constant dc, transient, and sinusoidal steady-state conditions. Active components including transistors and Op-Amps will be introduced and used to build simple amplifiers and switching power converters. Many of these ideas will be unified mathematically through the use of Laplace transforms and associated transfer functions. In the lab part of the course, we will learn how to use modern instruments to test circuits, and explore the concepts from lecture applied to real circuits. Finally, we will develop some simple modeling software in MATLAB to numerically predict the results from analysis and experiment.
+
+Code: ECE 2300
+Title: Digital Logic and Computer Organization
+Description: This course provides an introduction to the design and implementation of digital circuits and microprocessors. Topics include transistor network design, Boolean algebra, combinational circuits, sequential circuits, finite state machine design, processor pipelines, and memory hierarchy. Design methodology using both discrete components and hardware description languages is covered in the laboratory portion of the course.
+
+Code: ECE 2720
+Title: Data Science for Engineers
+Description: An introduction to data science for engineers. The data science workflow: acquisition and cleansing, exploration and modeling, prediction and decision making, visualization and presentation. Tools for data science including numerical optimization, the Discrete Fourier Transform, Principal Component Analysis, and probability with a focus on statistical inference and correlation methods. Techniques for different steps in the workflow including outlier detection, filtering, regression, classification, and techniques for avoiding overfitting. Methods for combining domain-agnostic data analysis tools with the types of domain-specific knowledge that are common in engineering. Ethical considerations. Optional topics include classification via neural networks, outlier detection, and Markov chains. Programming projects in Python.
+
+Code: ECE 3030
+Title: Electromagnetic Fields and Waves
+Description: Covers static, quasi-static, and dynamic electromagnetic fields and waves. Topics include Maxwell's equations (integral and differential forms), fields of charge and current distributions, boundary conditions, fields near conductors, method of images, material polarization and dielectrics; energy, work, and power in electromagnetic systems; wave propagation and polarization, waves in media (dielectrics, conductors, and anisotropic materials); reflection, transmission, and refraction at media interfaces; guided waves in transmission lines, Smith charts, transients; metallic and dielectric waveguides; radiation and antennas, antenna arrays, electric circuits for transmission and reception, aperture antennas and diffraction.
+
+Code: ECE 3250
+Title: Signals and Systems
+Description: Course aims to provide students with a rigorous treatment of the fundamentals of discrete- and continuous-time signals and systems. The course makes use of sophisticated tools such as vector spaces of signals (e.g. bounded, summable, and square-summable signals) and orthogonal expansions in Hilbert space in addition to covering standard material on time- and frequency-domain analysis of signals and systems, including discrete- and continuous-time convolution, Fourier series, continuous- and discrete-time Fourier transforms, sampling theory, the DFT and FFT, and spectrograms. Homework assignments include a computational component where appropriate.
+
+Code: ECE 4060
+Title: Quantum Physics and Engineering
+Description: Introduction to quantum physics and engineering for advanced undergraduate and beginning graduate students. Topics covered include historical developments, quantum postulates, Schrodinger equation, quantum states and observables, measurement in quantum mechanics, quantum confined states in potential wells and atoms, quantum tunneling, uncertainty relations, Dirac notation, angular momentum and spin, quantum dynamics, time-independent and time-dependent perturbation theories, quantum two-level systems, quantum information and the qubit, quantum computation and quantum circuits, identical particles, quantum statistics for fermions and bosons, fundamentals of quantum statistical physics, quantization of light and the photon, quantization of simple mechanical and electrical superconducting circuits. The course will enable students to take advanced courses in areas related to electronic and optical devices, solid state physics and material science, and quantum information and computation.
+
+Code: ECE 4110
+Title: Random Signals in Communications and Signal Processing
+Description: Introduction to models for random signals in discrete and continuous time; Markov chains, Poisson process, queuing processes, power spectral densities, Gaussian random process. Response of linear systems to random signals. Elements of estimation and inference as they arise in communications and digital signal processing systems.
+
+Code: ECE 4230
+Title: Computer Vision
+Description: A first course in computer vision for advanced undergraduate students; that is, the analysis by computer of multidimensional signals provided by imaging sensors including image sequences and three-dimensional images for primarily autonomous applications. Basic techniques for image processing and feature extraction are covered in lectures; topics include image formation, image filtering, edge detection, region growing, shape description, and machine learning for computer vision. Machine learning methods including convolution neural networks, deep learning models for focus attention and image segmentation. The course focus is on the machine interpretation of images for autonomous decision making.
+
+Code: ECE 4240
+Title: Robot Perception
+Description: An introductory course to robot perception techniques for modeling and planning heterogeneous and dynamic sensor measurements, and for processing the sensor feedback in the context of robot motions and environments. Methods for intelligent sensor fusion and robot perception in motion will be covered in detail in this course. Topics in artificial vision, acoustic propagation, and filtering will be discussed along with related algorithms inspired by neural networks, Bayesian networks, and information theory. Sensing problems and performance will be investigated in regard to benchmark problems, such as coverage, target search, target tracking, and treasure hunting, will be covered in-depth and demonstrated through applications drawn from environmental monitoring, sensing-and-pursuit games, surveillance, and human-robot interactions.
+
+Code: ECE 4250
+Title: Digital Signal Processing and Statistical Inference
+Description: This course introduces discrete-time signal and system models in deterministic and stochastic settings and develops signal processing and statistical inference methodologies for real-time sensing and control applications. The course is intended for upper-level undergraduate and beginning graduate engineering students in engineering departments.
+
+Code: ECE 4320
+Title: Integrated Micro Sensors and Actuators: Bridging the Physical and Digital Worlds
+Description: Introduction to micro and nano devices that allow the digital world to both sense and actuate in the physical world. Design and analysis of modern MEMS/NEMS (Micro/Nano Electromechanical Systems) touch, accelerometers, gyroscopes, pressure, microphones, neural probe sensors. Design and analysis of electrostatic, piezoelectric, thermal, and magnetic actuators for frequency control and micro robotic applications. This is an interdisciplinary course drawing from mechanics, materials, solid state devices, CMOS electronics, and micro and nano fabrication. The students design, fabricate, and test a microsensor chip to implement class concepts.
+
+Code: ECE 4330
+Title: Microwave Circuit Design
+Description: This course covers techniques to design and analyze microwave circuits. These techniques, in general, can be used for electrical devices with dimensions in the order of the operating wavelength. These devices are commonly used in RF/mm- wave wireless communication systems, quantum computing/sensing systems, and electromagnetic imaging/radar systems. Topics include planar transmission lines, network analysis, S-parameters, matching networks, resonators, power dividers/combiners, filters, and non-reciprocal devices. The course emphasizes physical understanding, intuitive design methods, and hands-on experience in using E+M simulation tools and microwave measurements.
+
+Code: ECE 4360
+Title: Nanofabrication and Characterization of Electronics
+Description: This course will give an introduction to modern nanofabrication technologies with emphasis on integrated circuits manufacturing. Thermal budget, scaling of geometry, pitch and registry and control of parametric yield will be used for integration guidelines. Physical principles and process modeling will be covered in lectures and labs will include a series of fabrication steps of lithography, metallization, plasma etching and annealing to produce semiconductor devices (Schottky diodes, pn junction diodes, MOS capacitors, and MOSFETs). Recent advances in nanofabrication will be briefly reviewed for their possible technology insertion and main integration challenges.
+
+Code: ECE 4361
+Title: Nanofabrication and Characterization of Electronics Laboratory
+Description: This course provides an introduction to nanofabrication technologies with emphasis on Si-based integrated circuits manufacturing as well as modern electronics based on GaN, 2D materials etc. The lab, primarily taught in the Cornell Teaching Cleanroom, includes basic fabrication steps of lithography, metallization, plasma etching and annealing. A series of devices will be fabricated: solar cells, MOS capacitors and transistors, 2D transistors, GaN HEMTs and LEDs.
+
+Code: ECE 4450
+Title: Computer Networks and Telecommunications
+Description: This is a senior-level course in information networking with an emphasis on wireless technology. Examples of topics include: 5G cellular, the latest WiFi standards, Bluetooth, routing and switching, congestion control, network security, and user privacy. Though the focus will be on communication networking technologies, downstream legal and social issues that arise from design decisions will be discussed.
+
+Code: ECE 4510
+Title: Electric Power Systems I
+Description: Acquaints students with modern electric power system modeling, analysis and computation. Stresses analysis techniques appropriate for power system modeling, analysis and power flow computation. Topics include transmission line models, transformers and per unit system, generator models, network matrices, power flow analysis and computation, real and reactive power control, voltage control, economic dispatch.
+
+Code: ECE 4530
+Title: Analog Integrated Circuit Design
+Description: Overview of devices available to analog integrated-circuit designers in modern CMOS and BiCMOS processes: resistors, capacitors, MOS transistors, and bipolar transistors. Basic building blocks for linear analog integrated circuits: single-stage amplifiers, current mirrors, and differential pairs. Transistor-level design of linear analog integrated circuits, such as operational amplifiers and operational transconductance amplifiers. Layout techniques for analog integrated circuits. Throughout the course, emphasis is placed on design-oriented analysis techniques.
+
+Code: ECE 4560
+Title: Power Electronics
+Description: Power electronics is an enabling technology for sustainable and energy efficient systems, as all renewable energy sources (including solar and wind) and efficient electrical loads (including LED lighting and electric vehicles) require a power electronic converter to interface them with the electrical grid. Power electronic converters, being inherently non-linear/time-variant circuits, cannot be analyzed using linear time-invariant (LTI) circuit analysis techniques, nor conventional small-signal linearization techniques taught in introductory circuits (ECE 2100) and microelectronics (ECE 3150) courses. This course, which will follow ECE 3150, will introduce advanced circuit analysis and modeling techniques required to predict the steady-state and dynamic behavior of power electronic converters. The course will also introduce seniors and first-year graduate students to other advanced topics which are required for the analysis and design of power converters, including power semiconductor device modeling, thermal modeling, magnetic component modeling, electromagnetic interference (EMI) filter design, and switching converter control design, at a level appropriate for them. This course will equip ECE students with the theoretical and practical skills needed to innovate in the area of power electronics, and allow them to succeed in graduate school and in the rapidly growing job market for power electronic engineers.
+
+Code: ECE 4570
+Title: Semiconductor Electronic and Photonic Devices
+Description: The class develops the fundamentals of semiconductor electronic and photonic devices that power today's computation, communication, and memory industries. It relates the basics of pn junctions to their applications in solar cells, light emitting diodes, and lasers. Majority and minority carrier transport in heterostructure bipolar transistors is related to gain and speed limits of amplifiers for 5G communications and beyond. Schottky diodes and their applications in power electronics, and in field effect transistors of many flavors ranging from Silicon CMOS and FinFETs to GaN high electron mobility transistors are covered. Tunneling transport, flash memory, and DRAM devices are discussed. The course uses industrially relevant simulation tools, and the laboratory component gives students firsthand experience of measuring and appreciating the power and the limitations of semiconductor devices, and the reason for their revolutionary influence on our lives and society.
+
+Code: ECE 4750
+Title: Computer Architecture
+Description: This course aims to provide a strong foundation for students to understand modern computer system architecture and to apply these insights and principles to future computer designs. The course is structured around the three primary building blocks of general-purpose computing systems: processors, memories, and networks. The first half of the course focuses on the fundamentals of each building block. Topics include processor microcoding and pipelining; cache microarchitecture and optimization; and network topology, routing, and flow control. The second half of the course delves into more advanced techniques and will enable students to understand how these three building blocks can be integrated to build a modern shared-memory multicore system. Topics include superscalar execution, branch prediction, out-of-order execution, register renaming and memory disambiguation; VLIW, vector, and multithreaded processors; memory protection, translation, and virtualization; and memory synchronization, consistency, and coherence. This course includes a significant project decomposed into five lab assignments. Throughout the semester, students will gradually design, implement, test, and evaluate a complete multicore system capable of running real parallel applications at the register-transfer level.
+
+Code: ECE 4770
+Title: Foundations of Robotics
+Description: Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester.
+
+Code: ECE 4800
+Title: Optimal System Analysis and Design
+Description: Introduction to optimization theory and algorithms for system analysis and design. Topics include linear programming, convex programming, duality. We may touch dynamic programming around the end if time permits. Application will be discussed in various areas including geometric problems, networks, control, circuits, signal processing, and communications.
+
+Code: ECE 4920
+Title: ECE Technical Writing
+Description: Technical writing aimed at having students write up their ECE projects in a formal fashion, with a view to publication. Projects may be existing, or may be created as part of the independent study, but the writing requirement will match the current College technical writing requirement.
+
+Code: ECE 4950
+Title: Special Topics in Electrical and Computer Engineering
+Description: Seminar, special interest, or temporary course.
+
+Code: ECE 4980
+Title: Supervised Teaching Experience
+Description: This course is designed to give qualified undergraduates experience through actual involvement in planning and teaching courses under the supervision of department faculty. Students cannot receive both pay and credit for the same hours of preparation and teaching. Enrollment is with permission of instructor only. One credit of ECE 4980 is equivalent to 5 weekly work hours, including both student contact hours and preparatory/other time.
+
+Code: ECE 4999
+Title: Electrical and Computer Engineering Independent Projects
+Description: Individual study or directed reading in connection with a special engineering problem chosen by the student after consultation with the faculty member directing the project. An engineering report on the project is required. Students must make individual arrangements with a faculty sponsor.
+
+Code: ECE 5010
+Title: Professional Seminar for M.Eng. Students
+Description: This seminar introduces students to professional issues that are important as they begin their professional career. Topics include M.Eng. ECE project options; professional expectations; project planning and management; effective teamwork; technical writing and communications; impact of environmental, economic, and societal constraints in design; entrepreneurship possibilities; and career planning issues.
+
+Code: ECE 5110
+Title: Random Signals in Communications and Signal Processing
+Description: Introduction to models for random signals in discrete and continuous time; Markov chains, Poisson process, queuing processes, power spectral densities, Gaussian random process. Response of linear systems to random signals. Elements of estimation and inference as they arise in communications and digital signal processing systems.
+
+Code: ECE 5120
+Title: Model Based Systems Engineering
+Description: Fundamental ideas of systems engineering, and their application to design and development of various types of engineered systems. Defining system requirements, creating effective project teams, mathematical tools for system analysis and control, testing and evaluation, economic considerations, and the system life cycle. Content utilizes model-based systems engineering, which is the integration of systems modeling tools, such as SysML, with tools for systems analysis, such as Matlab and Modelica. The vision for this integration is the ability to create and analyze complete parametric representations of complex products and systems. These systems make it possible to investigate the impact of changing one aspect of a design on all other aspects of design and performance. This course will familiarize students with these modeling languages. Off-campus students must provide their own Windows 7, internet-connected, computer with administrator access in order to install the commercial software used in this course.
+
+Code: ECE 5235
+Title: Sustainable Urban and Energy Delivery Systems
+Description: The course focuses on how to transition from legacy energy delivery infrastructures dependent on fossil fuel to a sustainable decarbonized grid that harnesses distributed renewable energy resources and responsive demand from buildings, electrified transportation systems, and industrial loads. The content includes models and abstractions for the architecture of the cyber-physical energy system, its economics, and future evolution, and numerical optimization and learning methods in support of the infrastructure's safety critical operations in the legacy system and in the future architecture. At the MSc level the students will focus on learning how to use tools and data while at the graduate level the students will be asked to also solve problems, formulate novel solutions, interpret results. Similarly, to differentiate the MSc from PhD level and course outcomes, the final project will require the MSc students to pick one out of a set of predefined problems while the PhD students will have to define an original problem and solution.
+
+Code: ECE 5240
+Title: Robot Perception
+Description: An introductory course to robot perception techniques for modeling and planning heterogeneous and dynamic sensor measurements, and for processing the sensor feedback in the context of robot motions and environments. Methods for intelligent sensor fusion and robot perception in motion will be covered in detail in this course. Topics in artificial vision, acoustic propagation, and filtering will be discussed along with related algorithms inspired by neural networks, Bayesian networks, and information theory. Sensing problems and performance will be investigated in regard to benchmark problems, such as coverage, target search, target tracking, and treasure hunting, will be covered in-depth and demonstrated through applications drawn from environmental monitoring, sensing-and-pursuit games, surveillance, and human-robot interactions.
+
+Code: ECE 5250
+Title: Digital Signal Processing and Statistical Inference
+Description: This course introduces discrete-time signal and system models in deterministic and stochastic settings and develops signal processing and statistical inference methodologies for real-time sensing and control applications.  The course is intended for upper-level undergraduate and beginning graduate engineering students in engineering departments.
+
+Code: ECE 5280
+Title: Optimal System Analysis and Design
+Description: Introduction to optimization theory and algorithms for system analysis and design. Topics include linear programming, convex programming, duality. We may touch dynamic programming around the end if time permits. Application will be discussed in various areas including geometric problems, networks, control, circuits, signal processing, and communications. This course is ideal for students who have not had an optimization course but want to have an idea of the subject within one semester.
+
+Code: ECE 5330
+Title: Quantum Physics and Engineering
+Description: Introduction to quantum physics and engineering for advanced undergraduate and beginning graduate students. Topics covered include historical developments, quantum postulates, Schrodinger equation, quantum states and observables, measurement in quantum mechanics, quantum confined states in potential wells and atoms, quantum tunneling, uncertainty relations, Dirac notation, angular momentum and spin, quantum dynamics, time-independent and time-dependent perturbation theories, quantum two-level systems, quantum information and the qubit, quantum computation and quantum circuits, identical particles, quantum statistics for fermions and bosons, fundamentals of quantum statistical physics, quantization of light and the photon, quantization of simple mechanical and electrical superconducting circuits. The course will enable students to take advanced courses in areas related to electronic and optical devices, solid state physics and material science, and quantum information and computation.
+
+Code: ECE 5360
+Title: Semiconductor Electronic and Photonics Devices
+Description: The class develops the fundamentals of semiconductor electronic and photonic devices that power to-day's computation, communication, and memory industries. It relates the basics of pn junctions to their applications in solar cells, light emitting diodes, and lasers. Majority and minority carrier transport in heterostructure bipolar transistors is related to gain and speed limits of amplifiers for 5G communications and beyond. Schottky diodes and their applications in power electronics, and in field effect transistors of many flavors ranging from Silicon CMOS and FinFETs to GaN high electron mobility transistors are covered. Tunneling transport, flash memory, and DRAM devices are discussed. The course uses industrially relevant simulation tools, and the laboratory component gives students firsthand experience of measuring and appreciating the power and the limitations of semiconductor devices, and the reason for their revolutionary influence on our lives and society. MEng students and ECE PhD students who enroll in the 5000 level will be required to complete one extra design laboratory project compared to the 4000 level class.
+
+Code: ECE 5414
+Title: Applied Machine Learning
+Description: Learn and apply key concepts of modeling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, and dimensionality reduction.
+
+Code: ECE 5415
+Title: Applied Digital Signal Processing and Communications
+Description: This course teaches some fundamentals of digital signal processing (DSP) and communication using a balanced mix between math and hands-on experiments. The course will start by teaching basic concepts in signals and systems. We will then cover topics in time-frequency analysis, sampling, filters, audio signal communication, quantization, source coding, and compressed sensing. We will use multiple hands-on programming assignments to demonstrate the concepts we cover in class and problem sets that will help students practice with the theory. A background in linear algebra and probability will be critical to follow the theoretical aspects. All coding will be done in Python.
+
+Code: ECE 5470
+Title: Computer Vision
+Description: Covers computer acquisition and analysis of image data with emphasis on techniques for robot vision. Concentrates on descriptions of objects at three levels of abstraction: segmented images (images organized into subimages that are likely to correspond to interesting objects), geometric structures (quantitative models of image and world structures), and relational structures (complex symbolic descriptions of images and world structures). The programming of several computer-vision algorithms is required.
+
+Code: ECE 5510
+Title: Electric Power Systems I
+Description: Acquaints students with modern electric power system modeling, analysis and computation. Stresses analysis techniques appropriate for power system modeling, analysis and power flow computation. Topics include transmission line models, transformers and per unit system, generator models, network matrices, power flow analysis and computation, real and reactive power control, voltage control, economic dispatch.
+
+Code: ECE 5530
+Title: Analog Integrated Circuit Design
+Description: Overview of devices available to analog integrated-circuit designers in modern CMOS and BiCMOS processes: resistors, capacitors, MOS transistors, and bipolar transistors. Basic building blocks for linear analog integrated circuits: single-stage amplifiers, current mirrors, and differential pairs. Transistor-level design of linear analog integrated circuits, such as operational amplifiers and operational transconductance amplifiers. Layout techniques for analog integrated circuits. Throughout the course, emphasis is placed on design-oriented analysis techniques.
+
+Code: ECE 5560
+Title: Power Electronics
+Description: Power electronics is an enabling technology for sustainable and energy efficient systems, as all renewable energy sources (including solar and wind) and efficient electrical loads (including LED lighting and electric vehicles) require a power electronic converter to interface them with the electrical grid. Power electronic converters, being inherently non-linear/time-variant circuits, cannot be analyzed using linear time-invariant (LTI) circuit analysis techniques, nor conventional small-signal linearization techniques taught in introductory circuits (ECE 2100) and microelectronics (ECE 3150) courses. This course, which will follow ECE 3150, will introduce advanced circuit analysis and modeling techniques required to predict the steady-state and dynamic behavior of power electronic converters. The course will also introduce seniors and first-year graduate students to other advanced topics which are required for the analysis and design of power converters, including power semiconductor device modeling, thermal modeling, magnetic component modeling, electromagnetic interference (EMI) filter design, and switching converter control design, at a level appropriate for them. This course will equip ECE students with the theoretical and practical skills needed to innovate in the area of power electronics, and allow them to succeed in graduate school and in the rapidly growing job market for power electronic engineers.
+
+Code: ECE 5570
+Title: Microwave Circuit Design
+Description: This course covers techniques to design and analyze microwave circuits. These techniques, in general, can be used for electrical devices with dimensions in the order of the operating wavelength. These devices are commonly used in RF/mm- wave wireless communication systems, quantum computing/sensing systems, and electromagnetic imaging/radar systems. Topics include planar transmission lines, network analysis, S-parameters, matching networks, resonators, power dividers/combiners, filters, and non-reciprocal devices. The course emphasizes physical understanding, intuitive design methods, and hands-on experience in using E+M simulation tools and microwave measurements.
+
+Code: ECE 5620
+Title: Fundamentals of Data Compression
+Description: Fundamental limits and practical algorithms for data compression. Entropy and other information measures. Variable and ﬁxed-length lossless and lossy source codes. Universal compression. Single-source and network conﬁgurations. Applications to text and multimedia compression.
+
+Code: ECE 5660
+Title: Computer Networks and Telecommunications
+Description: This is a senior-level course in information networking with an emphasis on wireless technology. Examples of topics include: 5G cellular, the latest WiFi standards, Bluetooth, routing and switching, congestion control, network security, and user privacy. Though the focus will be on communication networking technologies, downstream legal and social issues that arise from design decisions will be discussed. Added midterm, longer final report, more advanced homework.
+
+Code: ECE 5725
+Title: Design with Embedded Operating Systems
+Description: Design of microcontroller based systems using embedded Linux. Student teams design and debug example solutions on a target microcontroller (for example, Raspberry Pi) during lab sessions. Emphasis will be on application and Linux programming skills, processor and microcontroller architecture with some discussion of hardware interfaces. Students create a final, end-of-semester project using the microcontroller platform and development techniques discussed during the semester.
+
+Code: ECE 5740
+Title: Computer Architecture
+Description: This course aims to provide a strong foundation for students to understand modern computer system architecture and to apply these insights and principles to future computer designs. The course is structured around the three primary building blocks of general-purpose computing systems: processors, memories, and networks. The first half of the course focuses on the fundamentals of each building block. Topics include processor microcoding and pipelining; cache microarchitecture and optimization; and network topology, routing, and flow control. The second half of the course delves into more advanced techniques and will enable students to understand how these three building blocks can be integrated to build a modern shared-memory multicore system. Topics include superscalar execution, branch prediction, out-of-order execution, register renaming and memory disambiguation; VLIW, vector, and multithreaded processors; memory protection, translation, and virtualization; and memory synchronization, consistency, and coherence. This course includes a significant project decomposed into five lab assignments. Throughout the semester, students will gradually design, implement, test, and evaluate a complete multicore system capable of running real parallel applications at the register-transfer level.
+
+Code: ECE 5746
+Title: Applied Digital ASIC Design
+Description: This course provides a hands-on experience in digital very-large scale integration (VLSI) design using state-of-the-art computer aided design (CAD) tools. The students will learn how to implement an algorithm of their choice (written in Python or MATLAB) as an application specific integrated circuit (ASIC) using hardware description language on register transfer level. The course does not require any prerequisites as the students will be guided through the entire design flow and learn the necessary skills while working on their ASIC designs. At the end of the semester, the students will send their ASIC designs in a 500nm or 180nm CMOS process to fabrication through the MOSIS Educational Program. In a follow-up lab course (1 credit), the fabricated ASIC will be tested and, if applicable, integrated into a larger system.
+
+Code: ECE 5755
+Title: Modern Computer Systems and Architecture
+Description: This Master's level course is designed to provide a hardware-centric overview of computer systems used in modern computing platforms. From the bottom up we will study the architecture of processor architectures (e.g., pipelined CPUs, ISA, RISC vs. CISC, out-of-order execution) and memory systems (e.g., memory hierarchy, caching, DRAM memories). We will understand how to evaluate the performance of modern processors and exploit parallelism in applications. This includes parallelization across multi-core CPUs, GPUs, and specialized hardware. Through ands-on assignments and an open-ended project students will develop a holistic understanding of modern computer systems and how they are designed.
+
+Code: ECE 5815
+Title: Introduction to Nuclear Science and Engineering
+Description: Introduces the fundamental concepts of nuclear science and engineering, including nuclear structure, radioactivity, nuclear reactions and the interaction of neutrons, charged particles, x-rays and gamma-rays with matter. Discusses the neutron chain reaction and its control in the core of a fission reactor. Different reactor designs are introduced and discussed along with their safety features. Other topics include radiation shielding and aspects of the nuclear fuel cycle, including isotope separation, fuel reprocessing, waste disposal and sustainability.
+
+Code: ECE 5830
+Title: Introduction to Technical Management
+Description: This course is taught from the perspective of a chief technology officer and is targeted at M. Eng. and management students interested in "real world" problems. It provides an introduction via case examples to the technical, management, and organizational issues of developing and marketing products in high-tech businesses. The focus is on the unique nature of this type of business, including managing with high risk/uncertainty levels, learning to manage very diverse project teams, and recognizing technical versus market success in order to make good business decisions.
+
+Code: ECE 5870
+Title: Energy Seminar I
+Description: Energy Seminars will explore energy-related topics of emerging, contemporary and historical interest. An abbreviated list of subjects explored in the seminars includes: global energy resources, energy generation technologies (present and future), energy storage options, environmental impacts and climate change mitigation, energy policy, and energy delivery economics and systems. Seminar speakers will be distinguished practicing engineers and executives from industry and government as well as faculty members from several departments at Cornell, and other academic institutions. Students from any department in Engineering or the Physical Sciences should find these talks informative.
+
+Code: ECE 5995
+Title: Master of Engineering Design Project I
+Description: Two-semester Design Project: must enroll in both semesters; students will receive a letter grade for each individual semester. For students enrolled in M.Eng. (Electrical and Computer Engineering) degree program. Uses real engineering situations to present fundamentals of engineering design. Each professor is assigned a section for the fall and spring. Students who do not complete the Design Project in the spring receive a grade only for the work completed up to the point of the required submission date, which is the last day of Finals Week. Students must then enroll for the summer with the ECE M.Eng. director to complete the work remaining for the design project.
+
+Code: ECE 5997
+Title: Independent Study
+Description: Independent study supervised by a faculty member in Electrical and Computer Engineering. A final report or exam is required. Students must make individual arrangements with a faculty sponsor.
+
+Code: ECE 5998
+Title: Directed Research
+Description: Research directed by a faculty member in Electrical and Computer Engineering. A final report or exam is required. Students must make individual arrangements with a faculty sponsor.
+
+Code: ECE 5999
+Title: MEng Technical Internship
+Description: This course offers M.Eng. students the opportunity to receive credit for ECE relevant work occurring as part of a summer (or semester) internship. Normally taken in the semester following the internship, students in the course will be required to write a detailed report describing the ECE related technical work performed during internship.
+
+Code: ECE 6210
+Title: Theory of Linear Systems
+Description: State-space and multi-input-multi-output linear systems in discrete and continuous time. The state transition matrix, the matrix exponential, and the Cayley-Hamilton theorem. Controllability, observability, stability, realization theory. At the level of Linear Systems by Kailath.
+
+Code: ECE 6320
+Title: Applied Magnetism
+Description: Fundamentals of magnetism, magnetic materials, and their applications. Topics include: sources of magnetism, types of magnetism, theory of electronic magnetism, magnetic anisotropy energies, domain theory, magnetic resonance, magnetostriction and magnetoelasticity, spin torques, thin-film phenomena, spin caloritronics, and permanent magnets. Current device and industry applications relevant to each topic will be discussed.
+
+Code: ECE 6680
+Title: Bio-inspired Coordination of Multi-Agent Systems
+Description: Autonomous multi-agent systems are becoming an integral part of our daily lives with thousands of robots and drones operating in places from warehouses to entertainment lightshows. With robot costs dropping to mainstream consumer levels, the current technological wave is driven by industry, researchers, and ambitious hobbyists, and spans applications in autonomous vehicles, construction, agriculture, and more. With this eminent technological revolution, it is critical that we look beyond robots working efficiently in parallel, and towards actual swarm intelligence for superior system ability and robustness beyond the sum of its parts. As a proof of concept, natural swarms exhibit efficient, error tolerant, and adaptive properties far beyond the individual scope. Beyond serving as an introduction to research, reading and review of scientific papers, this course also offers insights into both biology and the systems they have inspired.
+
+Code: ECE 6750
+Title: Advanced Computer Architecture
+Description: This course discusses advanced topics in computer architecture beyond the material that is covered in undergraduate courses such as ECE 4750/CS 4420. In particular, the course places special focus on multicore and multiprocessor architectures (coherence, consistency, synchronization, interconnects, OS support, etc.), as well as advanced architecture techniques (simultaneous multithreading, speculative loads and stores, neural branch predictors, hardware resource management, memory scheduling, etc.) Students work on parallel programming assignments that emphasize hardware-aware performance optimization.
+
+Code: ECE 6775
+Title: High-Level Digital Design Automation
+Description: The course starts with an introduction to modern electronic system design automation flow, before delving into high-level synthesis (HLS) design methodologies and tools for enabling digital system design above the register transfer level. Specific topics include C-based HLS design methods, hardware specialization, scheduling, pipelining, resource sharing, reconfigurable computing, and hardware/software co-design. This course also discusses the applications of a number of important optimization techniques, such as graph algorithms, dynamic programming, local search, and linear programming. In addition, commercial C-to- FPGA tools will be provided to the students to implement real-life image/video processing and machine learning applications on programmable system-on- chips that tightly integrate a dual-core processor and FPGAs.
+
+Code: ECE 6950
+Title: Graduate Topics in Electrical and Computer Engineering
+Description: Special topics in Electrical and Computer Engineering for ECE graduate students.
+
+Code: ECE 6960
+Title: Special Topics in Electrical and Computer Engineering
+Description: Seminar, special interest, or temporary course.
+
+Code: ECE 6970
+Title: Graduate Topics in ECE
+Description: Seminar, special interest, or temporary course.
+
+Code: ECE 7230
+Title: Bayesian Estimation and Stochastic Optimization
+Description: Covers essential topics in high dimensional statistical inference, stochastic optimization, Bayesian statistical signal processing and Markov Chain Monte-Carlo stochastic simulation. The course is four inter-related parts. Part 1 covers the basics of probabilistic models, Markov chain Monte-Carlo simulation and regression with sparsity constraints. Part 2 covers Bayesian filtering including the Kalman filter, Hidden Markov Model filter and sequential Markov chain Monte-Carlo methods such as the particle filter. Part 3 covers maximum likelihood estimation and numerical methods such as the Expectation Maximization algorithm. Part 4 covers stochastic gradient algorithms and stochastic optimization. The course focuses on the deep fundamental ideas that underpin signal processing, data science and machine learning. The discussion sections will focus on more advanced aspects in statistical inference.
+
+Code: ECE 7620
+Title: Fundamentals of Data Compression
+Description: Fundamental limits and practical algorithms for data compression. Entropy and other information measures. Variable and fixed-length lossless and lossy source codes. Universal compression. Single-source and network configurations. Applications to text, multimedia compression, and machine learning. This course is intended for Ph.D. students. M.Eng. students should enroll in ECE 5620.
+
+Code: ECE 7910
+Title: Thesis Research
+Description: For students enrolled in master's or doctoral program. Each professor is assigned a section number. To register, see roster for appropriate six-digit course ID numbers.
+

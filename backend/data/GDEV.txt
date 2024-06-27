@@ -1,0 +1,216 @@
+Code: GDEV 1102
+Title: Introduction to Global Development
+Description: This course introduces students to the history of the idea of Development and to key definitions, theories, measures and debates in the study and practice of Global Development. We draw upon a variety of disciplines to address some of the "big questions" of this field: What is Development? How do we measure Development? Why are some countries (and people) poorer than others? Who are the key actors in the field of Global Development and how have they changed over time? What are some promising Development interventions? How should we think about our own role in Development?
+
+Code: GDEV 1105
+Title: Global Development Cornerstone
+Description: The Global Development Cornerstone aims to create an intellectual community among Global Development students, and to assist with transitioning to, or from within, Cornell University. This course will offer opportunities for interaction and intellectual exploration with a cross-section of faculty, staff, and alumni in an effort to establish supportive and cooperative relationships. In addition, it will foster exploration into personal identity in the context of career exploration and introduce the breadth of activities and resources available to achieve a balance between academic, extracurricular, and interpersonal activities during their time in the major.
+
+Code: GDEV 1200
+Title: FWS: Topics in Global Development
+Description: The department offers first-year writing seminars on a wide range of global development topics. Topics vary by section.
+
+Code: GDEV 1300
+Title: Just Food: Exploring the Modern Food System
+Description: This course provides a comprehensive review of the modern food system from the green revolution to the industrialized model of today. It offers a critical perspective on existing paradigms and insights into alternative approaches for producing food security, environmental stewardship, and equity in an era of climate change. The course is taught by an interdisciplinary team of instructors who bring insights from both the biophysical and social sciences and will ask students to consider their food using a systems-thinking lens. This course is suitable for life sciences majors.
+
+Code: GDEV 2010
+Title: Population and Social Change
+Description: Introduction to population studies. The primary focus is on the relationships between demographic processes (fertility, mortality, and immigration) and social and economic issues. Discussion covers special topics related to population growth and spatial distribution, including marriage and family formation, population aging, changing roles and statuses of women, labor force participation, immigrations, urban growth and urbanization, resource allocation, and the environment.
+
+Code: GDEV 2100
+Title: Introduction to Adult Learning
+Description: Do adults learn differently than do youth? This experiential and community-engaged course is for anyone interested in planning and facilitating adult, community and lifelong learning. As inquirers ourselves, we not only study principles, theories and methods, we also put into practice what we learn. One of the ways we do this is by incorporating adult learning approaches within the seminar's design and educational practice (andragogy, rather than pedagogy). Another way we apply what we study is by mentoring adult learners. Each student serves as a learning partner to a Cornell employee who is pursuing an educational aim. A journey of mutual learning is a satisfying and meaningful adventure. As employees' partners, we are co-learners and co-educators, recognizing that each person has knowledge and experience to bring to the quest.
+
+Code: GDEV 2305
+Title: Planning for Change
+Description: This course will provide students with theoretical frameworks, practical tools, and methods of written expression needed to foster inclusive development practice. Beginning with perspectives on practitioner ethics, the course walks students through the life-cycle of a development interventions, from issue identification and project conceptualization, to planning and implementation, to monitoring and evaluation. Through analytic writing, students will use evidence to explore the dynamics of power which can lead to complex, and even contentious development outcomes. Several development practitioners will present case studies of their own work to provide lessons and examples upon which students will be able to draw.
+
+Code: GDEV 2410
+Title: The Art of Teaching
+Description: This exploratory course is designed for students of all backgrounds and interests who have a desire to learn more about education and teaching. Teaching takes place in a variety of contexts from the family to the workplace, and this course endeavors to examine the elements of teaching that transcend the typical school-teaching environment. Designed to guide students in reflecting upon their experiences to help them better understand the decisions they make as teachers. Students have the opportunity to pursue their own interests through a teaching fieldwork assignment. Possible field experiences range from large group to tutorial situations, from preschool to adult education, from traditional school subject matters to recreational and occupational areas, and from school-based to nonformal situations. The course work and readings are designed to build on these experiences throughout the semester and provide concepts and skills to apply in the field.
+
+Code: GDEV 2941
+Title: Reflection on Agriculture Engaged Experiences
+Description: The Lund Fellows Program and Community Food Systems minor both offer students the opportunity for an engaged learning experience in agriculture and food systems. This course is designed to help students critically reflect on their engaged experiences with non-Cornell partner organizations. This seven-week course will maximize student engaged learning and reflection by utilizing the following learning topics: (1) critical reflection; (2) in-person discussions (3) peer-review; (4) gratitude; (5)public presentations The course aims to build a sense of community through peer learning and reflection among students who shared similar summer experiences.
+
+Code: GDEV 3010
+Title: Theories of Society and Development
+Description: This course explores the development of social theory from the Enlightenment in the eighteenth century to contemporary debates about the status and limits of sociological knowledge. It introduces the key texts of the most influential forerunners of modern sociological thought - Marx, Weber, Durkheim and Simmel - in the context of the social and political transformations of their time. The course is organized into two parts. The first part explores the contrasting accounts of modernity developed by these classical social theorists, placing particular emphasis on aspects of their thought concerned with the nature and direction of society as a whole. The second part examines contemporary critical engagements with the classical heritage from a variety of vantage points: globalization, postmodernism, feminism, race and cultural difference, and notions of multiple or alternative modernities.
+
+Code: GDEV 3030
+Title: FoodCycle: Systems Thinking Toward Circular Economy for Organic Resources
+Description: In seeking to understand issues and opportunities at the nexus of agriculture, sanitation, water, health and the natural and built environments, students will gain skills in systems thinking, participatory design and innovation towards systems change. Through individual and collective work, students will conduct general and specific systems analysis and construct systems models to identify opportunities to reduce carbon pollution, improve system health. Students will seek to learn from cases and literature from diverse national and international contexts. The Cornell campus will be considered a "living laboratory" for an inquiry into how organic resources flow through our facilities, and how waste flows might be utilized to produce energy, fertilizer, food, building materials and/or other valued products. Students will engage with local entities (facilities, organizations, farms and other enterprises) to gain specific information that will inform our analysis. Students will engage in hands-on work to learn about ways in which organic resources can be up-cycled.
+
+Code: GDEV 3091
+Title: Global Health Case Studies from Weill Cornell Medicine
+Description: Weill Cornell Medicine faculty from several clinical departments including the department of medicine, department of surgery, department of anesthesiology, department of pediatrics, department of psychiatry, department of radiation oncology, department of public health, and department of emergency medicine, share their experiences in global health and international work. These global health experts will present their experiences abroad in a seminar style course.
+
+Code: GDEV 3100
+Title: Foundations in Leadership: Skills for Personal and Professional Effectiveness
+Description: This course frames leadership as a particular way of approaching life, one that is essential to both personal fulfillment and career effectiveness. The course begins with the inner work of a leader's personal development and then explores how leaders work through others to enhance their influence.
+
+Code: GDEV 3140
+Title: Mapping Our Worlds: Cartography and Analysis in GIS
+Description: How things are related in space matters for many things—where different groups live and work, who faces health hazards, how people experience the places they live in, and more. Maps are powerful tools because they help us recognize things we might not otherwise see—and because they present pictures of the world that people act upon to pursue goals. In this class we learn how to conduct spatial analyses and make maps, shouldering the responsibility entailed by the power maps can confer. In-class lectures and activities will provide conceptual and technical foundations for spatial analysis and cartography. Lab sessions and assignments will give a practical introduction to using GIS software to map and analyze spatial patterns.
+
+Code: GDEV 3150
+Title: Climate Change and Global Development: Living in the Anthropocene
+Description: This course investigates social, political, and economic life in the age of the "Anthropocene": the current geological era in which humans have irrevocably altered the earth's biophysical systems. We analyze what political-economic dynamics have led to this, how climate change is known and predicted scientifically, and the impacts it has on politics, economies, environments, and societies across scales. Drawing on case studies from around the world, we investigate topics including climate change impacts on land, oceans, animals, and forests; climate migrants and political instability; (un)natural disasters such as fires, floods, and hurricanes; and sea level rise and cities. We also investigate existing and potential political and economic responses to climate change ranging from international governance agreements and green markets to local climate justice movements.
+
+Code: GDEV 3280
+Title: Fundamentals of Population Health
+Description: Population health focuses on the health and well‐being of entire populations. Populations may be geographically defined, such as neighborhoods or counties; may be based on groups of individuals who share common characteristics such as age, race‐ethnicity, disease status, or socioeconomic status; or may be specific patient groups "attributed" to accountable healthcare organizations using a variety of methods. With roots in epidemiology, public health, and demography, key tools of population health include health measurement, risk stratification, chronic care management, identifying "upstream" social determinants of health, cross-sector collaboration to improve prevention and wellness, and increasing health equity. Given the shifting health care environment – from fee‐for‐service to value‐based care – students who are able to apply tools to measure analyze, evaluate, and improve the health of populations (and achieve the Triple Aim) will be well‐positioned for jobs in health care, health policy, public health, and medicine (among others) as the field continues to evolve.
+
+Code: GDEV 3290
+Title: Comparative Politics of Latin America
+Description: This course is designed as an introduction to political, economic, and social issues in 20th century Latin America. Topics are organized chronologically, beginning with the crisis of agro-export economies and oligarchic rule in the 1930s, the onset of state-led development and mass politics in the 1930s and 40s, the military takeovers and revolutionary struggles of the 1960s and 70s, patterns of democratization and market liberalization in the 1980s and 90s, and the recent experience with populist and leftist governments in much of the region. Among the main issues covered are populism and corporatism, dependency theory and import-substitution industrialization, different patterns of authoritarian rule, social movements and revolution, democratic breakdowns and transitions, the debt crisis and market reforms, and U.S.-Latin American relations. Throughout the semester, we will draw on examples from the entire region, but focus on paradigmatic national cases. Knowledge of Spanish or Portuguese is not required.
+
+Code: GDEV 3311
+Title: Environmental Governance
+Description: Environmental governance is defined as the assemblage of institutions that regulate society-nature interactions and shape environmental outcomes across a range of spatial and temporal scales. Institutions, broadly defined, are mechanisms of social coordination including laws (formal) and social norms (informal) that guide the behavior of individuals. Participants in the course will explore the roles of governments, markets, and collective action in environmental management and mismanagement. We will emphasize interactions among leading environmental policy strategies: public regulation, market-based incentives, and community-based resource management. The course is focused around a set of analytic perspectives. These theoretical frameworks allow us to synthesize empirical observations and material changes in ways that inform our understanding of contemporary evolution of environmental policy and management.
+
+Code: GDEV 3350
+Title: Youth Organizations and Leadership Development
+Description: Participants learn how to facilitate both youth and adult volunteer leadership development. They examine factors affecting membership, purposes, design, operation, and administration of youth organizations.
+
+Code: GDEV 3500
+Title: Development in Action: Fall Faculty-Led Study Trip Preparation
+Description: This 7-week fall course prepares students for a faculty-led winter study trip within the Global Development department. Students will spend class sessions gaining familiarity with a particular global development challenge (i.e., hunger & sustainable food production, inequality across the life course, environmental challenges & solutions, etc.) through readings, lectures, and in-class discussions. Upon completion of the fall course, students then enroll in 2.5 practicum hours of winter session credits, where they travel to meet with actors on the ground who are navigating and developing solutions to these challenges.
+
+Code: GDEV 3680
+Title: Environmental Decision Making
+Description: This course is an introduction to the science underlying decision making with an emphasis on environmental decisions. The course will introduce the basics of judgment and decision-making theory and demonstrate how and why people often make 'bad' decisions. Students will learn how policy makers are able to influence people's environmental behavior. Working in teams, student will try to influence environmental behavior around campus or town, developing an experiment and executing it. In the process students will learn how to write up an academic study that provides rationale, theoretical justification, and presents the results of their experiment.
+
+Code: GDEV 4011
+Title: Special Methods of Instruction in Agricultural Science Education
+Description: Students complete learning and skills development about special methods for teaching agricultural science education. Such learning and skill development may include metal fabrication, small engine physics, and/or special laboratory instruction related to agricultural sciences. Students reflect upon that learning and skill development and then create units of instruction employing special methods used to teach secondary and/or post-secondary students about agricultural knowledge, skills, and processes.
+
+Code: GDEV 4050
+Title: Invention and Technology Commercialization: IP Mgmt for Scientists, Engineers, and Entrepreneurs
+Description: Covers statutory protection (copyright, trademarks, patents, plant variety protection), contracts (from material transfer to licensing), management of IP (e.g., freedom-to-operate, valuation, genetic resources, trade, and marketing), and negotiation. Emphasizes technology transfer and international aspects. The course is particularly relevant to students interested in science management, technology transfer, international agriculture, and business.
+
+Code: GDEV 4051
+Title: Exploring Strategies for Teaching and Learning
+Description: EDUC 4050 builds off of the broad nature of EDUC 2410. This course incorporates extensive field work in teaching, lesson planning, and evaluation based upon current theories in instruction at the collegiate level. The course is intended to integrate theory and practice associated with learning and teaching in college classroom settings and includes a minimum of 40 hours of supervised fieldwork in specific college classes.
+
+Code: GDEV 4080
+Title: Demographic Techniques
+Description: This is the second course in the demographic techniques sequence. It has two foci. First, we will learn the basics of constructing single and multiple decrement life tables, along with extensions to cause-deleted life tables. Second, we will learn the basics of survival analysis, as well as how survival analysis relates to life tables. Although the primary goal is learning to use these techniques, this class also has a heavy emphasis on thinking about how to use these methods to produce something new and important for research.
+
+Code: GDEV 4120
+Title: Urban Public Management
+Description: Local governments across the world face challenges of infrastructure and service delivery in the context of fiscal constraints. Innovations often involve devolution and privatization. Scholarly research debates whether these market approaches promote efficiency, regional equity, local economic growth and citizen voice. Students will review the theoretical bases for these claims and the empirical evidence from around the world. Students will write theory papers as well as engage in group work on practical policy questions facing cities.
+
+Code: GDEV 4450
+Title: Toward a Sustainable Global Food System: Food Policy for Developing Countries
+Description: Comprehensive presentation and discussion of policy options for a sustainable global food system, with focus on developing countries. Topics include economic policy related to nutrition, health, consumption, production, natural resource management, trade, markets, gender roles, armed conflict, and ethics. A social entrepreneurship approach based on case studies and active participation by students will be used.
+
+Code: GDEV 4770
+Title: Seminar on Issues in African Development
+Description: Examines a broad range of critical concerns in contemporary Africa including food production, human resource development, migration, urbanization, environmental resource management, economic growth, and policy guidance. The weekly presentations are made by invited specialists. Students write weekly memos about the talks.
+
+Code: GDEV 4961
+Title: Perspectives in Global Development
+Description: A variety of speakers present seminars on international development topics relating to sustainable development throughout the world. Students attend each seminar and submit a five-page essay at the end of the semester reflecting on the speakers' presentations and analyzing connections between topics.
+
+Code: GDEV 4970
+Title: Independent Study in Global Development
+Description: Informal study may include a reading course, research experience, or public service experience.
+
+Code: GDEV 4980
+Title: Teaching Experience in Global Development
+Description: Designed to give an undergraduate student practical teaching experience and deepened subject matter knowledge through working with a Development Sociology faculty member in planning and teaching a course. An enrolled student will regularly discuss teaching topics with the supervising faculty member; topics such as course objectives, subject matter, teaching techniques, and assessment strategies. The specific responsibilities will be negotiated between the faculty member and student, but, as appropriate for the particular course, may include researching course-related topics, preparing course materials, leading discussions, commenting on assignments, writing exam questions, assisting with grading, gathering student feedback, and tutoring.
+
+Code: GDEV 4990
+Title: Independent Research in Global Development
+Description: Permits outstanding students to conduct laboratory or field research in global development under appropriate faculty supervision. The research should be scientific: systematic, controlled, empirical. Research goals should include description, prediction, explanation, or policy orientation and should generate new knowledge.
+
+Code: GDEV 5030
+Title: FoodCycle: Systems Thinking Toward Circular Economy for Organic Resources
+Description: In seeking to understand issues and opportunities at the nexus of agriculture, sanitation, water, health and the natural and built environments, students will gain skills in systems thinking, participatory design and innovation towards systems change. Through individual and collective work, students will conduct general and specific systems analysis and construct systems models to identify opportunities to reduce carbon pollution, improve system health. Students will seek to learn from cases and literature from diverse national and international contexts. The Cornell campus will be considered a "living laboratory" for an inquiry into how organic resources flow through our facilities, and how waste flows might be utilized to produce energy, fertilizer, food, building materials and/or other valued products. Students will engage with local entities (facilities, organizations, farms and other enterprises) to gain specific information that will inform our analysis. Students will engage in hands-on work to learn about ways in which organic resources can be up-cycled.
+
+Code: GDEV 5050
+Title: Invention and Technology Commercialization: IP Mgmt for Scientists, Engineers, and Entrepreneurs
+Description: Covers statutory protection (copyright, trademarks, patents, plant variety protection), contracts (from material transfer to licensing), management of IP (e.g., freedom-to-operate, valuation, genetic resources, trade, and marketing), and negotiation. Emphasizes technology transfer and international aspects. The course is particularly relevant to students interested in science management, technology transfer, international agriculture, and business.
+
+Code: GDEV 5140
+Title: Mapping Our Worlds with GIS: Cartography and Analysis in GIS
+Description: How things are related in space matters for many things—where different groups live and work, who faces health hazards, how people experience the places they live in, and more. Maps are powerful tools because they help us recognize things we might not otherwise see—and because they present pictures of the world that people act upon to pursue goals. In this class we learn how to conduct spatial analyses and make maps, shouldering the responsibility entailed by the power maps can confer. In-class lectures and activities will provide conceptual and technical foundations for spatial analysis and cartography. Lab sessions and assignments will give a practical introduction to using GIS software to map and analyze spatial patterns.
+
+Code: GDEV 5350
+Title: Youth Organizations and Leadership Development
+Description: Participants learn how to facilitate both youth and adult volunteer leadership development. They examine factors affecting membership, purposes, design, operation, and administration of youth organizations.
+
+Code: GDEV 5500
+Title: Development in Action: Fall Faculty-Led Study Trip Preparation
+Description: This 7-week fall course prepares students for a faculty-led winter study trip within the Global Development department. Students will spend class sessions gaining familiarity with a particular global development challenge (i.e., hunger & sustainable food production, inequality across the life course, environmental challenges & solutions, etc.) through readings, lectures, and in-class discussions. Upon completion of the fall course, students then enroll in 2.5 practicum hours of winter session credits, where they travel to meet with actors on the ground who are navigating and developing solutions to these challenges.
+
+Code: GDEV 5680
+Title: Environmental Decision Making
+Description: The objective of this course is to provide an interdisciplinary introduction to the science underlying decision making with an emphasis on environmental decisions. The course will introduce the basics of information processing and demonstrate how and why we as humans often make 'bad' decisions. They will study how policy makers are able to intervene and influence people's behavior. Throughout the course students will work in groups to try to influence an environmental behavior around campus or town- developing an experiment and executing it. In the process students will learn how to write up an academic study that provides rational, justification, and analysis of the results of your experiment.
+
+Code: GDEV 5970
+Title: Independent Study in Global Development (MPS Students)
+Description: Allows M.P.S. students the opportunity to investigate special interests that are not treated in regularly scheduled courses. The student develops a plan of study to pursue under the direction of a faculty member.
+
+Code: GDEV 6080
+Title: Demographic Techniques
+Description: This is the second course in the demographic techniques sequence. It has two foci. First, we will learn the basics of constructing single and multiple decrement life tables, along with extensions to cause-deleted life tables. Second, we will learn the basics of survival analysis, as well as how survival analysis relates to life tables. Although the primary goal is learning to use these techniques, this class also has a heavy emphasis on thinking about how to use these methods to produce something new and important for research. The grad students will also be asked to complete a 10 page research proposal.
+
+Code: GDEV 6120
+Title: Urban Public Management
+Description: Local governments across the world face challenges of infrastructure and service delivery in the context of fiscal constraints. Innovations often involve devolution and privatization. Scholarly research debates whether these market approaches promote efficiency, regional equity, local economic growth and citizen voice. Students will review the theoretical bases for these claims and the empirical evidence from around the world. Students will write theory papers as well as engage in group work on practical policy questions facing cities.
+
+Code: GDEV 6190
+Title: Quantitative Research Methods
+Description: Graduate-level course in measurement and analysis of survey, demographic, and observational data. Topics include linear regression, analysis of variance, and analysis of covariance with both continuous and categorical variables. Non-linear regression models are also introduced in the form of logistic and multinomial logistic regression. Examples are illustrated using data from sources such as the General Social Survey, the U.S. Census, the American Community Survey, and the National Center for Educational Statistics. Students familiarize themselves with data cleaning, missing data estimation, variable transformations, sub-setting, and other data handling procedures using statistical programs such as STATA, SPSS, and SAS. Students are responsible for lab assignments involving the preparation of basic data preparation and analysis programs.
+
+Code: GDEV 6455
+Title: Toward a Sustainable Global Food System: Food Policy for Developing Countries
+Description: Comprehensive presentation and discussion of policy options for a sustainable global food system, with focus on developing countries. Topics include: economic policy related to nutrition, health, consumption, production, natural resource management, trade, markets, gender roles, armed conflict, and ethics. A social entrepreneurship approach based on case studies and active participation by students will be used.
+
+Code: GDEV 6770
+Title: Seminar on Issues in African Development
+Description: Examines a broad range of critical concerns in contemporary Africa including food production, human resource development, migration, urbanization, environmental resource management, economic growth, and policy guidance. The weekly presentations are made by invited specialists. Students write weekly memos about the talks. Graduate students (CRP 6770/GDEV 6770) facilitate one seminar question period.
+
+Code: GDEV 6820
+Title: Community Organizing and Development
+Description: This course is designed to provoke students from a wide variety of gradate fields to question and examine the cultural and political dimensions of development practice in everyday community settings and contexts. It's specifically focused on the history, theory and practice of community organizing, and the roles NGO, government, academic, and other professionals do, can, and should play in the public work of democracy.
+
+Code: GDEV 6960
+Title: Perspectives in Global Development
+Description: A variety of speakers present seminars on international development topics relating to sustainable development throughout the world. Students attend each seminar and submit a five-page essay at the end of the semester reflecting on the speakers' presentations and analyzing connections between topics.
+
+Code: GDEV 6970
+Title: Global Development MPS Seminar
+Description: A seminar for M.P.S. - Global Development students to discuss important issues in their field and to prepare themselves to write M.P.S. project papers. Specific content varies.
+
+Code: GDEV 6980
+Title: Teaching Experiences for MPS in Global Development
+Description: This course enables MPS students to get valuable teaching experience in any one of the GDEV courses for credit.
+
+Code: GDEV 7900
+Title: Graduate-Level Thesis Research
+Description: Thesis research for Ph.D. students only before "A" exam has been passed.
+
+Code: GDEV 7910
+Title: Teaching Experience
+Description: Participation in the ongoing teaching program of the department.
+
+Code: GDEV 7970
+Title: Development Studies Professional Development Seminar
+Description: This course will serve as a collaborative space where PhD students can learn and share about issues of course-taking selection, grant sources and writing strategies, preparation of CVs and cover letters, meet and interact with Field Faculty, engage in practice conference- and job-talks, and other useful professionalization practices for new and more experienced PhD students. Guest speakers will be engaged and current students and alumni will share useful and strategic practices.
+
+Code: GDEV 8720
+Title: Graduate Level Ind Study in Development Studies
+Description: Limited to master's and doctoral degree candidates with permission of the graduate field member concerned.
+
+Code: GDEV 8900
+Title: Master's Level Thesis Research
+Description: Thesis research for master's students.
+
+Code: GDEV 9900
+Title: Doctoral-Level Thesis Research
+Description: Thesis research for Ph.D. candidates after "A" exam has been passed.
+

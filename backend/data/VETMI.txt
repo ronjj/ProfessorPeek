@@ -1,0 +1,76 @@
+Code: VETMI 7030
+Title: Biomedical Sciences: Foundations of the PhD
+Description: This course is designed to support the comprehensive success of PhD students in the Biological and Biomedical Sciences. Preference given to those in the Initiative for Maximizing Student Development (IMSD) program. Enrollment in this course is by instructor permission only.
+
+Code: VETMI 7120
+Title: Seminars in Infection and Immunity
+Description: The Seminars in Infection and Immunity Series hosts local, national, and international speakers in the immunology, microbiology, virology, and parasitology sectors to acquaint students with current advances and insight in the field. This course provides students with lunch discussions with each speaker to offer networking opportunities with established scientists. Seminars are open to the public. The seminar schedule and list of speakers for each semester can be found by going to the CVM Department of Microbiology and Immunology website.
+
+Code: VETMI 7401
+Title: Apicomplexa
+Description: In-depth look at Apicomplexa of major importance in domestic animals. Emphasis on parasites common in North America and Europe. Presents details of taxonomy, biology, epidemiology, disease, and preventative and curative treatment. As relevant, susceptibility and resistance to available parasiticides highlighted. Information from primary literature will be reviewed.
+
+Code: VETMI 7402
+Title: Excavata
+Description: In-depth look at excavates of major importance in domestic animals. Emphasis on parasites common in North America and Europe. Details of taxonomy, biology, epidemiology, disease, and preventative and curative treatment. As relevant, susceptibility and resistance to available parasiticides will be highlighted. Information from primary literature will be reviewed.
+
+Code: VETMI 7403
+Title: Mites
+Description: In-depth look at mites of major importance in domestic animals. Emphasis on parasites common in North America and Europe. Details of taxonomy, biology, epidemiology, disease, and preventative and curative treatment. Consideration of susceptibility and resistance to available parasiticides. Information from primary literature will be reviewed where applicable.
+
+Code: VETMI 7404
+Title: Ticks
+Description: In-depth look at soft and hard ticks of major importance in domestic animals. Emphasis on species common in North America and Europe. Details of taxonomy, biology, epidemiology, disease, and preventative and curative treatment. Pivotal role of ticks as vectors highlighted. Efficacy of available parasiticides will be considered.
+
+Code: VETMI 7405
+Title: Fleas and Lice
+Description: In-depth look at fleas and lice of major importance in domestic animals common in North America and Europe. Details of taxonomy, biology, epidemiology, pathology, host immunity, clinical presentation, and preventative and curative treatment. Their role as mechanical and biological vectors of disease will be discussed. Efficacy of available parasiticides discussed.
+
+Code: VETMI 7407
+Title: Internal Parasites of Cats
+Description: In-depth look at feline endoparasites of major importance in North America and Europe. Details of taxonomy, biology, epidemiology, pathology, host immunity, clinical presentation, and preventative and curative treatment. Consideration of efficacy of available parasiticides. Information from studies reported in primary literature will be reviewed where applicable.
+
+Code: VETMI 7416
+Title: Introductory Pharmacology
+Description: This course will familiarize students with the fundamental principles, history, and scope of pharmacology and, provide a basic understanding of major definitions and terms used in pharmacology.
+
+Code: VETMI 7418
+Title: Parasitologic Diagnostic Methods Video Lab
+Description: This course will present the principles behind commonly used diagnostic techniques to identify parasitic infections, including:  fecal and blood examination techniques, culture methods, morphologic identification, ELISA, PCR, patient-side tests, and more.  Lectures will be comprised mainly of video demonstrations of the relevant techniques.
+
+Code: VETMI 7420
+Title: Parasite Identification Laboratory
+Description: Identification and differentiation of common protistan, helminth and acarid parasites and artifacts and pseudoparasites found in the feces, urine, blood, and skin scrapings of domestic animals.
+
+Code: VETMI 7422
+Title: Non-Morphologic Parasite Identification Laboratory
+Description: Parasitologic diagnostics  with non morphologic modalities.  This course will focus on immunologic and molecular means of parasite identification.
+
+Code: VETMI 7430
+Title: Drug Discovery-The Big 12
+Description: In-depth look at the history of twelve major pharmacologic agents that have changed the world and some of which are still a critical part of today's pharmacopoeia. The histories are telling and engaging and are important for the understanding of the impact of drugs on the animals and people.
+
+Code: VETMI 7431
+Title: Antiparasitic Vaccines
+Description: Discussions on the principles of vaccine design, the history of vaccine use in veterinary medicine, and the regulatory approval process with focus on specific products developed for coccidia in poultry, vector-borne protozoal agents, and nematodes of livestock; the successes and failures of these efforts; and future prospects.
+
+Code: VETMI 7435
+Title: Federal Government's Role in Animal Health
+Description: Many federal agencies interact with the veterinary community in activities such as disease reporting, the regulatory process of drug approval, and pharmaceutical adverse event reporting. Congress also plays a very important role in animal health. This course will provide a broad review of the structure and roles of the government with respect to animal health, relating how they are relevant to the animal health community. Lectures will emphasize government structure and codification of authority; understanding federal authorities and activities in areas including agriculture, disease reporting, pharmaceutical regulation, research, and trade; and case studies. Guest presentations from experts who have worked with or for many of these agencies will be provided. This course is intended for students enrolled in their first semester of the Master of Professional Studies in Veterinary Medicine.
+
+Code: VETMI 7436
+Title: Capstone Project I
+Description: In this course students will develop a topic for their literature-review dealing directly with a subject in veterinary parasitology and will be assigned a faculty mentor.  Students will identify their academic sources and will be expected to submit an annotated bibliography for review. This course will assess a student's ability to read, evaluate and integrate the research literature into the design of a veterinary parasitology investigation.
+
+Code: VETMI 7440
+Title: Parasites of Domestic Animals
+Description: Introduction to the arthropod, protist, and helminth parasites of domestic animals with an emphasis on the biology, diseases induced, and their control. Objective is to have a basic understanding of the biology of these organisms that are important to veterinary medicine, producers, consumers, and commercial antiparasite product and vaccine developers.
+
+Code: VETMI 7446
+Title: Capstone Project II
+Description: Critical evaluation and integration of the research literature is a critical tool of the modern parasitologist. This course will provide students with the ability to read, understand, evaluate and integrate the research literature in veterinary parasitology. Students will enhance their writing and presentation skills in the preparation of the project. Students will prepare a literature-review based project dealing directly with a subject in veterinary parasitology.  This project is an in depth and extensive review of the literature, culminating in the preparation of an hour-long lecture to be presented at the end of the course, and submit a final copy of the required paper. This course is intended for students enrolled in their final semester of the Masters of Professional Studies in Veterinary Medical Sciences. Students will present to MPS faculty in person during the final exam period.
+
+Code: VETMI 7449
+Title: Scientific Writing and Critical Review of Literature
+Description: Through critically reviewing peer reviewed parasitology literature, course participants will gain skills in assessing study design and interpretation of results. Written critiques and annotations of literature will enable opportunities to practice scientific writing. In addition, participants will gain skills in oral and poster presentations and grant writing.
+

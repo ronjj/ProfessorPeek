@@ -1,0 +1,56 @@
+Code: ENMGT 3101
+Title: Introduction to Python for Engineering
+Description: Python is one the most popular programming languages for machine learning and data science in various engineering fields. This course rapidly introduces students to programming in Python, focusing on practical tools for data analysis, visualization, and scientific computing. We will learn to work with data, create visualizations, and write simple functions and scripts. We will install and use libraries such as NumPy, Matplotlib, and Pandas, and create and manage virtual environments. Basic computer science and software engineering concepts will be introduced, however, the focus of this short course is on learning to use Python as a computational tool for engineering and data analysis problems, and creating a foundation for continued learning.
+
+Code: ENMGT 5101
+Title: Introduction to Python for Engineering
+Description: Python is one the most popular programming languages for machine learning and data science in various engineering fields. This course rapidly introduces students to programming in Python, focusing on practical tools for data analysis, visualization, and scientific computing. We will learn to work with data, create visualizations, and write simple functions and scripts. We will install and use libraries such as NumPy, Matplotlib, and Pandas, and create and manage virtual environments. Basic computer science and software engineering concepts will be introduced, however, the focus of this short course is on learning to use Python as a computational tool for engineering and data analysis problems, and creating a foundation for continued learning.
+
+Code: ENMGT 5200
+Title: Economics of the Energy Transition
+Description: In response to the risks posed by global climate change, many states and countries have set emissions reductions goals necessitating a rapid transition toward zero-carbon energy resources. Achieving these goals entails unprecedented investment in civil infrastructure systems combined with large-scale consumer and industry adoption of clean energy solutions. This course will explore the economic challenges and opportunities associated with this transition, with an emphasis on the electric power sector. The course is broken into two halves. The first focuses on the economic viability of individual projects. The second develops system level models and considers interactions between competing energy sources.
+
+Code: ENMGT 5900
+Title: Project Management
+Description: Core graduate course in project management for people who will manage technical or engineering projects. Focuses both on the "technical" tools of project management (e.g., methods for planning, scheduling, and control) and the "human" side (e.g., forming a project team, managing performance, resolving conflicts), with somewhat greater emphasis on the latter.
+
+Code: ENMGT 5910
+Title: Engineering Management Project
+Description: As Engineering Managers, you need to embrace both technical and business skills to tackle complex, sociotechnical challenges, while staying on top of the current pace of technological change. In this Engineering Management project course, we are bridging from your coursework to your role as an engineering manager. To get there, you will practice the tools, themes, and techniques learned in your Engineering Management coursework through the scaffolding of a large project. In CEE 5910, you will work in teams to lead and execute a project in collaboration with an industry partner. You will perform an intensive evaluation of some mixture of the technological and management aspects of a major engineering project or system, conducted with a team of students.
+
+Code: ENMGT 5930
+Title: Data Analytics
+Description: Big data is transforming organizations enabling vast improvements in operating efficiency, market identification and segmentation, and many other domains. This course focuses on data collection at all scales, the transformation of that data into knowledge using a variety of data analytic techniques, and the integration of that knowledge into system models for decision-making to better manage organizations. Expertise in R will be developed throughout this course.
+
+Code: ENMGT 5950
+Title: Construction Planning and Operations
+Description: Prepares students for responsibilities in overseeing the engineering and management of construction; on time-on budget. Emphasis is placed on the management processes for organizing, planning, and controlling the activities of complex development and construction programs. Students study the contracts for engineering, architecture, and construction; focusing on cost estimation and schedule control, responsibilities and risks, and the relationships among owners, designers, contractors, and suppliers. The potential for project disruption is discussed with special emphasis on dispute resolution methods.
+
+Code: ENMGT 5960
+Title: Negotiations and Contracts for Engineering Managers
+Description: An exploration of negotiation types, skills, and tactics relevant to engineers and engineering managers. This course has a strong focus on relevant case studies and scenarios and includes issues such as:
+
+Code: ENMGT 5980
+Title: Decision Framing and Analytics
+Description: Framework to structure the way we think about decision situations that are complicated by uncertainty, complexity, and competing objectives. Specific decision analysis concepts and tools, such as decision trees, sensitivity analysis, value of information, and utility theory. Applications to all areas of engineering and life. Includes a group project to analyze a real-world decision.
+
+Code: ENMGT 5990
+Title: Contemporary Challenges for Engineering Managers
+Description: This course will focus on major modern challenges faced by Engineering Managers, and how our responses are guided and confined by our value systems, external pressures, and available resources. Key areas will include Climate Change, Sustainability, Diversity, Remote work forces, Technology Strategy, Data Privacy, Ethics in Global Engineering and others.
+
+Code: ENMGT 6020
+Title: Managing a Culture of Innovation
+Description: Innovation is not just ideas, but getting ideas to measurable impact for your customers or employees. While the word "innovation" is pervasive throughout engineering and business, developing and managing a culture of innovation has only been mastered by few organizations. In fact, no company has remained on the Dow Jones Industrial Average since its inception. Why? Because implementing a culture of innovation is very difficult and is mired by a lack of understanding of proven innovation strategies, competencies, and tools. In this course, you will learn a systematic approach for developing and managing a culture of innovation. You will learn how to develop an innovation strategy to better meet your organizations goals and customer needs. In addition, we will take time to dive into innovation competencies, such as design thinking, lean start-up, and making, along with learn several innovation tools including hackathons, open innovation challenges and competitions, and corporate venture arms. Lastly, we will discuss how to implement and scale your innovation strategies to deliver impact for your customers and organization.
+
+Code: ENMGT 6090
+Title: Professional and Leadership Development Seminar
+Description: Students will identify the goals for their career and engage in several career development support services, such as networking, interviewing, resume and cover letter writing, and negotiation workshops. In addition, they will engage in a leadership development series to help them further build their engineering management and leadership competencies. Through a variety of tools, one-on-one coaching, workshops, events, and other resources, this course will help students develop and practice critical career management skills, along with build their confidence to find a career opportunity best suited to their interests and needs.
+
+Code: ENMGT 6092
+Title: Overcoming Gender Bias in Engineering Management Leadership
+Description: In this course, we will explore skills, tools, and mindsets to build leadership skills as engineers with a focus of increasing the number of technical women in leadership.  Topics include understanding and combatting biases, leading with and without authority, addressing conflict, and negotiations.  We will explore various topics using discussion-based lectures, case studies, and invited guest speakers.
+
+Code: ENMGT 6095
+Title: Special Topics in Engineering Management
+Description: Individually supervised study of one or more specialized topics not covered in regular courses.
+

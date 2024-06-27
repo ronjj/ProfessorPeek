@@ -1,0 +1,268 @@
+Code: INFO 1200
+Title: Information Ethics, Law, and Policy
+Description: This course investigates the ethical, legal, and policy foundations of contemporary information technology. Through lectures, readings, discussions, and short assignments, we will address contemporary challenges ranging from the contests over intellectual property and privacy in a networked world to questions of inequality and control over technology. We will cover key areas of technology law and policy such as computing ethics; intellectual property; competition, antitrust, and freedom of expression; privacy and security; and AI ethics. We will also address new ethical questions and controversies that law and policy has yet to sort out. Through this course you'll learn about the key frameworks, processes, and institutions that govern the contemporary world of information technology, along with key theories and methods from academic fields that shape and inform them (law, philosophy, economics, political science, communication, sociology, etc.). You will also learn core reading and analytic skills central to success in the worlds of social science, law, policy, and many other settings. But above all you'll learn to engage critically and strategically with the worlds of information and technology around you, deciding what kind of information consumer, user, producer, and citizen you want to be.
+
+Code: INFO 1300
+Title: Introductory Design and Programming for the Web
+Description: This course is designed to introduce students to the conceptual, design, and technical aspects of developing websites. No prior knowledge of programming, or web or graphic design is assumed or necessary. In the course, we will cover basic web technologies such as HyperText Markup Language (HTML), Cascading StyleSheets (CSS), and some JavaScript (JS).
+
+Code: INFO 1998
+Title: First-year Team Projects
+Description: Independent work in information science as part of a student-led team project. Intended for first-year students on project teams, project team members in training, and for project team members performing tasks that are not core to information science.
+
+Code: INFO 2040
+Title: Networks
+Description: This interdisciplinary course examines network structures and how they matter in everyday life. The course examines how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects each of these worlds. Tools of graph theory and game theory are taught and then used to analyze networks. Topics covered include the web, the small world phenomenon, markets, neural networks, contagion, search and the evolution of networks.
+
+Code: INFO 2300
+Title: Intermediate Design and Programming for the Web
+Description: This course is designed to introduce students to the conceptual, design, and technical aspects of developing server-side interactive websites. Students will learn how to process HTTP requests, dynamically render HTML, populate and store web content in a relational database using SQL, and securely implement login/logout sessions through server-side scripting. Through a succession of projects, students learn and practice how to apply these principles to the creation of interactive and data-driven websites programmed in PHP and SQL. Design, inclusivity, and usability issues are emphasized.
+
+Code: INFO 2450
+Title: Communication and Technology
+Description: Introduces students to the Communication and Information Technologies focus area of the communication department and the Human Systems track for information science. It examines several approaches to understanding technology and its role in human behavior and society. Topics include psychological aspects of computer-mediated communication; how design plays a role in the way we interface with technology and collaborate with each other; and the ways in which communication technology is situated inside social and institutional structures and cultural formations.
+
+Code: INFO 2950
+Title: Introduction to Data Science
+Description: INFO 2950 is an applied introductory course on the foundations of data science, focusing on using data to identify patterns, evaluating the strength and significance of relationships, and generating predictions using data. Topics covered include the core principles of statistical programming (such as data frames, Python/R packages, reproducible workflows, and version control), univariate and multivariate statistical analysis of small and medium-size datasets, regression methods, hypothesis testing, probability models, basic supervised and unsupervised machine learning, data visualization, and network analysis. Students will learn how to use data to make effective arguments in a way that promotes the ethical usage of data. Students who complete the course will be able to produce meaningful, data-driven analyses of real-world problems and will be prepared to begin more advanced work in data-intensive domains.
+
+Code: INFO 3300
+Title: Visual Data Analytics for the Web
+Description: This course will cover technologies for representing, modeling and displaying data in the context of interactive web pages. Practical skills for building web pages will be mixed with data mining algorithms and visualization design theory. We will use the D3 Javascript library to develop both static and dynamic visualizations, learn more about programming in Javascript, and explore web scalable vector graphics (SVG). Through design critique and formal study, we will identify the techniques visualization developers employ to create the "right" visualization for a given use case.
+
+Code: INFO 3350
+Title: Text Mining History and Literature
+Description: The class will introduce methods for computer-assisted analysis of historical and literary text collections. It will cover corpus curation, representing text as data, building statistical models from text, and interpreting quantitative results. The class will also reflect on how computational methods fit with existing practices in the humanities, and how we can use models as complements to our own interpretations. Following the course, students will be able to assist faculty in quantitative and computational humanities scholarship.
+
+Code: INFO 3450
+Title: Human-Computer Interaction Design
+Description: This course focuses on user experience design (UX) and the life cycle of interface design from the user perspective. We will discuss key aspects of the human-centered design process: understanding, analyzing, and formalizing user needs, exploring possible design solutions to address user needs, creating prototypes to externalize design ideas, and evaluating the usability of these prototypes.
+
+Code: INFO 3660
+Title: History and Theory of Digital Art
+Description: In this course, we will examine the role of electronic and digital technologies in the arts of the late 20th and 21st centuries with emphasis on Europe and North America. Beginning with the cybernetically and systems-inspired work of the late sixties, we will explore early uses of computer technology, including early experiments in synthetic video in the 1970s. An overview of pre-internet telematic experiments will lead to an investigation of net art and later currents of digital art. The ongoing development of behavioral art forms will be a central theme. Critical evaluation of various attitudes concerning technology will be encouraged.
+
+Code: INFO 3900
+Title: Causal Inference
+Description: Causal claims are essential in both science and policy. Would a new experimental drug improve disease survival? Would a new advertisement cause higher sales? Would a person's income be higher if they finished college? These questions involve counterfactuals: outcomes that would be realized if a treatment were assigned differently. This course will define counterfactuals mathematically, formalize conceptual assumptions that link empirical evidence to causal conclusions, and engage with statistical methods for estimation. Students will enter the course with knowledge of statistical inference: how to assess if a variable is associated with an outcome. Students will emerge from the course with knowledge of causal inference: how to assess whether an intervention to change that input would lead to a change in the outcome.
+
+Code: INFO 4125
+Title: Project Management
+Description: This introductory course will emphasize the interpersonal skills necessary by project teams to manage demanding industry projects. Through a semester long simulated IS project, students will develop and apply a range of skills including time management, effective conflict resolution, negotiation, risk management, change control, and appropriate goal setting to adequately manage and execute their projects. Students will work in teams to engage in the 5 phases of the project management life cycle which includes: project initiation, planning, execution, monitoring, and project closure.
+
+Code: INFO 4145
+Title: Privacy and Security in the Data Economy
+Description: Increasingly, social and economic interactions are mediated by online platforms and algorithmic systems that rely on ubiquitous connectivity and data accumulation for their operation. While these systems have brought an unprecedented number of new products and services that have fostered growth and innovation, they have also created novel challenges to privacy and data security. In this course, we explore privacy and data security as multi-faceted concepts with economic, legal, social, ethical, and psychological underpinnings.
+
+Code: INFO 4240
+Title: Designing Technology for Social Impact
+Description: The social impact of technologies is typically thought about fairly late, if ever, in the design process. Indeed, it can be difficult at design time to predict what effects technologies will have. Nevertheless, design decisions can inadvertently "lock in" particular values early on. In this course, we will draw on science & technology studies, technology design, and the arts to analyze the values embodied in technology design and to design technologies to promote positive social impact. What social and cultural values do technology designs consciously or unconsciously promote? To what degree can social impact be "built into" a technology? How can we take social and cultural values into account in design?
+
+Code: INFO 4301
+Title: Ethics in New Media, Technology, and Communication
+Description: This course examines moral and ethical issues in communication, new media, and technology. Using theories and research in moral philosophy and psychology, we examine how people perceive and reason about ethical issues presented by media and technology, and how moral action is influenced by cognitive, emotional, and ethical belief systems. Issues of autonomy, transparency, harm, privacy, manipulation, justice, democracy, equality, and care are discussed. We analyze the consistency between personal and professional ethics, the importance of moral character and agency, and the translation of moral thought to ethical action, and address the development of professional and personal ethical codes of conduct and research for communication professionals in the areas of new media and technology.
+
+Code: INFO 4320
+Title: Introduction to Rapid Prototyping and Physical Computing
+Description: This class provides an introduction to modern rapid prototyping techniques such as laser cutting, 3D printing and microcontroller programming (such as the Arduino system). Using these tools, small multidisciplinary groups conduct the hardware project of their choice exploring topics as varied as: Universal Access, tangible interfaces, toys, personal or medical assistants and new musical instruments.
+
+Code: INFO 4420
+Title: Human Computer Interaction Studio
+Description: This course will introduce User Experience design technique taught in a Studio. Students will work on a series of design studies and a semester long design project exploring advanced User Interaction design techniques. The course is designed to help students start a design portfolio to reflect their work. Students will be expected to buy small art supplies.
+
+Code: INFO 4430
+Title: Teams and Technology
+Description: This course is designed to provide students with an understanding of research, design, and management of teams whose work and interactions are influenced by technology. Key questions that are addressed include: How does technology influence teamwork? How do we design technology to support teamwork? How do we build effective teams and team interactions for teams that work face to face or online? To address these questions the course will draw primarily from literature in organizational behavior, social psychology, design and human computer interaction. Group exercises will be used to actively build teamwork and team-leadership skills. Topics will include group effectiveness, human robot teamwork, group composition, computer supported collaboration, conflict, group dynamics, temporal issues in groups, geographically distributed teams, and measurement issues of group dynamics and performance.
+
+Code: INFO 4500
+Title: Language and Technology
+Description: Examines how new communication technologies affect the way we produce and understand language and modify interaction with one another. Focuses on the collaborative nature of language use and how Internet technologies affect the joint activities of speakers and listeners during the construction of meaning in conversation
+
+Code: INFO 4505
+Title: Computing and Global Development
+Description: To date, most computing technologies have primarily benefited urban, affluent, and literate people in developed regions by empowering them with more information, resources, and agency. These technologies currently exclude billions of people worldwide, such as rural residents, people with disabilities, and indigenous communities, who are too poor to afford modern devices, too remote to be connected, or too low-literate to navigate the mostly text-driven Internet. In recent years, researchers and practitioners have examined how computing technologies can be designed or appropriated to empower such underserved communities. This course introduces students to the field of Information and Communication Technologies and Development (ICTD). Through discussions of case studies from the Global South, students will study how computing technologies are used in different global development domains, such as agriculture, finance, health, social justice, and education. They will gain understanding of socio-economic, cultural, and political forces that impact technology adoption in low-resource environments and will learn to design, build, and evaluate inclusive technologies to empower marginalized people.​
+
+Code: INFO 4555
+Title: Business Intelligence Systems
+Description: This course covers the fundamental technical and organizational concepts and challenges related to the development of Business Intelligence Systems, a key component crucial to the competitiveness of a wide range of organizations. Topics covered include: data profiling, dimensional data modeling, data transformation, metadata systems, data governance, data delivery options, and an overview of emerging technologies in this space. Course is comprised of interactive lectures, work/lab sessions, and a substantial team project.
+
+Code: INFO 4900
+Title: Independent Reading and Research
+Description: Independent reading and research for undergraduates.
+
+Code: INFO 4910
+Title: Teaching in Information Science
+Description: Involves working as a teaching assistant in a course in the information science or information science, systems, and technology major.
+
+Code: INFO 4940
+Title: Special Topics in Information Science
+Description: Study of topics not currently covered in INFO offerings, as determined by faculty and student interest.
+
+Code: INFO 4997
+Title: Practical Training in Information Science
+Description: This independent study course offers IS majors (i.e., undergraduates whose applications to affiliate with the IS major have been approved) an opportunity to reflect on concepts from information science as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the information science major.
+
+Code: INFO 4998
+Title: Team Projects
+Description: Advanced independent work in information science as part of a student-led team project. Students must make individual arrangements with a faculty sponsor. Students are expected to spend 3-4 hours per week per credit hour working on the project.
+
+Code: INFO 5000
+Title: Practical Training in Information Science for International Students
+Description: This independent study course offers IS MPS Grad Students strictly for CPT purposes only.
+
+Code: INFO 5001
+Title: Computing for Information Science
+Description: This is an applied course for data scientists with little-to-no programming experience who wish to harness growing digital and computational resources. The focus of the course is on generating reproducible research using programming languages and version control software. Major emphasis is placed on a pragmatic understanding of core principles of programming and packaged implementations of methods. Students will leave the course with basic computational skills implemented through many computational methods and approaches to data science; while students will not become expert programmers, they will gain the knowledge of how to adapt and expand these skills as they are presented with new questions, methods, and data.
+
+Code: INFO 5100
+Title: Visual Data Analytics for the Web
+Description: This course will cover technologies for representing, modeling and displaying data in the context of interactive web pages. Practical skills for building web pages will be mixed with data mining algorithms and visualization design theory. We will use the D3 Javascript library to develop both static and dynamic visualizations, learn more about programming in Javascript, and explore web scalable vector graphics (SVG). Through design critique and formal study, we will identify the techniques visualization developers employ to create the "right" visualization for a given use case.
+
+Code: INFO 5125
+Title: Project Management
+Description: This introductory course will emphasize the interpersonal skills necessary by project teams to manage demanding industry projects. Through a semester long simulated IS project, students will develop and apply a range of skills including time management, effective conflict resolution, negotiation, risk management, change control, and appropriate goal setting to adequately manage and execute their projects. Students will work in teams to engage in the 5 phases of the project management life cycle which includes: project initiation, planning, execution, monitoring, and project closure.
+
+Code: INFO 5145
+Title: Privacy and Security in the Data Economy
+Description: Increasingly, social and economic interactions are mediated by online platforms and algorithmic systems that rely on ubiquitous connectivity and data accumulation for their operation. While these systems have brought an unprecedented number of new products and services that have fostered growth and innovation, they have also created novel challenges to privacy and data security. In this course, we explore privacy and data security as multi-faceted concepts with economic, legal, social, ethical, and psychological underpinnings.
+
+Code: INFO 5240
+Title: Designing Technology for Social Impact
+Description: The social impact of technologies is typically thought about fairly late, if ever, in the design process. Indeed, it can be difficult at design time to predict what effects technologies will have. Nevertheless, design decisions can inadvertently "lock in" particular values early on. In this course, we will draw on science & technology studies, technology design, and the arts to analyze the values embodied in technology design and to design technologies to promote positive social impact. What social and cultural values do technology designs consciously or unconsciously promote? To what degree can social impact be "built into" a technology? How can we take social and cultural values into account in design?
+
+Code: INFO 5301
+Title: Ethics in New Media, Technology, and Communication
+Description: This course examines moral and ethical issues in communication, new media, and technology. Using theories and research in moral philosophy and psychology, we examine how people perceive and reason about ethical issues presented by media and technology, and how moral action is influenced by cognitive, emotional, and ethical belief systems. Issues of autonomy, transparency, harm, privacy, manipulation, justice, democracy, equality, and care are discussed. We analyze the consistency between personal and professional ethics, the importance of moral character and agency, and the translation of moral thought to ethical action, and address the development of professional and personal ethical codes of conduct and research for communication professionals in the areas of new media and technology.
+
+Code: INFO 5303
+Title: Privacy in the Digital Age
+Description: This course introduces students to privacy technologies and surveys the current state of digital privacy from multiple perspectives, including technology, law, policy, ethics, economics, and surveillance.
+
+Code: INFO 5310
+Title: Psychological and Social Aspects of Technology
+Description: This course explores the psychological and sociological foundations of communication and information technology. The course focuses on the theories from the cognitive, behavioral and social sciences that play a role in understanding people's use of, access to and interactions with information and communication technologies. The course will examine multiple levels of analysis – individual, social, and social systems/communities – and present multiple disciplinary perspectives. The course will also provide a high-level view of methodologies used in the behavioral and social sciences.
+
+Code: INFO 5321
+Title: Introduction to Rapid Prototyping and Physical Computing
+Description: This class provides an introduction to modern rapid prototyping techniques such as laser cutting, 3D printing and microcontroller programming (such as the Arduino system). Using these tools, small multidisciplinary groups conduct the hardware project of their choice exploring topics as varied as: Universal Access, tangible interfaces, toys, personal or medical assistants and new musical instruments.
+
+Code: INFO 5340
+Title: Virtual and Augmented Reality
+Description: This course presents an introduction to virtual and augmented reality technologies, with focus on fundamental principles from 3D math, human perception, graphics, and interaction. Concepts from the contributing fields of computer vision, computer graphics and human computer interaction will be introduced in the context of virtual and augmented reality. Students will be tasked with creating their own virtual or augmented reality application as a course project.
+
+Code: INFO 5355
+Title: Human Computer Interaction Design
+Description: This course focuses on user experience design (UX) and the life cycle of interface design from the user perspective. We will discuss key aspects of the human-centered design process: understanding, analyzing, and formalizing user needs, exploring possible design solutions to address user needs, creating prototypes to externalize design ideas, and evaluating the usability of these prototypes.
+
+Code: INFO 5356
+Title: Introduction to Human-Robot Interaction
+Description: Robots are making their way into our everyday lives, working across several applications including in people's home, healthcare, and retail settings. As these systems become more integrated into our lives, it is important that they are designed to be useful, functional, and socially acceptable; however, this remains a key challenge for the field of human-robot interaction (HRI). This is a project-based course that covers core computational, engineering, and social challenges and approaches for effective HRI in human-centered environments. Topics include perception of people, computational HRI, design in HRI, coordination and collaboration, and experimental robotics. Students should expect to learn about seminal research in HRI, gain hands-on experience with physical mobile robots, and implement systems for real-time interaction with users.
+
+Code: INFO 5360
+Title: Healthcare Organization and Delivery
+Description: The goal of this course is to educate students about the complexity and nuances of healthcare delivery. The course will be especially useful for non-clinicians who intend to go into fields that will require a detailed understanding of healthcare. Class sessions will analyze healthcare, so that students learn to identify tensions in healthcare and opportunities for improvement. Students will come away from the course with a deeper appreciation of why it is difficult to change healthcare. They will then be able to anticipate the intended and unintended consequences of interventions and policies that they and others might implement.
+
+Code: INFO 5370
+Title: Applied Data Science: Decision-Making Beyond Prediction
+Description: This course considers the data science challenges beyond training an accurate predictive model, especially for systems about people (data of behavior), and for people (deployed models to influence behavior). Whether for online marketplaces, transportation, governmental, or urban systems, effective data science in such settings requires dealing with user incentives and strategic behavior, networked and decentralized decision-making, and privacy and ethics concerns. Primary evaluation will be through programming based assignments (in Python) and conceptual questions.
+
+Code: INFO 5410
+Title: Urban Systems
+Description: Social scientists such as sociologists, economists, and anthropologists, as well as policymakers seek to better understand cities, in order to answer important theoretical questions, such as: what is a city in the first place; how does a city grow; what is a better city (and who is it better for); and (how) can we create and/or develop better cities. This course provides an integrative introduction to these disciplinary perspectives on cities so students acquire an overview of the key systems, processes, and technologies that must be managed, operated, and maintained in any urban center. The goal of the class is to unpack the complex interplay among institutions, markets, and citizens in the context of the financial, political, administrative, and legal policies that exist in urban communities so that students can understand urban systems in a holistic manner. We will deploy the lenses of three defining cornerstones of urban environments - institutions; real estate; and mass transit - to examine the management of cities and conflicts that arise within them, the design and use of public spaces and infrastructure, and the relationship between the public and the private spheres. The course pedagogy is a mix of participatory learning in the classroom and field visits/labs and expert lectures. The course will equip students with the conceptual and analytical tools necessary to ensure equitable, sustainable, and financially and politically viable approaches to urban challenges. It is primarily designed for students interested in working for a city, or in starting, working at, advising, or financing for-profit or not-for-profit ventures operating in the urban technology and innovation space.
+
+Code: INFO 5431
+Title: Teams and Technology
+Description: This course is designed to provide students with an understanding of research, design, and management of teams whose work and interactions are influenced by technology. Key questions that are addressed include: How does technology influence teamwork? How do we design technology to support teamwork? How do we build effective teams and team interactions for teams that work face to face or online? To address these questions the course will draw primarily from literature in organizational behavior, social psychology, design and human computer interaction. Group exercises will be used to actively build teamwork and team-leadership skills. Topics will include group effectiveness, human robot teamwork, group composition, computer supported collaboration, conflict, group dynamics, temporal issues in groups, geographically distributed teams, and measurement issues of group dynamics and performance.
+
+Code: INFO 5505
+Title: Computing and Global Development
+Description: To date, most computing technologies have primarily benefited urban, affluent, and literate people in developed regions by empowering them with more information, resources, and agency. These technologies currently exclude billions of people worldwide, such as rural residents, people with disabilities, and indigenous communities, who are too poor to afford modern devices, too remote to be connected, or too low-literate to navigate the mostly text-driven Internet. In recent years, researchers and practitioners have examined how computing technologies can be designed or appropriated to empower such underserved communities. This course introduces students to the field of Information and Communication Technologies and Development (ICTD). Through discussions of case studies from the Global South, students will study how computing technologies are used in different global development domains, such as agriculture, finance, health, social justice, and education. They will gain understanding of socio-economic, cultural, and political forces that impact technology adoption in low-resource environments and will learn to design, build, and evaluate inclusive technologies to empower marginalized people.​
+
+Code: INFO 5556
+Title: Business Intelligence Systems
+Description: This course covers the fundamental technical and organizational concepts and challenges related to the development of Business Intelligence Systems, a key component crucial to the competitiveness of a wide range of organizations. Topics covered include: data profiling, dimensional data modeling, data transformation, metadata systems, data governance, data delivery options, and an overview of emerging technologies in this space. Course is comprised of interactive lectures, work/lab sessions, and a substantial team project.
+
+Code: INFO 5600
+Title: AI for Healthcare
+Description: With the rise in the availability of clinical and behavioral data in the world, artificial intelligence (AI) is now increasingly applied in the field of healthcare. Researchers are working on using AI in different spheres of the healthcare process ranging from understanding of the human behavior, early diagnoses of medical conditions and even recommendations for personalized treatment procedures. Physicians are using machine learning algorithms on clinical images for early detection of cancer. Researchers have shown that smartphone sensor data can be used to detect events like opioid overdose and enable just-in-time interventions to save lives. Psychologists are mining data from social networks to detect mental health conditions. This project based course will introduce the students to these next generation AI based healthcare systems and will focus on the design and implementation of these systems for the real world.
+
+Code: INFO 5900
+Title: MPS Project
+Description: Independent research for Master of Professional Studies students.
+
+Code: INFO 5905
+Title: Professional Career Development
+Description: This course will focus on career development topics specifically for MPS Information Science students. Through a series of discussions, activities, and guest speaker lectures, students will further develop career success strategies with an emphasis on personal strengths, networking, communication, and professional branding. By the end of the course, students will be able to identify and articulate to prospective employers, their unique interface between computing and the world.
+
+Code: INFO 5910
+Title: Revolutionary Technologies
+Description: The goal of this course is to help students deepen their theoretical and historical perspective on social change and the relationship between social change and technology. We will read a range of revolutionary thinkers including, but not limited to, Karl Marx, Friedrich Engels, Antonio Gramsci, Stuart Hall, Mahatma Gandhi, E.F. Schumacher and Frantz Fanon. We will study their theories of revolution and the underlying tensions within the division of labor in society, and discuss the role that technology can play in forming and reforming these social relations. We will use this as a lens to reflect both upon existing technology and the underlying relations that create and sustain it, as well as to envision new technological possibilities supported by (and supporting) alternative forms of human organization. Coursework will consist of significant reading, regular reading reflections, design exercises and a final course project.
+
+Code: INFO 5920
+Title: Specialization Project for Connective Media, Health Tech, and Urban Tech
+Description: All students of the Jacobs Institute are required to complete a two-semester Specialization research project. We offer two Tracks for completing this requirement. * Track 1 Specialization projects are conducted in small teams on topics suggested and supervised by researchers at Cornell Tech or Weill Cornell. Track 1 students register for 4 credits of INFO 5920 in their first year Spring semester, as well as 4 credits of INFO 5920 in their second year Fall semester. * Track 2 Specialization project topics can be defined by the student; so long as they are 'anchored' with a 3-credit approved-elective course, and reviewed for program relevance by the INFO 5920 instructor. Track 2 students register for 3 credits of their anchor elective course and 1 credit of INFO 5920 during their first year Spring semester. Track 2 students register for 4 credits INFO 5920 in their second year Fall semester. In general, Specialization projects result in tangible, concentration-relevant deliverables in the form of prototypes, analyses, research studies, and/or publications, which become a sharable part of the student portfolio.
+
+Code: INFO 5940
+Title: Special Topics in Information Science
+Description: Study of topics not currently covered in INFO offerings, as determined by faculty and student interest.
+
+Code: INFO 6310
+Title: Behavior and Information Technology
+Description: This course explores the behavioral foundations of communication technology and the information sciences, and the ways in which theories and methods from the behavioral sciences play a role in understanding people's use of, access to and interactions with information and communication technologies.
+
+Code: INFO 6350
+Title: Text Mining History and Literature
+Description: The course will introduce methods for computer-assisted analysis of historical text collections. It will cover corpus curation, representing text as data, building statistical models from text, and interpreting results. Statistical and programming concepts will be introduced as needed. The class will also reflect on how computational methods fit with existing practices in the humanities, and how we can use models as complements to our own interpretations. Following the course, students will be able to assist faculty in computer-assisted scholarship.
+
+Code: INFO 6410
+Title: HCI and Design
+Description: Human-Computer Interaction (HCI) and design theory and techniques. Methods for designing, prototyping, and evaluating user interfaces. Basics of visual design, graphic design, and interaction design. Understanding human capabilities, interface technology, interface design methods, prototyping tools, and interface evaluation tools and techniques.
+
+Code: INFO 6500
+Title: Language and Technology
+Description: Examines how new communication technologies affect the way we produce and understand language and modify interaction with one another. Focuses on the collaborative nature of language use and how Internet technologies affect the joint activities of speakers and listeners during the construction of meaning in conversation.
+
+Code: INFO 6510
+Title: Accessibility, Disability, and Technology
+Description: This seminar course will introduce students to research related to technology and disability. This includes user research involving people with disabilities, technology design to address the unique challenges experienced by people with disabilities, and ethical and historical issues related to these areas.
+
+Code: INFO 6520
+Title: Human Computer Interaction Graduate Studio
+Description: This course will introduce User Experience design technique taught in a Studio. Students will work on a series of design studies and a semester long design project exploring advanced User Interaction design techniques. The course is designed to help students start a design portfolio to reflect their work.
+
+Code: INFO 6610
+Title: Text and Networks in Social Science Research
+Description: This is a course on networks and text in quantitative social science. The course will cover published research using text and social network data, focusing on health, politics, and everyday life, and it will introduce methods and approaches for incorporating high-dimensional data into familiar research designs. Students will evaluate past studies and propose original research.
+
+Code: INFO 6620
+Title: Social Research Design and Method
+Description: This graduate seminar is intended to acquaint students with critical issues in designing and executing social research. The goal of the course is to equip students to make their own analytically sound contributions to social research about technology, while critically considering their own roles as social scientists. Among the topics the course is likely to cover are: formulating good research questions and fitting appropriate methods to them; practical aspects of data collection; forms of validity; critical assessment of constructs and classifications; the roles of failure and surprise in social research; and positionality and the researcher's relationship to social policy.
+
+Code: INFO 6742
+Title: Natural Language Processing and Social Interaction
+Description: More and more of life is now manifested online, and many of the digital traces that are left by human activity are increasingly recorded in natural-language format. This research-oriented course examines the opportunities for natural language processing to contribute to the analysis and facilitation of socially embedded processes. Possible topics include sentiment analysis, learning social-network structure, analysis of text in political or legal domains, review aggregation systems, analysis of online conversations, and text categorization with respect to psychological categories.
+
+Code: INFO 6850
+Title: The Structure of Information Networks
+Description: For description, see INFO 6850.
+
+Code: INFO 6940
+Title: Special Topics in Information Science
+Description: Study of topics not currently covered in INFO offerings, as determined by faculty and student interest.
+
+Code: INFO 7060
+Title: Digital Life Research Seminar
+Description: This seminar focuses on the societal perspectives on digital technology. Speakers will come from a range of disciplines including computer science, data science, engineering, OR, humanities, social sciences, law, and policy and will present work in progress that considers ethical and political questions related to the design, development, and deployment of digital, computational, and information systems and devices. Topics include accountable algorithms, bias in machine learning, AI and the workplace, privacy, and cybersecurity.
+
+Code: INFO 7090
+Title: IS Colloquium
+Description: For staff, visitors, and graduate students interested in information science.
+
+Code: INFO 7900
+Title: Independent Research
+Description: Independent research for MPS students and pre-A exam Ph.D. Students.
+
+Code: INFO 9900
+Title: Thesis Research
+Description: Thesis research for post-A exam Ph.D. Students.
+

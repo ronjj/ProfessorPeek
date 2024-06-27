@@ -1,0 +1,80 @@
+Code: VTPEH 4990
+Title: Undergraduate Research in Public Health
+Description: Research credits with public health program faculty may include topics of public health and environmental change, food security, local agriculture, and civic engagement. Contact faculty in the program directly to inquire about available research topics/projects.
+
+Code: VTPEH 6101
+Title: Public Health Foundations I
+Description: This course will introduce students to the history and role of public health, and will set the foundation of public health practice on the two guiding paradigms: the 10 essential public health functions, and the One Health/Planetary Health approach to public health prevention and problem solving. Students build their public health competency via investigating a breadth of public health issues, including both chronic and infectious disease, and the impact of our environment and climate on disease spread, acquisition, and impact.
+
+Code: VTPEH 6104
+Title: Epidemiology in Practice
+Description: This applied course will cover foundational concepts of epidemiology, including data collection, measures of disease frequency and association, diagnostic testing, bias, and study design.
+
+Code: VTPEH 6107
+Title: Public Health Assessment Writing Lab
+Description: This course examines public health issues through a One Health/Planetary Health lens. Through case studies and examples, students learn to apply systems thinking approaches to address public health challenges, and analyze interactions between human, animal and environmental health. There is a substantial writing component to the course.
+
+Code: VTPEH 6108
+Title: Applied Data Analysis
+Description: This course serves to complement data-oriented public health courses to help students hone their data cleaning and analysis skills.
+
+Code: VTPEH 6111
+Title: Infectious Disease and Health
+Description: This course comprises two parts. The lecture section will cover viral, bacterial and parasitic agents important for public health, as well as infectious disease epidemiology, surveillance, and infectious disease countermeasures. The discussion section will address similar topics using cases and professional experiences to drive small-group discussion and applied learning.
+
+Code: VTPEH 6114
+Title: Applied Epidemiology: Disease Surveillance and Outbreak Response
+Description: Global development is driving disease outbreaks; communicable disease prevention and control is a foundational element of public health, reducing death and disability. Core to this practice is the ability to assess and monitor population health; investigate, diagnose, and address health hazards and root causes; communicate effectively to inform and educate; and enable equitable access to prevention and care services. In short, you will be a public health asset if you can engage in applied epidemiology to prevent, detect, mitigate, and respond to communicable disease outbreaks. In this course, you will build and hone your skills as a field epidemiologist. To do so, you will reinforce your understanding of bacterial, viral, and parasitic diseases of concern, and then practice methods to detect outbreaks, to investigate causes, and to support public health prevention through risk mitigation, communication, and policy change.
+
+Code: VTPEH 6121
+Title: Food Systems and Health
+Description: The goal of this course is to introduce students to connections between food systems and health. The course uses concepts, theories and methods from multiple disciplines. Students will explore the complex interconnections of food systems and public health needs and learn from interdisciplinary experts and professionals in the fields of local and international public health, economics, sociology, and environment.
+
+Code: VTPEH 6123
+Title: Food Systems Approaches to Food Safety
+Description: Every year, over 48 million people experience a foodborne illness. In this course you will learn how foodborne illnesses are investigated, and how outbreaks are traced through complex food systems back to the contaminated food. By conducting patient interviews, you will gain practical experience in solving foodborne disease outbreaks. You will also contribute to preventing foodborne outbreaks in our community by working with local food processors to reduce food safety risks.
+
+Code: VTPEH 6132
+Title: Public Health Emergency Management
+Description: Catalog Description (limited to 125 words): This course examines the basic principles of public health emergency management; various types of disasters and emergencies including infectious disease outbreaks, natural disasters and bioterrorism; and how emergency management principles can be applied to public health incidents. Students will be introduced to domestic and international public health emergency preparedness planning, common concepts and processes used such as the Incident Command System (ICS), the National Incident Management System (NIMS), the National Response Framework, and the Strategic Framework for Emergency Preparedness. Legal and ethical considerations relevant to public health emergency management will also be covered.Past incidents, emergencies and disasters will be reviewed, and lessons learned to inform future preparation and response will be discussed. Students will participate in small groups for in-class scenarios and exercises and prepare a press statement regarding a potential public health emergency threat.
+
+Code: VTPEH 6141
+Title: Planetary Health
+Description: Degradation of the environment through climate change, pollution, land use shifts, and more can impact human health in myriad ways. Food access and nutrition, infectious diseases, chronic diseases, mental health, and the impacts of migration and conflict are increasingly being tied to these environmental changes. The Planetary Health course will introduce students to the anthropogenic threats to human health, examine the pathways from environmental change to human health, and design and analyze interventions to improve both human and environmental health. Using systems and interdisciplinary perspectives, we will explore the interconnected challenges of providing for human and ecosystem health in case studies. We will also evaluate possible solutions to planetary health problems and their implications for equity, human health, and environmental health.
+
+Code: VTPEH 6171
+Title: Applied Ethnographic Assessment in Public Health Practice
+Description: This course will introduce students to applied ethnographic assessment. Such assessments use rapid, focused data-gathering techniques and both quantitative and qualitative analyses to address specific questions relevant to social and cultural conditions of individuals and communities, including those relevant to public health practice. They involve describing contexts, processes, preferences, motivations and/or relationships, and can be used for formative research, needs assessment, intervention design, and/or program evaluation (Sangaramoorthy and Kroeger, 2020:3). In this course, we will discuss theoretical underpinnings and data collection and analysis procedures for ethnographic techniques such as direct observations, and social mapping, free listing, and pile sorting, which can be employed in interviews and/or focus group discussions. For each method, students will practice using these methods to explore a community-identified need.
+
+Code: VTPEH 6175
+Title: Introduction to GIS for Public Health
+Description: Geospatial Information Systems (GIS) are becoming increasingly used to advance equity and sustainability programs. This course will provide an introduction to different GIS software packages, as they are currently used by researchers and policymakers. We will explore existing mapping tools currently used to advance health equity in federal policy, create maps using ArcGIS Online, perform geospatial analysis using ArcGIS Desktop and QGIS, and spatially link various disparate datasets to enhance our analyses. Students are encouraged to bring topics and questions they want to explore, as they will have the chance to work on them throughout the course.
+
+Code: VTPEH 6181
+Title: Public Health Practice - Assessment
+Description: Via this course, students will gain an understanding of the importance of comprehensive assessment of a public health need. Students will be exposed to, and expected to practice, assessment methods that are relevant to the field of public health, including literature reviews and secondary data analyses. This will be practiced via in-depth discussion of real-life cases, and by self-directed research, small group work, and peer review.
+
+Code: VTPEH 6183
+Title: Public Health Practice – Monitoring, Evaluation, and Quality Improvement
+Description: Via this seminar, students will gain an understanding of the value and process of implementing routine monitoring and evaluation and continuous quality improvement with public health interventions. This will be practiced via in-depth discussion of real-life cases, and by self-directed research, planning, and peer review, including development of a M&E/CQI plan that could be implemented for a real project. In-person Fall; On-line Winter.
+
+Code: VTPEH 6184
+Title: Public Health Practice - Communication
+Description: Public health efforts are usually dependent on people changing their behavior, attitudes, or perceptions. Communication is a key component of facilitating that change. This course helps students understand the influence of communication in public health and how to use theory to identify the barrier to the desired behavior for a particular audience. Students will learn how to conduct an audience analysis in order to develop targeted, relevant, compelling and accessible communication products. Over the term, we will incorporate theory, best practices, design principles, examples, critiques, cultural considerations, and exploration of various communication forms for different audiences and needs. We will address the basics of relevant communication theory, including theories of behavior change and the role of narrative and emotion. We will address issues of health literacy and the association communication strategies needed to advance public health and health equity. We will cover how communication relates to pressing (inter)national public health issues: climate change, sustainability, misinformation, racism and discrimination. With this foundation, students will gain appreciation for communication's influence on public health and determinants at individual and population levels. Students will assess a range of public health communication efforts and their impacts on audiences, evaluate audience needs, and design a theory-informed public health communication product tailored to a well-defined audience for a specific goal. This product will be developed iteratively through individual and lab-based work over the term. Each student will be assigned a mentor and who has significant experience with behavior change communication and audience analysis. The mentor will provide regular feedback on the progress of the final product. For the final product, working with an external partner is optional, though students who have a relationship with a community partner, clinician and/or researcher may work on a communication-related project for them, subject to approval by course faculty. When possible, faculty will share opportunities for other community-engaged work for students without an existing partner.
+
+Code: VTPEH 6191
+Title: Professional Skills and Explorations in Public Health
+Description: The goal of this course is to prepare students for applied practice and careers in public health through explorations of public health sectors and careers, and through developing knowledge and skills in networking and interviews, writing effective cover letters and resumes, cultural humility and allyship, and community building and respect. Whether you are an experienced practitioner or just starting out in your professional career, this course offers a chance to better understand and articulate your professional goals and utilize resources toward your professional growth.
+
+Code: VTPEH 6193
+Title: Special Topics in Public Health
+Description: The department teaches "trial" courses under this number. Offerings vary by semester and are advertised by the department before the semester starts. Courses offered under the number will be approved by the department curriculum committee, and the same course is not offered more than twice under this number.
+
+Code: VTPEH 6194
+Title: Public Health Toolkit: Applied Practice, Negotiation, and Presenting Transferable Skills
+Description: In this course, students reflect on and document applied practice experiences, develop a portfolio to document competence, and develop and practice public health negotiation skills. Students describe and presenting transferable skills for external audiences, drawing on coursework and applied projects, including in a field work poster session. Students also begin to develop a capstone project aligned with career goals integrative skillsets.
+
+Code: VTPEH 6990
+Title: Graduate Research in Public Health
+Description: Research credits with public health program faculty may include topics of public health and environmental change, food security, local agriculture, civic engagement, health equity, social justice, environmental justice. Contact faculty in the program directly to inquire about available research topics/projects.
+

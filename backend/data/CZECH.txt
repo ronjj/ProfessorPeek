@@ -1,0 +1,8 @@
+Code: CZECH 1131
+Title: Elementary Czech I
+Description: This course aims to expand basic proficiency in understanding, reading, speaking, and writing the Czech language.  The course works through a selection of dialogues, texts and exercises to develop mastery of the most essential idiomatic vocabulary and grammatical structures necessary for basic communications in Czech and for laying a solid foundation for further study of the language.
+
+Code: CZECH 1133
+Title: Intermediate Czech I
+Description: The purpose of this course is for students to acquire intermediate proficiency in reading, writing, speaking and understanding the Czech language while expanding their knowledge of Czech geography, history, culture and contemporary realia.  Students will further their mastery of Czech grammatical structures and develop vocabulary sufficient to discuss areas of personal interest with ease and to accomplish a wide range of communicative tasks.
+

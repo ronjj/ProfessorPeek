@@ -1,0 +1,108 @@
+Code: STS 1126
+Title: FWS: Science and Society Topics
+Description: This seminar explores the ways in which Science and Society shape one another and provides the opportunity to write extensively about this mutual shaping. Topics vary by section.
+
+Code: STS 1201
+Title: Information Ethics, Law, and Policy
+Description: This course investigates the ethical, legal, and policy foundations of contemporary information technology. Through lectures, readings, discussions, and short assignments, we will address contemporary challenges ranging from the contests over intellectual property and privacy in a networked world to questions of inequality and control over technology. We will cover key areas of technology law and policy such as computing ethics; intellectual property; competition, antitrust, and freedom of expression; privacy and security; and AI ethics. We will also address new ethical questions and controversies that law and policy has yet to sort out. Through this course you'll learn about the key frameworks, processes, and institutions that govern the contemporary world of information technology, along with key theories and methods from academic fields that shape and inform them (law, philosophy, economics, political science, communication, sociology, etc.). You will also learn core reading and analytic skills central to success in the worlds of social science, law, policy, and many other settings. But above all you'll learn to engage critically and strategically with the worlds of information and technology around you, deciding what kind of information consumer, user, producer, and citizen you want to be.
+
+Code: STS 2051
+Title: Ethical Issues in Health and Medicine
+Description: In the rapidly changing world of healthcare, complex ethical issues arise from interpersonal interactions between patients and clinicians to broad controversies that propel medicine into headline news. This course will examine ethical challenges in contemporary medicine, healthcare, and biomedical research from the bedside to health policy. Using case-vignettes, news stories, narratives, and readings from the healthcare, ethics, and social science literature we will examine issues from multiple vantage points. A range of topics will be explored including the patient-clinician relationship, heath care decision-making, issues at the beginning and end-of-life, technological advances, human experimentation, healthcare systems, and distributive justice. The course will also examine the fluidity of normative ethical boundaries, and how context and point of reference influence our perceptions of and approach to ethical issues.
+
+Code: STS 2071
+Title: Introduction to the History of Medicine
+Description: This course offers an introductory survey of the history of medicine (principally in Europe and the United States) from classical antiquity to the early twentieth century. Using a combination of both primary and secondary sources, students will learn about the "Hippocratic Heritage" of contemporary western medicine; medicine in late antiquity; faith and healing in the medieval period; medicine and knowledge in the Islamic world; medicine during the Renaissance (particularly the rise of the mechanical philosophy); medicine in the age of Enlightenment; professionalization, women-doctors and midwives, and battles over 'quackery' in the eighteenth and nineteenth centuries; the role of medicine in colonialism and empire; and the promises and perils of modern medicine (dramatic decreases in mortality on the one hand, the rise of Eugenics and the importance of Medicine to the National Socialist State on the other). As well as this temporal survey, we will consider a number of ongoing themes: race, bodily difference, and medicine; medicine and the environment; women, gender, and medicine; the history of the body; the history of sexuality; and the close connections between forms of social order and forms of medical knowledge. The course meets three times a week (for two lectures and a section) and is open to all.
+
+Code: STS 2207
+Title: East Asian Medical and Martial Arts
+Description: East Asian medicinal and martial arts, whether practiced in East Asia or in other parts of the world, have been important points of contact for people within and between often marginalized communities. In this course we will study the twentieth century development of East Asian combat and healing traditions, and the transport of those disciplines to the U.S. We will examine the personal, community, national, and global stakes of East Asian arts for those who invest in suppressing, teaching, and practicing them. We will consider how East Asian martial and medical practices relate, for example, to global and local histories of orientalism, colonialism, migration, and racism, and to historical post-colonial, anti-racist, feminist, and LGBTQ movements. Over the course of the semester, we will research martial and medical arts as they have been practiced in Ithaca, and place these local histories into their broader historical contexts.
+
+Code: STS 2561
+Title: Medicine and Healing in China
+Description: An exploration of processes of change in health care practices in China. Focuses on key transitions, such as the emergence of canonical medicine, of Daoist approaches to healing and longevity, of "scholar physicians," and of "traditional Chinese medicine" in modern China. Inquries into the development of healing practices in relation to both popular and specialist views of the body and disease; health care as organized by individuals, families, communities, and states; the transmission of medical knowledge; and healer-patient relations. Course readings include primary texts in translation as well as secondary materials.
+
+Code: STS 3311
+Title: Environmental Governance
+Description: Environmental governance is defined as the assemblage of institutions that regulate society-nature interactions and shape environmental outcomes across a range of spatial and temporal scales. Institutions, broadly defined, are mechanisms of social coordination including laws (formal) and social norms (informal) that guide the behavior of individuals. Participants in the course will explore the roles of governments, markets, and collective action in environmental management and mismanagement. We will emphasize interactions among leading environmental policy strategies: public regulation, market-based incentives, and community-based resource management. The course is focused around a set of analytic perspectives. These theoretical frameworks allow us to synthesize empirical observations and material changes in ways that inform our understanding of contemporary evolution of environmental policy and management.
+
+Code: STS 3474
+Title: Infrastructure
+Description: Infrastructure! It's the hardware and software that undergirds transportation, energy, water, and security systems. This course asks what we can learn about infrastructure when we approach it not as a neutral set of technologies but as a context-dependent social and political force. Taking a critical approach to (among others) natural resources, labor, housing, and security, the course will trace how infrastructures have both served and obstructed colonial and contemporary projects for social change.
+
+Code: STS 3650
+Title: History and Theory of Digital Art
+Description: In this course, we will examine the role of electronic and digital technologies in the arts of the late 20th and 21st centuries with emphasis on Europe and North America. Beginning with the cybernetically and systems-inspired work of the late sixties, we will explore early uses of computer technology, including early experiments in synthetic video in the 1970s. An overview of pre-internet telematic experiments will lead to an investigation of net art and later currents of digital art. The ongoing development of behavioral art forms will be a central theme. Critical evaluation of various attitudes concerning technology will be encouraged.
+
+Code: STS 3651
+Title: Freud and Psychoanalysis
+Description: Psychoanalysis considers the human being not as an object of treatment, but as a subject who is called upon to elaborate an unconscious knowledge about what is disrupting her life, through analysis of dreams, symptoms, bungled actions, slips of the tongue, and repetitive behaviors.  Freud finds that these apparently irrational acts and behavior are ordered by the logic of the fantasy, which provides a mental representation of a traumatic childhood experience and the effects it unleashes in the mind and body-effects he called drives.  As "unbound" energies, the drives give rise to symptoms, repetitive acts, and fantasmatic stagings that menace our health and sometimes threaten social coexistence, but that also rise to the desires, creative acts, and social projects we identify as the essence of human life.  Readings will include fundamental texts on the unconscious, repression, fantasy, and the death drive, as well as case studies and speculative essays on mythology, art, religion, and group psychology.  Students will be asked to keep a dream journal and to work on their unconscious formations, and will have the chance to produce creative projects as well as analytic essays.
+
+Code: STS 3991
+Title: Undergraduate Independent Study
+Description: Applications for research projects are accepted by individual STS faculty members. Students may enroll for 1–4 credits in STS 3991 with written permission of the faculty supervisor and may elect either the letter grade or the S–U option. Information on faculty research, scholarly activities, and undergraduate opportunities are available in the Science & Technology Studies office, 303 Morrill Hall. Independent study credits may not be used in completion of the major requirements.
+
+Code: STS 4168
+Title: Race and Asia in World History
+Description: This course explores the development of the concept of "race" as applied by and to Asian populations and societies. We also examine the idea of "Asia" and its others in global discourse, including through lenses such as Orientalism, Occidentalism, Pan-Asianism, and Afro-Asianism. Our focus is on the history of East Asia and trans-Pacific entanglements with Western empires from the early modern era to the present. A major theme is race science, or the scientific investigation and construction of "race," as it was practiced on and by East Asian peoples. We also explore intersections of "race" with nationalism, imperialism, warfare, law and citizenship, and sex and the family.
+
+Code: STS 4240
+Title: Designing Technology for Social Impact
+Description: The social impact of technologies is typically thought about fairly late, if ever, in the design process. Indeed, it can be difficult at design time to predict what effects technologies will have. Nevertheless, design decisions can inadvertently "lock in" particular values early on. In this course, we will draw on science & technology studies, technology design, and the arts to analyze the values embodied in technology design and to design technologies to promote positive social impact. What social and cultural values do technology designs consciously or unconsciously promote? To what degree can social impact be "built into" a technology? How can we take social and cultural values into account in design?
+
+Code: STS 4442
+Title: Toxicity
+Description: Identifying and managing the toxic is critical to medical and environmental sciences as well as techniques of governing and resisting. This course takes up the subject of toxicity as a field of expertise, an object of knowledge and ethical substance. We will consider the specific histories of industrialization and of the sciences that shape modern engagements with toxicity, and we will explore other ways that the sorts of harms, poisons, and powers glossed as toxicity have been articulated. Over the course of the semester, students will develop the skills to provincalizing relations between toxicity, remedy and memory. Texts will draw from social theory, anthropology, science and technology studies and history as well as art and activism.
+
+Code: STS 4991
+Title: Honors Project I
+Description: Students must register for 4 credits each semester (4991-4992) for a total of 8 credits. After the first semester, students receive a letter grade of "R"; a letter grade for both semesters is submitted at the end of the second semester whether or not the student completes a thesis or is recommended for honors. Minimally, an honors thesis outline and bibliography should be completed during the first semester. In consultation with the advisors, the director of undergraduate studies will evaluate whether the student should continue working on an honors project. Students should note that these courses are to be taken in addition to those courses that meet the regular major requirements. If students do not complete the second semester of the honors project, they must change the first semester to independent study to clear the "R" and receive a grade. Otherwise, the "R" will remain on their record and prevent them from graduating.
+
+Code: STS 4992
+Title: Honors Project II
+Description: Students must register for the 4 credits each semester (BSOC 4991-BSOC 4992) for a total of 8 credits. After the first semester, students receive a letter grade of "R"; a letter grade for both semesters is submitted at the end of the second semester whether or not the student completes a thesis or is recommended for honors. Minimally, an honors thesis outline and bibliography should be completed during the first semester. In consultation with the advisors, the director of undergraduate studies will evaluate whether the student should continue working on an honors project. Students should note that these courses are to be taken in addition to those courses that meet the regular major requirements. If students do not complete the second semester of the honors project, they must change the first semester to independent  study to clear the "R" and receive a grade. Otherwise, the "R" will remain on their record and prevent them from graduating.
+
+Code: STS 6168
+Title: Race and Asia in World History
+Description: This course explores the development of the concept of "race" as applied by and to Asian populations and societies. We also examine the idea of "Asia" and its others in global discourse, including through lenses such as Orientalism, Occidentalism, Pan-Asianism, and Afro-Asianism. Our focus is on the history of East Asia and trans-Pacific entanglements with Western empires from the early modern era to the present. A major theme is race science, or the scientific investigation and construction of "race," as it was practiced on and by East Asian peoples. We also explore intersections of "race" with nationalism, imperialism, warfare, law and citizenship, and sex and the family.
+
+Code: STS 6261
+Title: Seminar in the History of Technology
+Description: Graduate-level survey of the history of technology, which introduces some key questions, concepts, and approaches within the field since the 1980s. Typical themes include social construction of technology; technological systems and infrastructure; technopolitics; race, class, genders, disability, and technology; users; envirotech; maintenance and repair; colonialism and decolonizing technology; and public and engaged #histtech.
+
+Code: STS 6312
+Title: Synthesizing Pop: Electronics and the Musical Imagination
+Description: From Switched-On Bach to Synthpop and EDM, since the late 1960s electronic synthesizers have expanded the sonic palette and identity formation of popular musicians, leading to new concepts of sound and performance as well as communal, technological, and human interfaces. This course will explore the cultural history of analog synthesizers and their progeny of digital devices (samplers, sequencers, drum machines) and desktop technologies that revolutionized popular music soundscapes and embodiment. Synthesis will be considered as both a musical technology and theoretical concept that together spark imagined cyborg identities and post-human futures, challenging and resynthesizing categories of gender, sexuality, and race. Student will also have the opportunity to engage with Cornell's Robert Moog Archive and develop research, creative, or curation projects. This course is open to graduate students and fourth-year undergraduates by permission. Undergraduates should contact the instructor before enrolling.
+
+Code: STS 6445
+Title: German Media Theories
+Description: This seminar examines German media theories from the Frankfurt School to the Kittler Network and beyond. We will discuss influential concepts associated with this work (e.g., the culture industry, the public sphere, discourse networks), along with related concepts in media and cultural studies (e.g., space and time, analog and digital, old and new media). Theoretical readings address questions about media aesthetics, intermediality, and media change; automation, mechanization, and standardization; and communication, command, and control. Engaging with scholarly debates about interdisciplinarity and theory transfer, we will also revisit and revise reductive stereotypes about media critique, technological determinism, and the "Germanness" of German media theories.
+
+Code: STS 6474
+Title: Infrastructure
+Description: Infrastructure! It's the hardware and software that undergirds transportation, energy, water, and security systems. This course asks what we can learn about infrastructure when we approach it not as a neutral set of technologies but as a context-dependent social and political force. Taking a critical approach to (among others) natural resources, labor, housing, and security, the course will trace how infrastructures have both served and obstructed colonial and contemporary projects for social change.
+
+Code: STS 6991
+Title: Graduate Independent Study
+Description: Applications and information are available in 303 Morrill Hall.
+
+Code: STS 7005
+Title: STS Perspectives
+Description: This one-credit seminar is designed to introduce PhD students in Science & Technology Studies (STS) to the faculty in the STS graduate field and their scholarly interests and work. Faculty members will be invited to lead one week of the course during the fall semester. Course leaders will set the agenda for their week (e.g., discussing a reading of their choice, introducing their research agenda, or discussing emerging issues the field). Reading assignments will be minimal; no more than 40 pages each week.
+
+Code: STS 7006
+Title: STS Research I: A Course for Second-Year PhD Students in the Field
+Description: The goal of this year-long course is to train students in the process of conducting research in STS, providing hands on experience and discussions of the research process. Students will plan and execute an appropriately scaled empirical research project in STS and complete a "second-year paper" by the end of the Spring semester. They will refine initial research concepts into more specific research questions; review literature relevant to their topic; identify data sources and collect data and materials; address research ethics and obtain IRB approval (if needed); manage the inevitable contingencies of research; and write and revise their second-year papers.
+
+Code: STS 7111
+Title: Introduction to Science and Technology Studies
+Description: Provides students with a foundation in the field of science and technology studies. Using classic works as well as contemporary exemplars, seminar participants chart the terrain of this new field. Topics for discussion include, but are not limited to, historiography of science and technology and their relation to social studies of science and technology, laboratory studies, intellectual property, science and the state, the role of instruments, fieldwork, politics and technical knowledge, philosophy of science, sociological studies of science and technology, and popularization.
+
+Code: STS 7442
+Title: Toxicity
+Description: Identifying and managing the toxic is critical to medical and environmental sciences as well as techniques of governing and resisting. This course takes up the subject of toxicity as a field of expertise, an object of knowledge and ethical substance. We will consider the specific histories of industrialization and of the sciences that shape modern engagements with toxicity, and we will explore other ways that the sorts of harms, poisons, and powers glossed as toxicity have been articulated. Over the course of the semester, students will develop the skills to provincalizing relations between toxicity, remedy and memory. Texts will draw from social theory, anthropology, science and technology studies and history as well as art and activism.
+
+Code: STS 7937
+Title: Proseminar in Peace Studies
+Description: The Proseminar in Peace Studies offers a multidisciplinary review of issues related to peace and conflict at the graduate level. The course is led by the director of the Judith Reppy Institute for Peace and Conflict Studies and is based on the Institute's weekly seminar series, featuring outside visitors and Cornell faculty.
+

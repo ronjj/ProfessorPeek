@@ -1,0 +1,216 @@
+Code: PHYS 1012
+Title: Physics 1112 Supplement
+Description: Provides auxiliary instruction and practice for PHYS 1112 and promotes a deep understanding of basic concepts in mechanics. Recommended for students who seek additional opportunities to engage with course content, to gain confidence in applying physics principals, or to develop their problem-solving skills. Class time is also spent exploring real-life applications and discussing strategies for successful learning and performance in PHYS 1112 .
+
+Code: PHYS 1013
+Title: Physics 2213 Supplement
+Description: Provides auxiliary instruction and practice for PHYS 2213 and promotes a deep understanding of basic concepts in electromagnetism. Recommended for students who seek additional opportunities to engage with course content, to gain confidence in applying physics principals, or to develop their problem-solving skills. Class time is also spent exploring real-life applications and discussing strategies for successful learning and performance in PHYS 2213 .
+
+Code: PHYS 1101
+Title: General Physics I
+Description: PHYS 1101 and PHYS 1102 emphasize both quantitative and conceptual understanding of the topics and tools of introductory physics developed without the use of calculus. The courses offer individualized instruction. Students learn through completing assigned readings, problems, and laboratory exercises, and through individualized tutoring. Additionally, recorded lectures, overview sessions, short videos, sample tests, and online tutorials are provided. The course format provides flexibility, but in some ways is more demanding than a course with a traditional format. Success requires discipline and well-developed study habits. Students without high school physics should allow extra time. Evaluation includes an oral lab check, a selection of graded homework problems, and a written test for each unit; these must be completed within a flexible set of deadlines. Major topics for PHYS 1101: forces and equilibrium, kinematics, dynamics, momentum, energy, fluid mechanics, waves and sound, thermal physics, and thermodynamics. At the level of College Physics, 5th edition, by Giambattista.
+
+Code: PHYS 1110
+Title: Introduction to Experimental Physics
+Description: This laboratory course is an introduction to the nature and skills of experimentation in physics. Students will engage in multi-week investigations, creatively design their own experiments, and explore questions of how we develop models in physics through experiments. Students will learn how to design experiments, analyze data, develop interesting research questions, and consider issues of ethics in physics experiments. Students will also develop communication and collaboration skills. The course aims to provide an opportunity for students to consider the nature of measurement and experimentation and evaluate the relationship between physical theories and experimental data.
+
+Code: PHYS 1112
+Title: Physics I: Mechanics and Heat
+Description: First course in a three-semester introductory physics sequence. This course is taught in a largely "flipped', highly interactive manner, with reading preparation and online reading quizzes required for class. Covers the mechanics of particles with focus on kinematics, dynamics, conservation laws, central force fields, periodic motion.&nbsp;Mechanics of many-particle systems: center of mass, rotational mechanics of a rigid body, translational & rotational equilibrium. Temperature, heat, the laws of thermodynamics. At the level of University Physics, Vol. 1, by Young and Freedman.
+
+Code: PHYS 1116
+Title: Physics I: Mechanics and Special Relativity
+Description: First in a three-semester introductory physics sequence. Explores quantitative modeling of the physical world through a study of mechanics. More mathematical than a typical mechanics course - for example, considers how choice of coordinate system (Cartesian, cylindrical, etc.) influences the nature of kinematical equations. Includes kinematics, dynamics, conservation laws, central force fields, periodic motion, and special relativity. At the level of An Introduction to Mechanics by Kleppner and Kolenkow, which assumes a strong mathematical foundation in calculus.
+
+Code: PHYS 1190
+Title: Introductory Laboratory (Transfer Supplement)
+Description: Students perform the laboratory component of one of the introductory courses ( PHYS 1101 , PHYS 1102 , PHYS 2207, PHYS 2208,  PHYS 2214) to complement the lecture-related course credit acquired elsewhere. Those wishing to take equivalent of one of these introductory courses at another institution should receive prior approval from the physics director of undergraduate studies.
+
+Code: PHYS 1201
+Title: Why the Sky Is Blue: Aspects of the Physical World
+Description: One of the existential problems of our time is telling the difference between something that is fake and something that is real. Physics can be a powerful tool for making such distinctions because it provides physical laws that cannot be violated. In this class you will learn about these laws and how to use them to analyze everyday phenomena. Aimed specifically at the nonscience student, this course will examine the principles of physics from a conceptual point of view, with emphasis on the methodology of science and the nature of evidence.
+
+Code: PHYS 1205
+Title: The Physics of Sailing
+Description: This course teaches quantitative reasoning by combining the science and technology of sailboats with an outdoors experience of its practical application. A basic mathematics and physics education is a prerequisite. Topics will include: wind power, boat types, sail plans, winches and pulleys; keels; propelling and resistive forces; water waves and hull speed; real and apparent wind velocity; the wind rose; weather formations; heaving to and storm techniques; knots and why they work; and water waves. Experimental projects performed on Cayuga Lake include measuring phase and group velocities, the wind rose, and the hull speed, to compare to data sheets.
+
+Code: PHYS 2207
+Title: Fundamentals of Physics I
+Description: Physics 2207-PHYS 2208 is a two-semester introductory physics sequence with lab. The first course, Physics 2207, builds the foundations for quantitatively modeling the world around us and reasoning about physical phenomena. These skills are developed in the context of mechanics, thermodynamics, fluid mechanics, and waves.  Includes applications from the sciences, medicine, and everyday life.  Taught at the level of "College Physics" by Knight, Jones, and Field.
+
+Code: PHYS 2210
+Title: Exploring Experimental Physics
+Description: In this laboratory course, students will build on the knowledge and skills developed in Physics 1110 (Introduction to Experimental Physics) to conduct semester-long experimental physics projects. Students will work in lab project teams to iteratively develop a research question, write a proposal that is reviewed by their peers and experts, engage for multiple weeks with their project, and present their findings in a public poster session at the end of the semester. Students will learn additional skills in experimental design and data analysis, with broader focuses on how to generate interesting, testable, and feasible research questions, how to provide critical and constructive feedback to others, and how to present research to a broad audience. The course provides an early opportunity for students to get a glimpse of experimental physics research, employ creativity to generate an answer to a novel research question and/or design a unique experimental approach.
+
+Code: PHYS 2213
+Title: Physics II: Electromagnetism
+Description: Second course in a three semester introductory physics sequence. The course emphasizes active learning during class. Video lectures are viewed before class; most class time is devoted to problem-solving.  Topics include: electric forces and fields, electric energy and potential, circuits, magnetic forces and fields, magnetic induction, and Maxwell's equations. Taught at a level somewhat higher than University Physics, Vol. 2, by Young and Freedman. The math prerequisite is essential: line, surface, and volume integrals are done routinely and occasional use is made of gradient, divergence, and curl.
+
+Code: PHYS 2214
+Title: Physics III: Oscillations, Waves, and Quantum Physics
+Description: For majors in engineering (including bio-, civil, and environmental engineering), computer and information science, physics, earth and atmospheric science, and other physical and biological sciences who wish to understand the oscillation, wave, and quantum phenomena behind everyday experiences and modern technology including scientific/medical instrumentation. Covers the physics of oscillations and wave phenomena, including driven oscillations and resonance, mechanical waves, sound waves, electromagnetic waves, standing waves, Doppler effect, polarization, wave reflection and transmission, interference, diffraction, geometric optics and optical instruments, wave properties of particles, particles in potential wells, light emission and absorption, and quantum tunneling. With applications to phenomena and measurement technologies in engineering, the physical sciences, and biological sciences.  Some familiarity with differential equations, complex representation of sinusoids, and Fourier analysis is desirable but not essential. As with PHYS 1112 and PHYS 2213, pre-class preparation involves reading notes and/or watching videos, and in-class activities focus on problem solving, demonstrations, and applications.
+
+Code: PHYS 2216
+Title: Introduction to Special Relativity
+Description: Introduction to Einstein's Theory of Special Relativity, including Galilean and Lorentz transformations, the concept of simultaneity, time dilation and Lorentz contraction, the relativistic transformations of velocity, momentum and energy, and relativistic invariance in the laws of physics. At the level of An Introduction to Mechanics by Kleppner and Kolenkow.
+
+Code: PHYS 2217
+Title: Physics II: Electricity and Magnetism
+Description: Second in a three semester introductory physics sequence. Explores quantitative modeling of the physical world through a study of electricity and magnetism. More mathematical and abstract than a typical introductory electricity and magnetism course. Topics include electrostatics, behavior of matter in electric fields, circuits, magnetic fields, Faraday's law, AC circuits, and electromagnetic waves. Makes substantial use of vector calculus. At the level of Electricity and Magnetism by Purcell.
+
+Code: PHYS 2218
+Title: Physics III: Waves and Thermal Physics
+Description: This course is divided into two parts. The larger segment of the course typically focuses on wave phenomena. Topics include: coupled harmonic oscillators, strings, sound and light waves, superposition principle, wave equations, Fourier series and transforms, diffraction and interference. The discussion is at the level of The Physics of Waves by Georgi. The second segment of the course covers thermodynamics and statistical mechanics at the level of Thermal Physics by Schroeder.
+
+Code: PHYS 3310
+Title: Intermediate Experimental Physics
+Description: Would you find it appealing to operate a physical system that allows you to sharply distinguishes between rational and irrational numbers? How about using a microwave thermometer to measure the temperature of a distant object namely the sun's outer surface? Would you like to measure fundamentals of nature, such as the charge to mass ratio of the electron, or the atomic structure of Hydrogen? In Physics 3310, you will have experiences such as these as you decide for yourself how valid or applicable various theoretical results are that you have already encountered or look forward to encountering in 3000 level intermediate level courses such as  quantum and classical mechanics and electrodynamics. You'll acquire  essential skills to tease out the truth about nature as an experimental physicist with particular emphasis on the awareness and management of uncertainty. The environment of 3310 promotes individual creativity and discovery with the encouragement and aid of coursemates and staff.
+
+Code: PHYS 3316
+Title: Basics of Quantum Mechanics
+Description: Topics include breakdown of classical concepts in microphysics; light quanta and matter waves; Schrödinger equation and solutions for square well, harmonic oscillator, and the hydrogen atom; wave packets, scattering and tunneling effects, angular momentum, spin, and magnetic moments. At the level of An Introduction to Quantum Physics by French and Taylor and Introduction to Quantum Physics by Griffiths.
+
+Code: PHYS 3317
+Title: Applications of Quantum Mechanics
+Description: Covers a number of applications of quantum mechanics to topics in modern physics. Uses the tools developed in PHYS 3316 , and does not introduce new formalism. Topics include the physics of single and multi-electron atoms, molecular physics, introduction to quantum statistics, topics in solid-state physics, nuclear structure, and elementary particle physics. Students will develop their order-of-magnitude reasoning and their modeling skills.
+
+Code: PHYS 3327
+Title: Advanced Electricity and Magnetism
+Description: Focuses on advanced electro/magnetostatics, such as vector and scalar potentials and multipole expansion of the potential solutions to Laplace's Equation and boundary value problems, as well as  time-dependent electrodynamics: Maxwell's Equations, electromagnetic waves, reflection and refraction, wave guides, and generation of electromagnetic radiation (retarded potential). As time permits, topics will be drawn from antennas, relativistic electrodynamics, four vectors, Lorentz, and transformation of fields based on the interest of the class. At the level of Classical Electromagnetic Radiation by Heald and Marion or the more advanced chapters of Introduction to Electrodynamics by Griffiths.
+
+Code: PHYS 3360
+Title: Electronic Circuits
+Description: Practical electronics as encountered in a scientific or engineering research/development environment. Analyze, design, build, and test circuits using discrete components and integrated circuits. Analog circuits: resistors, capacitors, operational amplifiers, feedback amplifiers, oscillators, comparators, passive and active filters, diodes, and transistor switches and amplifiers. Digital circuits: combinational and sequential logic (gates, flipflops, registers, counters, timers), analog to digital (ADC) and digital to analog (DAC) conversion, signal averaging, and computer architecture and interfacing. Additional topics may include analog and digital signal processing, light wave communications, transducers, noise reduction techniques, and computer-aided circuit design. At the level of Art of Electronics by Horowitz and Hill.
+
+Code: PHYS 4230
+Title: Statistical Thermodynamics
+Description: Quantum statistical basis for equilibrium thermodynamics, microcanonical, canonical and grand canonical ensembles, and partition functions. Classical and quantum ideal gases, paramagnetic and multiple-state systems. Maxwell-Boltzmann, Fermi-Dirac, and Bose-Einstein statistics and applications. Introduction to systems of interacting particles. At the level of Introductory Statistical Mechanics by Bowley and Sanchez.
+
+Code: PHYS 4400
+Title: Informal Advanced Laboratory
+Description: Experiments of widely varying difficulty in one or more areas, as listed under PHYS 4410, may be done to fill the student's special requirements.
+
+Code: PHYS 4410
+Title: Advanced Experimental Physics
+Description: Over 30 available experiments on various topics including atomic and molecular spectroscopy, optics, condensed matter physics, nuclear physics, electrical and microwave circuits, x-rays, and magnetic resonance. Each student selects and performs two experiments and completes one project. Independent work is stressed, and scientific writing and presentation skills are emphasized. Weekly lectures will cover techniques and skills necessary for the class and experimental physics in general.
+
+Code: PHYS 4445
+Title: Introduction to General Relativity
+Description: One-semester introduction to general relativity that develops the essential structure and phenomenology of the theory without requiring prior exposure to tensor analysis. General relativity is a fundamental cornerstone of physics that underlies several of the most exciting areas of current research, including relativistic astrophysics, cosmology, and the search for a quantum theory of gravity. The course briefly reviews special relativity, introduces basic aspects of differential geometry, including metrics, geodesics, and the Riemann tensor, describes black hole spacetimes and cosmological solutions, and concludes with the Einstein equation and its linearized gravitational wave solutions. At the level of Gravity: An Introduction to Einstein's General Relativity by Hartle.
+
+Code: PHYS 4454
+Title: Introductory Solid State Physics
+Description: Introduction to the physics of crystalline solids. Covers crystal structures; diffraction; electronic states and density functional theory; lattice vibrations; and metals, insulators, and semiconductors. Covers optical properties, magnetism, and superconductivity as time allows. The majority of the course addresses the foundations of the subject, but time is devoted to modern and/or technologically important topics such as quantum size effects. At the level of Introduction to Solid State Physics by Kittel or Solid State Physics by Ashcroft and Mermin.
+
+Code: PHYS 4480
+Title: Computational Physics
+Description: Covers numerical methods for ordinary and partial differential equations, linear algebra and eigenvalue problems, integration, nonlinear equations, optimization, and fast Fourier transforms. Find out how and why the "black-box" numerical routines you use work, how to improve and generalize them, and how to fix them when they don't. Based on the text Numerical Recipes by William H. Press, Saul A. Teukolsky, William T. Vetterling, and Brian P. Flannery.
+
+Code: PHYS 4481
+Title: Quantum Information Processing
+Description: Hardware that exploits quantum phenomena can dramatically alter the nature of computation. Though constructing a general purpose quantum computer remains a formidable technological challenge, there has been much recent experimental progress. In addition, the theory of quantum computation is of interest in itself, offering new perspectives on the nature of computation and information, as well as providing novel insights into the conceptual puzzles posed by quantum theory. This course is intended for physicists, unfamiliar with computational complexity theory or cryptography, and for computer scientists and mathematicians with prior exposure to quantum mechanics. Topics include: simple quantum algorithms, error correction, cryptography, teleportation, and uses of quantum computing devices either currently available or to be available in the near future.
+
+Code: PHYS 4484
+Title: Teaching and Learning Physics
+Description: This 1.5-hour weekly seminar provides undergraduate and graduate students with an introduction to core concepts in teaching and learning physics. Participants read and discuss articles and videos, reflect on their own teaching and learning experiences, and engage in collaborative activities that help them become more effective teachers, learners, and communicators. This seminar is especially valuable for those considering teaching physics at some point in their careers, or who want to improve their own physics learning skills. Topics may include: question types and questioning strategies; classroom discourse; neurological basis of learning; expertise acquisition and expert performance; deliberate practice; misconceptions, mental models and conceptual change; mindsets and psychological interventions; classroom diversity and microaggressions; multiple intelligences and multiple representations; metacognition; active learning; the nature of science; the qualities of effective teachers; and evaluating teaching and learning.
+
+Code: PHYS 4485
+Title: Teaching Experience I
+Description: Designed to provide qualified undergraduate students who possess an interest in teaching with a structured experience teaching physics.  Participants collaborate with instructors and graduate teaching assistants to facilitate cooperative learning sessions, laboratory investigations, or homework help sessions.  Total weekly time commitment is 3-4 hours, including instructional contact time (2 hours), preparation time, and instructional staff meeting time.
+
+Code: PHYS 4486
+Title: Teaching Experience II
+Description: Teaching experience for qualified undergraduate students in PHYS 1101/PHYS 1102. Contact time will be in the course's Learning Center, in a team environment with graduate student TAs and faculty. Activities include tutoring individual students, working with small groups, assisting students with lab experiments, and participating in course development initiatives.
+
+Code: PHYS 4487
+Title: Teaching Experience III
+Description: Continuation of PHYS 4486. Teaching experience for qualified undergraduate students to help with PHYS 1101/PHYS 1102. Contact time will be in the course's Learning Center, in a team environment with graduate student TAs and faculty. Activities include tutoring individual students, working with small groups, assisting students with lab experiments, and participating in course development initiatives.
+
+Code: PHYS 4490
+Title: Independent Study in Physics
+Description: Individual project work (reading or laboratory) in any branch of physics.  Products vary, but may include a thesis. Evaluation criteria are decided between student and faculty member.
+
+Code: PHYS 4498
+Title: Senior Thesis
+Description: The first half of a two-semester thesis course involving physics-related research under the direct supervision of a faculty member. The thesis research may take many forms including but not restricted to : theoretical calculations, design of instrumentation, experimental research, or numerical simulations. Students wishing to pursue the senior thesis must submit a proposal, with the approval of a faculty supervisor, in spring of their junior year.
+
+Code: PHYS 4997
+Title: Cross-Cultural Work Experience in Physics
+Description: This independent study course offers physics majors (i.e., undergraduates whose applications to affiliate with the physics major have been approved) an opportunity to reflect on concepts from physics as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the physics major.
+
+Code: PHYS 5520
+Title: Supramolecular Biophysics
+Description: This course will describe how biomolecules cooperate to assembly structures, build material, and process information. We will start by discussing stoichiometric assembly macromolecular complexes. Then, we'll discuss how biomolecules assemble to make 1D, 2D and 3D materials. These include, cytoskeletal filaments, phospholipid bilayers, and biomolecular condensates. Finally, we'll discuss how cells use these phenomena for control (regulation) and computation.
+
+Code: PHYS 6500
+Title: Informal Graduate Laboratory
+Description: Experiments of widely varying difficulty in one or more areas, as listed under PHYS 6510, may be done to fill special requirements.
+
+Code: PHYS 6510
+Title: Advanced Experimental Physics
+Description: Over 30 available experiments on various topics including atomic and molecular spectroscopy, optics, condensed matter physics, nuclear physics, electrical and microwave circuits, x-rays, and magnetic resonance. Each student selects and performs two experiments and completes one project. Independent work is stressed, and scientific writing and presentation skills are emphasized. Weekly lectures will cover techniques and skills necessary for the class and experimental physics in general.
+
+Code: PHYS 6520
+Title: Projects in Experimental Physics
+Description: Projects of modern topical interest that involve some independent development work by student. Opportunity for more initiative in experimental work than is possible in PHYS 6510.
+
+Code: PHYS 6553
+Title: General Relativity I
+Description: A comprehensive introduction to Einstein's theory of relativistic gravity. This course focuses on the formal structure of the theory.
+
+Code: PHYS 6561
+Title: Electrodynamics
+Description: Covers special relativity, Maxwell's equations, electromagnetic potentials, conservation laws, Green's functions, electromagnetic waves, dispersion, radiation theory, and scattering. The practical application of appropriate mathematical methods is emphasized. The course will use Classical Electrodynamics by Jackson and Modern Electrodynamics by Zangwill.
+
+Code: PHYS 6572
+Title: Quantum Mechanics I
+Description: First part of the two-semester graduate quantum mechanics sequence. Covers non-relativistic quantum physics, focusing on fundamental conceptual issues and methods. Topics include: fundamental concepts of quantum mechanics using the Dirac notation, theory of angular momentum and spin, symmetries,  approximation methods and identical particles, at the level of Sakurai Modern Quantum Mechanics.
+
+Code: PHYS 6599
+Title: Cosmology
+Description: Intended to provide a detailed theoretical development of current ideas in cosmology. Topics include Big Bang cosmology and the universe's matter content; a cosmological chronology of the very early universe, symmetry breaking, inflationary scenarios, nucleosynthesis, recombination, growth of irregularities, galaxy formation and clustering, dark energy; current and future cosmological observational approaches.
+
+Code: PHYS 7601
+Title: Foundations of Fluid Mechanics I
+Description: Foundations of fluid mechanics from an advanced viewpoint, including formulation of continuum fluid dynamics; kinematic descriptions of fluid flow, derivation of the Navier-Stokes equations and energy equation for compressible fluids; and sound waves, viscous flows, boundary layers, and potential flows.
+
+Code: PHYS 7635
+Title: Solid-State Physics I
+Description: Survey of the physics of solids starting with crystal structures and the band theory of electrons and phonons. Selected topics from semiconductors, magnetism, superconductivity, spin liquids, disordered materials, topology, and mesoscopic physics. The focus is to enable graduate research at the current frontiers of condensed matter physics.
+
+Code: PHYS 7651
+Title: Relativistic Quantum Field Theory I
+Description: Introduction to relativistic quantum field theory for applications in particle physics. Topics include quantization of scalar fields,  perturbation theory, Feynman diagrams, conservation laws, calculation of decay rates and cross sections, causality and unitarity, introduction to radiative corrections, renormalization and effective field theories, introduction to the Lorentz and Poincare groups, Weyl, Majorana and Dirac fermions, quantization and Feynman rules for fermionic theories. At the level of Quantum Field Theory and the Standard Model by Schwartz.
+
+Code: PHYS 7653
+Title: Statistical Physics II
+Description: An advanced, graduate-level exploration of selected topics in statistical mechanics – topics such as mean-field theory, scaling analysis, theories of quantum and classical phase transitions, renormalization-group methods, classical spin models, quantum rotor models, etc.
+
+Code: PHYS 7667
+Title: Physics of Stars, Neutron Stars and Black Holes
+Description: Major topics include: the structure and evolution of stars; solar neutrino astronomy; stellar seismology; the physics of white dwarfs, neutron stars and black holes; the physics of low mass stars and connection to planets. Basic ideas in atomic and molecular physics, condensed matter physics, nuclear and particle physics, fluid mechanics and general relativity are introduced in a practical fashion that emphasizes concepts useful for understanding astrophysical phenomena.
+
+Code: PHYS 7680
+Title: Computational Physics
+Description: Covers numerical methods for ordinary and partial differential equations, linear algebra and eigenvalue problems, integration, nonlinear equations, optimization, and fast Fourier transforms. Find out how and why the "black-box" numerical routines you use work, how to improve and generalize them, and how to fix them when they don't. Based on the text Numerical Recipes by William H. Press, Saul A. Teukolsky, William T. Vetterling, and Brian P. Flannery.
+
+Code: PHYS 7681
+Title: Quantum Information Processing
+Description: Hardware that exploits quantum phenomena can dramatically alter the nature of computation. Though constructing a general purpose quantum computer remains a formidable technological challenge, there has been much recent experimental progress. In addition, the theory of quantum computation is of interest in itself, offering new perspectives on the nature of computation and information, as well as providing novel insights into the conceptual puzzles posed by quantum theory. This course is intended for physicists, unfamiliar with computational complexity theory or cryptography, and for computer scientists and mathematicians with prior exposure to quantum mechanics. Topics include: simple quantum algorithms, error correction, cryptography, teleportation, and uses of quantum computing devices either currently available or to be available in the near future.
+
+Code: PHYS 7684
+Title: Teaching and Learning Physics
+Description: This 1.5-hour weekly seminar provides undergraduate and graduate students with an introduction to core concepts in physics education. Participants discuss articles and videos drawn from physics and science education research and from cognitive science, and engage in collaborative activities that help them become more effective teachers, communicators and learners. This seminar is especially valuable for those considering teaching physics at some point in their careers. Topics include: Questioning Strategies, Classroom Discourse, Teaching through misconceptions, Argumentation approach to instruction, Learning Theory, Conceptions and Conceptual Change and Fixed vs Growth Mind-set, Science communication. Text: Articles from science, engineering, and math education journals.
+
+Code: PHYS 7685
+Title: Special Topics in Physics
+Description: This seminar is indented for first-year graduate students in the Department of Physics. Topics covered include general resources and policies,  fellowship applications, library services, resources for well-being, diversity and inclusion, and faculty research presentations. This one-credit course provides some of the foundations and tools for graduate research in the field of Physics and surveys some of the available research opportunities and groups.
+
+Code: PHYS 7687
+Title: Special Topics in Physics
+Description: This course will provide students with a basic understanding of the statistical mechanical properties of DNA and how these properties impact processes on DNA.
+
+Code: PHYS 7690
+Title: Independent Study in Physics
+Description: Special graduate study in some branch of physics, either theoretical or experimental, under the direction of any professorial member of the staff.
+

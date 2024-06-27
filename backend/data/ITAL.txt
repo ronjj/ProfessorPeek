@@ -1,0 +1,60 @@
+Code: ITAL 1110
+Title: Elementary Italian In Rome I
+Description: This introductory course provides a thorough grounding in all the language skills: listening, speaking, reading, and writing, with practice in small groups.
+
+Code: ITAL 1113
+Title: FWS: Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century
+Description: The Jewish community of Rome is the oldest one in all of Europe, dating back to 200 B. C., and the authors of some of the most important twentieth century works of Italian literature are Jewish. In this course we will examine how some of these writers (Moravia, Bassani, Primo Levi, Carlo Levi, Ginzburg, Sereni, Bruck, Loewenthal, Janaczek, Elkann and Pipermo) have articulated the self against the background of the historical events that have shaped the past hundred years; two world wars and different social movements of the pre- and post- WWII eras. This seminar includes two film screenings.
+
+Code: ITAL 1120
+Title: Elementary Italian In Rome II
+Description: This introductory course provides a thorough grounding in all the language skills: listening, speaking, reading, and writing, with practice in small groups.
+
+Code: ITAL 1201
+Title: Italian I
+Description: ITAL 1201 is a fast-paced, introductory-level course, designed for students with no previous knowledge of Italian.  Students will be guided in developing four language skills (listening, speaking, reading, and writing) in the context of everyday topics (school, housing, travel personal preferences, simple exchanges about past, future and possible events, etc.).  They will also be introduced to culturally acceptable modes of oral and written communication in Italian, some fundamentals of Italian history, and select current social and political issues.
+
+Code: ITAL 2110
+Title: Italian Intermediate Composition and Conversation I in Rome
+Description: This is an all-skills course designed to improve speaking and reading ability, establish a groundwork for correct writing, and provide a substantial grammar review.
+
+Code: ITAL 2130
+Title: Italian Intermediate Composition and Conversation II in Rome
+Description: This course provides a review of composition, reading, pronunciation, and grammar review, as well as guided practice in conversation.  It emphasizes the development of accurate and idiomatic expression in the language.
+
+Code: ITAL 2201
+Title: Italian III
+Description: An intermediate-level course that aims to further develop intercultural, reading, listening, speaking, and writing abilities.   Students will be guided in perfecting their communications skills, improving their cultural proficiency, and developing a critical eye toward printed and visual material drawn from literature, history, politics, arts in the Italophone world.  Conversation skills will be practiced in daily discussions and in individual or group projects and presentations.  A variety of written assignments will help students increase the range, accuracy, and stylistic appropriateness of their writing.  Review of  select grammar topics is part of this course, as is reading parts of contemporary novels.
+
+Code: ITAL 2203
+Title: Languages-Literatures-Identities
+Description: This course aims to introduce students to Italian literature mainly through readings in prose and poetry from the 20th and 21st century. The course includes significant practice in grammar, vocabulary building, and composition. Course Topic: Living Together in a multicultural society. Our principal reading will be Scontro di civiltà per un ascensore a piazza Vittorio, a 2006 award-winning novel by Algerian-Italian writer Amara Lakhous who came to Italy in 1995 as a political refugee; with this novel, he invites Italian readers to examine their 21st-century reality through the eyes of the immigrant.
+
+Code: ITAL 2290
+Title: Italian Mysteries
+Description: In this class we will trace the genre of the mystery story in Italy from Pinocchio (the mystery of who or what qualifies as a human being) through the 20th century across Italian art, literature, and cinema.  works by Carlo Collodi and Leonardo Sciascia will be featured along with classic cinema from Italy in order to answer a question that haunts Italian culture: who is the puppet and who is the master?
+
+Code: ITAL 3600
+Title: Machiavelli, Yesterday and Today
+Description: This course, offered in Romance Studies in the Italian Section, is meant for students who have no prior knowledge of Machiavelli, political science, or for that matter the Renaissance.  It is both an introduction to one of the greatest political thinkers of the modern period, the father for many of what has come to be called political science, and a chance to reflect upon why it is that no thinker has been more cited or called upon in the last decade.  Whether it be on questions of populism or the effects of climate change how people are governed, Machiavelli seems to speak to us directly in ways that few others do.
+
+Code: ITAL 4190
+Title: Special Topics in Italian Literature
+Description: Guided independent study of special topics.
+
+Code: ITAL 4290
+Title: Honors in Italian Literature
+Description: Consult director of undergraduate studies for more information.
+
+Code: ITAL 6224
+Title: Beauty, Grief
+Description: This course is for anyone drawn to beauty-and anyone who, within the beautiful, finds the trace of a loss. What do we grieve, what do we miss, when we find ourselves in the presence of beauty? And what, in every retrospective, prospective or otherwise non-present beauty, do we nonetheless crave and nonetheless mourn? What is the beauty hidden within mourning? We'll take a look at thinkers, poets, and artists from both modern and premodern culture, potentially including Anne Carson, Augustine of Hippo, Fra Angelico, Gillian Rose, Hervé Guibert, Pepe Espáliu, and others, as we try to sit with dual summons of beauty and grief: beauty or grief.
+
+Code: ITAL 6270
+Title: Dante's Commedia
+Description: In this seminar, dedicated to a close reading of Dante's Commedia (1321), we will consider how Dante's poem explores such issues as: the search for language adequate to convey experience surpassing human comprehension; the creation of a narrating "I"; the education of the reader; the relation between truth and enterprise; the redemptive potential of art (and its ability to deceive as well as to enlighten and console): the call to bear witness, both to life and to loss.
+
+Code: ITAL 6390
+Title: Special Topics in Italian Literature
+Description: Guided independent study for graduate students.
+

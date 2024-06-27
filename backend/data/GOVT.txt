@@ -1,0 +1,224 @@
+Code: GOVT 1101
+Title: FWS: Power and Politics
+Description: This First-Year Writing Seminar is devoted to the study of political power and the interaction of citizens and governments and provides the opportunity to write extensively about these issues. Topics vary by term.
+
+Code: GOVT 1111
+Title: Introduction to American Government and Politics
+Description: A policy-centered approach to the study of government in the American experience.  Considers the American Founding and how it influenced the structure of government;  how national institutions operate in shaping law and public policy; who has a voice in American politics and why some are more influential than others; and how existing public policies themselves influence social, economic, and political power.  Students will gain an introductory knowledge of the founding principles and structure of American government, political institutions, political processes, political behavior, and public policy.
+
+Code: GOVT 1503
+Title: Introduction to Africana Studies
+Description: At the inception of this department at Cornell University in 1969, the Africana Studies and Research Center became the birthplace of the field "Africana studies." Africana studies emphasizes comparative and interdisciplinary studies of Africa, the U.S., the Caribbean and other diasporas. In this course, we will look at the diverse contours of the discipline. We will explore contexts ranging from modernity and the Trans-Atlantic slave trade and plantation complex in the New World to processes of decolonization and globalization in the contemporary digital age. This course offers an introduction to the study of Africa, the U.S., the Caribbean and other diasporas. This course will examine, through a range of disciplines, among them literature, history, politics, philosophy, the themes - including race/racism, the Middle Passage, sexuality, colonialism, and culture - that have dominated Africana Studies since its inception in the late-1960s. We will explore these issues in an attempt to understand how black lives have been shaped in a historical sense; and, of course, the effects of these issues in the contemporary moment. This course seeks to introduce these themes, investigate through one or more of the disciplines relevant to the question, and provide a broad understanding of the themes so as to enable the kind of intellectual reflection critical to Africana Studies.
+
+Code: GOVT 1571
+Title: American Defense Policy and Military History from the Two World Wars to the Global War on Terror
+Description: America is finishing up two wars, one in Iraq and one in Afghanistan. They have been the longest wars in American history and have ended amid much ambivalence about the US engagement in each place and the results. They are part of a series of wars that America has fought as a global power, with a global reach, sending its forces thousands of miles from home. That global reach is not new, and goes back all the way to 1898 and the Spanish-American War. This course will look at the American military experience from our first tentative steps onto the global stage in 1898, to the earth-spanning conflicts of World War I and II, to the nuclear tension of Cold War conflicts, and finish with the current Long War against terrorism, and the conflicts in Iraq and Afghanistan.
+
+Code: GOVT 1817
+Title: Making Sense of World Politics
+Description: An introduction to the basic concepts and practice of international politics with an emphasis on learning critical thinking.  The course is divided into two parts. In the first half, we will learn about different explanations.  In the second half, we will apply these explanations to a set of international events.
+
+Code: GOVT 2011
+Title: September 11 and the Politics of Memory
+Description: As a country, we are what we remember. But who decides what facts and stories about the past are important enough to memorialize? What does that decision tell us about power and truth? This class will discuss how the attacks of September 11 are remembered in the United States and the rest of the world.
+
+Code: GOVT 2225
+Title: Controversies About Inequality
+Description: In recent years, poverty and inequality have become increasingly common topics of public debate, as academics, journalists, and politicians attempt to come to terms with growing income inequality, with the increasing visibility of inter-country differences in wealth and income, and with the persistence of racial, ethnic, and gender stratification. This course introduces students to ongoing social scientific debates about the sources and consequences of inequality, as well as the types of public policy that might appropriately be pursued to reduce (or increase) inequality. These topics will be addressed in related units, some of which include guest lectures by faculty from other universities (funded by the Center for the Study of Inequality). Each unit culminates with a highly spirited class discussion and debate.
+
+Code: GOVT 2264
+Title: Political Violence
+Description: This course explores the causes and consequences of modern day civil wars. The first part of the course looks at individual, group, and state level factors that might cause civil wars to break out. The second part of the course looks at the dynamics of civil wars including intensity and types of violence. The third part assesses the consequences of civil war and the last part assesses how civil wars end.
+
+Code: GOVT 2432
+Title: Moral Dilemmas in the Law
+Description: The course concerns the principles and philosophical arguments underlying conflicts and moral dilemmas of central and ongoing concern to society as they arise within legal contexts. We consider questions such as what justifies using state power to punish people for wrongdoing, what kinds of conduct are rightly criminalized, what justifies the Supreme Court's power to strike down Congressional legislation, what justifies the right to private property and its boundaries, what is the right to privacy and why it is important, what are human rights, and what is the morality and law of war. Throughout we will be reading legal cases and philosophical commentaries that engage with the deep issues that the cases pose.
+
+Code: GOVT 2665
+Title: American Political Thought
+Description: This course offers a survey of American political thought from the colonial period to the present. We will read Puritan sermons, revolutionary pamphlets, philosophical treatises, presidential orations, slave narratives, prison writings, and other classic texts, in order to understand the ideas and debates that have shaped American politics. Topics to be discussed will include the meaning of freedom, the relationship between natural rights and constitutional authority, the idea of popular sovereignty, theories of representation and state power, race and national identity, problems of inequality, and the place of religion in public life. Lectures will be organized around both historical context and close reading of primary texts.
+
+Code: GOVT 2747
+Title: History of the Modern Middle East
+Description: This course examines major trends in the evolution of the Middle East in the modern era. Focusing on the 19th and 20th centuries and ending with the "Arab Spring," we will consider Middle East history with an emphasis on five themes: imperialism, nationalism, modernization, Islam, and revolution. Readings will be supplemented with translated primary sources, which will form the backbone of class discussions.
+
+Code: GOVT 2806
+Title: Roman Law
+Description: This course presents a cultural and historical perspective on ideas of agency, responsibility, and punishment through foundational texts of western law. We will primarily focus on three main areas of law: (1) slavery and (2) family (both governed by the Roman law of persons), and (3) civil wrongs (the law of delict or culpable harm). Through an examination of the legal sources (in translation) and the study of the reasoning of the Roman jurists, this course will examine the evolution of jurisprudence: the development of the laws concerning power over slaves and women, and changes in the laws concerning penalties for crimes. No specific prior knowledge needed.
+
+Code: GOVT 2977
+Title: History of the Israeli-Palestinian Conflict
+Description: This course examines the history of the conflict between two peoples with claims to the same land (Palestine/Israel), from the rise of their national movements at the turn of the 20th century and their eventual clash down to the present crisis. We will investigate the various stable and shifting elements in the evolution of the conflict including conflicting Israeli and Palestinian narratives and mythologies about the nature of the conflict. Among many issues to be addressed are: the relationship of this conflict to the history of European colonialism in the Middle East, the emergence of Pan-Arabism and Islamism, the various currents in Zionism and its relationship to Judaism, the implication of great power rivalry in the Middle East, the different causes and political repercussions of the four Arab-Israeli wars, efforts at peacemaking including Oslo and Camp David, and the significance of the two Palestinian uprisings.
+
+Code: GOVT 3007
+Title: China in Transition
+Description: This seminar, using faculty-directed research projects, is intended to survey China's transformation through revolution and reform since 1949, and to examine major issues under the themes of modernity and sustainability in the reform era.
+
+Code: GOVT 3017
+Title: Chinese Perspectives on International and Global Affairs
+Description: This course, offered by faculty members of Peking University's School of International Studies, provides Chinese perspectives on contemporary China's international relations.
+
+Code: GOVT 3051
+Title: Being Native in the 21st Century: American Indian and Alaska Native Politics, History, and Policy
+Description: The course examines the historical political landscape of American Indians and Alaska Natives in the United States and the interplay between tribal interests, politics, and the federal government. The course also looks at contemporary Native issues, federal policy and programs, tribal governance, relations between Tribal Nations and states and between Tribal Nations and the federal government. Finally, the course will explore Indigenous pop-culture and its influence on federal policy.
+
+Code: GOVT 3061
+Title: Climate Politics in the US
+Description: Climate policy is one of the most important and contentious areas of politics in the US today. In this course we will consider climate change in the United States, identifying how political institutions, everyday people, and the physical environment come together to affect climate policy. This course will consider climate policy at the local and federal level, as well as examine how the US participates in international climate agreements. Students will critically analyze contemporary US climate policy; develop and addresses pertinent research questions; and learn how to conduct and communicate policy-relevant research.
+
+Code: GOVT 3121
+Title: Crime and Punishment
+Description: This is a class about the American criminal justice system—from policing to prisons, from arrest to reentry. In many ways, the operation of the modern criminal justice system is taken for granted, which frequently allows it to escape close scrutiny. But we will examine it in great detail, with a focus on how it came about, how it sustains itself, its many roles in society (only some of which involve crime and justice), and how and why it may be changing. In Fall 2022, the class will take a particular look at policing and examine the calls for police reform and abolition. NB: This class is designed to challenge your settled assumptions and dearly held myths about what is right and wrong with the system. Those who have made up their mind about criminal justice in America should not take the course. This class was formerly GOVT 3141, PRISONS, taught by Prof. Margulies. It has been renamed and renumbered as GOVT 3121 to distinguish it from the distance learning course taught by Prof. Katzenstein.
+
+Code: GOVT 3122
+Title: Democracy
+Description: The United States has been widely associated with democratic ideals, and yet American democracy has been long in the making, even in recent decades retaining hallmarks of an "unfinished work." It has evolved over time through an arduous and halting process, and it has not always moved in the direction of progress. How would we know if American democracy today was truly endangered and subject to "backsliding?" This course engages this question by grappling with what democracy means, how we can measure its attributes, and how we can assess whether they are robust or deteriorating. We focus on four key threats to democracy: political polarization; conflict over membership and status, particularly around race and gender; economic inequality; and the growth of executive power. We will consider the status of of free and fair elections, the rule of law, the legitimacy of the opposition, and the integrity of rights, including voting rights, civil rights, and civil liberties, studying how these features have developed historically and what happened in periods when they were under threat. We will also evaluate the contemporary political context by applying the same analytical tools.
+
+Code: GOVT 3189
+Title: Taking America's Pulse: Creating and Conducting a National Opinion Poll
+Description: In this course, students will design, conduct, and analyze a national-level public opinion survey. Students will determine all survey questions based on their research interests. All necessary survey research skills will be learned in the class.
+
+Code: GOVT 3221
+Title: Political Journalism
+Description: This course will explore the traditional dynamic and norms of political press coverage in the United States, and the impact of those patterns on both the government and the nation; some of the ways longstanding norms have recently shifted, and continue to shift; the larger historical forces and long-term trends driving those changes; and the theoretical questions, logistical challenges and ethical dilemmas these changes pose for both political journalists and those they cover. The course will equally cover the practice of political reporting, including weekly analysis and discussion of current press coverage, in-class exercises and simulations, readings from academic and journalistic sources, and visits from leading political reporters and former spokespeople able to offer a firsthand perspective on the topics.
+
+Code: GOVT 3271
+Title: Constitutional Law: An Introduction
+Description: In this course, we will examine one of the most important documents in American history – our Constitution.  Course topics will include the historical background of the document from the Magna Carta to the Declaration of Independence and the Articles of Confederation.  We will look at the creation of the Constitution, including the conflict between strong supporters of this proposed new Constitution (Federalists) and their opponents (Anti-Federalists). How did the Founders resolve their differences and what led the States to adopt a document limiting and balancing the powers of the President, Congress, and the Judiciary? We shall look at the constant tension (from the beginning to the present) over the balance of power between the three co-equal branches.  We shall discuss the role of the Constitution from both empirical and theoretical perspectives and look at how it has evolved from 1788 to the present day. Special attention will be paid to the use of Amendments, particularly the Bill of Rights, to address events/circumstances unforeseen by the drafters.  Finally, the course will discuss critical cases where the Supreme Court defined and redefined what the Constitution meant.
+
+Code: GOVT 3281
+Title: Constitutional Politics
+Description: This course investigates the United States Supreme Court and its role in politics and government. It traces the development of constitutional doctrine, the growth of the Court's institutional power, and the Court's interaction with Congress, the president, and society. Discussed are major constitutional law decisions, their political contexts, and the social and behavioral factors that affect judges, justices, and federal court jurisprudence.
+
+Code: GOVT 3293
+Title: Comparative Politics of Latin America
+Description: This course is designed as an introduction to political, economic, and social issues in 20th century Latin America. Topics are organized chronologically, beginning with the crisis of agro-export economies and oligarchic rule in the 1930s, the onset of state-led development and mass politics in the 1930s and 40s, the military takeovers and revolutionary struggles of the 1960s and 70s, patterns of democratization and market liberalization in the 1980s and 90s, and the recent experience with populist and leftist governments in much of the region. Among the main issues covered are populism and corporatism, dependency theory and import-substitution industrialization, different patterns of authoritarian rule, social movements and revolution, democratic breakdowns and transitions, the debt crisis and market reforms, and U.S.-Latin American relations. Throughout the semester, we will draw on examples from the entire region, but focus on paradigmatic national cases. Knowledge of Spanish or Portuguese is not required.
+
+Code: GOVT 3303
+Title: Politics of the Global North
+Description: From a perspective based on comparative political economy, this course examines pressing contemporary issues such as the politics of growing inequality.  We consider conflicts around markets, democracy, economic and social justice, including the efforts of actors such as governments and labor unions aimed at economic recovery, reducing inequality, and the reform of national and global economic policy and institutions.  We also look at distinctive types of political and economic organization, especially in Europe and the United States, and the capacities of these societies to meet current economic, political, and social challenges, both domestic and international.
+
+Code: GOVT 3401
+Title: Social Justice: Special Topics
+Description: Social Justice highlights refugee-led organizing and its intersections with un/documented and Indigenous beyond borders activism. We will work with and learn from refugee and asylum seekers led organizations that are started by and run by members of formerly displaced groups. These organizations build collectives and coalitions to organize communities across identities and legal categories and advocate for access to mobility and social justice. We will closely collaborate with these organizations and work on joint research projects.
+
+Code: GOVT 3512
+Title: United We Stand - Divided We Fall: The Rise of Polarization and Social Division - and What it Means
+Description: When did bipartisan become a bad word? Should we unfriend and unfollow people who have different opinions than our own? How did we become a country that grows more polarized and divided every year? Most importantly, can we change, or are we destined to continue down this path?
+
+Code: GOVT 3557
+Title: Exceptionalism Questioned: America and Europe
+Description: Do you want to learn the discussion-based case method as taught at the Harvard Business School? Do you want to learn how to write a long research paper? Do you not want to take a final examination? If so this course may be for you. Since the beginning of the republic, American intellectuals, politicians and businessmen have extolled the exceptionalism of America. In a world of diverse forms of capitalism, can this view be sustained? Is America a shining city on the hill or a darkened city in the valley? Comparison is an effective way to discern and assess what is unique and what is general in the distinctive form of America's capitalist democracy. In this course the liberal market economy of the United States with its distinctive strengths and weaknesses is put side-by-side with different forms of liberal, corporatist and statist market economies that characterize different European countries in the emerging European polity. The diversity of capitalism points to one overarching conclusion: all of these countries are arguably capitalist, democratic market economies belonging to "the West;" and each of them has distinctive strengths and weaknesses. Like all other countries, America is ordinary in mobilizing its formidable capacities and displaying its glaring weaknesses as it copes with change.
+
+Code: GOVT 3947
+Title: Race and World Politics
+Description: This course introduces students to questions and debates around the role and effects of race and racism in international politics.  Scholars of international politics have long neglected such questions in world affairs, even though the origins of international relations – as an academic discipline – can be traced back to the early years of the 20th century, when questions of imperialism and governance over different races necessitated the development of new ways of thinking about inter-state and inter-racial relations. Over the past two decades, however, prompted by insights from post-colonial theory and cultural studies but also by continued Western military engagements in the Middle East and Africa, new scholarly publications have sought to bring back the analysis of "the color line" into our conversations about global politics. The major themes covered in this course include critical debates around the meanings and salience of race; colonialism; race and IR; decolonization and Third Worldism; race and war on/and terror; and race and international law and climate justice.
+
+Code: GOVT 3967
+Title: What is China?
+Description: China is often thought of as being isolated from the outside world. It is imagined as existing in historic seclusion, and, following the establishment of the People's Republic, as pursuing a path of autarky. Such separation has then only been somewhat modified by the set of economic reforms that Deng Xiaoping first instituted in the late 1970s. In this lecture we will seek to turn such conventional wisdom on its head through examining "what China is" via a consideration of transnational currents within the country's development. However, the course's primary focus will not be upon the past, but rather the present and attempting to determine just where the point of intersection between China and the rest of the world is. Coming to terms with such an issue will provide those who enroll in the class with a deeper, more nuanced, understanding of China's rise and this trend's implications for the rest of the world. We will accomplish this task through a combination of surveying the existing literature on China and transnational politics, and considering new theoretical perspectives on both.
+
+Code: GOVT 4000
+Title: Major Seminar
+Description: Major seminars in the Government department are small, advanced courses that cover an important theme or topic in contemporary politics in depth. Courses place particular emphasis on careful reading and classroom discussion, and students can expect to write a significant research paper. These courses are open to all Cornell students, but preference in admissions is given to seniors over juniors, and to Government majors over other students. Topics vary by semester and section. Fall 2024 Topics include: Empire and Black Radical Political Thought; Empire and (Anti)Colonial Violence; Inequality and the Welfare State, Russian Politics. Spring 2025 Topics include: Criminal Justice in Comparative Perspective; Politics of Public Policy, Historical Analysis in Comparative Politics.
+
+Code: GOVT 4339
+Title: Nationalism(s) in the Arab World
+Description: This seminar examines the emergence of national identities, nationalist movements, and nation-states in the modern Arab world. First, we will examine various approaches to the question of nationalism, using Benedict Anderson's Imagined Communities as our basic reference. We will then test the applicability of these general theories to the Arab World through our examination of specific case studies.
+
+Code: GOVT 4543
+Title: Fascism, Nationalism and Populism
+Description: This seminar will look broadly at challenges to democratic institutions in the United States and Europe. To think about the present, we will delve into historical fascism as well as nationalism and populism. We will (1) respond to contemporary political events in the US and beyond; (2) explore the terms "fascism" and "populism" which in the last few years have come to dominate our political vocabulary in the media and the academy; (3) mobilize the instructor's area of academic expertise (fascism and populism) in the service of broad liberal arts concerns. The course focuses upon themes and readings. It is not chronological—rather it looks at different iterations of the same ideas, concepts, and fears as they emerge in different historical contexts. Seminar materials draw upon various sources: scholarly articles, films, and if possible, an occasional guest lecturer.
+
+Code: GOVT 4827
+Title: China, Tibet and Xinjiang
+Description: Seminar intended to examine the increasingly complex relationship that has evolved between China and the rest of the international system, with particular focus on the rise of Chinese nationalism and the extent to which those in Tibet, Xinjiang, and, to a lesser extent, Taiwan, are contesting such a trend. In so doing, the course emphasizes the interrelated, yet often contradictory, challenges facing Beijing in regards to the task of furthering the cause of national unity while promoting policies of integration with international society and interdependence with the global economy.
+
+Code: GOVT 4949
+Title: Honors Seminar: Thesis Clarification and Research
+Description: This seminar creates a structured environment in which honors students will examine different  research approaches and methods and construct a research design for their own theses—a thesis proposal that probes a new or inadequately researched question of importance to the discipline of political science or political theory. Apart from being a thesis writing workshop, the honors research class serves as a capstone course giving an overview of the different topics and methods addressed by students of politics. Members of the class will do extensive reading in published work relevant to their topics, and write a critical summary of that literature. Each member of the class will present their research design and central question(s) to the class for constructive criticism. By the end of the class, each honors student will have written the first chapter of the thesis, including the statement of the question, literature review, key definitions, methodology, and identification of data source(s). They will be working closely with an individual faculty adviser, as well as interacting with the research class. Students are strongly encouraged to examine some past honors theses on reserve at Kroch library in order to get an idea of the standards a government thesis must meet.
+
+Code: GOVT 4998
+Title: Engaged Learning About Policy Making in Washington D.C.
+Description: The core course at Cornell in Washington is an experiential learning class that focuses on engaging with the professional experience of being in DC. Its primary purposes are to give students to build their understanding of their internship work by analyzing and reflecting on that work, understanding the context and structures of the policy and political world with which they are engaging, and learning and practicing the professional forms of writing that that world uses. This process occurs through readings, written assignments, guest speakers, and signature events.
+
+Code: GOVT 4999
+Title: Undergraduate Independent Study
+Description: One-on-one tutorial arranged by the student with a faculty member of his or her choosing. Open to government majors doing superior work, and it is the responsibility of the student to establish the research proposal and to find a faculty sponsor. Applicants for independent study must present a well-defined program of study that cannot be satisfied by pursuing courses in the regularly scheduled curriculum. No more than 4 credits of independent study may count toward fulfillment of the major. Students who elect to continue taking this course for more than one semester must select a new theme or subject each semester. Credit can be given only for work that results in a satisfactory amount of writing. Emphasis is on the capacity to subject a body of related readings to analysis and criticism. Keep in mind that independent study cannot be used to fulfill the seminar requirement. The application form for independent study must be completed at the beginning of the semester in which the course is being taken.
+
+Code: GOVT 6019
+Title: Introduction to Probability and Applied Statistics
+Description: The goal of this course is to introduce probability and statistics as fundamental building blocks for quantitative political analysis, with regression modeling as a focal application. We will begin with a brief survey of probability theory, types of measurements, and descriptive statistics. The bulk of the course then addresses inferential statistics, covering in detail sampling, methods for estimating unknown quantities, and methods for evaluating competing hypotheses. We will see how to formally assess estimators, and some basic principles that help to ensure optimality. Along the way, we will introduce the use of regression models to specify social scientific hypotheses, and employ our expanding repertoire of statistical concepts to understand and interpret estimates based on our data. Weekly lab exercises require students to deploy the methods both 'by hand' so they can grasp the basic mathematics, and by computer to meet the conceptual demands of non-trivial examples and prepare for independent research. Some time will be spent reviewing algebra, calculus, and elementary logic, as well as introducing computer statistical packages.
+
+Code: GOVT 6051
+Title: Native Politics and the Nation-to-Nation Relationship
+Description: The course examines the historical political landscape of American Indians and Alaska Natives in the United States and the interplay between tribal interests, politics, and the federal government. The course also looks at contemporary Native issues, federal policy and programs, tribal governance, relations between Tribal Nations and states and between Tribal Nations and the federal government. Finally, the course will explore Indigenous pop-culture and its influence on federal policy.  Classes will all be in person and will be a mixture of lectures and discussion-based seminars. The majority of classes will have a guest lecturer related to that week's topic. Guest lectures will include, but not limited to, political appointees, congressional staff, political advocates, elected tribal leaders, and more.
+
+Code: GOVT 6067
+Title: Field Seminar in International Relations
+Description: General survey of the literature and propositions of the international relations field. Criteria are developed for judging theoretical propositions and are applied to the major findings. Participants are expected to do extensive reading in the literature as well as research.
+
+Code: GOVT 6075
+Title: Field Seminar in Political Thought
+Description: The seminar will explore readings in the history of political thought from Homer to the Twenty-first century.
+
+Code: GOVT 6122
+Title: Foundations of the Social Sciences
+Description: Social science research almost always combines empirical observation (data), the construction of concepts (language), and the logical analysis of the relations between observations and concepts (statistics).  This course examines the relations between these three dimensions as the analyst moves from one to the other both as practice and in the crafting of a formal summary of findings and argument. We will be particularly interested in the foundational assumptions that underpin the connections between empirical reality, language, and statistical analysis. While these foundational assumptions are often taken for granted by social scientists, they vary dramatically between social science disciplines.  The implicit contradiction between that variance and their doxic acceptance within disciplines will be a primary focus of the course.
+
+Code: GOVT 6223
+Title: Inequality and the Welfare State
+Description: How a society confronts and shapes socio-economic inequality depends largely on the policy tools at its disposal. A range of remedies – in areas as diverse as employment, education, health care, retirement, disability, housing, and parental leave – are available, yet different countries pursue alternative approaches to these issues. This seminar examines how politics shapes a government's social policy strategies. We will review the classic theories of welfare state variation emerging from Western Europe, how they shed light on the American approach to social policy, and to what extent they apply outside affluent democracies. We also will consider whether existing social policies can adapt to emerging issues, such as those posed by the gig economy and climate change.
+
+Code: GOVT 6271
+Title: Constitutional Law: An Introduction
+Description: In this course, we will examine one of the most important documents in American history – our Constitution.  Course topics will include the historical background of the document from the Magna Carta to the Declaration of Independence and the Articles of Confederation.  We will look at the creation of the Constitution, including the conflict between strong supporters of this proposed new Constitution (Federalists) and their opponents (Anti-Federalists). How did the Founders resolve their differences and what led the States to adopt a document limiting and balancing the powers of the President, Congress, and the Judiciary? We shall look at the constant tension (from the beginning to the present) over the balance of power between the three co-equal branches.  We shall discuss the role of the Constitution from both empirical and theoretical perspectives and look at how it has evolved from 1788 to the present day. Special attention will be paid to the use of Amendments, particularly the Bill of Rights, to address events/circumstances unforeseen by the drafters.  Finally, the course will discuss critical cases where the Supreme Court defined and redefined what the Constitution meant.
+
+Code: GOVT 6284
+Title: Culture, Religion, and Politics
+Description: What types of political outcomes can religion and culture help explain? What political and social factors affect religious identity and institutions? This course is designed to provide graduate students with an overview of theoretical approaches to the study of religion and culture in the social sciences. This course has three objectives. First, students will be able to identify traditional ways in which religion and culture have been theorized and operationalized in political science. Second, students will use empirical evidence to evaluate these theories and measurement strategies and assess potential threats to inference. Finally, students will complete their own research project on the relationship between politics and religion.
+
+Code: GOVT 6294
+Title: Parties, Movements, and Populism: Crises of Democratic Representation
+Description: Political scientists have long studied parties, social movements, and populism, but these topics have generally belonged to separate branches of the discipline, each boasting a specialized body of literature with distinct theoretical cornerstones.  In the real world, however, these phenomena interact with each other in complex ways that defy their analytical compartmentalization.  Over the past decade, political and economic crises in Latin America, Europe, and the United States have forced scholars to recognize these intersections, as social movements and populist leaders have challenged mainstream parties, founded new ones, and undermined traditional party systems. This course explores these intersections, recognizing that parties, populism, and social movements are all different ways—more or less institutionalized and contentious—by which societal interests get represented in the political arena.
+
+Code: GOVT 6353
+Title: Field Seminar in Comparative Politics
+Description: This seminar is an overview of the field of comparative politics targeting Ph.D. students in the Government department. This course introduces students to classic works as well as recent contributions that build upon those works. Readings draw from leading theoretical approaches—including structural, institutional, rational choice, and cultural perspectives—and cover a broad range of substantive topics, such as regime types, democratization, states and civil society, political economy, violence, mobilization, voting, and representation.
+
+Code: GOVT 6512
+Title: United We Stand - Divided We Fall: The Rise of Polarization and Social Division - and What it Means
+Description: When did bipartisan become a bad word? Should we unfriend and unfollow people who have different opinions than our own? How did we become a country that grows more polarized and divided every year? Most importantly, can we change, or are we destined to continue down this path?
+
+Code: GOVT 6543
+Title: Fascism, Nationalism and Populism
+Description: This seminar will look broadly at challenges to democratic institutions in the United States and Europe. To think about the present, we will delve into historical fascism as well as nationalism and populism. We will (1) respond to contemporary political events in the US and beyond; (2) explore the terms "fascism" and "populism" which in the last few years have come to dominate our political vocabulary in the media and the academy; (3) mobilize the instructor's area of academic expertise (fascism and populism) in the service of broad liberal arts concerns. The course focuses upon themes and readings. It is not chronological—rather it looks at different iterations of the same ideas, concepts, and fears as they emerge in different historical contexts. Seminar materials draw upon various sources: scholarly articles, films, and if possible, an occasional guest lecturer.
+
+Code: GOVT 6619
+Title: Text and Networks in Social Science Research
+Description: This is a course on networks and text in quantitative social science. The course will cover published research using text and social network data, focusing on health, politics, and everyday life, and it will introduce methods and approaches for incorporating high-dimensional data into familiar research designs. Students will evaluate past studies and propose original research.
+
+Code: GOVT 6827
+Title: China, Tibet and Xinjiang
+Description: This seminar is intended to examine the increasingly complex relationship that has evolved between China and the rest of the international system, with particular focus on the rise of Chinese nationalism and the extent to which those in Tibet, Xinjiang, and, to a lesser extent, Taiwan, are contesting such a trend. In so doing, the course emphasizes the interrelated, yet often contradictory, challenges facing Beijing in regards to the task of furthering the cause of national unity while promoting policies of integration with international society and interdependence with the global economy.
+
+Code: GOVT 6856
+Title: The Politics of Affect
+Description: This course examines the role that affect plays in politics and, especially, social movements. We will read about various interdisciplinary approaches to affect and public emotions before focusing on particular feelings like love, anger, fear, envy, grief, depression, resentment, hope, melancholia, and optimism. In doing so, we will ask: what does it mean to study, document, and historicize political affects? How can certain moods become resources for political action? Why and when do revolutionary energies increase or deplete? Possible readings include: Raymond Williams, Audre Lorde, Vivian Gornick, Lorraine Hansberry.
+
+Code: GOVT 6998
+Title: Experiential Learning in Policy Making in Washington, DC
+Description: The core course at Cornell in Washington is an experiential learning class that focuses on engaging with the professional experience of being in DC. Its primary purposes are to give students to build their understanding of their internship work by analyzing and reflecting on that work, understanding the context and structures of the policy and political world with which they are engaging, and learning and practicing the professional forms of writing that that world uses. This process occurs through readings, written assignments, guest speakers, and signature events.
+
+Code: GOVT 7937
+Title: Proseminar in Peace Studies
+Description: The Proseminar in Peace Studies offers a multidisciplinary review of issues related to peace and conflict at the graduate level. The course is led by the director of the Judith Reppy Institute for Peace and Conflict Studies and is based on the Institute's weekly seminar series, featuring outside visitors and Cornell faculty.
+
+Code: GOVT 7998
+Title: Independent Study - PIRIP
+Description: No description available.
+
+Code: GOVT 7999
+Title: Independent Study
+Description: Individualized readings and research for graduate students. Topics, readings, and writing requirements are designed through consultation between the student and the instructor. Graduate students in government who are looking to use this as an option to fulfill their course requirements should check with their chairs to be certain that the program of study is acceptable for this purpose. Applications must be completed and signed by the instructor and by the chairs of their special committees. They are available from, and must be returned to, the graduate assistant in 212 White Hall.
+

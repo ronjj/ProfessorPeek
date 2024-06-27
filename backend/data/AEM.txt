@@ -1,0 +1,469 @@
+Code: AEM 1101
+Title: Design Your Dyson
+Description: This course helps first-year students develop a deeper comprehension of the undergraduate experience within the Dyson School of Applied Economics and Management. The Design Your Dyson course fosters a sense of community around shared interests, enhances problem-solving skills through design thinking, and helps students create collaborative and lasting connections to peers, faculty, staff, alumni and the Dyson School. As they formulate a plan to get the most out of their four-year program, students will learn about the resources and opportunities available at Dyson; the course also surveys selected resources at the SC Johnson College of Business and the College of Agriculture and Life Sciences, as well as Cornell generally. The course introduces our signature Grand Challenges program, and helps students envision Dyson's motto of "our business is a better world" as both a relevant personal philosophy and a practical toolkit -- a way of thinking and acting that will enhance their learning in the program and their impact after graduation.
+
+Code: AEM 1600
+Title: The Business of Modern Medicine
+Description: Medicine as practiced today is no longer just a profession. It has become a multi trillion dollar business. The purpose of this lecture series is to present the changes that have occurred in medical practice through the eyes of someone who has lived and practiced medicine during these tumultuous times. Students will gain a better understanding of how third-party payers, the government and other regulatory agencies, new technology, and entrepreneurship have impacted the medical profession and healthcare in general. Upon completion of the course, students will have the capacity to asses their future career paths not only from a scientific, but a business perspective.
+
+Code: AEM 2010
+Title: Spreadsheet Modeling for Management and Economics
+Description: This course emphasizes applied decision making in the business world using Excel as a business analytics tool. The course covers theory behind decision-making and teaches students to apply tools and methods to various business scenarios throughout the semester. Understanding the value of such skills, this course will introduce students to navigating tools and applications, and typical business scenarios where such capabilities can be leveraged in business. Students dedicated to success in this course can expect to achieve a beginner to intermediate knowledge of spreadsheet modeling skills in an Excel platform. Students will enjoy a thorough exposure to real world applications and learn to demonstrate these new capabilities in a business environment. AEM 2010 will help students understand the dynamics of using Excel modeling to solve optimization problems, forecast future outcomes using assumptions and projections, and evaluate problems that involve uncertainty in order to inform business strategy and quantitative decision-making. In business analytic vernacular, students will learn to leverage descriptive, predictive and prescriptive analytic methods using data.
+
+Code: AEM 2050
+Title: Introduction to Agricultural Finance
+Description: Introductory course which provides an overview of principles and practices of agricultural and development finance, from the perspectives of the business owner, lender, and policymaker. Topics include sources of capital, financing entry into agriculture, financial analysis, capital management, financial statements, credit instruments, loan analysis, and financial risk. Applications in farm investments, the Farm Credit System, crop insurance, and risk management.
+
+Code: AEM 2100
+Title: Introductory Statistics
+Description: Introduces statistical methods. Topics include the descriptive analysis of data, probability concepts and distributions, estimation and hypothesis testing, regression, and correlation analysis. Includes an introduction to Minitab, a statistical software package.
+
+Code: AEM 2200
+Title: Business Management and Organization
+Description: Foundational course, meant to familiarize students with the use of core concepts in marketing, accounting, organizational design and management, entrepreneurship and strategy, teamwork, leadership, and ethics; as well as with the Dyson/AEM major and the business careers that may follow it. Significant writing and analytical components (both individual and team based case study analysis, evaluation of a U.S. publicly traded corporation).
+
+Code: AEM 2210
+Title: Financial Accounting
+Description: This is an introductory course on financial accounting intended for non-business majors. The course examines the format and creation of the four main financial statements prepared by organizations: income statement, balance sheet, statement of shareholders' equity, and statement of cash flows.
+
+Code: AEM 2225
+Title: Financial Accounting For Dyson Majors
+Description: Comprehensive introduction to financial accounting concepts and applications. Focuses primarily on recording and communicating financial information for use by external users such as investors, creditors and regulators, and is intended to provide a basic understanding of the accounting cycle, elements of financial statements, Generally Accepted Accounting Principles, and financial statement interpretation. Topics include accounting for inventory, receivables, depreciation, bonds, equity, and cash flows.
+
+Code: AEM 2241
+Title: Finance
+Description: This course is a survey of topics in finance. It focuses on the mathematics of finance, valuation, the economics of managerial decisions, corporate financial policy, risk management, investments, and personal finance.
+
+Code: AEM 2350
+Title: Introduction To The Economics Of Development
+Description: This course is intended as an introduction to the economics of low income countries. It focuses on the policies and constraints to promoting growth and development.
+
+Code: AEM 2400
+Title: Marketing
+Description: Provides a broad introduction to the fundamentals of marketing. Explores the components of an organization's strategic marketing program, including how to price, promote, and distribute goods and services. Industry guest lectures and current marketing applications from various companies are presented and analyzed.
+
+Code: AEM 2500
+Title: Environmental and Resource Economics
+Description: This course uses microeconomics to understand the causes and how to devise solutions to environmental and natural resource problems. Subjects include valuation, benefit-cost analysis, policy design and property rights. The course relies on these concepts to explore major current policy issues such as economic incentives in environmental policy, air and water pollution, depletion of renewable and nonrenewable resources, and global warming. Students are evaluated based on problems sets, short essays, 3 quizzes and 3 prelims.
+
+Code: AEM 2555
+Title: Corporate Sustainability
+Description: This course provides an overview of the area of corporate sustainability, with particular emphasis on the finance industry. The focus will be on understanding how a growing recognition of the importance of sustainability affects corporate behavior. Through a combination of classroom presentations, assigned readings, in-class discussions, and individual writing assignments, students will develop critical thinking and writing skills while they learn about the most important themes in corporate sustainability.
+
+Code: AEM 2600
+Title: Managerial Economics
+Description: This course covers microeconomic principles that inform managerial decisions in firms and organizations. The course will touch on how these principles apply to the Dyson School research foci of management, agribusiness, environmental sustainability, and emerging markets.
+
+Code: AEM 2700
+Title: Management Communication
+Description: Management Communication is intended to help you think strategically about communication and aid you in improving your writing, presentation, and interpersonal communication skills as a future manager. We will look at a set of "best practices" or guidelines that have been derived from both research and experience, give you the opportunity to put those guidelines into practice, and provide you with feedback on your work to help you strengthen your abilities. More often than not, we will be using a workshop format that will rely heavily on discussion and in-class exercises.
+
+Code: AEM 2805
+Title: Strategic Responses to Poverty and Hunger in Developing Countries
+Description: As a writing course, AEM 2805 provides students with an opportunity to understand the problems of poverty and hunger in
+developing countries. An important focus of the course will be to explore strategies that United Nations agencies, governmental
+bodies, and international non-governmental organizations employ to meet challenges of poverty and hunger.
+
+Code: AEM 2810
+Title: The Economics of Vice and Corruption
+Description: This writing course is designed to explore the important but largely undocumented role of vice and corruption in modern economies. A particular focus of the course will be learning how to identify activities, such as corruption and creating, that are designed to avoid detection. Techniques to uncover nefarious behavior are an important tool to understand the nature and extent of bad behavior and to prescribe policy treatment to minimize it. Students will write essays reflecting critically on weekly readings of recent literature on vice and deception.
+
+Code: AEM 2818
+Title: Sustainable Arguments
+Description: In Fall of 2015 the United Nations' General Assembly adopted a resolution titled, "Transforming Our World: The 2030 Agenda for Sustainable Development." This 35-page resolution includes an elaborate vision statement, a list of principles and commitments, and a list of 17 goals, among many other items. In 2022, the resolution is still very much in effect and having an impact on our world. Upon analyzing or reflecting on the text of the UN resolution and exploring its related goals and topics, we can quickly begin to identify the issues people, organizations, and governments are likely to argue over, or are already arguing over. Thus, UN goal and topic is up for argument, including facts (e.g., climate change) will be contested in one way or another, by someone or some group or another, and arguments of all kinds, formal and informal, will proliferate. It is amid these arguments about our sustainable future that this course will take place. Sustainable Arguments will focus on making and understanding data driven, logical, and rhetorically focused arguments about sustainability that connect to the UN's Agenda for Sustainable Development.
+
+Code: AEM 2820
+Title: Introduction to Database Management Systems
+Description: Introduces the principals and functions of relational database management systems (DBMS) and their business application. Students will explore both logical and physical database designs and develop a clear understanding of the concepts and terminology related to DBMS. A small relational database will be designed and students will learn to run SQL queries. Students will learn a set of skills to describe what happened in the past using queries, descriptive statistics, data visualization, and some data mining techniques. Excel add-ins and other DBMS software may also be employed.
+
+Code: AEM 2840
+Title: Python Programming for Data Analysis and Business Modeling
+Description: This course is an introduction to programming with Python for students aiming to enter the world of business analytics. Using business applied cases students will increase decision making efficiency and productivity through a detailed understanding of Python programming languages. Students will also learn how to use a range of Python libraries for data analytics such as NumPy, MatPlotLib, Seaborn, Pandas, and Scikit.
+
+Code: AEM 3000
+Title: Working Together: Project Development and High-Performing Teams
+Description: Part of the Grand Challenges program, the Pre-Project Immersion prepares students to work with a team during their senior year to solve a societal problem. The Immersion is an intensive learning experience with reinforcements throughout the semester. Students will build skills in working as part of a team, presenting to a client, reflecting on their experience, and demonstrating cultural humility.
+
+Code: AEM 3020
+Title: Farm Business Management
+Description: Intensive study of planning, directing, organizing, and controlling a farm business, with emphasis on the tools of managerial analysis and decision making. Topics include financial statements, business analysis, budgeting, and acquisition, organization, and management of capital, labor, land, buildings, and machinery.
+
+Code: AEM 3050
+Title: Negotiation Strategies and Skills
+Description: Negotiation is the art and science of securing agreements between two or more interdependent parties. To reach agreements, it is necessary to understand the behavior and relationships of individuals, groups and organizations in the context of cooperative and competitive situations. This course is designed to help you build a negotiation skillset that can be used in a broad set of organizational situations, as well as in your personal life. A basic premise of the course is that while you need analytic skills to discover or create optimal solutions to problems, you need a broader array of skills for these solutions to be accepted and implemented. During the course, you will develop these skills experientially and learn to apply relevant analytic frameworks.
+
+Code: AEM 3110
+Title: Design and Innovation
+Description: This course introduces students to a design toolkit and mindset for creative problem solving that enables a shift from a 20th century, market-based perspective to a more sustainable, human-centered approach appropriate to this century's systemic challenges. Topics covered include: opportunity finding and innovation; the design thinking cycle of inspiration-interpretation-ideation-implementation; and visual communication. Students will learn to apply design strategies to their work to make it more integrated and collaborative. This course will require openness to new ways of (divergent) thinking.
+
+Code: AEM 3115
+Title: Evaluation of Green Energy Strategies and Markets
+Description: After an overview of the trends in renewable energy and the multitude of public policies and private initiatives, a conceptual framework to analyze the social costs and benefits will be developed and each policy compared in terms of achieving social goals. The perverse effects of combining policies like subsidies and mandates at both the state and federal levels will be emphasized, along with the interaction of renewable policies with regional cap and trade regimes, and regulations like fuel economy standards and EPA environmental regulations. The specific economic and technology issues facing renewable electricity versus biofuel markets will be addressed, providing students a detailed understanding of each market and the effects of public policies. The effects of biofuel policies on food commodity prices will be emphasized.
+
+Code: AEM 3200
+Title: Business Law
+Description: Examines legal problems of particular interest to persons who expect to engage in business. Emphasizes the law of contracts, sales, agency, and property.
+
+Code: AEM 3205
+Title: Ethics in Business and Organizations
+Description: This course will survey ethical problems that arise in business and other organizational contexts, and develop theoretical resources
+to help address them.
+
+Code: AEM 3220
+Title: Digital Business Strategy
+Description: As digital innovations revolutionize industries, many companies struggle to figure out the changing terms of competition. We will examine earlier digital transformations of industries such as books, music, software, telecommunications, and newspapers to assess the potential impact of Internet of Things, 5G networks, and the fourth industrial revolution. Students will critically evaluate the nature of data and information as economic goods; the role of communication networks in the economy; the industrial impact of digitization, including data, analytics, and AI; the platformization of markets; and new business models and business opportunities.
+
+Code: AEM 3245
+Title: Organizational Behavior
+Description: This course examines evidence-based principles of individual and group behavior in relation to leadership and management. Topics include the nature and design of groups, the factors that improve team performance, and the importance of skills including dispute resolution, persuasion, and negotiations, assignments provide opportunities for the engagement and application of analytical skills relating to real-world organizations.
+
+Code: AEM 3249
+Title: Entrepreneurial Marketing and Strategy
+Description: The course is focused on the tools and frameworks that assist a startup entrepreneur in exploring the feasibility of a new idea. After establishing an understanding of the funding process for new ventures, students will learn about and practice market research techniques involving both formal (in person interviews) and informal (expert interviews, social media) ways to understand the adoption behavior and urgent needs/wants of prospective customers. In addition, participants will learn how to take findings from market research to formulate business models and strategies.
+
+Code: AEM 3255
+Title: Creativity Sprint: An Entrepreneurship Hackathon
+Description: The ability to shepherd an idea from ideation to development to implementation is an essential skill in today's business environment for entrepreneurs, innovators, and organizational change agents. To this end, this course aims to develop students' abilities to identify problems and generate solutions to real world business and societal challenges. The course focuses on problem identification (understanding the core elements of a presenting problem), idea generation (developing solutions to those problems), and implementation (putting those solutions into practice). The course includes lecture-based content and activities around these topics and features participation in a weekend-long hackathon event that serves as a practicum experience where students will generate, develop, and pitch an idea related to a societal or business challenge.
+
+Code: AEM 3270
+Title: Supply Chain Strategy and Supermarket Simulation
+Description: In Wisconsin and Ohio, farmers are dumping thousands of gallons of fresh milk into ponds and manure pits. In California, farmers are plowing under thousands of acres of lettuce and perfectly ripe strawberries. Months after concerns about shortages in grocery stores shoppers are still scrambling to find the last box of pasta or roll of toilet paper. It is Cyber Monday every day at retailers like Amazon.com, Walmart, Target, and Kroger as they struggle to meet the surge in demand. Could CoVID-19 be the black swan event that finally forces many companies, and entire industries, to rethink and transform their global supply chain model?
+
+Code: AEM 3310
+Title: Introduction to Business Regulation
+Description: The purpose of this course is to help and guide business and policy students in understanding and recognizing the multiple motivations of society to control certain business activities, the several general approaches to regulation and what is understood of the outcomes, and to provide an appreciation through case studies of how different sectors manage in a regulated environment. The treatment is to include an evaluation of the concept of 'regulatory risk', the uncertainly about regulatory outcomes/changes which constitute a risk, the major risk in some industries, so that understanding and managing that risk is a significant aspect of profitability for many firms, and a consideration for policy makers. Specific emphasis will be placed on the healthcare, biotechnology, energy, and technology business sectors.
+
+Code: AEM 3320
+Title: Leadership and Management in Sports
+Description: This course draws upon the study of sports for the purpose of understanding and studying evidence-based principles of individual and organizational behavior. Topics include the nature of motivation, momentum, and coaching as well as the challenges of talent identification, team-level coordination, and strategy development. Assignments provide opportunities for the development and application of analytic skills relating to leadership and management.
+
+Code: AEM 3360
+Title: Corporate Financial Reporting I
+Description: AEM 3360 is the first of a series of two courses in intermediate accounting. This is a one-semester course for students in the accounting and finance concentrations. This course is an important prerequisite for students intending to pursue a graduate degree in accounting. The course focuses on 1) the accounting process, 2) the conceptual framework underlying financial accounting, 3) the primary financial statements, and 4) the measurement and reporting of assets, liabilities, and shareholders' equity. Specific topics include an overview of generally accepted accounting principles, financial statements and ratios, cash and cash equivalents, accounts receivable, inventories, operating assets, current and long-term liabilities, and stockholders' equity.
+
+Code: AEM 3385
+Title: Social Entrepreneurship Practicum: Anabel's Grocery
+Description: AEM 3385 is a hands-on learning experience that serves as an entry point for new Anabel's Grocery team members, introducing them to social entrepreneurship, food justice, systems thinking, collaborative leadership practices, and the day-to-day operations of Anabel's. No prerequisites and no previous experience with Anabel's required. The course is open to students regardless of major. We are looking for students with diverse interests who are passionate about making healthy food accessible to everyone through practical actions that further racial, economic, and ecological justice. This experiential-based course meets once a week. It includes small group discussion sessions and a practicum commitment of about 4 hours per week.
+
+Code: AEM 3557
+Title: Exceptionalism Questioned: America and Europe
+Description: Do you want to learn the discussion-based case method as taught at the Harvard Business School? Do you want to learn how to write a long research paper? Do you not want to take a final examination? If so this course may be for you. Since the beginning of the republic, American intellectuals, politicians and businessmen have extolled the exceptionalism of America. In a world of diverse forms of capitalism, can this view be sustained? Is America a shining city on the hill or a darkened city in the valley? Comparison is an effective way to discern and assess what is unique and what is general in the distinctive form of America's capitalist democracy. In this course the liberal market economy of the United States with its distinctive strengths and weaknesses is put side-by-side with different forms of liberal, corporatist and statist market economies that characterize different European countries in the emerging European polity. The diversity of capitalism points to one overarching conclusion: all of these countries are arguably capitalist, democratic market economies belonging to "the West;" and each of them has distinctive strengths and weaknesses. Like all other countries, America is ordinary in mobilizing its formidable capacities and displaying its glaring weaknesses as it copes with change.
+
+Code: AEM 3600
+Title: Impact Learning: Field Study Prep Experience
+Description: The lectures/discussions will introduce you to the influence of race, gender, and culture on corporations, small businesses and entrepreneurial enterprises in South Africa. Cultural and historical background will be covered to promote transcultural understanding. During the course students will be introduced to their South African entrepreneurial partners with whom they will be working with prior to and during the study trip. In addition, students will learn about the concept of human centered consulting which will better enable them to be more effective and impactful consultants.
+
+Code: AEM 4000
+Title: Grand Challenges Project
+Description: Part of the Grand Challenges program, the Project Course is a capstone, team-based learning experience. Students work with a faculty member and a client or community partner to tackle a societal problem. Projects span the entire semester and, for larger projects, may extend to student cohorts over several semesters.
+
+Code: AEM 4110
+Title: Introduction to Econometrics
+Description: This course is an introduction to basic econometric principles and the use of statistical techniques to estimate empirical economic models. Multiple regression is introduced and procedures to accommodate data issues and limitations are presented. Topics discussed include simultaneous equations, panel models and limited dependent variable models. Time series approaches are introduced. Students are required to estimate econometric models using provided data sets.
+
+Code: AEM 4210
+Title: Futures, Options and Financial Derivatives
+Description: Covers the pricing of derivatives and how derivatives can be used for the purpose of risk management and speculation. A portion of this course involves the use of spreadsheet or other computer programs.
+
+Code: AEM 4225
+Title: Systems and Analytics in Accounting
+Description: An investigation of the systems and software that capture and store accounting and economic information, and of the tools and techniques that support a robust use of that data for the benefit of individual enterprises and greater society. Topics include "Big Data", Data Visualization, Optimization Tools and Accounting Support Systems and Databases. Students taking this course at the graduate level will have a semester project related to the extension of the utility of large data sets beyond their initial purposes.
+
+Code: AEM 4230
+Title: Behavioral Finance
+Description: The traditional framework for thinking about financial markets assumes that all market participants are fully rational. The past four decades have seen the emergence of an important new paradigm, behavioral finance, which argues that many financial phenomena are the result of less than fully rational thinking and which draws on psychology to understand the ways in which people are not fully rational. This course provides an introduction to the field. We revisit basic topics in finance from a behavioral finance perspective: topics related to markets (stock market fluctuations, popular investment strategies, bubbles); topics related to investor behavior (poor investment decisions by households); and topics related to corporate finance (security issuance, mergers and acquisitions). A running theme in the course is that knowledge of behavioral finance is essential for anyone who seeks a full understanding of modern financial markets.
+
+Code: AEM 4400
+Title: Retail Strategy
+Description: This course explores the strategies and analytical techniques employed to address both classical and contemporary problems faced by retailers. Case study analysis provides a principal pedagogical approach. Cases come from a broad spectrum of retailing sectors: food, mass, fashion, on-line, international. Project required. Selected retail executives will participate.
+
+Code: AEM 4415
+Title: Field Research and Pre-Engagement with Social Enterprises in Emerging Markets
+Description: This course prepares students for engaged-learning opportunities that include working with diverse community partners e.g., small and medium enterprises [organizations], NGOs, universities, and public agencies in emerging markets. This course comprises two sections: 1. Field research methods, which provide students with a strong theoretical grounding on how to collect and report primary data in publishable works (e.g., case studies). 2. Development of field safety, research protocols and client pre-engagement opportunities for students who have successfully been selected to participate in the Student Multidisciplinary Applied Research Teams (SMART) projects. For information on SMART, visit the Student Multidisciplinary Applied Research Teams (SMART) Program website.
+
+Code: AEM 4420
+Title: Emerging Markets
+Description: Provides a framework for examining the effectiveness of marketing strategies in economies in transition and identifying the challenges and opportunities for firms in low-income economies to access industrial markets. Appraises the risk of entering markets in low-income economies and assesses the political, legal, cultural, and economic forces. Analyzes and discusses case studies of companies.
+
+Code: AEM 4435
+Title: Data Driven Marketing
+Description: This course deals with the use of data to make marketing decisions. It introduces concepts, methods, and applications of analytics to products, markets, and marketing actions. Unlike marketing courses that focus on conceptual material, this course will provide skills to translate conceptual understanding into specific operational plans – a skill in increasing demand in organizations today.
+
+Code: AEM 4450
+Title: Toward a Sustainable Global Food System: Food Policy for Developing Countries
+Description: Comprehensive presentation and discussion of policy options for a sustainable global food system, with focus on developing countries. Topics include economic policy related to nutrition, health, consumption, production, natural resource management, trade, markets, gender roles, armed conflict, and ethics. A social entrepreneurship approach based on case studies and active participation by students will be used.
+
+Code: AEM 4460
+Title: Food Marketing Fellows
+Description: The course focuses on current topics in food marketing and may be supplemented by field trips to food industry firms and other exposure to food industry activities and practitioners. In addition, the course includes preparation for a field study trip during the winter break period.
+
+Code: AEM 4485
+Title: Economics of Food and Malnutrition
+Description: This course focused on the economics of food and malnutrition from the perspective of individuals and households; that is, a micro-economic approach. Topics include characteristics and constraints associated with food production in both developed and developing countries; the determinants of household food security; the social and economic causes and consequences of undernutrition; the social and economic causes and consequences of obesity; intervention design to reduce food insecurity, undernutrition and obesity.
+
+Code: AEM 4490
+Title: Financial Markets and Sustainability
+Description: This course provides a broad overview of the financial markets, including the structure and function of these markets, the financial products that are transacted on them, and the institutions that operate within them, while addressing how financial markets are evolving in response to the challenges of sustainability. Through the use of case studies, lectures, readings, and project work, students learn how the leading actors in the financial services industry operate, what motivates them, and how they facilitate the flow of capital between those who can provide financing and those who need it. In parallel with this, the course explores how the tools of finance can be used to generate social and environmental returns in addition to financial returns.
+
+Code: AEM 4520
+Title: Advanced Accounting
+Description: Detailed analytical study of special issues and situations in financial accounting. Continuous emphasis is placed on the relationship between theory and practice to reflect the latest professional pronouncements. Highly technical topics related to corporation, partnership, government, and not-for-profit organizations, with a focus on business combinations and the particular accounting challenges that they present.
+
+Code: AEM 4530
+Title: Auditing and Assurance
+Description: Theory and practice of independent examination of financial statements. Discussion of relationships with clients; working papers, assurance procedures, including evaluations of internal controls, accounting principles, risk assessment, liability, and professional ethics.
+
+Code: AEM 4531
+Title: Federal Income Taxation
+Description: Introductory course in federal income taxation covering structure of present tax law; basis for income tax computations; concepts of gross income, adjusted gross income, deductions, exemptions and credits. The emphasis is on tax questions and problems relating to individuals. Students enrolled in the graduate-level section will be required to do additional tax problems.
+
+Code: AEM 4533
+Title: Federal Income Taxation of Low Income Taxpayers
+Description: This course covers the present structure of tax law in the United States, including the measurement of taxable income, tax compliance fundamentals, and other related Federal and state tax issues facing low-income taxpayers, with some emphasis on immigrant taxpayers. Participants also discuss various tax research and compliance tools that may be used by practitioners and/or volunteer low-income taxpayer assistance programs. Guest lecturers will focus on specific topics such as the rules surrounding ITIN preparation and other tax issues unique to low-income taxpayers.
+
+Code: AEM 4545
+Title: Money and Finance in the Digital Age
+Description: This course will provide an overview of new financial technologies (Fintech), cryptocurrencies, central bank digital currencies, and decentralized finance (DeFi). The implications of these novel technologies for the future of financial markets, central banking, and international finance will be examined. The course will also cover basic analytical models in open economy macroeconomics and international finance, focusing on capital flows and exchange rate dynamics.
+
+Code: AEM 4570
+Title: Corporate Finance
+Description: This course is designed to advance the understanding of corporate financial decision making. The class will further the corporate finance topics taught in AEM 2240 such cost of capital, capital structure, mergers and acquisitions, and dividend policy. Some topics in international corporate finance topics will also be discussed.
+
+Code: AEM 4585
+Title: Sustainable Business
+Description: This course provides a survey of the rapidly evolving area of corporate sustainability for graduate students and advanced undergraduates. The focus of the course will be on understanding the ways in which growing concerns about human health and wellbeing and the environment may (or may not) affect corporate behavior. Through a combination of classroom presentations, discussion of case studies, assigned readings, and independent research, students will learn about the most important themes in corporate sustainability, including environmental and social risk management, sustainability initiatives and self-regulation in the corporate sector, stakeholder engagement and management, and the growth of sustainable finance and business, including green entrepreneurship and ESG investing.
+
+Code: AEM 4655
+Title: Applied Corporate and Competitive Strategy
+Description: This course is designed to deepen your problem solving, critical thinking, and business acumen by exploring a range of high-stakes business scenarios, engaging with industry professionals, and conducting original research. In addition, this course will sharpen your ability to communicate effectively with senior stakeholders. Although the mindsets, behaviors, and skills taught in this course are useful in a range of contexts, this course will be particularly useful if you are entering a career in management consulting, corporate strategy, general management, marketing, or private equity.
+
+Code: AEM 4660
+Title: Business Simulation
+Description: Course is required for completing the Dyson Business Minor for Engineers, but is open to all majors. By participating in a business simulation, students get experience applying key business principles, such as finance, accounting, marketing, economics and management in dynamic marketing settings. Participants make team-based and individual decisions based on imperfect information and aggressive time constraints. Through analysis, coaching and facilitation, the experience leads to learning the ways specific business decisions influence firm performance in a dynamic marketplace.
+
+Code: AEM 4670
+Title: Investments
+Description: This course discusses a wide range of investments-related topics, both conceptually and analytically. We first study basic frameworks that provide investors guidance on how to value securities and make investment decisions; topics include basic concepts of return, risk, and prices, asset allocations, the capital asset pricing model, and performance evaluation. We then study empirical patterns of asset prices and discuss the implications of these patterns for investors' trading strategies; here, we introduce the important concept of market efficiency. Next, we discuss bond market investing and the yield curve, as well as derivative contracts such as futures and options. Finally, we discuss selected topics in behavioral finance, an active subfield within finance that tries to improve our understanding of financial markets and investor behavior using frameworks that are psychologically realistic; here, topics include a set of systematic mistakes real-world investors make, the underlying mechanisms that cause these mistakes, and ways to improve financial decision making.
+
+Code: AEM 4880
+Title: Global Food, Energy, and Water Nexus – Engage the US, China, and India for Sustainable Future
+Description: This course is offered by six Departments at Cornell, in collaboration with five Universities in China and India. Video conferencing will be used to connect classrooms in the three countries in real time. Important issues related to the food, energy, and water nexus and its implications for nutrition security, one health, environmental sustainability,climate change, and economic development in the US, China, India, and other countries will be described. Challenges associated with these issues will be evaluated and strategies to address them will be proposed. Engagement of these countries with each other and the rest of the world will be explored. The course serves as a platform for students from Cornell, China, and India to learn from and interact with each other in the same class, and to share their thinking, creativity, and perspectives on these issues.
+
+Code: AEM 4940
+Title: Undergraduate Special Topics in Applied Economics and Management
+Description: The department teaches "trial" courses under this number. Offerings vary by semester and are advertised by the department before the beginning of the semester.
+
+Code: AEM 4961
+Title: Perspectives in Global Development
+Description: A variety of speakers present seminars on international development topics relating to sustainable development throughout the world. Students attend each seminar and submit a five-page essay at the end of the semester reflecting on the speakers' presentations and analyzing connections between topics.
+
+Code: AEM 4970
+Title: Individual Study in Applied Economics and Management
+Description: Used for special projects designed by faculty members.
+
+Code: AEM 4980
+Title: Supervised Teaching Experience
+Description: Designed to give qualified undergraduates experience through actual involvement in planning and teaching courses under the supervision of department faculty. Students cannot receive both pay and credit for the same hours of preparation and teaching.
+
+Code: AEM 4990
+Title: Undergraduate Research
+Description: Permits outstanding undergraduates to carry out independent study of suitable problems under appropriate supervision. Students cannot receive both pay and credit for the same hours of work.
+
+Code: AEM 4992
+Title: Undergraduate Accounting and Tax Research
+Description: Permits outstanding undergraduates to carry out independent study of suitable problems under appropriate supervision. Students cannot receive both pay and credit for the same hours of work. This course meets one of the educational components of the New York state CPA exam.
+
+Code: AEM 5110
+Title: Design and Innovation
+Description: This course introduces students to a design toolkit and mindset for creative problem solving that enables a shift from a 20th century, market-based perspective to a more sustainable, human-centered approach appropriate to this century's systemic challenges. Topics covered include: opportunity finding and innovation; the design thinking cycle of inspiration-interpretation-ideation-implementation; and visual communication. Students will learn to apply design strategies to their work to make it more integrated and collaborative. This course will require openness to new ways of (divergent) thinking.
+
+Code: AEM 5111
+Title: Introduction to Econometrics
+Description: The course objective is to provide students with a solid introductory understanding of econometric theory and applications. Students completing this course willbe able to integrate economic theory with econometric methods to solve research problems ineconomics, business, finance or other social sciences. The course covers least squares estimation, inference, forecasting,and various estimation problems and topicsin econometrics. The course emphasizes application rather than theory, although proper application requires knowledge of the underlying theory.
+
+Code: AEM 5220
+Title: Digital Business Strategy
+Description: As digital innovations revolutionize industries, many companies struggle to figure out the changing terms of competition. We will examine earlier digital transformations of industries such as books, music, software, telecommunications, and newspapers to assess the potential impact of Internet of Things, 5G networks, and the fourth industrial revolution. Students will critically evaluate the nature of data and information as economic goods; the role of communication networks in the economy; the industrial impact of digitization, including data, analytics, and AI; the platformization of markets; and new business models and business opportunities.
+
+Code: AEM 5225
+Title: Systems and Analytics in Accounting
+Description: An investigation of the systems and software that capture and store accounting and economic information, and of the tools and techniques that support a robust use of that data for the benefit of individual enterprises and greater society. Topics include "Big Data", Data Visualization, Optimization Tools and Accounting Support Systems and Databases. Students taking this course at the graduate level will have a semester project related to the extension of the utility of large data sets beyond their initial purposes.
+
+Code: AEM 5230
+Title: Behavioral Finance
+Description: The traditional framework for thinking about financial markets assumes that all market participants are fully rational. The past four decades have seen the emergence of an important new paradigm, behavioral finance, which argues that many financial phenomena are the result of less than fully rational thinking and which draws on psychology to understand the ways in which people are not fully rational. This course provides an introduction to the field. We revisit basic topics in finance from a behavioral finance perspective: topics related to markets (stock market fluctuations, popular investment strategies, bubbles); topics related to investor behavior (poor investment decisions by households); and topics related to corporate finance (security issuance, mergers and acquisitions). A running theme in the course is that knowledge of behavioral finance is essential for anyone who seeks a full understanding of modern financial markets.
+
+Code: AEM 5270
+Title: Supply Chain Strategy and Supermarket Simulation
+Description: In Wisconsin and Ohio, farmers are dumping thousands of gallons of fresh milk into ponds and manure pits. In California, farmers are plowing under thousands of acres of lettuce and perfectly ripe strawberries. Months after concerns about shortages in grocery stores shoppers are still scrambling to find the last box of pasta or roll of toilet paper. It is Cyber Monday every day at retailers like Amazon.com, Walmart, Target, and Kroger as they struggle to meet the surge in demand. Could CoVID-19 be the black swan event that finally forces many companies, and entire industries, to rethink and transform their global supply chain model?
+
+Code: AEM 5300
+Title: CEMS Block Seminar
+Description: Intensive, one-week, full-time immersion course in the area of sustainable business and finance, combining lectures, case study discussions, guest lectures, and team and individual exercises and presentations on the topic.
+
+Code: AEM 5305
+Title: Global Citizenship Seminar
+Description: Through this two-day immersion seminar as part of the broader CEMS curriculum, students will learn and gain skills related to participating in (and leading) teams of diverse individuals. The seminar-and our classroom time-will be approached as a partnership. Questions will be posed regularly and frequently throughout the course to support learning from each other. The main themes for the two-day sessions are: What is leadership? How do organizations (mis)identify leaders? What is the difference between ascribed and achieved leadership? What are the benefits of teamwork (and why is it increasing in the workplace? How do effective teams operate? What skills are most helpful for successful team participation?
+
+Code: AEM 5310
+Title: Global Strategy
+Description: This course analyzes the international business environment, defined as the economic, political, and social factors that shape firms' global strategies. We seek to explain the ways in which - and the reasons why - countries differ in policies and institutions relevant to the firm. The course places special emphasis on the political and institutional economy facing the business, which means we study how international and domestic politics as well as institutions influence continuity and change in the rules governing international economic transactions.
+
+Code: AEM 5415
+Title: Field Research and Pre-Engagement with Social Enterprises in Emerging Markets
+Description: This course prepares students for engaged-learning opportunities that include working with diverse community partners e.g., small and medium enterprises [organizations], NGOs, universities, and public agencies in emerging markets. This course comprises two sections: 1. Field research methods, which provide students with a strong theoretical grounding on how to collect and report primary data in publishable works (e.g., case studies). 2. Development of field safety, research protocols and client pre-engagement opportunities for students who have successfully been selected to participate in the Student Multidisciplinary Applied Research Teams (SMART) projects. For information on SMART, visit the Student Multidisciplinary Applied Research Teams (SMART) Program website.
+
+Code: AEM 5420
+Title: Emerging Markets
+Description: Provides a framework for examining the effectiveness of marketing strategies in economies in transition and identifying the challenges and opportunities for firms in low-income economies to access industrial markets. Appraises the risk of entering markets in low-income economies and assesses the political, legal, cultural, and economic forces. Analyzes and discusses case studies of companies.
+
+Code: AEM 5435
+Title: Data Driven Marketing
+Description: This course deals with the use of data to make marketing decisions. It introduces concepts, methods, and applications of analytics to products, markets, and marketing actions. Unlike marketing courses that focus on conceptual material, this course will provide skills to translate conceptual understanding into specific operational plans – a skill in increasing demand in organizations today.
+
+Code: AEM 5550
+Title: Advertising Strategy
+Description: This is an analytical and quantitative course focusing on advertising strategy. In this course we will analyze how advertising affects product demand and competitive responses from rival products. Why and how do consumers respond to advertising? What is their sensitivity to advertising expenditures, if any? Can we measure that sensitivity? What role does advertising play in (spurious?) product differentiation? Does advertising change preferences, consumers' willingness to pay or both? And, most importantly, why should we care? Why do distilled and blended liquor, real estate agents, motion pictures and soap and detergent producers have the highest advertising expenditure-to-sales ratios (at 10-15%); whereas convenience stores, dairy products and tire producers have the lowest (all under 2%). These are some of the questions that will be discussed and answered during this course.
+
+Code: AEM 5570
+Title: Corporate Finance
+Description: This course provides a rigorous treatment of the core concepts of corporate finance for finance majors. Topics studied in this course include, but are not limited to, capital budgeting, corporate governance, capital structure, payout policy, valuation, raising capital, risk management, and mergers and acquisitions.
+
+Code: AEM 5585
+Title: Sustainable Business
+Description: This course provides a survey of the rapidly evolving area of corporate sustainability for graduate students and advanced undergraduates. The focus of the course will be on understanding the ways in which growing concerns about human health and wellbeing and the environment may (or may not) affect corporate behavior. Through a combination of classroom presentations, discussion of case studies, assigned readings, and independent research, students will learn about the most important themes in corporate sustainability, including environmental and social risk management, sustainability initiatives and self-regulation in the corporate sector, stakeholder engagement and management, and the growth of sustainable finance and business, including green entrepreneurship and ESG investing.
+
+Code: AEM 5600
+Title: Managerial Economics
+Description: This course covers topics in microeconomics that inform managerial decisions, including intermediate principles of microeconomics. Examples will be drawn from recent business cases.
+
+Code: AEM 5670
+Title: Investments
+Description: The course provides a broad overview of investment management, focusing on the application of finance theory to the issues faced by portfolio managers and investors in general.  Topics include asset allocation, asset pricing models such as the capital asset pricing model and arbitrage pricing theory, active portfolio management, and performance evaluation.  These tools provide a disciplined way of thinking about investment decisions, while simultaneously framing how we think about the historical performance of markets.  While particular attention will be given to equity markets, we will also touch on implications for fixed income and derivative securities.  Finally, we will spend time looking at alternative asset classes such as hedge funds and private equity.
+
+Code: AEM 5700
+Title: MPS Management Communication
+Description: Communication is perhaps the most complex thing humans do. It is arguably the most critical skill for thriving and surviving in almost any situation in the business world. This course is designed to improve your oral communication and presentation skills in the business environment. Course content includes hands-on lessons in effective design along with individual team, and virtual presentations. Public speaking, interpersonal skills, critical thinking, and problem-solving skills are emphasized. Development of these skills is integrated with the use of technology.
+
+Code: AEM 5840
+Title: Python Programming for Data Analysis and Business Modeling
+Description: Data-driven decision making and the use of analytical approaches are critical skills for success in business. Analytics skills are increasing in demand and in many cases, are required for business professionals. The new technologies and development such as personal electrical devices, social media, online shopping, ... resulted in exponential growth in the amount of data we generate and collect on a daily basis. Companies are highly interested in extracting knowledge from these sources. To be able to manipulate and analyze a large structured and unstructured dataset, you need to learn how to code. In this course, by learning Python, one of the most popular programming languages, you are taking a significant step in data analysis. You will learn how to design and code an algorithm and manipulate datasets.
+
+Code: AEM 6030
+Title: Contemporary Issues in Agricultural Finance
+Description: This course is a half-semester course course in mathematical programming designed to deepen an understanding of the role of risk in a portfolio choice framework. As a complement to AEM 6050, Agricultural Finance and Development, this course should be of particular interest to students in, agricultural finance, agricultural economics, development economics, financial economics, or any other related discipline. The focus of the course is in the design and structure of mathematical programming models that include risk. Core to this is the understanding of primal and dual structures and the importance of Kuhn-Tucker conditions in the economic interpretation of mathematical programming solutions. Topics may include, but are not limited to 1. An introduction to linear programming and model structure 2. Portfolio choice and quadratic programming in investments and agriculture. 3. Direct Expected Utility Maximization 4. Semi-variance and non-convex models of risk.
+
+Code: AEM 6080
+Title: Production Economics
+Description: Studies the theory of production economics with emphasis on applications to agriculture and natural resources. Topics include the derivation, estimation, and use of production, cost, profit, revenue, demand, and supply functions. Discusses the concepts of efficiency and productivity. Introduces production response over time and under risk.
+
+Code: AEM 6120
+Title: Applied Econometrics
+Description: The objective is to provide students with a set of theoretical, econometric, and practical skills to test predictions from economic theory in data and to estimate the causal impacts of a policy or program. Modules 1-5 of the course will cover underlying tools and concepts, including mathematical statistics, linear models for cross-sectional and panel data, non-linear models, and hypothesis testing. In modules 6-7 we cover topics related to causal inference, instrumental variables, coefficient stability, and difference-in-difference estimators. Throughout the course, students will be evaluated on both theoretical and empirical applications.
+
+Code: AEM 6140
+Title: Behavioral Economics and Managerial Decisions
+Description: Behavioral economics integrates psychology and economics by identifying systematic anomalies in decision making. These are now recognized to be an important source of error in business decisions, and they provide the foundation for both behavioral marketing and finance. The course compares rational choice theory with behavior both in lecture and through a series of economics experiments in which students face situations that are likely to lead to anomalies such as "the winner's curse," the status quo bias, hyperbolic discounting, and bias in assessing risks. Students have the opportunity to evaluate their own decision making.
+
+Code: AEM 6145
+Title: Business and Management Fundamentals for STEM Graduate Students
+Description: Basic business and management skills are necessary to advance your career no matter what area of STEM discipline you plan to pursue. The purpose of this course is to provide the skills necessary to present a strong business case for any new biomedical or life science technology. Like any foreign language, "business eeze" has its own vocabulary, grammar principles and culture. The course will be presented in a similar fashion utilizing STEM case studies to emphasize and immerse the student in business and managerial principles.
+
+Code: AEM 6245
+Title: Organizational Behavior
+Description: This course examines evidence-based principles of individual and group behavior in relation to leadership and management. Topics include the nature and design of groups, the factors that improve team performance, and the importance of skills including dispute resolution, persuasion, and negotiations, Assignments provide opportunities for the engagement and application of analytical skills relating to real-world organizations. Graduate students are required to complete more detailed written assignments (e.g., more pages, deeper analyses; and integration of more research) in addition to all assignments required of the undergraduates.
+
+Code: AEM 6325
+Title: Leadership and Management in Sports
+Description: This course draws upon the study of sports for the purpose of understanding and studying evidence-based principles of individual and organizational behavior. Topics include the nature of motivation, momentum, and coaching as well as the challenges of talent identification, team-level coordination, and strategy development. Assignments provide opportunities for the development and application of analytic skills relating to leadership and management.
+
+Code: AEM 6410
+Title: Commodity Futures and Options
+Description: This course focuses on markets for agricultural futures and options contracts. Lectures address hedging and risk management with futures and options as well as the structure of risk and random walks.
+
+Code: AEM 6455
+Title: Toward a Sustainable Global Food System: Food Policy for Developing Countries
+Description: Comprehensive presentation and discussion of policy options for a sustainable global food system, with focus on developing countries. Topics include: economic policy related to nutrition, health, consumption, production, natural resource management, trade, markets, gender roles, armed conflict, and ethics. A social entrepreneurship approach based on case studies and active participation by students will be used.
+
+Code: AEM 6485
+Title: Economics of Food and Malnutrition
+Description: This course focused on the economics of food and malnutrition from the perspective of individuals and households; that is, a micro-economic approach. Topics include characteristics and constraints associated with food production in both developed and developing countries; the determinants of household food security; the social and economic causes and consequences of undernutrition; the social and economic causes and consequences of obesity; intervention design to reduce food insecurity, undernutrition and obesity.
+
+Code: AEM 6490
+Title: Financial Markets and Sustainability
+Description: This course provides a broad overview of the financial markets, including the structure and function of these markets, the financial products that are transacted on them, and the institutions that operate within them, while addressing how financial markets are evolving in response to the challenges of sustainability. Through the use of case studies, lectures, readings, and project work, students learn how the leading actors in the financial services industry operate, what motivates them, and how they facilitate the flow of capital between those who can provide financing and those who need it. In parallel with this, the course explores how the tools of finance can be used to generate social and environmental returns in addition to financial returns.
+
+Code: AEM 6533
+Title: Federal Income Taxation of Low Income Taxpayers
+Description: This course covers the present structure of tax law in the United States, including the measurement of taxable income, tax compliance fundamentals, and other related Federal and state tax issues facing low-income taxpayers, with some emphasis on immigrant taxpayers. Participants also discuss various tax research and compliance tools that may be used by practitioners and/or volunteer low-income taxpayer assistance programs. Guest lecturers will focus on specific topics such as the rules surrounding ITIN preparation and other tax issues unique to low-income taxpayers.
+
+Code: AEM 6700
+Title: Economics of Consumer Demand
+Description: This is a course based in economic theory and its empirical applications, focusing on consumer demand. We will study the core of consumer theory and essential mathematical economics to understand how researchers, private businesses and policymakers use models of consumer behavior and demand response to support decision-making. We will identify relevant consumer demand related problems/issues; analyze how economic theory can help us shed light on these problems/issues; employ basic quantitative models to understand how to use and analyze data to understand consumer demand and behavior; and discuss how theory and empirical models can support decision-making in the real world.
+
+Code: AEM 6850
+Title: Empirical Methods for Applied Economists
+Description: The course introduces students to various empirical methods and practices necessary to conduct applied research and analysis in microeconomics in a data-rich world. The course format is hands-on and students will conduct most of their work on computers in Python. Students will be graded on 1- participation, 2- weekly empirical exercises and 3- final project (chosen by the student). Topics covered include: 1- basics of Python programming 2- efficient coding practices for replication, teamwork and debugging 3- data gathering and manipulation (APIs and scraping) 4- effective data visualization 5- basic analysis of spatial data and networks 6- numerical methods (Monte Carlo simulations, bootstrapping techniques).
+
+Code: AEM 6880
+Title: Global Food, Energy, and Water Nexus – Engage the US, China, and India for Sustainable Future
+Description: This course is offered by six Departments at Cornell, in collaboration with five Universities in China and one India. Video conferencing will be used to connect classrooms in the three countries in real time. Important issues related to the food, energy, and water nexus and its implications for nutrition security, one health, environmental sustainability, climate change, and economic development in the US and these two countries will be described. Challenges associated with these issues will be evaluated and strategies to address them will be proposed. Engagement of these countries with each other and the rest of the world will be explored. The course serves as a platform for students from Cornell, China, and India to learn from and interact with each other in the same class, and to share their thinking, creativity, and perspectives on these issues.
+
+Code: AEM 6960
+Title: Perspectives in Global Development
+Description: A variety of speakers present seminars on international development topics relating to sustainable development throughout the world. Students attend each seminar and submit a five-page essay at the end of the semester reflecting on the speakers' presentations and analyzing connections between topics.
+
+Code: AEM 6980
+Title: Supervised Graduate Teaching Experience
+Description: Designed to give graduate students teaching experience through involvement in planning and teaching courses under the supervision of departmental faculty members. The experience may include leading discussion sections, preparing, assisting in, or teaching lectures and laboratories, and tutoring. Students are expected to actually teach at least one hour per week for each credit awarded. Students may not receive both pay and credit for the same hours of preparation and teaching.
+
+Code: AEM 6990
+Title: M.P.S. Research
+Description: Students complete a problem solving project addressing practical issues in applied economics and/or management.
+
+Code: AEM 6991
+Title: MPS Research Seminar I
+Description: This course is for students to understand how different research questions can be addressed with empirical methods. Students will also work on their own MPS project research and regularly present their progress.
+
+Code: AEM 7000
+Title: Individual Study in Applied Economics and Management
+Description: Used for special projects designed by faculty members. More than one topic may be given each semester in different sections. Student must register in section appropriate to topic being covered; section number is provided by instructor.
+
+Code: AEM 7030
+Title: Graduate Seminar
+Description: Students are exposed to the cutting edge research by visiting lecturers in applied economics and management. Additional lectures cover important skills for success in graduate study in applied economics and management.
+
+Code: AEM 7150
+Title: Applied Microeconomic Research
+Description: This course consists of an applied microeconomic research project. Students are required to select a mentor for the project.
+
+Code: AEM 7510
+Title: Environmental Economics
+Description: The objective of this course is to provide a graduate-level survey of energy and environmental economics to prepare students to conduct original empirical research in the field. The course surveys two prevailing contemporary themes in environmental economics: (1) the design of incentive-based, cost-effective policy instruments to address environmental externalities; and (2) the measurement of the demand for environmental amenities as input into policy design. The course format combines lectures to learn theoretical and methodological concepts with discussion of papers to understand how these concepts are applied in empirical research.
+
+Code: AEM 7620
+Title: Microeconomics of International Development
+Description: This course introduces students to the key theories, canonical papers, and current frontiers in the microeconomics of international development. We cover topics related to agricultural household models, consumption smoothing, labor markets, trade and search, relational contracts, and public finance. Paired with AEM 7621 to form a graduate sequence in development economics.
+
+Code: AEM 7670
+Title: Topics in International Finance
+Description: This course will provide a selective overview of topics at the cutting-edge of academic research and policy debates about the international monetary and financial system. Main areas will include the effects of financial globalization on growth, volatility, and the transmission of business cycles, as well as the determinants of capital flows and exchange rates. The course will cover topics at the intersection of international finance and macroeconomics, with particular emphasis on the implications for monetary policy and financial regulation. New research related to Fintech, cryptocurrencies, and central bank digital currencies will also be covered. This course is intended for advanced Ph.D. students, especially those in search of thesis topics, and will require extensive student involvement in preparing research proposals and critiques of existing literature. Students will develop their own research ideas during the course and are required to write a substantive research paper.
+
+Code: AEM 7852
+Title: Sustainable Environment, Energy and Resource Economics Research Seminar
+Description: The goal of this weekly seminar is to provide a formal and organized venue for PhD students and faculty to interact and discuss
+research on environmental, energy and resource economics and the economics of sustainability, and to be exposed to the frontier
+in the area.
+
+Code: AEM 7900
+Title: Graduate-Level Thesis Research
+Description: Thesis research for Ph.D. students only before A" exam has been passed.
+
+Code: AEM 8900
+Title: Master's Level Thesis Research
+Description: Thesis research for master's students.
+
+Code: AEM 9900
+Title: Doctoral-Level Thesis Research
+Description: Thesis research for Ph.D. students only after "A" exam has been passed.
+

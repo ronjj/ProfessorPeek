@@ -1,0 +1,12 @@
+Code: DUTCH 1210
+Title: Elementary Dutch I
+Description: In this course, you will learn the fundamentals of grammar, reading, speaking, and comprehension of the spoken language. You will gain intensive practice in listening, speaking, reading, and writing basic Dutch in meaningful, everyday contexts. Through the language you will get acquainted with the country, its society and its people. During the spring term, supplementary reading is selected according to individual needs. At the end of the course, you will be able to understand basic Dutch and make yourself understood in everyday situations.
+
+Code: DUTCH 2030
+Title: Intermediate Dutch I
+Description: In this course, the increased use of authentic texts will help you to expand your knowledge of Dutch culture and increase proficiency in the language. Discussions, compositions, reading articles, watching Dutch television and contact with native speakers will result in improved control of Dutch grammatical structures and vocabulary.  After completing this course, you will have a solid basis to understand both spoken and written Dutch and will be well on your way to become fluent in the language.
+
+Code: DUTCH 3020
+Title: Advanced Dutch I
+Description: This advanced course is centered around different aspects of Amsterdam. Each class focuses on a specific topic, such as Amsterdam as a cultural center and the country's capital, modes of transportation, architecture, immigration issues and history of Amsterdam. Students will read texts at home and discuss them in class; regularly read Amsterdam's newspaper Het Parool; watch short TV clips. At the end of each class, we will watch an episode of a popular Dutch TV show which has Amsterdam as its center; students will write a blog about each episode and design a wiki about Amsterdam. Attention will be paid to advanced grammar issues and vocabulary.
+

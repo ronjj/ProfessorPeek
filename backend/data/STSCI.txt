@@ -1,0 +1,176 @@
+Code: STSCI 2100
+Title: Introductory Statistics and Data Science
+Description: Statistics is about understanding the world through data. We are surrounded by data, so there is a lot to understand. Covers data exploration and display, data gathering methods, probability, and statistical inference methods through contingency tables and linear regression. The emphasis is on thinking scientifically, understanding what is commonly done with data (and doing some of it for yourself), and laying a foundation for further study. Students learn to use statistical software and simulation tools to discover fundamental results. They use computers regularly; the test includes both multimedia materials and a software package. This course does not focus on data from any particular discipline, but will use real-world examples from a wide variety of disciplines and current events.
+
+Code: STSCI 2110
+Title: Statistical Methods for the Social Sciences II
+Description: A second course in statistics that emphasizes applications to the social sciences. Topics include simple linear regression, multiple linear regression (theory, model building, and model diagnostics), and the analysis of variance. Computer packages are used extensively.
+
+Code: STSCI 2120
+Title: Introduction to R Programming
+Description: The course will cover the basics of R programming for reading and writing data, executing simple operations on data, performing basic analyses, and producing visual graphics. An emphasis will be placed on practical aspects and understanding of fundamental R objects and functions.
+
+Code: STSCI 2130
+Title: Applied Regression Analysis
+Description: This seven week, two-credit class will cover the regression requirements, hypothesis tests, and interpretation of results. Students will learn to identify the data necessary to perform a regression analysis, evaluate the conditions, and apply the statistical tests. Interpretation of overall results will be made. Independent/group projects by each student will be done. These will consist of identifying an issue of interest, a relevant data set, and analysis using the regression methods. Presentation of the results in verbal and written form will be required. Recommended for students who want to develop applied analysis skills.
+
+Code: STSCI 2150
+Title: Introductory Statistics for Biology
+Description: This course provides an introduction to data analysis and statistical inference illustrated with biological applications. The computer labs will teach graphical analysis and statistical computation using R. Topics include graphical display, populations and sampling, probability distributions, expectation and variance, estimation, testing, correlation, regression, contingency tables, and the design of experiments. Emphasis is on concepts and the careful modeling of biological data, so that statistical methods are applied properly, pitfalls are avoided, and sound conclusions are reached.
+
+Code: STSCI 2200
+Title: Statistics I
+Description: Students will be able to perform a variety of basic statistical analyses including: t-tests,  two-sample t-tests, tests for categorical data, and linear regression.
+
+Code: STSCI 3040
+Title: R Programming for Data Science
+Description: Statistics courses usually use clean and well-behaved data, this leaves many unprepared for the messiness and chaos of data in the real world. This course aims to prepare students for dealing with data using the R programming language.  The introduction will overview the basic R syntax, foundational R programming concepts such as data types, vectors arithmetic, and indexing, and importing data into R from different file formats.  The data wrangling topics include how to tidy data using the tidy verse to better facilitate analysis, string processing with regular expressions and with dates and times as file formats, web scraping, and text mining. Data visualization topics will cover visualization principles, the use of ggplot2 to create custom plots, and how to communicate data-driven findings.
+
+Code: STSCI 3080
+Title: Probability Models and Inference
+Description: This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, the method of moments, sampling distributions and confidence intervals.
+
+Code: STSCI 3100
+Title: Statistical Sampling
+Description: Theory and application of statistical sampling, especially in regard to sample design, cost, estimation of population quantities, and error estimation. Assessment of nonsampling errors. Discussion of applications to social and biological sciences and to business problems.
+
+Code: STSCI 3110
+Title: Probability Models and Inference for the Social Sciences
+Description: This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, sampling distributions and hypothesis testing.
+
+Code: STSCI 3740
+Title: Data Mining and Machine Learning
+Description: We start off with a detailed refresher for Linear Regression. We then turn to popular methods for classification including Logistic Regression and Discriminant Analysis. Finally, we consider more advanced topics which may include - depending on the audience - Resampling Methods, Tree-based Methods, or Support Vector Machines. The statistics software R is introduced and used for applications.
+
+Code: STSCI 3900
+Title: Causal Inference
+Description: Causal claims are essential in both science and policy. Would a new experimental drug improve disease survival? Would a new advertisement cause higher sales? Would a person's income be higher if they finished college? These questions involve counterfactuals: outcomes that would be realized if a treatment were assigned differently. This course will define counterfactuals mathematically, formalize conceptual assumptions that link empirical evidence to causal conclusions, and engage with statistical methods for estimation. Students will enter the course with knowledge of statistical inference: how to assess if a variable is associated with an outcome. Students will emerge from the course with knowledge of causal inference: how to assess whether an intervention to change that input would lead to a change in the outcome.
+
+Code: STSCI 4030
+Title: Linear Models with Matrices
+Description: The focus of this course is the theory and application of the general linear model expressed in its matrix form. Topics will include: least squares estimation, multiple linear regression, coding for categorical predictors, residual diagnostics, anova decomposition, polynomial regression, model selection techniques, random effects and mixed models, maximum likelihood estimation and distributional theory assuming normal errors. Homework assignments will involve computation using the R statistical package.
+
+Code: STSCI 4060
+Title: Python Programming and its Applications in Statistics
+Description: The first part of the course teaches basic Python programming knowledge and skills, such as Python variables, data containers, language controls, functions, objects, class, data structures, regular expressions, graphics, GUI, Jupyter notebook, etc. The second part deals with Python application in statistics (e.g., 2D/3D data visualization and statistical analysis, using some important Python packages for statistical computing and machine learning, for example, Numpy, Scipy, Pandas, and Scikit-learn, etc.) Python-database integration (e.g., access, update and control an Oracle database), and Python web services (e.g., database-driven dynamic webpages using Python CGI scripts). These techniques are utilized in a comprehensive course project.
+
+Code: STSCI 4090
+Title: Theory of Statistics
+Description: Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include: sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.
+
+Code: STSCI 4110
+Title: Categorical Data
+Description: Categorical data analysis, including logistic regression, log-linear models, stratified tables, matched pairs analysis, polytomous response, and ordinal data. Applications in biological, biomedical and social sciences.
+
+Code: STSCI 4630
+Title: Operations Research Tools for Financial Engineering
+Description: Introduction to the applications of OR techniques, e.g., probability, statistics, and optimization, to finance and financial engineering. The course reviews probability and statistics and surveys assets returns, ARIMA time series models, portfolio selection using quadratic programming, regression, CAPM and factor models, option pricing, GARCH models, fixed-income securities, and resampling techniques. Covers the use of R for statistical calculations, simulation, and optimization.
+
+Code: STSCI 4970
+Title: Undergraduate Supervised Teaching
+Description: Students assist in teaching a course appropriate to their previous training. Students meet with a discussion or laboratory section and regularly discuss objectives with the course instructor.
+
+Code: STSCI 4980
+Title: Tutorial in Actuarial Statistics
+Description: Problem solving sessions to prepare students for the first four actuarial examinations (probability, financial mathematics, statistical modeling, and risk management).
+
+Code: STSCI 4990
+Title: Undergraduate Individual Study in Statistics
+Description: Course consists of individual tutorial study selected by faculty. Because topics usually change year to year this course may be repeated for credit.
+
+Code: STSCI 4995
+Title: Internship in Data Science
+Description: Students planning internships related to Statistics and Data Science are encouraged to enroll in the departmental internship course.
+
+Code: STSCI 4999
+Title: Undergraduate Dissertation Research
+Description: Research at the undergraduate level.
+
+Code: STSCI 5030
+Title: Linear Models with Matrices
+Description: The focus of this course is the theory and application of the general linear model expressed in its matrix form. Topics will include: least squares estimation, multiple linear regression, coding for categorical predictors, residual diagnostics, anova decomposition, polynomial regression, model selection techniques, random effects and mixed models, maximum likelihood estimation and distributional theory assuming normal errors. Homework assignments will involve computation using the R statistical package.
+
+Code: STSCI 5040
+Title: R Programming for Data Science
+Description: Statistics courses usually use clean and well-behaved data, this leaves many unprepared for the messiness and chaos of data in the real world. This course aims to prepare students for dealing with data using the R programming language.  The introduction will overview the basic R syntax, foundational R programming concepts such as data types, vectors arithmetic, and indexing, and importing data into R from different file formats.  The data wrangling topics include how to tidy data using the tidy verse to better facilitate analysis, string processing with regular expressions and with dates and times as file formats, web scraping, and text mining. Data visualization topics will cover visualization principles, the use of ggplot2 to create custom plots, and how to communicate data-driven findings.
+
+Code: STSCI 5045
+Title: Python Programming and its Applications in Statistics
+Description: The first part of the course teaches basic Python programming knowledge and skills, such as Python variables, data containers, language controls, functions, objects, class, data structures, regular expressions, graphics, GUI, Jupyter notebook, etc. The second part deals with Python application in statistics (e.g., 2D/3D data visualization and statistical analysis, using some important Python packages for statistical computing and machine learning, for example, Numpy, Scipy, Pandas, and Scikit-learn, etc.) Python-database integration (e.g., access, update and control an Oracle database), and Python web services (e.g., database-driven dynamic webpages using Python CGI scripts). These techniques are utilized in a comprehensive course project.
+
+Code: STSCI 5060
+Title: Database Management and SAS High Performance Computing with DBMS
+Description: Using relational databases in statistical computing has become more and more important. The knowledge and skill of database management and the ability to combine this knowledge and skill with statistical analysis software tools, such as SAS, are a critical qualification of a statistical analyst. In this course we will study 1) the basics of modern relational database management systems, including database analysis, design and implementation, 2) database application in advanced SAS programming and, 3) SAS high performance computing using database-related techniques.
+
+Code: STSCI 5080
+Title: Probability Models and Inference
+Description: This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, sampling distributions and hypothesis testing, as well as an introduction to Bayesian methods. Some assignments may involve computation using the R programming language.
+
+Code: STSCI 5090
+Title: Theory of Statistics
+Description: Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.
+
+Code: STSCI 5100
+Title: Statistical Sampling
+Description: Theory and application of statistical sampling, especially in regard to sample design, cost, estimation of population quantities, and error estimation. Assessment of nonsampling errors. Discussion of applications to social and biological sciences and to business problems.
+
+Code: STSCI 5120
+Title: Introduction to R Programming
+Description: The course will cover the basics of R programming for reading and writing data, executing simple operations on data, performing basic analyses, and producing visual graphics. An emphasis will be placed on practical aspects and understanding of fundamental R objects and functions.
+
+Code: STSCI 5150
+Title: Introductory Statistics for Biology
+Description: This course provides an introduction to data analysis and statistical inference illustrated with biological applications. The computer labs will teach graphical analysis and statistical computation using R. Topics include graphical display, populations and sampling, probability distributions, expectation and variance, estimation, testing, correlation, regression, contingency tables, and the design of experiments. Emphasis is on concepts and the careful modeling of biological data, so that statistical methods are applied properly, pitfalls are avoided, and sound conclusions are reached.
+
+Code: STSCI 5160
+Title: Categorical Data
+Description: Categorical data analysis, including logistic regression, log-linear models, stratified tables, matched pairs analysis, polytomous response, and ordinal data. Applications in biological, biomedical and social sciences.
+
+Code: STSCI 5200
+Title: Statistics I
+Description: Students will be able to perform a variety of basic statistical analyses including: t-tests, two-sample t-tests, tests for categorical data, and linear regression.
+
+Code: STSCI 5630
+Title: Operations Research Tools for Financial Engineering
+Description: Introduction to the applications of OR techniques, e.g., probability, statistics, and optimization, to finance and financial engineering. The course reviews probability and statistics and surveys assets returns, ARIMA time series models, portfolio selection using quadratic programming, regression, CAPM and factor models, option pricing, GARCH models, fixed-income securities, and resampling techniques. Covers the use of R for statistical calculations, simulation, and optimization.
+
+Code: STSCI 5740
+Title: Data Mining and Machine Learning
+Description: We start off with a detailed refresher for Linear Regression. We then turn to popular methods for classification including Logistic Regression and Discriminant Analysis. Finally, we consider more advanced topics which may include - depending on the audience - Resampling Methods, Tree-based Methods, or Support Vector Machines. The statistics software R is introduced and used for applications.
+
+Code: STSCI 5954
+Title: Project Development and Professional Communication
+Description: Students will learn core professional skills required to work with a client. These skills include designing and implementing a work plan, learning to communicate efficiently, presentation of a final deliverable to the client, as well as learning good practices to conduct data analysis, documentation, quality control and collaboration. Through hands-on experience and real-world examples, students will develop a basic understanding of consulting, and be familiar with the professional standard expected in the industry.
+
+Code: STSCI 5990
+Title: Directed Studies in Applied Statistics
+Description: For individual or group research projects conducted under the direction of a member of STSCI faculty or instructors in a special area of statistical science that is not covered by regular course offerings.
+
+Code: STSCI 5995
+Title: Internship in Data Science
+Description: Students planning internships related to Statistics and Data Science are encouraged to enroll in the departmental internship course.
+
+Code: STSCI 6520
+Title: Statistical Computing I
+Description: Modern statistical methods routinely used in practice for analyzing large, complex datasets require intensive computation. This course covers topics in statistical computing, including numerical optimization and finding zeros (likelihood and related techniques), random number generation and Monte Carlo methods, bootstrap and subsampling, dimension reduction, nonlinear predictive modeling and parallel computing. Programming will be done in R.
+
+Code: STSCI 6740
+Title: Mathematical Statistics II
+Description: Focuses on the foundations of statistical inference, with an emphasis on asymptotic methods and the minimax optimality criterion. In the first part, the solution of the classical problem of justifying Fisher's information bound in regular statistical models will be presented. This solution will be obtained applying the concepts of contiguity, local asymptotic normality and asymptotic minimaxity. The second part will be devoted to nonparametric estimation, taking a Gaussian regression model as a paradigmatic example. Key topics are kernel estimation and local polynomial approximation, optimal rates of convergence at a point and in global norms, and adaptive estimation. Optional topics may include irregular statistical models, estimation of functionals and nonparametric hypothesis testing.
+
+Code: STSCI 6970
+Title: Individual Graduate Study in Statistics
+Description: Individual tutorial study selected by the faculty. Because topics usually change from year to year, this course may be repeated for credit.
+
+Code: STSCI 7170
+Title: Theory of Linear Models
+Description: Properties of the multivariate normal distribution. Distribution theory for quadratic forms. Properties of least squares and maximum likelihood estimates. Methods for fixed-effect models of less than full rank. Analysis of balanced and unbalanced mixed-effects models. Restricted maximum likelihood estimation. Some use of software packages and illustrative examples.
+
+Code: STSCI 7999
+Title: Graduate Level Dissertation Research
+Description: Research at the Ph.D. Level.
+
+Code: STSCI 9999
+Title: Doctoral Level Dissertation Research
+Description: Doctoral Level Dissertation Research.
+

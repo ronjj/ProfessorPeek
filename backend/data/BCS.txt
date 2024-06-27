@@ -1,0 +1,8 @@
+Code: BCS 1131
+Title: Elementary Bosnian-Croatian-Serbian I
+Description: By the end of this course, you will be able to carry on basic conversations in Bosnian/Croatian/Serbian on many topics from your daily life. You should be able to make polite requests, ask for information, respond to requests and descriptions, impart personal information, and have simple discussions on familiar topics. You will also acquire the skills to read and understand simple informational texts, such as newspaper headlines and menus, announcements and advertisements, and to extract the general idea of longer informational texts. You will master the writing systems of the languages, and you should be able to write notes or simple letters and keep a journal.
+
+Code: BCS 2133
+Title: Intermediate Bosnian-Croatian-Serbian I
+Description: The intermediate course in BCS is a continuation of the elementary course and is intended to enhance overall communicative competence in the language. This course moves forward from the study of the fundamental systems and vocabulary of the Bosnian/Croatian/Serbian to rich exposure to the spoken and written language with the wide range of speakers and situations. The goal of the course is to give students practice in comprehension, speaking, and composition, while broadening their vocabulary and deepening their understanding of grammar and syntax. The course will focus on the following skills: conversation, writing, role-playing, interviewing, and summarizing. To develop these skills the students will be assigned dialogues, language exercises, translations, descriptions, summaries, and a final independent project.
+

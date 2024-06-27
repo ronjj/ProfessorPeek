@@ -1,0 +1,192 @@
+Code: PSYCH 1101
+Title: Introduction to Psychology
+Description: Why are people superstitious? Why do people blush when they are embarrassed? What is intelligence (and are IQ tests a good way to measure it)? Why don't psychopaths feel guilty when they harm others? How reliable are childhood memories? Why do we laugh? Do violent video games make people act violently? Why do some people seem instantly trustworthy and others seem "creepy"? How do we choose whom to sleep with, date, or marry? How does stress affect our body? While questions like these have been asked for centuries, psychology has begun to provide answers to these - and other questions about the human mind - by applying the tools of scientific investigation. In this course you will receive a broad introduction to the science of psychology: from the history of the field and its major advances, to the latest research on topics such as perception, memory, intelligence, morality, sexuality, mental illness, religion, language, and creativity. You will also learn about the tools and methods psychologists use to investigate the mind, such as observing how the mind of a child changes and develops over time, looking at people across cultures, measuring brain activity, and experimentally manipulating everything from the shape of a figure presented on a computer screen, to the smell of a room, or the attractiveness of the experimenter.
+
+Code: PSYCH 1102
+Title: Introduction to Cognitive Science
+Description: This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.
+
+Code: PSYCH 1104
+Title: WIM: Introduction to Cognitive Science
+Description: This section is highly recommended for students who are interested in learning about the topics covered in the main course through writing and discussion.
+
+Code: PSYCH 1120
+Title: FWS:Personality & Social Psychology
+Description: No description available.
+
+Code: PSYCH 1130
+Title: FWS:Behavioral Evolution Psych
+Description: Behavioral & Evolutionary Neuroscience Psychology seeks to understand behavior and cognition through investigations of the integrated roles of evolution, development, and mechanisms. The emphasis is on naturalistic behaviors of animals and ecologically relevant behaviors of humans. Comparative perspectives are well represented, the full range of development, including aging, is investigated, and both social and non-social behaviors are explained. Core questions are, what are the mechanisms (brain, sensory, endocrine, and behavioral) that enable animals (including humans) to behave appropriately? How do these mechanisms work? How do they develop? How did they evolve?
+
+Code: PSYCH 1131
+Title: Introduction to Human Development
+Description: Introduction to Human Development provides a broad and foundational overview of field of human development, starting from conception and ending through process of death and dying. The course will start with an outline and explanation of the lifespan perspective in human development. The biological beginnings of life and prenatal development will serve as the start of the discussion of human development, followed by an exploration of physical, cognitive, and socioemotional development at each subsequent stage within the lifespan (e.g., infancy, early childhood, middle & late childhood, etc.). Discussion of each developmental stage will highlight major research findings and their real-world application.
+
+Code: PSYCH 1140
+Title: FWS: Perception, Cognition, and Development
+Description: How do we perceive, learn about, and store information about the environments around us? How does what we have learned affect how we perceive and understand? PCD researchers in the graduate field of psychology at Cornell study human perception, language, and memory, as well as the development of various cognitive functions in infants. The methods they use are diverse, and range from human behavioral experiments in development, perception, and psycholinguistics, through computational modeling and simulation of auditory, visual, and language processes, to human electrophysiology by means of event-related potential (ERP) analysis.
+
+Code: PSYCH 1500
+Title: Introduction to Environmental Psychology
+Description: Environmental Psychology is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams.
+
+Code: PSYCH 1501
+Title: Introduction to Environmental Psychology - Writing in the Major
+Description: Human-Environment Relations is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams. Lecture and discussion sections. WIM section attends a regular lecture but also meets weekly with a graduate writing instructor. The two principal objectives of WIM section:
+
+Code: PSYCH 2230
+Title: Intro to Behavioral Neuroscience
+Description: Introduction to psychology from a biological perspective, which focuses on brain mechanisms of behavior. Topics include the structure and function of the nervous system, physiological approaches to understanding behavior, hormones and behavior, biological bases of sensation and perception, learning and memory, cognition, emotion, and communication.
+
+Code: PSYCH 2400
+Title: Introduction to Community Psychology
+Description: What counts as a community? How do communities shape who we are? How can we engage in action to transform the communities we are a part of? These questions guide our inquiry in this introductory community psychology course. Community psychology examines the interrelationship between individual wellbeing and the multiple social structures and contexts with which individuals interact. Community psychologists are united by a shared commitment to understanding individuals using a multidisciplinary perspective, including developmental psychology, education, and sociology. Beyond seeking to understand, community psychologists also emphasize values, applied and participatory research, and action to promote the well-being of entire communities from a strengths-based perspective. This lecture-based course will provide an overview of theory, research, and action in community psychology. We will focus on (a) essential community psychology theories, (b) methodological strategies for studying alongside communities, and (c) practical applications related to understanding social and environmental contexts as essential components of the human experience. Throughout the course, we will discuss the role of communities in shaping our understandings of diversity, equity, and social justice.
+
+Code: PSYCH 2450
+Title: Pursuing Happiness
+Description: The Pursuit of Happiness is even mentioned in the Declaration of Independence, but what does this mean? This course will explore the kinds of happiness found in human experience, including financial success, public service, romantic and family life, political and cultural identity, as well as the power of music, literature, art and film to affect mood and self-awareness.
+
+Code: PSYCH 2500
+Title: Statistics and Research Design
+Description: In a complex environment with many sources of variability, how can one tell with confidence whether a particular observed effect is real? And how much confidence is appropriate? This course introduces the principles of statistical description and inference as strategies to answer these questions, with emphasis on methods of principal relevance to psychology, neuroscience, and the behavioral sciences.
+
+Code: PSYCH 2580
+Title: Six Pretty Good Books: Explorations in Social Science
+Description: This course is modeled after "Great Books" literature courses in the humanities, but with two important differences: we read non-fiction books in the social sciences rather than the humanities, written by highly prominent contemporary social scientists. The course title refers to the fact that the books are new, hence their potential greatness has yet to be confirmed by the test of time. We choose living authors to give students a unique opportunity: to interact with each of the six authors in Q&A sessions via live or recorded video conferencing.
+
+Code: PSYCH 2750
+Title: Introduction to Personality
+Description: What is "personality"? How is it scientifically studied and measured? To what extent, do biological, social, and cultural factors shape personality? Is personality an expression of our genetic make up and biology, the culmination of social influences, the interplay of both, or the result of random events? In this course, we will review the major theoretical paradigms of personality psychology, discuss contemporary research, theory, and methodology, and learn about key historical debates in the study of "personality".
+
+Code: PSYCH 2830
+Title: Research Methods in Human Development
+Description: This course will introduce students to the basics of research design and will review several methodologies in the study of human development. The focus of the course will be on descriptive and experimental methods. Students will learn the advantages and challenges to different methodological approaches. The course also places an emphasis on developing students' scientific writing and strengthening their understanding of statistics.
+
+Code: PSYCH 2930
+Title: Introduction to Data Science for Social Scientists
+Description: Intro to Data Science for Social Scientists using R.
+
+Code: PSYCH 3020
+Title: Methods in Neuroscience
+Description: This course will expose students to a wide range of commonly used methods in neuroscience research (theory behind the method, common applications of the method, how data are collected and analyzed using the method, strengths and weaknesses of the method, etc.). The goal for students is that by the end of the course, they will be able to read and critically evaluate primary literature from many areas of neuroscience and to understand how the methods used in the study helped the researchers come to their conclusions. This course will explore methods including (but not necessarily limited to): microscopy, methods to visualize neuronal structure and function, electrophysiology, methods to measure neural activity, methods to measure and manipulate expression of genes/mRNA/protein, machine learning methods for behavioral analysis, and whole brain imaging methods in humans and non-human animals.
+
+Code: PSYCH 3130
+Title: Language and Power
+Description: In this course, we will explore how language interacts with power: how does language reflect, shape, threaten and reinforce power relations in human society? From childhood through old age, language is an ever-present source of symbolic power. We use it to develop and express our identities, to position ourselves in hierarchies, and to establish group membership and exclusion throughout life. Language shapes ourselves, our families, our social lives, and our institutions. Understanding how people use language can provide a window into hidden aspects of both individuals and the social world.
+
+Code: PSYCH 3135
+Title: The Psychology of Good and Evil
+Description: Morality seems to be a universal feature of humananity. People across time, place and culture have a strong sense that certain things are right or wrong, that some people are good and some are evil. Where does this moral sense come from? Why do some people disagree so strongly about what is right and wrong? How did evolution shape this moral sense? How does it develop? Are there any universal aspects of moral psychology? The goals of this course are to offer an introduction to the psychological science behind what humans know as morality.
+
+Code: PSYCH 3190
+Title: Memory and the Law
+Description: Focuses on how the scientific study of human memory interfaces with the theory and practice of law.
+
+Code: PSYCH 3240
+Title: Behavioral Neuroscience Laboratory
+Description: This course is designed to provide an introduction to experimental research on the neural basis of behavior and cognition in animals. Topics will include basic neuroanatomy and neurophysiology, neural and hormonal control of behavior, and learning and memory. Students will gain extensive hands on experience with a variety of laboratory techniques, and animal species, and behaviors.
+
+Code: PSYCH 3300
+Title: Introduction to Computational Neuroscience
+Description: Covers the basic ideas and techniques involved in computational neuroscience. Surveys diverse topics, including neural dynamics of small networks of cells, neural coding, learning in neural networks and in brain structures, memory models of the hippocampus, sensory coding, and others.
+
+Code: PSYCH 3820
+Title: Prejudice and Stereotyping
+Description: Social group membership - based on race and ethnicity, class, sexual orientation, sex, gender and gender identity, etc. and their intersection- can profoundly influence one's experience of the world and each other.  Through this course we will cover the basic experimental social psychology research on thoughts and beliefs (stereotypes), evaluative attitudes (prejudice), and behaviors (discrimination) that are based on group membership. We will explore how empirical research developed from primarily examining explicit (blatant) prejudice in the 20th century to recent examinations of implicit forms of stereotyping and prejudice. We will explore how stereotyping and prejudice can arise from basic perceptual and categorical processes, discuss strategies for minimizing expressed bias in interpersonal situations, and examine the experience of high status - and the consequences of losing it. The ultimate aim is to enhance your ability to evaluate and analyze the scientific merit of this research and apply it to real world social issues.
+
+Code: PSYCH 4270
+Title: Evolution of Language
+Description: Seminar surveying a cross-section of modern theories, methods, and research pertaining to the origin and evolution of language. Considers evidence from psychology, the cognitive neurosciences, theoretical biology, comparative psychology, and computational modeling of evolutionary processes. Topics for discussion may include: What is special about language? What can we learn from comparative perspectives on neurobiology and behavior? Can apes really learn language? Did language come about through natural selection or cultural evolution?
+
+Code: PSYCH 4331
+Title: Event Cognition: How Minds, Brains and Bodies Experience Events
+Description: People experience and remember complex and dynamic environments as events. This seminar draws on work from cognitive neuroscience to characterize how people shape experience into events, and how these processes support adaptive behavior. The course will start with discussions of historical and modern perspectives about the relationships between minds, bodies, and experience. We will then cover topics ranging from the perception of motion and causality to social learning and interaction. The primary goals are for you to be able to (1) read and evaluate research in psychology, cognitive science, and neuroscience, and (2) describe and understand the implications of this research for how minds and bodies are adapted to everyday situations.
+
+Code: PSYCH 4420
+Title: The Psychology and Ethics of 21st Century Technology
+Description: New technologies are changing our world at a rapid pace. In many cases, the society does not fully understand the impact of technology and is not prepared for the speed of the change that is occurring. This course will explore a few of these new technologies and investigate their effects on the users and on the society at large. The topics that will be explored include face recognition, virtual reality, violence in media, general AI, and the technological singularity. We will look at the ways in which these technologies affect our lives, with a focus on education, entertainment, employment, politics, and the future of humanity.
+
+Code: PSYCH 4430
+Title: Confronting Climate Change
+Description: This course on the climate crisis acquaints students with the psychological factors underlying ecocide and anthropogenic climate change and the possible avenues for its mitigation, with a particular focus on climate justice and Indigenous knowledges and ways of relating to nature. In parallel with reading and discussing primary literature on these topics, students work on research projects, complementing theory with practice and placing it in the local geopolitical context.
+
+Code: PSYCH 4550
+Title: The Psychology of Wisdom
+Description: This course will cover the psychology of wisdom.  Among the topics to be covered are the definition of wisdom, theories and models of wisdom, development of wisdom, measurement of wisdom, relations of wisdom to other characteristics, state versus trait characteristics of wisdom, teaching for wisdom, wisdom and leadership, wisdom and society.
+
+Code: PSYCH 4580
+Title: The Science of Social Behavior
+Description: This is a capstone seminar for seniors who are interested in graduate or professional study in scientific disciplines that focus on human behavior and social interaction. The intent is to provide seniors with an opportunity to summon, integrate, and apply insights that they have acquired over the course of their undergraduate education, and give prospective graduate students the opportunity to lead discussions in a large introductory lecture course, "Six Pretty Good Books". Each seminar member is part of a two or three-person team that leads the discussion together, under the supervision of a graduate teaching assistant. Seminar meetings are devoted to building lesson plans for leading an effective discussion of each of the six books. The authors vary from year to year but include Malcolm Gladwell, Michelle Alexander, Nate Silver, and Nicholas Christakis. All authors have agreed to participate in a "Q&A" session with the students which seminar members are required to attend.
+
+Code: PSYCH 4700
+Title: Undergraduate Research in Psychology
+Description: Practice in planning, conducting, and reporting independent laboratory, field, and/or library research.
+
+Code: PSYCH 4710
+Title: Advanced Undergraduate Research in Psychology
+Description: Advanced experience in planning, conducting, and reporting independent laboratory, field, and/or library research. One, and preferably two, semesters of PSYCH 4700 is required. The research should be more independent and/or involve more demanding technical skills than that carried out in PSYCH 4700.
+
+Code: PSYCH 4810
+Title: Advanced Social Psychology
+Description: The focus of this course is on discussion and critical analysis of selected articles from very recent issues of the most selective social psychological journals.  Readings are chosen for their importance, their coverage of contemporary topics in social psychology, and their potential for generating stimulating discussion . Students write brief "thought papers" before each class in which they offer suggestions for class discussion based on their close reading of the day's assigned articles. They also write a term paper (details at first class meeting).
+
+Code: PSYCH 5750
+Title: Quantitative Methods I
+Description: This course is a rigorous introduction to graduate statistics for social sciences. We will briefly review descriptive statistics and probability theory. We will discuss fundamental inferential frameworks at length, with a focus on Frequentist and Bayesian statistics.  The remainder of the semester will be focused on the analysis of randomized studies.
+
+Code: PSYCH 6000
+Title: General Research Seminar
+Description: This course is designed to introduce first-year graduates to the Psychology Department faculty through a weekly series of presentations of current research.
+
+Code: PSYCH 6001
+Title: Graduate Professionalism Seminar
+Description: This course enhances the graduate experience and prepares first-year psychology graduate students for success.  The student receives a formal introduction to conceptualizing and articulating a research project, science writing, the grant proposal and review processes, and numerous other aspects of professional development.  The course serves as an opportunity for preparation for graduate studies and a career in academics or a related profession.
+
+Code: PSYCH 6020
+Title: Methods in Neuroscience
+Description: This course will expose students to a wide range of commonly used methods in neuroscience research (theory behind the method, common applications of the method, how data are collected and analyzed using the method, strengths and weaknesses of the method, etc.). The goal for students is that by the end of the course, they will be able to read and critically evaluate primary literature from many areas of neuroscience and to understand how the methods used in the study helped the researchers come to their conclusions. This course will explore methods including (but not necessarily limited to): microscopy, methods to visualize neuronal structure and function, electrophysiology, methods to neural activity, methods to measure and manipulate expression of genes/mRNA/protein, machine learning methods for behavioral analysis, and whole brain imaging methods in humans and non-human animals.
+
+Code: PSYCH 6225
+Title: Special Topics in Social Psychology
+Description: No description available.
+
+Code: PSYCH 6270
+Title: Evolution of Language
+Description: Seminar surveying a cross-section of modern theories, methods, and research pertaining to the origin and evolution of language. Considers evidence from psychology, the cognitive neurosciences, theoretical biology, comparative psychology, and computational modeling of evolutionary processes. Topics for discussion may include: What is special about language? What can we learn from comparative perspectives on neurobiology and behavior? Can apes really learn language? Did language come about through natural selection or cultural evolution?
+
+Code: PSYCH 6271
+Title: Topics in Biopsychology
+Description: Course explores current issues in Psychology.  Topics vary by section.
+
+Code: PSYCH 6810
+Title: Advanced Social Psychology
+Description: The focus of this course is on discussion and critical analysis of selected articles from very recent issues of the most selective social psychological journals. Readings are chosen for their importance, their coverage of contemporary topics in social psychology, and their potential for generating stimulating discussion. Students write brief "thought papers" before each class in which they offer suggestions for class discussion based on their close reading of the day's assigned articles. They also write a term paper on a social psychological topic of their own choosing.
+
+Code: PSYCH 7000
+Title: Research in Biopsychology
+Description: A graduate research seminar in biopsychology.
+
+Code: PSYCH 7100
+Title: Research in Human Experimental Psychology
+Description: A graduate research seminar in human experimental psychology.
+
+Code: PSYCH 7200
+Title: Research in Social Psychology and Personality
+Description: A graduate research seminar in social psychology and personality.
+
+Code: PSYCH 7750
+Title: Proseminar in Social Psychology I
+Description: First semester of a year-long discussion-seminar course intended to give graduate students an in-depth understanding of current research and theory in social psychology. Emphasizes social cognition, but other topics, such as group dynamics, social influence, moral psychology, and emotional experience, are covered.
+
+Code: PSYCH 9000
+Title: Doctoral Thesis Research in Biopsychology
+Description: A graduate seminar on doctoral thesis research in biopsychology.
+
+Code: PSYCH 9100
+Title: Doctoral Thesis Research in Human Experimental Psychology
+Description: A graduate seminar on doctoral thesis research in human experimental psychology.
+
+Code: PSYCH 9200
+Title: Doctoral Thesis Research in Social Psychology and Personality
+Description: A graduate seminar on doctoral thesis research in social psychology and personality.
+

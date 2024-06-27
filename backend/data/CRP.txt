@@ -1,0 +1,292 @@
+Code: CRP 1103
+Title: Observing the City: Introduction to Field-Based Analysis
+Description: This course offers an introduction to data gathering, analysis and writing methods used in urban studies, planning, sociology, and geography. The class will draw on active learning techniques to build skills in systematic observations in public, visualization, collaborative data collection, concept mapping, analysis, and writing. The course offers student opportunities to apply these methods outside the classroom.
+
+Code: CRP 1106
+Title: Advising Seminar: MentURS
+Description: The First Year Advising Seminar is designed to help first year and transfer students transition to Cornell and introduce them to studying in the Urban and Regional Studies Program. The course will be led by the first year advising team along with peer upper-level URS students.
+
+Code: CRP 1109
+Title: FWS: Cities and Regions
+Description: This First-Year Writing Seminar is devoted to topics related to cities and regions.
+
+Code: CRP 2100
+Title: Neighborhood Change in the City: Quantitative Methods
+Description: This course integrates debates on housing, neighborhood change, and urban inequality with quantitative methods. Housing is a contradiction: It is simultaneously a place where we live and access a range of neighborhood opportunities as well as a commodity that is bought and sold for speculation and profit. We will examine institutional, social, and economic contexts across time that shape the fundamental question: Who has the right to live in the city? This course also introduces students to quantitative methods, mapping, and visualization to explore the factors that shape housing outcomes, urban segregation, and neighborhood opportunity.
+
+Code: CRP 3000
+Title: MentURS I
+Description: This course provides valuable peer mentoring to first-year URS students, including guidance and advice related to academics, extracurricular activities, and social life so that they may feel more connected and comfortable navigating and accessing all that Cornell, AAP, and CRP have to offer. CRP 3000 is the first part of a two-part course; students must complete both CRP 3000 and CRP 3001 to receive credit.
+
+Code: CRP 3072
+Title: Land Use, Environmental Planning, and Urban Design Workshop
+Description: Land Use and Environmental Planning workshop courses focus on the forces and actions that directly affect the physical character, transformation, rehabilitation, and preservation of natural landscapes, cities, and regions. Participants provide technical assistance to communities, and have the opportunity to work with communities in resolving critical planning issues. Topics may include development of land use and natural conservation plans, community redevelopment plans, design and analysis of public spaces, and strategies for making communities more environmentally and economically sustainable.
+
+Code: CRP 3074
+Title: Economic and Community Development Workshop
+Description: Economic and Community Development workshop courses focus on the economics of neighborhoods, cities, and regions with the intent of producing more informed and effective economic development policy. Topics of study include, among others, the application of analytical tools needed to produce first-rate economic development plans, the special needs of excluded, poor and segregated communities, use of quantitative and qualitative methods to address social inequalities, the politics of planning, relationships between economic development and community development.
+
+Code: CRP 3076
+Title: International Planning and Development Workshop
+Description: The workshop exposes students to the complexity as well as the nuances of planning in international contexts. It places a strong emphasis on an engaged model of learning, research and planning practice. An important part of the workshop is building effective working relationships across cultures, disciplinary perspectives and professional orientations. The workshop emphasizes the use of diverse sources of data and information, and effective communication of deliverables. Because the workshop responds to the needs of international collaborators and stakeholders, the substantive focus of the workshop and the deliverables changes from one year to the next. In recent years the workshop has focused on issues related to poverty, water, shelter and participatory planning.
+
+Code: CRP 3170
+Title: Economic Development: Goals, Strategies and Tools
+Description: This course examines the theory and practice of economic and community development with special attention to understanding the relationship between goals, strategies policy tools for building the local economy and improving economic wellbeing and quality of life for residents.  While this course is designed to primarily focus on economic development, it is based on the understanding that community and economic development are highly intertwined.  The enhancement of human and organizational productivity is closely interwoven with efforts to strengthen community, shape the physical environment and protect and restore the ecological base on which the community and local economy depends.  The course focuses on municipalities and regions, but we recognize that all actors are embedded within state, national and international systems involving public and private entities. We will also talk with practitioners and work with professional policy documents to understand how on-the-ground decisions are made.  Finally, we will learn some of the basic skills used by economic development practitioners and some of the fundamental issues facing local governments.
+
+Code: CRP 3171
+Title: Visual Communication and Analysis in Urban Design: Software Training for Urban Designers
+Description: The core concept of this course is to provide a step-by-step introduction to utilizing design software to collect and analyze the complex GIS data for neighborhood-scale projects, and create diagrams, drawings, and maps for urban design/ planning practices. The students will be introduced to industry-standard programs including ArcGIS ArcMap/ StoryMaps, Adobe InDesign/ Illustrator/ Photoshop, Google Earth Pro, and Rhino 3D. This course is structured to support AAP NYC courses, especially NYC Studio (CRP 5173) and the NYC Workshop (CRP 5172). This hands-on software training will develop visual communication skills essential to successful urban planners/ designers by learning how to represent research findings and design ideas within multi-disciplinary team settings. This course introduces the extensive NYC resources such as open data portals, helpful websites for mapping, demographics, zoning and land use, infrastructure, community needs, development patterns, environmental reports, etc.
+
+Code: CRP 3201
+Title: Research Design and Qualitative Methods
+Description: Researchers and practitioners in the field of international studies and planning often conduct qualitative research to understand the impacts of and people's experiences with development and planning projects. Then, how do we produce effective qualitative research questions? What data should we gather to address those questions? What methods should we use? How do we prepare for field research? How do we process and analyze the collected data? How do we link literature, research questions, methods, and data to formulate arguments and make conclusions? Throughout the semester, we will address these questions through lecturers, in-class activities, method exercises, and data analysis workshops.
+
+Code: CRP 3270
+Title: Regional Economic Impact Analysis
+Description: This course defines the context of a regional economy, taking a systems approach to sustainable development planning. Students will be introduced to the techniques of input-output analysis and will learn how to use social accounting models to evaluate social and environmental impacts. We will use international datasets and will also learn IMPLAN, a software and database designed to quantify the impact of exogenous forces on U.S. regions. Examples of exogenous forces include out-migration of population, natural disasters, financial flows, or the introduction of new activities. The course methods enable practicing professionals to integrate environmental and social dimensions of planning into the framework of economic impact analysis.
+
+Code: CRP 3348
+Title: Design Connect
+Description: Design Connect Workshop is the for-credit option for students participating in the local and regional projects solicited, reviewed and executed by the independent student organization of the same name. It provides planning and design services to upstate New York communities. Student teams engage community partners to create conceptual designs, with research and analysis, participatory visioning and design charrettes, town and master planning for public spaces. Course can be repeated for credit.
+
+Code: CRP 3555
+Title: Environmental Impact Review
+Description: Environmental impact review has evolved and expended in its use and influence in public decision-making at the federal, state, and local levels. New York, with its State Environmental Quality Review process, has had a robust environmental impact review process for four decades. This course is an introductory exploration of environmental impact review in theory and practice, with emphasis on practice in New York.
+
+Code: CRP 3850
+Title: Special Topics in Planning
+Description: This course addresses pertinent issues relative to the subject of planning. Topics vary each semester.
+
+Code: CRP 3900
+Title: City and Regional Futures: Planning Practice, Policy and Design
+Description: This colloquium brings domestic and international experts to Cornell to talk about research and practice aimed at shaping the future of communities and regions. It includes an array of topics that span urban policy, planning practice and research, design, and applied research on technology and society. Course can be repeated for credit.
+
+Code: CRP 4080
+Title: Introduction to Geographic Information Systems (GIS)
+Description: Geographic Information Systems (GIS) have revolutionized the way we manage, analyze, and present spatial information. This course focuses on GIS in the social sciences. Many of the exercises and examples are based on planning issues, but the concepts can be applied to many other disciplines such as government, economics, natural resources, and sociology. Some of the issues covered include fundamentals of spatial analysis; overview of GIS technology and applications; designing a GIS project; gathering and analyzing data; and creating thematic maps.
+
+Code: CRP 4120
+Title: Urban Public Management
+Description: Local governments across the world face challenges of infrastructure and service delivery in the context of fiscal constraints. Innovations often involve devolution and privatization. Scholarly research debates whether these market approaches promote efficiency, regional equity, local economic growth and citizen voice. Students will review the theoretical bases for these claims and the empirical evidence from around the world. Students will write theory papers as well as engage in group work on practical policy questions facing cities.
+
+Code: CRP 4280
+Title: Mapping and Countermapping
+Description: This hybrid practice-discourse course introduces students to the ideas, debates and practices in critical cartography and digital geography. How, who and towards what purposes are spatial relationships represented through maps? We will approach mapping with an emphasis on the ethos of countermapping to make more legible those perspectives, claims and epistemologies that are generally underrepresented. We will discuss how new mapping technologies and novel big data are shifting the mapping landscape, what new tensions and possibilities arise, and how these new tools supplant or reinforce existing power dynamics. Students will "read" and critique maps to understand the design, information, context surrounding the creation of the map. We will be learning tools and software to create our own narrative maps and countermaps, with the aim of using these in a final research project.
+
+Code: CRP 4331
+Title: Environmental Law and Policy
+Description: Environmental law deals with some of today's most pressing challenges. In the fifty years since 1972, when the first World Conference on the Environment was held in Stockholm, and the US Clean Water Act was amended, the field of environmental law and policy has become increasingly sophisticated and complex. Regulation of environmental harms has long been a focus of governmental effort. Over the past half century, however, societies have come to recognize that they must adopt controls on pollution to protect the air, ground, water, atmosphere, and the natural world. Environmental law also increasingly touches on energy, agriculture, and land use law, and has expanded to include a focus on corporate law, international trade, environmental governance, environmental justice, sustainable growth and development, and climate change. In this course, we will look at the major statutes and policies used, at both the federal and state levels, to protect humans and the environment against exposure to harmful substances, including the National Environmental Policy Act (NEPA), Clean Air Act, Clean Water Act, CERLCA (Superfund), Resource Conservation & Recovery Act, Toxic Substances Control Act (TSCA), and approaches to protecting endangered species and ecosystems. We will also examine the challenges of global atmospheric pollution, including ozone depletion and climate change. The class will look not only at the substance of these laws and policies, but also review common-law litigation, enforcement challenges, and the role of market mechanisms in addressing environmental issues. Students will become familiar with the history of environmental law and will analyze important landmark cases, as well as the hierarchy of laws, and jurisdictions that shape environmental law and policy. Students will apply their knowledge to real examples, with the goal of developing innovative legal solutions for the critical environmental challenges facing our world today.
+
+Code: CRP 4660
+Title: OURS Urban Field Trip
+Description: Students participate in field study of city planning, preservation, economic and community development, and real estate issues in a large eastern U.S. city.  Preparatory lecture(s) and a brief summary essay are required.
+
+Code: CRP 4770
+Title: Seminar on Issues in African Development
+Description: Examines a broad range of critical concerns in contemporary Africa including food production, human resource development, migration, urbanization, environmental resource management, economic growth, and policy guidance. The weekly presentations are made by invited specialists. Students write weekly memos about the talks.
+
+Code: CRP 4900
+Title: Student-Faculty Research
+Description: Research, reading, and/or writing project in which a student and faculty member choose a topic related to urban and regional studies.
+
+Code: CRP 4920
+Title: Undergraduate Honors Thesis Research
+Description: Honors students conduct research to prepare a thesis on a topic of their own choosing under the direction of a faculty member.
+
+Code: CRP 4930
+Title: Undergraduate Honors Thesis Writing
+Description: Honors students prepare a thesis on a topic of their own choosing under the direction of a faculty member.
+
+Code: CRP 4940
+Title: URS Internship
+Description: Unpaid internships at a minimum of 160 hours for 2 credits; 80 hours for 1 credit. For one credit student must produce a 10 page paper that relates to the experience of the internship, and for 2 credits a 20 page paper due to adviser in the semester following the internship.
+
+Code: CRP 4970
+Title: Independent Study
+Description: Independent study classes are offered for variable credit, for up to a maximum of 4 credits and are applied as elective credits only. Enrollment requires the submission of an approved form.
+
+Code: CRP 5072
+Title: Land Use, Environmental Planning, and Urban Design Workshop
+Description: Land Use and Environmental Planning workshop courses focus on the forces and actions that directly affect the physical character, transformation, rehabilitation, and preservation of natural landscapes, cities, and regions. Participants provide technical assistance to communities, and have the opportunity to work with communities in resolving critical planning issues. Topics may include development of land use and natural conservation plans, community redevelopment plans, design and analysis of public spaces, and strategies for making communities more environmentally and economically sustainable.
+
+Code: CRP 5074
+Title: Economic and Community Development Workshop
+Description: Economic and Community Development workshop courses focus on the economics of neighborhoods, cities, and regions with the intent of producing more informed and effective economic development policy. Topics of study include, among others, the application of analytical tools needed to produce first-rate economic development plans, the special needs of excluded, poor and segregated communities, use of quantitative and qualitative methods to address social inequalities, the politics of planning, relationships between economic development and community development.
+
+Code: CRP 5076
+Title: International Planning and Development Workshop
+Description: The workshop exposes students to the complexity as well as the nuances of planning with poor communities in the Global South. It places a strong emphasis on an engaged model of learning, research and planning practice. An important part of the workshop is building effective working relationships across cultures, disciplinary perspectives and professional orientations. The workshop emphasizes the use of diverse sources of data and information, and effective communication of deliverables. Because the workshop responds to the needs of international collaborators and stakeholders, the substantive focus of the workshop and the deliverables changes from one year to the next. In recent years the workshop has focused on issues related to poverty, water, shelter and participatory planning.
+
+Code: CRP 5080
+Title: Introduction to GIS for Planners
+Description: This course is designed to provide students with a conceptual understanding of geographic information systems (GIS) and sciences, practical hands on experience with GIS software, and understanding of how GIS can be applied to planning practice and research. Students will be introduced to the basic concepts, structures, and functions of GIS as well as their applications and limitations.  By the end of this course students should be familiar with a range of available tools and methods to address planning related problems and issues, and be able to conceive of and manage a GIS project. This involves a) identifying a planning analysis/research problem that requires GIS data and spatial analysis to address/analyze the problem; and b) collecting, processing, and analyzing spatial data to interpret the findings.
+
+Code: CRP 5120
+Title: Public and Spatial Economics for Planners
+Description: This courses covers the microeconomic theory necessary to understand the many applications of economics presented in subsequent courses you will take as a planning student. The primary learning goals of this course are (1) to understand the core concepts of microeconomics especially as they relate to planning issues and (2) to develop your analytical problem solving skills.
+
+Code: CRP 5130
+Title: Introduction to Planning Practice and History
+Description: This graduate lecture course provides a foundation on the theory and history of how cities are planned, developed, and governed. The first half explores why cities exist and how their economic, political, and imperial functions have shaped planning interventions, spatial and social inequality, and environmental outcomes. The second examines the major levers that governments can use to shape the urban condition, including land policy, social policy, infrastructure and natural resource policy, and planning processes. The course connects U.S. experiences with relational and comparative perspectives from around the world. Assignments emphasize training in reading, writing, and communication skills.
+
+Code: CRP 5170
+Title: Economic Development: Goals, Strategies and Tools
+Description: This course examines the theory and practice of economic and community development with special attention to understanding the relationship between goals, strategies policy tools for building the local economy and improving economic wellbeing and quality of life for residents.  While this course is designed to primarily focus on economic development, it is based on the understanding that community and economic development are highly intertwined.  The enhancement of human and organizational productivity is closely interwoven with efforts to strengthen community, shape the physical environment and protect and restore the ecological base on which the community and local economy depends.  The course focuses on municipalities and regions, but we recognize that all actors are embedded within state, national and international systems involving public and private entities. We will also talk with practitioners and work with professional policy documents to understand how on-the-ground decisions are made.  Finally, we will learn some of the basic skills used by economic development practitioners and some of the fundamental issues facing local governments.
+
+Code: CRP 5171
+Title: Visual Communication and Analysis in Urban Design: Software Training for Urban Designers
+Description: The core concept of this course is to provide a step-by-step introduction to utilizing design software to collect and analyze the complex GIS data for neighborhood-scale projects, and create diagrams, drawings, and maps for urban design/ planning practices. The students will be introduced to industry-standard programs including ArcGIS ArcMap/ StoryMaps, Adobe InDesign/ Illustrator/ Photoshop, Google Earth Pro, and Rhino 3D. This course is structured to support AAP NYC courses, especially NYC Studio (CRP 5173) and the NYC Workshop (CRP 5172). This hands-on software training will develop visual communication skills essential to successful urban planners/ designers by learning how to represent research findings and design ideas within multi-disciplinary team settings. This course introduces the extensive NYC resources such as open data portals, helpful websites for mapping, demographics, zoning and land use, infrastructure, community needs, development patterns, environmental reports, etc.
+
+Code: CRP 5172
+Title: NYC Workshop: Land Use, Environmental Planning, and Design
+Description: This workshop examines the evolving structure of New York City and the way large-scale developments have influenced its form, patterns of growth, opportunities for economic development, value creation, and investment. The coursework and related tours examine the historical forces that have influenced New York City, including models of urban analysis, contemporary theories of urban design, environmental impact analysis, and implementation strategies used in redevelopment projects. Other American and international cities will be used as comparisons.
+
+Code: CRP 5173
+Title: NYC Studio: Integrated Urbanism as a Platform for Engagement
+Description: This studio will dive deep into the complex balance between architecture and urbanism, policy and public housing, focusing in particular on campus of the New York City Housing Authority (NYCHA) property.
+
+Code: CRP 5174
+Title: NYC Colloquium: Professional Practice
+Description: This course examines the critical work of selected Cornell alumni from the College of Architecture, Art and Planning, specifically from the Department of City and Regional Planning and also from the College of Agriculture and Life Sciences. The course explores the career trajectories development of alumni, and in some cases, their transitions into other professions as attorneys, educators, advocates, real estate developers, organizational consultants, etc.
+
+Code: CRP 5280
+Title: Mapping and Countermapping
+Description: This hybrid practice-discourse course introduces students to the ideas, debates and practices in critical cartography and digital geography. How, who and towards what purposes are spatial relationships represented through maps? We will approach mapping with an emphasis on the ethos of countermapping to make more legible those perspectives, claims and epistemologies that are generally underrepresented. We will discuss how new mapping technologies and novel big data are shifting the mapping landscape, what new tensions and possibilities arise, and how these new tools supplant or reinforce existing power dynamics. Students will "read" and critique maps to understand the design, information, context surrounding the creation of the map. We will be learning tools and software to create our own narrative maps and countermaps, with the aim of using these in a final research project.
+
+Code: CRP 5331
+Title: Environmental Law and Policy
+Description: No description available.
+
+Code: CRP 5348
+Title: Design Connect
+Description: Design Connect Workshop is the for-credit option for students participating in the local and regional projects solicited, reviewed and executed by the independent student organization of the same name.  It provides planning and design services to upstate New York communities. Student teams engage community partners to create conceptual designs, with research and analysis, participatory visioning and design charrettes, town and master planning for public spaces. Course can be repeated for credit.
+
+Code: CRP 5370
+Title: Real Estate Seminar Series
+Description: Designed to bring students weekly into direct contact with real-estate professionals mainly through the use of videoconferences originating from locations around the world.
+
+Code: CRP 5450
+Title: Inferential Statistics for Planning and Public Policy
+Description: This course is an introduction to the inferential statistical methods and econometrics/regression analysis needed to understand empirical public policy and planning research and to do basic applied policy analysis. The statistical concepts are illustrated using data and examples primarily from the fields of public policy and planning.
+
+Code: CRP 5555
+Title: Environmental Impact Review
+Description: Environmental impact review has evolved and expended in its use and influence in public decision-making at the federal, state, and local levels. New York, with its State Environmental Quality Review process, has had a robust environmental impact review process for four decades. This course is an introductory exploration of environmental impact review in theory and practice, with emphasis on practice in New York.
+
+Code: CRP 5560
+Title: Creating the Built Environment
+Description: Real estate professionals and city and regional planners play a vital role in creating the built environment. Understanding the physical form of real estate, and the rules that govern that form, is critically important if one is to meaningfully engage in the practice of real estate development. In this course, we examine in detail the physical form of the built environment, and students gain an understanding of the principles and organizing strategies that underlie it. We examine the following building types in depth: residential, retail, hotel and mixed use. Students exit this course with a deeper understanding of why the built environment takes the shape it does and the opportunities for innovations.
+
+Code: CRP 5561
+Title: Innovation and Strategy in Commercial Real Estate Development
+Description: In this course, we will examine in detail the physical form of workplace design and the specific principles and organizing strategies that affect it. We address the history of office building design, current trends in workplace culture and new forms of office space. We discuss issues affecting office building design, including environmental sustainability, building efficiency, building code and construction, and leasing and operations. Students exit the course with a deeper understanding of why the built environment takes the shape it does and the opportunities for innovation.
+
+Code: CRP 5600
+Title: Documentation for Preservation
+Description: Methods of identifying, recording, collecting, processing, and analyzing information dealing with historic and architecturally significant structures, sites, and objects. Students are assigned common problems in documentation at various scales and propose solutions.
+
+Code: CRP 5610
+Title: Historic Preservation Planning Workshop: Surveys
+Description: Covers techniques for the preparation of surveys of historic structures and districts; identification of American architectural styles, focusing on local historical resources, state and federal historic preservation guidance. Lectures and training sessions emphasize cross cultural training with individuals and community organizations.
+
+Code: CRP 5620
+Title: Perspectives on Preservation
+Description: Introduction to the theory, history, and practice of Historic Preservation Planning in America, with an emphasis on understanding the development and implementation of a preservation project. The course discusses projects ranging in scale and character from individual buildings to districts to cultural landscapes; as well as topics such as preservation economics, government regulations, significance and authenticity, and the politics of identifying and conserving cultural and natural resources.
+
+Code: CRP 5660
+Title: Planning and Preservation Practice: Urban Field Trip
+Description: Students participate in field study of city planning, preservation, economic and community development, and real estate issues in large eastern U.S. cities. Preparatory lecture(s) and a brief summary essay are required.
+
+Code: CRP 5662
+Title: Planning and Preservation Practice: Preservation National Conference
+Description: Students participate in a 4-day national preservation conference.
+
+Code: CRP 5670
+Title: Measured Drawing
+Description: Presents the basic techniques of studying, sketching, and measuring a building and the preparation of a finished drawing set according to Historic American Building Survey standards. Techniques taught include hand drawing, AutoCAD, and other relevant skills and software. Students will prepare individually, or in small groups, comprehensive graphic documentation for a property.
+
+Code: CRP 5850
+Title: Special Topics
+Description: This course addresses pertinent issues relative to planning. Topics vary each semester.
+
+Code: CRP 5861
+Title: Graphic Communications
+Description: This course focuses on the fundamentals of graphic communication and planning industry standard computer programs such as: Google Earth, Auto CAD, SketchUp, Illustrator, Photoshop and InDesign via exercises related to physical planning and urban design. Enhance your ability to compose images and text, utilize color pallets, fonts and create design layouts in order to deliver effective and successful presentations. This course is designed for mature undergraduate and graduate students in urban planning, landscape architecture, real estate and related fields, who desire to possess a competitive edge when applying for jobs and/or participate in multi-disciplinary design competitions, and/or wish to learn how to communicate ideas in a clear and appealing way to a diversity of audiences. The concepts learned in the course will be developed through laboratory work and evolved via the production of in class exercises, collective knowledge development assignments, and a final board presentation.
+
+Code: CRP 6120
+Title: Urban Public Management
+Description: Local governments across the world face challenges of infrastructure and service delivery in the context of fiscal constraints. Innovations often involve devolution and privatization. Scholarly research debates whether these market approaches promote efficiency, regional equity, local economic growth and citizen voice. Students will review the theoretical bases for these claims and the empirical evidence from around the world. Students will write theory papers as well as engage in group work on practical policy questions facing cities.
+
+Code: CRP 6201
+Title: Research Design and Qualitative Methods
+Description: Researchers and practitioners in the field of international studies and planning often conduct qualitative research to understand the impacts of and people's experiences with development and planning projects. Then, how do we produce effective qualitative research questions? What data should we gather to address those questions? What methods should we use? How do we prepare for field research? How do we process and analyze the collected data? How do we link literature, research questions, methods, and data to formulate arguments and make conclusions? Throughout the semester, we will address these questions through lecturers, in-class activities, method exercises, and data analysis workshops.
+
+Code: CRP 6270
+Title: Regional Economic Impact Analysis
+Description: This course defines the context of a regional economy, taking a systems approach to sustainable development planning. Students will be introduced to the techniques of input-output analysis and will learn how to use social accounting models to evaluate social and environmental impacts. We will use international datasets and will also learn IMPLAN, a software and database designed to quantify the impact of exogenous forces on U.S. regions. Examples of exogenous forces include out-migration of population, natural disasters, financial flows, or the introduction of new activities. The course methods enable practicing professionals to integrate environmental and social dimensions of planning into the framework of economic impact analysis.
+
+Code: CRP 6580
+Title: Residential and Commercial Development
+Description: Explores the residential and commercial-development process from site acquisition through delivery of the finished product. Topics include market feasibility, land planning and acquisition, product selection and design, project financing and feasibility, schedule and budgetary controls, contracting and construction, marketing, and sales activities. Composition of the development project team is discussed. Classes are supplemented by visiting professionals. The course includes a semester-long project based on an actual property and market opportunity.
+
+Code: CRP 6595
+Title: Special Topics in Real Estate
+Description: This course addresses pertinent issues relative to real estate.  Topics vary each semester.
+
+Code: CRP 6630
+Title: Historic Preservation Law
+Description: Overview of American legal system and the sources of law used to protect historic resources. The course considers the primary tools for preservation, including historic district and landmark designation, the use of the police power, taxation, and eminent domain. Instructors will also review recent developments in state and federal historic preservation.
+
+Code: CRP 6770
+Title: Seminar on Issues in African Development
+Description: Examines a broad range of critical concerns in contemporary Africa including food production, human resource development, migration, urbanization, environmental resource management, economic growth, and policy guidance. The weekly presentations are made by invited specialists. Students write weekly memos about the talks. Graduate students (CRP 6770/GDEV 6770) facilitate one seminar question period.
+
+Code: CRP 6990
+Title: Special Topics in Regional Science
+Description: This course addresses pertinent issues relative to planning and developing regions. Topics vary each semester.
+
+Code: CRP 7850
+Title: City and Regional Futures: Planning Practice, Policy and Design
+Description: This colloquium brings domestic and international experts to Cornell to talk about research and practice aimed at shaping the future of communities and regions. It includes an array of topics that span urban policy, planning practice and research, design, and applied research on technology and society. Course can be repeated for credit.
+
+Code: CRP 7940
+Title: Planning Internship
+Description: Students participate in a structured, unpaid internship under the supervision of planning professionals in cooperating organizations. The internship should be purposeful, provide opportunities for reflection, present continual challenge to the student, and incorporate active learning. The faculty supervisor and student should outline the conditions of the work assignment, learning outcomes, and faculty supervision on an independent study form. A final project linking planning theory and practical work experience is required. The academic credit, however, is not based on the on-the-job training itself but rather on the active learning and reflection demonstrated in a written paper or project.
+
+Code: CRP 7970
+Title: Independent Study for Graduate Students
+Description: For course information contact the department coordinator in 106 West Sibley Hall.
+
+Code: CRP 8900
+Title: PhD Proseminar
+Description: Intended for doctoral candidates in city and regional planning and regional science; other students welcome. This course aims to introduce doctoral students to professional skills broadly associated with academic research and teaching. In short, the aim of the course is to prepare future scholars in the field.  Presentation and discussion of current problem areas and research by doctoral students and guest will help students develop a culture of presenting their work along with receiving and providing feedback.
+
+Code: CRP 8901
+Title: M.R.P. Exit Project: Research
+Description: A student preparing an exit project (as defined by the Department of City and Regional Planning) to satisfy the M.R.P. Exit Project Requirement must complete this research course and CRP 8902. A student may not earn any credit connected to the exit project beyond that awarded for completion of CRP 8901 and CRP 8902/8904/8906.
+
+Code: CRP 8902
+Title: M.R.P. Exit Project: Research Paper-Writing
+Description: A student preparing a Research Paper (as defined by the Department of City and Regional Planning) to satisfy the M.R.P. Exit Project requirement must complete this course and CRP 8901. A student will use CRP 8902 for writing the Research Paper.
+
+Code: CRP 8904
+Title: M.R.P. Exit Project: Professional Report-Writing
+Description: A student preparing a Professional Report (as defined by the Department of City and Regional Planning) to satisfy the M.R.P. Exit Project Requirement must complete this course and CRP 8901. A student will use CRP 8904 for writing the Professional Report.
+
+Code: CRP 8906
+Title: M.R.P. Exit Project: Thesis-Writing
+Description: A student preparing a Thesis (as defined by the Department of City and Regional Planning) to satisfy the M.R.P. Exit Project Requirement must complete this course and CRP 8901. A student will use CRP 8906 for writing the Thesis.
+
+Code: CRP 8910
+Title: Master's Thesis in Regional Science
+Description: Students, working individually with faculty member(s), prepare a master's thesis in regional science.
+
+Code: CRP 8950
+Title: Master's Thesis in Historic Preservation Planning
+Description: Students, working individually with faculty member(s), prepare a master's thesis in historic preservation planning.
+
+Code: CRP 9920
+Title: Doctoral Dissertation
+Description: Dissertation research for Ph.D. students in the field of City and Regional Planning after "A" exam has been passed.
+

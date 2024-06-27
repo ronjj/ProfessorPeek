@@ -1,0 +1,56 @@
+Code: GREEK 1101
+Title: Elementary Ancient Greek I
+Description: Introduction to Attic Greek. Designed to enable the student to read the ancient authors as soon as possible.
+
+Code: GREEK 1105
+Title: Homeric Greek II
+Description: This course continues the introduction to the vocabulary and grammar of Homeric Greek began in GREEK 1104, or similar courses. By the end of this course, students will be reading substantial, unaltered passages from Homer's Iliad.
+
+Code: GREEK 2101
+Title: Intermediate Ancient Greek I
+Description: Combines reading of classical Greek prose texts with systematic review of forms presented in GREEK 1102, study of advanced grammar, vocabulary-building and sight-reading exercises.
+
+Code: GREEK 3120
+Title: Seminar in Greek
+Description: Undergraduate seminar in Greek. Fall 2024 topic: Family intrigue in Herodotus and Lysias. Spring 2025 topic: Euripides' Herakles, Plato's Euthyphro.
+
+Code: GREEK 3185
+Title: Independent Study in Greek, Undergraduate Level
+Description: May be taken upon completion of one semester of work at the 3000-level. To be taken only in exceptional circumstances. Must be arranged by the student with their advisor and the faculty member who has agreed to direct the study. To be approved by the DUS.
+
+Code: GREEK 4411
+Title: Greek Comparative Grammar
+Description: The prehistory and evolution of the sounds and forms of ancient Greek as reconstructed by comparison with the other Indo-European languages.
+
+Code: GREEK 5111
+Title: Elementary Ancient Greek I
+Description: Introduction to Ancient Greek. Designed to enable the student to read the ancient authors as soon as possible.
+
+Code: GREEK 5115
+Title: Homeric Greek II
+Description: This course continues the introduction to the vocabulary and grammar of Homeric Greek.  By the end of this course, students will be reading substantial, unaltered passages from Homer's Iliad.
+
+Code: GREEK 5121
+Title: Intermediate Ancient Greek I
+Description: Combines reading of classical Greek prose texts with systematic review of forms presented in GREEK 5112, study of advanced grammar, vocabulary-building and sight-reading exercises.
+
+Code: GREEK 5130
+Title: Seminar in Greek
+Description: Fall 2024 topic: Family intrigue in Herodotus and Lysias. Spring 2025 topic: Euripides' Herakles, Plato's Euthyphro.
+
+Code: GREEK 6101
+Title: Advanced Readings in Greek Literature
+Description: Topic: Rhetoric: Gorgias, Lysias, Cicero (Pro Caelio)
+
+Code: GREEK 7161
+Title: Greek Philosophical Texts
+Description: Reading and translation of Greek Philosophical texts.
+
+Code: GREEK 7171
+Title: Graduate Seminar in Greek
+Description: Topic: Plutarch on women.
+
+Code: GREEK 7411
+Title: Greek Comparative Grammar
+Description: The prehistory and evolution of the sounds and forms of ancient Greek as reconstructed by comparison with the other Indo-European languages.
+

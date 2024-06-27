@@ -1,0 +1,60 @@
+Code: CAPS 1621
+Title: From Samurai to Superpower: Japan in World History I
+Description: How did Japan evolve from samurai to superpower?   We investigate this transformation in Japanese and world history over a two-semester sequence.  Students are free to enroll in either semester independently.  (All are welcome, but none required, to enroll in both semesters.)  We begin in early Japan: the birthplace of the sun goddess Amaterasu, the imperial court devoted to her, and the samurai who rose to rule under her sway.  Early Japan was also home to con-men and courtesans, mischievous gods and warring Buddhists, the world's first (and female!) novelist, and a surprisingly cosmopolitan culture of artists and scientists, comedians and entrepreneurs, human traffickers and international travelers.  Our first semester exploring this eclectic culture culminates in the early modern era (1600–1868), when under samurai rule, Japan developed many "modern" elements that laid the groundwork for the revolutionary changes and superpower status examined in the second semester.  We chart Japan's development not only through big events but also everyday life, delving into gender and sexuality, family and labor, arts and entertainment, and more.
+
+Code: CAPS 2233
+Title: Introduction to China: Beyond China
+Description: "China" and "Chinese" are no longer adequate terms for the study of Sinitic-language communities and cultures that evince politically tenuous and linguistically polyphonic relations with the People's Republic of China. This course introduces students to transnational literatures, film, and popular culture from formerly marginalized Chinese voices, and to the field of Sinophone Studies as a critical, interdisciplinary alternative. Students will study fiction and films from Hong Kong, Malaysia, Singapore, Taiwan, the United States, and the PRC, along with critical works explaining the ways that diaspora, colonialism, comparative empires, and ethnic or minority studies have informed the rise of global Chinese studies beyond "China" as a homogenous, static entity.
+
+Code: CAPS 2262
+Title: Medicine and Healing in China
+Description: An exploration of processes of change in health care practices in China. Focuses on key transitions, such as the emergence of canonical medicine, of Daoist approaches to healing and longevity, of "scholar physicians," and of "traditional Chinese medicine" in modern China. Inquries into the development of healing practices in relation to both popular and specialist views of the body and disease; health care as organized by individuals, families, communities, and states; the transmission of medical knowledge; and healer-patient relations. Course readings include primary texts in translation as well as secondary materials.
+
+Code: CAPS 2271
+Title: China's Literary Heritage: An Introduction in Translation
+Description: This is an introductory course designed for, though not limited to, non-majors with or without any knowledge of Chinese language, history, or culture. It offers a guided survey of the history and development of major literary themes, genres, and traditions that still today are assumed to be an integral part of China's cultural identity. Readings include works of poetry, prose and fiction, all in English translation.
+
+Code: CAPS 3000
+Title: Seminar on American Relations with China
+Description: A historical review of the fragile and volatile U.S.-China relationship from the opening by Richard Nixon in the early 1970s until the present. Several individual sessions will be led by current or former executive branch or congressional officials, business people, journalists, representatives of nongovernmental organizations and others who have worked in China or have participated in the making of U.S. policy toward China.
+
+Code: CAPS 3967
+Title: What is China?
+Description: China is often thought of as being isolated from the outside world. It is imagined as existing in historic seclusion, and, following the establishment of the People's Republic, as pursuing a path of autarky. Such separation has then only been somewhat modified by the set of economic reforms that Deng Xiaoping first instituted in the late 1970s. In this lecture we will seek to turn such conventional wisdom on its head through examining "what China is" via a consideration of transnational currents within the country's development. However, the course's primary focus will not be upon the past, but rather the present and attempting to determine just where the point of intersection between China and the rest of the world is. Coming to terms with such an issue will provide those who enroll in the class with a deeper, more nuanced, understanding of China's rise and this trend's implications for the rest of the world. We will accomplish this task through a combination of surveying the existing literature on China and transnational politics, and considering new theoretical perspectives on both.
+
+Code: CAPS 4001
+Title: China in Transition
+Description: This seminar, using faculty-directed research projects, is intended to survey China's transformation through revolution and reform since 1949, and to examine major issues under the themes of modernity and sustainability in the reform era.
+
+Code: CAPS 4002
+Title: Chinese Perspectives on International and Global Affairs
+Description: This course, offered by faculty members of Peking University's School of International Studies, provides Chinese perspectives on contemporary China's international relations.
+
+Code: CAPS 4010
+Title: Honors Thesis Tutorial I
+Description: Honors students conduct research to prepare a thesis on a topic of their own choosing under the direction of a faculty member. The application must be successfully submitted and an Honors Committee formed by the end of applicant's junior year in order for the student to be an honors candidate. Permission to enroll in CAPS 4020 is contingent upon the advisor's judgment of the viability of the student's honors thesis by the end of the semester.
+
+Code: CAPS 4020
+Title: Honors Thesis Tutorial II
+Description: Honors students complete research and finish a thesis on a topic of their own choosing under the direction of a faculty member.
+
+Code: CAPS 4406
+Title: Readings in Chinese History and Business Culture
+Description: This course is designed for those who have completed Mandarin of advanced level (or equivalent). It aims to further improve students' Chinese proficiency in a business history and transcultural context to provide students with a greater preparation for future studies and career endeavors in a native Chinese environment. China's rapid economic growth has aroused keen interest in discussion of China's business and economy on a global scale. To aid students in understanding China's unprecedented rise, authentic Chinese materials selected from a variety of sources will be introduced in class. These course materials introduce both China's past, present, and future, as well as its current role and challenges in the global economy. Key topics for discussion provide insight into the Chinese way of doing business and the multifaceted nature of China's micro and macro business environment.
+
+Code: CAPS 4827
+Title: China, Tibet and Xinjiang
+Description: Seminar intended to examine the increasingly complex relationship that has evolved between China and the rest of the international system, with particular focus on the rise of Chinese nationalism and the extent to which those in Tibet, Xinjiang, and, to a lesser extent, Taiwan, are contesting such a trend. In so doing, the course emphasizes the interrelated, yet often contradictory, challenges facing Beijing in regards to the task of furthering the cause of national unity while promoting policies of integration with international society and interdependence with the global economy.
+
+Code: CAPS 4888
+Title: Directed Study - Beijing
+Description: This directed study course allows CAPS students to enroll at Beida (Peking University) in courses offered to international students by the Peking University School of International Studies.
+
+Code: CAPS 4998
+Title: Engaged Learning About Policy Making in Washington D.C.
+Description: The core course at Cornell in Washington is an experiential learning class that focuses on engaging with the professional experience of being in DC. Its primary purposes are to give students to build their understanding of their internship work by analyzing and reflecting on that work, understanding the context and structures of the policy and political world with which they are engaging, and learning and practicing the professional forms of writing that that world uses. This process occurs through readings, written assignments, guest speakers, and signature events.
+
+Code: CAPS 4999
+Title: CAPS Independent Study
+Description: Independent study course in topics not covered in regularly scheduled courses. Students select a topic in consultation with the faculty member who has agreed to supervise the course work.
+

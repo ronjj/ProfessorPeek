@@ -1,0 +1,165 @@
+Code: NTRES 1101
+Title: Understanding Environment and Sustainability
+Description: This course examines two fundamental questions about biological, chemical and physical processes that influence the biosphere. First, how do humans obtain knowledge about these environmental processes? Second, how can we assess human influences upon these environmental processes? A key conceptual framework for the course is that environmental science provides tools for predicting future states of the earth's environment. Case studies, readings, discussions, writing assignments, and group exercises provide a foundation for understanding predictions about how the biosphere is influenced by human activities.
+
+Code: NTRES 1111
+Title: Roadmap to Success in Environment and Sustainability
+Description: This course is for first-year students entering or intending to enter the Environment & Sustainability (E&S) major. The multidisciplinarity of this major may make it seem complex. The purpose of this class is to position you for success with your goals in the major, at Cornell and beyond. Course content will facilitate your course planning, choice of concentration, and help you map out the resources and opportunities Cornell offers. Course activities will help you explore your personal identity and get to know your E&S student cohort.
+
+Code: NTRES 2100
+Title: Introductory Field Biology
+Description: In this course, students are introduced to field identification, natural history, and study of plants, animals, and natural systems. This course emphasizes hands-on interaction with nature, recording of ecological phenomena, and awareness and understanding of the natural environment, including ecological concepts (e.g., ecosystem, community, habitat, and niches).
+
+Code: NTRES 2400
+Title: Field Methods in Avian Ecology
+Description: Students will learn and practice a variety of methodologies used for studying wild birds including banding, census methods (point counts, transects, spot mapping), and behavioral observations. In a 50-minute classroom session each week, students will discuss relevant scientific literature and prepare for the lab session. The weekly field session will be held at various locations and students should be prepared to handle variable weather conditions. Students seeking to conduct independent research in avian ecology are encouraged to enroll. Note that one weekend field trip is required.
+
+Code: NTRES 3020
+Title: Earth Projects
+Description: Taught by an artist and scientist, in this experiential, place-based field course, students will engage in a range of interdisciplinary practices to understand and interpret ecological systems and land use issues using artistic and scientific approaches. The core of this course will be based on weekend field trips to diverse sites in the Finger Lakes Region of New York with varied cultural and ecological significance. Sites include Cornell's Biological field station at Shackelton Point on Oneida Lake, Arnot Forest, and several art museums. Immersive stays will allow students to gain a deep understanding of place along with uninterrupted time to work on creative projects independently, in groups, and as a class. Students will gain an understanding of the history of creative interventions and performance in the landscape, as well as scientific approaches to engage with and conceptualize Earth's topography and natural phenomena. Students will have the opportunity to interact with various visiting scientists and artists who are leaders in their fields. Lectures, readings, fireside chats, critique, and interdisciplinary experiences will contribute to students' development. The final product of this class will be an art exhibition at the Soil Factory, an interdisciplinary art space in downtown Ithaca.
+
+Code: NTRES 3030
+Title: Introduction to Biogeochemistry
+Description: Control and function of the Earth's global biogeochemical cycles. Begins with a review of the basic inorganic and organic chemistry of biologically significant elements, and then considers the biogeochemical cycling of carbon, nutrients, and metals that take place in soil, sediments, rivers, and the oceans. Topics include weathering, acid-base chemistry, biological redox processes, nutrient cycling and limitation, trace gas fluxes, bio-active metals, the use of isotopic tracers, controls on atmospheric carbon dioxide, and carbon cycle models. Interactions between global biogeochemical cycles and other components of the Earth system are discussed. Co-enrollment in one lab/discussion section per week is required.
+
+Code: NTRES 3100
+Title: Applied Population Ecology
+Description: In-depth analysis of the ecological factors influencing the natural fluctuation and regulation of animal population numbers. Develops models of single- and multi-species population dynamics, with emphasis on understanding the relationship between ecological processes operating at the individual level and subsequent dynamics at the population level. Significant emphasis is placed on application to conservation and management. Computer exercises are used to reinforce concepts presented in lecture.
+
+Code: NTRES 3150
+Title: Introduction to Conservation Bioacoustics
+Description: This course provides a strong foundation in the discipline of conservation bioacoustics, the use of sound to assess biodiversity, monitor animal populations, and make conservation decisions. In lecture, students will learn the basics of how sound is recorded and visualized, how animals produce and perceive sounds, and how to select recording equipment that is appropriate to the question and application. The course lectures will also build skills in acoustic data analysis including manual annotation, template detection, and machine learning approaches. In lab, students will use recording equipment to make recordings, practice analyzing acoustic data using a variety of cutting-edge analysis approaches, and learn strategies for the curation and management of large datasets. This course is a mandatory pre-requisite for an optional marine and terrestrial field component that will take place in Hawaii. Additional information about the related trip will be provided in class.
+
+Code: NTRES 3151
+Title: Conservation Bioacoustics Field Course Preparation
+Description: This course will focus on preparing students for the winter term Hawai'i field course. Specifically, we will learn about Hawai'ian ecosystems, culture, and conservation needs, and ideate potential bioacoustic project ideas related to these topics. Students will also learn about field techniques and data management practices that will be essential during our field course. This course will include lectures from Yang Center instructors and our local collaborators, discussion of relevant literature, and group work to develop project ideas and create plans for data collection.
+
+Code: NTRES 3220
+Title: Global Biodiversity
+Description: This course will explore the historical and ecological concepts underlying the planet's biological diversity. The goal is to develop an overview of what we know about patterns and processes of biological diversity in the past, present, and future. Pattern and process is the foundation to explore conservation and policy implications of changing biodiversity. Patterns include species richness, endemism, and extinction for plants and animals. Processes include climatic, ecological, geographic, and human induced changes. Recognizing the origin and maintenance of biological diversity is imperative in light of the tremendous increase in the human population size and the effects that humans have on life on Earth.
+
+Code: NTRES 3311
+Title: Environmental Governance
+Description: Environmental governance is defined as the assemblage of institutions that regulate society-nature interactions and shape environmental outcomes across a range of spatial and temporal scales. Institutions, broadly defined, are mechanisms of social coordination including laws (formal) and social norms (informal) that guide the behavior of individuals. Participants in the course will explore the roles of governments, markets, and collective action in environmental management and mismanagement. We will emphasize interactions among leading environmental policy strategies: public regulation, market-based incentives, and community-based resource management. The course is focused around a set of analytic perspectives. These theoretical frameworks allow us to synthesize empirical observations and material changes in ways that inform our understanding of contemporary evolution of environmental policy and management.
+
+Code: NTRES 3330
+Title: Ways of Knowing: Indigenous and Place-Based Ecological Knowledge
+Description: Based on indigenous and place-based "ways of knowing," this course (1) presents a theoretical and humanistic framework from which to understand generation of ecological knowledge; (2) examines processes by which to engage indigenous and place-based knowledge of natural resources, the nonhuman environment, and human-environment interactions; and (3) reflects upon the relevance of this knowledge to climatic change, resource extraction, food sovereignty, medicinal plant biodiversity, and issues of sustainability and conservation. The fundamental premise of this course is that human beings are embedded in their ecological systems.
+
+Code: NTRES 4100
+Title: Advanced Conservation Biology: Concepts and Techniques
+Description: Decision making in conservation biology requires measurement and analysis of variation at various levels (individual, population, and landscape). Emphasis in this course is on quantitative tools for the formal analysis of variation at all three levels and principles guiding maintenance and management of biological diversity.
+
+Code: NTRES 4160
+Title: Conversations in Conservation for One Health
+Description: This is a seminar series on community conservation projects conducted through Engaged Cornell with partners in Indonesia (Ujung Kulon National Park and Alliance of Integrated Forest Conservation) and Africa (Jane Goodall Institute). Each meeting consists of a presentation, open to students and members of the community, given by a veterinary or undergraduate participant of the Engaged Learning Program and followed by a discussion with enrolled students. The course brings together faculty and student mentors with prospective students interested in conservation medicine, providing opportunities for dialogue on One Health projects from proposal and implementation to impact and reflection. Debriefing uses material from field portfolios and relevant literature to augment case-based sharing of unique conservation experiences at the wildlife-domestic animal interface, great ape-human interactions, and
+environmental-public policy.
+
+Code: NTRES 4300
+Title: Environmental Policy Processes I
+Description: This on-campus and off-campus course sequence focuses on how environmental policy issues move through the federal policy-making process. Students select an environmental policy topic during the fall semester session (NTRES 4300) for analysis during the second part of the course (NTRES 4301), which takes place in Washington, D.C. The second session continues course focus on contemporary environmental problems, how they are defined, aggregating interests, agenda-setting, formulating alternative solutions, implementation and evaluation, and roles of lobbyists, advocates, the legislative, executive, judicial branches of government, and other actors. DC activities also include organized meetings with policy makers, advocates and experts as guest panelists. The spring semester session (NTRES 4302) requires presenting an oral policy briefing and writing both short and long policy briefs based on the DC interviews and additional research.
+
+Code: NTRES 4500
+Title: Climate Solutions Capstone
+Description: Interested in working toward solutions to the climate crisis? In this course, you will choose and implement a climate action from Project Drawdown's (www.drawdown.org) list of 82 climate solutions. You will also apply social sciences research to influence your friends or family to implement your climate action alongside you. For the capstone team project, you will work with other students and a community partner (Cornell Cooperative Extension or Climate Action Now) to support education related to plant-rich diet, low-emissions agriculture, forest regeneration, or other climate solutions. Interested students should have a general understanding of climate change science.
+
+Code: NTRES 4600
+Title: Planning for Environmental Conservation and Sustainability
+Description: An interactive course designed to provide students with experience applying some of the most important techniques that are used to develop plans to protect and sustain valuable environmental resources, such as species, ecosystems, land, and water. The class focuses on highly charged controversies over conservation, and students learn how planning can help them to identify and address the full range of ecological and social factors that lead to conservation success in these contexts. Students adopt the roles of stakeholders and work on intensive case studies of conservation issues, learning how ecological and social insight are integrated for effective conservation planning. Topics covered in the course include: rational planning, adaptive management, stakeholder engagement, and conflict resolution.
+
+Code: NTRES 4940
+Title: Special Topics in Natural Resources
+Description: The department teaches "trial" courses under this number. Offerings vary by semester and are advertised by the department before the semester starts. Courses offered under the number will be approved by the department curriculum committee, and the same course is not offered more than twice under this number.
+
+Code: NTRES 4960
+Title: Internship in Natural Resources
+Description: On-the-job learning experience under the supervision of professionals in a cooperating organization. A learning contract is written between the faculty supervisor and the student, stating the learning objectives, conditions of the work assignment, nature of on-the-job supervision, and reporting requirements, including the formal basis on which the faculty supervisor will assign a grade. All 4960 internship courses must adhere to the CALS guidelines at cals.cornell.edu/academics/student-research/internship.
+
+Code: NTRES 4961
+Title: Perspectives in Global Development
+Description: A variety of speakers present seminars on international development topics relating to sustainable development throughout the world. Students attend each seminar and submit a five-page essay at the end of the semester reflecting on the speakers' presentations and analyzing connections between topics.
+
+Code: NTRES 4970
+Title: Individual Study in Environmental Social Science and Resource Policy
+Description: Individual study under faculty supervision. Topics in environmental social science resource policy are arranged depending on the interests of students and availability of staff.
+
+Code: NTRES 4971
+Title: Individual Study in Applied Ecology and Conservation Ecology
+Description: Individual study under faculty supervision. Topics in applied ecology or conservation biology are arranged depending on the interests of students and availability of staff.
+
+Code: NTRES 4972
+Title: Individual Study in Ecosystem Science and Biochemistry
+Description: Individual study under faculty supervision. Topics in ecosystem science and biogeochemistry are arranged depending on the interests of students and availability of staff.
+
+Code: NTRES 4980
+Title: Undergraduate Teaching in Natural Resources
+Description: Designed to give students an opportunity to obtain teaching experience by assisting in labs, field trips for designated sections, discussions, and grading. Students gain insight into the organization, preparation, and execution of course plans through application and discussions with instructor.
+
+Code: NTRES 4990
+Title: Undergraduate Research
+Description: Undergraduate research projects in natural resources; contingent on finding a faculty person to work with.
+
+Code: NTRES 5900
+Title: Professional Projects - M.P.S.
+Description: For M.P.S. graduate students working on professional master's projects.
+
+Code: NTRES 6000
+Title: Introduction to Graduate Study in Natural Resources
+Description: Students will attend weekly seminar in Natural Resources and engage in follow up discussion of the scientific content presented and implications for the management and conservation of resources. Additional goal of the course is to examine how scientists pursue career paths toward effective participation in this realm. Discussions focus on the practices of scientists and institutions that provide a framework for scientific endeavors.
+
+Code: NTRES 6040
+Title: Seminar on Selected Topics in Resource Policy and Management
+Description: Special topics seminar on subjects related to resource policy and management.
+
+Code: NTRES 6100
+Title: Collaborative and Reproducible Data Science in R
+Description: As datasets grow larger and more complex across all areas of science, computational skills are increasingly in high demand. This course introduces a series of practical tools that enable researchers to spend less time wrestling with software or repeating error-prone manual data processing and more time getting research done in efficient and transparent ways that facilitate collaboration and reproducibility. We will work in R/RStudio. Topics covered include 1) tidy data formatting, 2) rearrangement, filtering, exploration, and visualization of complex datasets, 3) basic programming, 4) version control with Git and GitHub, and 5) using R Markdown to combine text, code, tables, and figures into reports, websites, and presentations. The course emphasizes practical skill development and is structured around hands-on (the keyboard) learning.
+
+Code: NTRES 6150
+Title: Introduction to Conservation Bioacoustics
+Description: This course provides a strong foundation in the discipline of conservation bioacoustics, the use of sound to assess biodiversity, monitor animal populations, and make conservation decisions. In lecture, students will learn the basics of how sound is recorded and visualized, how animals produce and perceive sounds, and how to select recording equipment that is appropriate to the question and application. The course lectures will also build skills in acoustic data analysis including manual annotation, template detection, and machine learning approaches. In lab, students will use recording equipment to make recordings, practice analyzing acoustic data using a variety of cutting-edge analysis approaches, and learn strategies for the curation and management of large datasets. This course is a mandatory pre-requisite for an optional marine and terrestrial field component that will take place in Hawaii. Additional information about the related trip will be provided in class.
+
+Code: NTRES 6151
+Title: Conservation Bioacoustics Field Course Preparation
+Description: This course will focus on preparing students for the winter term Hawai'i field course. Specifically, we will learn about Hawai'ian ecosystems, culture, and conservation needs, and ideate potential bioacoustic project ideas related to these topics. Students will also learn about field techniques and data management practices that will be essential during our field course. This course will include lectures from Yang Center instructors and our local collaborators, discussion of relevant literature, and group work to develop project ideas and create plans for data collection.
+
+Code: NTRES 6300
+Title: Current Topics in Molecular Ecology and Population Genomics
+Description: This graduate seminar will take the form of a journal club that meets weekly to discuss the burgeoning literature on genomic approaches used to address ecological and evolutionary questions in non-model organisms (i.e. organisms that have not been selected by large research communities for extensive study). The class time is used for discussion of recent primary research articles. Paper topics will be determined based on student interest and will include both novel results and methodological advances, primarily in evolutionary and ecological genomics or molecular ecology. To earn course credit, students are required to actively participate in class discussions each week and lead the discussion of at least one paper over course of the semester.
+
+Code: NTRES 6330
+Title: Ways of Knowing: Indigenous and Place-Based Ecological Knowledge
+Description: Based on indigenous and place-based "ways of knowing," this course (1) presents a theoretical and humanistic framework from which to understand generation of ecological knowledge; (2) examines processes by which to engage indigenous and place-based knowledge of natural resources, the nonhuman environment, and human-environment interactions; and (3) reflects upon the relevance of this knowledge to climatic change, resource extraction, food sovereignty, medicinal plant biodiversity, and issues of sustainability and conservation. The fundamental premise of this course is that human beings are embedded in their ecological systems. Graduate students are required to read supplemental materials, undertake more complex research assignments, and participate in seminar discussion section.
+
+Code: NTRES 6350
+Title: Planning for Environmental Conservation and Sustainability
+Description: An interactive course designed to provide students with experience applying some of the most important techniques that are used to develop plans to protect and sustain valuable environmental resources, such as species, ecosystems, land, and water. The class focuses on highly charged controversies over conservation, and students learn how planning can help them to identify and address the full range of ecological and social factors that lead to conservation success in these contexts. Students adopt the roles of stakeholders and work on intensive case studies of conservation issues, learning how ecological and social insight are integrated for effective conservation planning. Topics covered in the course include rational planning, adaptive management, stakeholder engagement, and conflict resolution.
+
+Code: NTRES 6500
+Title: Climate Solutions Capstone
+Description: Interested in working toward solutions to the climate crisis? In this course, you will choose and implement a climate action from Project Drawdown's (www.drawdown.org) list of 82 climate solutions. You will also apply social sciences research to influence your friends or family to implement your climate action alongside you. For the capstone team project, you will work with other students and a community partner (Cornell Cooperative Extension or Climate Action Now) to support education related to plant-rich diet, low-emissions agriculture, forest regeneration, or other climate solutions. Interested students should have a general understanding of climate change science.
+
+Code: NTRES 6940
+Title: Special Topics in Natural Resources
+Description: The department teaches "trial" courses under this number. Offerings vary by semester and are advertised by the department before the semester starts. Courses offered under the number will be approved by the department curriculum committee, and the same course is not offered more than twice under this number.
+
+Code: NTRES 6960
+Title: Perspectives in Global Development
+Description: A variety of speakers present seminars on international development topics relating to sustainable development throughout the world. Students attend each seminar and submit a five-page essay at the end of the semester reflecting on the speakers' presentations and analyzing connections between topics.
+
+Code: NTRES 6970
+Title: Graduate Individual Study in Natural Resources
+Description: Study of topics in natural resources more advanced than, or different from, other courses. Subject matter depends on interests of students and availability of staff.
+
+Code: NTRES 7900
+Title: Graduate-Level Thesis Research
+Description: Thesis research for Ph.D. students only before "A" exam has been passed.
+
+Code: NTRES 8900
+Title: Master's Thesis Research
+Description: Thesis research for master's students.
+
+Code: NTRES 9900
+Title: Doctoral-Level Thesis Research
+Description: Thesis research for Ph.D. candidates after "A" exam has been passed.
+

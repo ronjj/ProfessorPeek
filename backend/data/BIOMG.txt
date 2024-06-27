@@ -1,0 +1,129 @@
+Code: BIOMG 1035
+Title: Academic Support for BIOMG 1350: Cell and Developmental Biology
+Description: This course reviews material presented in BIOMG 1350 and provides problem-solving strategies and additional practice with material. BIOMG 1035 support is recommended for students who want to maximize their understanding of Cell and Developmental Biology and enhance their learning skills. BIOMG 1035 is not a substitute for BIOMG 1350.
+
+Code: BIOMG 1350
+Title: Introductory Biology: Cell and Developmental Biology
+Description: The course introduces molecular mechanisms that underlie the organization, division, and growth of individual cells; how they organize during embryonic development to form functional tissues and organs in multicellular organisms; and how their misbehavior contributes to disease. Students seeking additional help with the material taught in BIOMG 1350 should consider the active learning supplemental class BIOMG 1035 (see course catalog for details). The learning outcomes below indicate the topics and skills that students should master upon completion of the course.
+
+Code: BIOMG 2800
+Title: Lectures in Genetics and Genomics
+Description: General introduction to the fundamental principles of genetics in eukaryotes and bacteria. Topics include: gene transmission, linkage, recombination, structure, mutations, and manipulation, as well as analysis of genomes in individuals and populations.
+
+Code: BIOMG 2801
+Title: Laboratory in Genetics and Genomics
+Description: General introduction to laboratory experimental genetics. Topics include gene transmission, linkage, recombination, gene structure, mutations, and manipulation.
+
+Code: BIOMG 3300
+Title: Principles of Biochemistry, Individualized Instruction
+Description: Thirteen units that cover protein structure and function, enzymes, basic metabolic pathways, DNA, RNA, protein synthesis, and an introduction to recombinant DNA techniques. No formal lectures, auto-tutorial format.
+
+Code: BIOMG 3310
+Title: Principles of Biochemistry: Proteins and Metabolism
+Description: The chemical reactions important to biology, and the enzymes that catalyze these reactions, are discussed in an integrated format. Topics include: protein folding, enzyme catalysis, bioenergetics, and key reactions of synthesis and catabolism.
+
+Code: BIOMG 3340
+Title: Computer Graphics and Molecular Biology
+Description: Visualization of complex biomolecules using computer graphics techniques. Group presentations on current topics in molecular biology.
+
+Code: BIOMG 3850
+Title: Developmental Biology
+Description: This course is primarily concerned with the causal basis of developmental events, mainly focusing on animal development. We will be learning how a fertilized egg becomes an animal. Topics covered will include embryonic organization, role of genes in development, inductive interactions, morphogenesis and pattern formation. Subject matter will include not only what we know about development but also how we learned it.
+
+Code: BIOMG 4000
+Title: Genomics
+Description: Introduction to principles underlying the organization of genomes and the methods of studying them, emphasizing genome-wide approaches to research. Covers the application of genomics methodologies for addressing issues including gene regulation, evolution, complex systems, genetics, and gene: phenotype relationships. Landmark and timely genomics papers and other research developments will be discussed. Basic bioinformatics tools will be incorporated.
+
+Code: BIOMG 4311
+Title: Proteins: Structure, Function and Evolution
+Description: Students in this course will discover the complex behavior of proteins and how they impact biology. The course is divided into three different sections. The first section is a classic protein structure-function section incorporating advanced enzyme kinetics. The second section of this course will review how proteins evolve and how this can be practically analyzed. After the course's final section, students will be able to integrate the theory behind purifying and analyzing proteins with modern spectroscopy and microscopy techniques.
+
+Code: BIOMG 4380
+Title: RNA in Biology and Medicine
+Description: It is hypothesized that RNA may have been the earliest life form on earth. Nowadays RNA plays three vital roles in biology. It serves as an information carrier to guide biological processes; it adopts sophisticated 3D structures to promote recognition and catalysis; and it promotes cellular compartmentalization. Each of these properties has been exploited for therapeutics and medicine. This course explores the idea of a prehistorical "RNA World", dives deep into interesting topics in the RNA biology, and explains their connection to modern medicine. Representative topics include the mechanisms of CRISPR-Cas and RNA interference and their
+wide-spread applications in research and medicine, ribosome as an antibiotic target, perturbing splicing to cure genetic diseases, connection between telomerase and cancer/aging, etc. Classical experiments as well as up-to-date research are covered in this class. A portion of each class is devoted to student presentations and discussion. After completing this class, students should:
+
+Code: BIOMG 4400
+Title: Laboratory in Biochemistry and Molecular Biology
+Description: Students in this course will carry out experiments in protein biochemistry and molecular biology in an engaging laboratory environment. The protein biochemistry projects include protein purification (salt fractionation, ion exchange chromatography, affinity chromatography, size exclusion chromatography, and immunoprecipitation), protein analysis (SDS PAGE, BN PAGE, immunoblotting, and activity assays), and determination of enzyme kinetic parameters (Vmax, KM, and kcat). The molecular biology projects include CRISPR-mediated genome editing, nucleic acid purifications (plasmid DNA and RNA), gene expression analysis (RT-PCR and splicing), agarose gel electrophoresis, restriction endonuclease digestion, PCR, DNA cloning, transformation, and DNA sequence analysis. The course is organized around interesting projects that illustrate how different techniques are uniquely suited to answer a scientific question.
+
+Code: BIOMG 4870
+Title: Human Genomics
+Description: Applies fundamental concepts of transmission, population, and molecular genetics to the problem of determining the degree to which familial clustering of diseases in humans has a genetic basis. Emphasizes the role of full genome knowledge in expediting this process of gene discovery. Stresses the role of statistical inference in interpreting genomic information. Population genetics, and the central role of understanding variation in the human genome in mediating variation in disease risk, are explored in depth. Methods such as homozygosity mapping, linkage disequilibrium mapping, and admixture mapping are examined. The format is a series of lectures with classroom discussion. Assignments include a series of problem sets and a term paper.
+
+Code: BIOMG 4980
+Title: Teaching Experience
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and assisting in biology courses. This experience may include supervised participation in a discussion group, assisting in a biology laboratory, assisting in field biology, or tutoring.
+
+Code: BIOMG 4981
+Title: Teaching Experience in Principles of Biochemistry, Indv
+Description: BIOMG 4981 offers training and experience for undergraduate teaching assistants in BIOMG 3300 (Introductory Biochemistry: Individualized Instruction). Teaching assistants are required to complete a weekly written assignment, attend a weekly two-hour TA training meeting and to spend six hours per week in the Biochemistry Study Center answering student questions, grading written quizzes, and administering oral quizzes. Teaching Assistants are evaluated based on the quality of written work submitted, observations at the weekly meetings and Study Center shifts, as well as on the mid-term and end-of-semester course evaluations.
+
+Code: BIOMG 4982
+Title: Teaching Leadership in Principles of Biochemistry, Indv
+Description: BIOMG 4982 gives students who have successfully served as a BIOMG 3300 Teaching Assistant (as part of BIOMG 4981) a second opportunity at teaching the class and the added privilege of assisting the course instructor in leading and mentoring the incoming teaching assistant group. In addition to the required leadership responsibilities, students in BIOMG 4982 are required to review the material on a weekly basis and to spend six hours per week in the Biochemistry Study Center. Teaching Leaders are evaluated based on observations made during their Study Center shifts, as well as on the mid-term and end-of-semester course evaluations.
+
+Code: BIOMG 5350
+Title: Introductory Biology: Cell and Developmental Biology
+Description: The course introduces molecular mechanisms that underlie the organization, division, and growth of individual cells; how they organize during embryonic development to form functional tissues and organs in multicellular organisms; and how their misbehavior contributes to disease.  The learning outcomes below indicate the topics and skills that students should master upon completion of the course.
+
+Code: BIOMG 6000
+Title: Genomics
+Description: Introduction to principles underlying the organization of genomes and the methods of studying them, emphasizing genome-wide approaches to research. Covers the application of genomics methodologies for addressing issues including gene regulation, evolution, complex systems, genetics, and gene: phenotype relationships. Landmark and timely genomics papers and other research developments will be discussed. Basic bioinformatics tools will be incorporated.
+
+Code: BIOMG 6300
+Title: Principles of Biochemistry, Individualized Instruction
+Description: Thirteen units that cover protein structure and function, enzymes, basic metabolic pathways, DNA, RNA, protein synthesis, and an introduction to recombinant DNA techniques. No formal lectures, auto-tutorial format.
+
+Code: BIOMG 6310
+Title: Proteins: Structure, Function and Evolution
+Description: Students in this course will discover the complex behavior of proteins and how they impact biology. The course is divided into three different sections. The first section is a classic protein structure-function section incorporating advanced enzyme kinetics. The second section of this course will review how proteins evolve and how this can be practically analyzed. After the course's final section, students will be able to integrate the theory behind purifying and analyzing proteins with modern spectroscopy and microscopy techniques.
+
+Code: BIOMG 6311
+Title: Principles of Biochemistry: Proteins and Metabolism
+Description: The chemical reactions important to biology, and the enzymes that catalyze these reactions, are discussed in an integrated format. Topics include: protein folding, enzyme catalysis, bioenergetics, and key reactions of synthesis and catabolism.
+
+Code: BIOMG 6330
+Title: DNA Biology
+Description: BIOMG 6330 covers selected aspects of the molecular biology and biochemistry of DNA metabolism. Topics include DNA replication, genetic recombination, DNA repair, DNA transposition, somatic hypermutation, and DNA editing technologies. Students will become familiar with this work by reading papers that include genetic, biochemical, structural, and computational biology approaches.
+
+Code: BIOMG 6380
+Title: RNA in Biology and Medicine
+Description: It is hypothesized that RNA may have been the earliest life form on earth. Nowadays RNA plays three vital roles in biology. It serves as an information carrier to guide biological processes; it adopts sophisticated 3D structures to promote recognition and catalysis; and it promotes cellular compartmentalization. Each of these properties has been exploited for therapeutics and medicine. This course explores the idea of a prehistorical "RNA World", dives deep into interesting topics in the RNA biology, and explains their connection to modern medicine. Representative topics include the mechanisms of CRISPR-Cas and RNA interference and their wide-spread applications in research and medicine, ribosome as an antibiotic target, perturbing splicing to cure genetic diseases, connection between telomerase and cancer/aging, etc. Classical experiments as well as up-to-date research are covered in this class. A portion of each class is devoted to student presentations and discussion. After completing this class, students should:
+
+Code: BIOMG 6400
+Title: Laboratory in Biochemistry and Molecular Biology
+Description: Students in this course will carry out experiments in protein biochemistry and molecular biology in an engaging laboratory environment. The protein biochemistry projects include protein purification (salt fractionation, ion exchange chromatography, affinity chromatography, size exclusion chromatography, and immunoprecipitation), protein analysis (SDS PAGE, BN PAGE, immunoblotting, and activity assays), and determination of enzyme kinetic parameters (Vmax, KM, and kcat). The molecular biology projects include CRISPR-mediated genome editing, nucleic acid purifications (plasmid DNA and RNA), gene expression analysis (RT-PCR and splicing), agarose gel electrophoresis, restriction endonuclease digestion, PCR, DNA cloning, transformation, and DNA sequence analysis. The course is organized around interesting projects that illustrate how different techniques are uniquely suited to answer a scientific question.
+
+Code: BIOMG 6810
+Title: Population Genetics
+Description: Population genetics is the study of the transmission of genetic variation through time and space. This course will provide a comprehensive introduction to the fundamental concepts and methods in population genetics, with a focus on exploring how patterns of genetic variation are connected to the underlying evolutionary processes. Topics include genetic drift, mutation, coalescence theory, demography, population structure, selection, fitness, quantitative traits, selective sweeps, and adaptation at the molecular level. Emphasis is placed on the interplay between theory, computer simulations, and the analysis of genetic data from natural as well as experimental populations. We will also discuss efforts to connect genotype with phenotype and ultimately fitness. Specific case studies will include the evolution of drug resistance, genetic ancestry mapping, experimental evolution of microbes, and the genetic structure and demographic history of human populations.
+
+Code: BIOMG 6850
+Title: Developmental Biology
+Description: This course is primarily concerned with the causal basis of developmental events, mainly focusing on animal development. We will be learning how a fertilized egg becomes an animal. Topics covered will include embryonic organization, role of genes in development, inductive interactions, morphogenesis and pattern formation. Subject matter will include not only what we know about development but also how we learned it.
+
+Code: BIOMG 6871
+Title: Human Genomics
+Description: Applies fundamental concepts of transmission, population, and molecular genetics to the problem of determining the degree to which familial clustering of diseases in humans has a genetic basis. Emphasizes the role of full genome knowledge in expediting this process of gene discovery. Stresses the role of statistical inference in interpreting genomic information. Population genetics, and the central role of understanding variation in the human genome in mediating variation in disease risk, are explored in depth. Methods such as homozygosity mapping, linkage disequilibrium mapping, and admixture mapping are examined. The format is a series of lectures with classroom discussion. Assignments include a series of problem sets and a term paper.
+
+Code: BIOMG 6980
+Title: Graduate Student Teaching Assistant Experience in Molecular Biology and Genetics
+Description: This course is designed for graduate students in Graduate Fields of Biochemistry, Molecular and Cell Biology (BMCB) and Genetics, Genomics, and Development (GGD) who will serve as teaching assistants (TA) in undergraduate courses offered in the Department of Molecular Biology and Genetics (MBG). BMCB and GGD teaching assistants will take this course concurrently with their first TA assignment. The goal of the course is to provide teaching assistants with pedagogical skills in active learning, assessing student learning, leading discussions, grading, and best teaching practices for TA'ing MBG courses. Students will discuss their teaching experiences with their peers and gain feedback on their teaching effectiveness. An initial class meeting will help prepare students for the first day of class and provide tips for working with a teaching team. Throughout the semester, semi-weekly milestone meetings will focus on issues pertaining to graduate TAs, such as balancing research with teaching, interacting with students and course instructor, and special circumstances that may arise throughout the semester. Students will be encouraged to meet with their course instructor to gain feedback and to share their experiences with members of the course.
+
+Code: BIOMG 7860
+Title: Research Seminar in Genetics and Development
+Description: Each graduate student presents one seminar per year based on his or her thesis research. The student then meets with the thesis committee members for an evaluation of the presentation.
+
+Code: BIOMG 8330
+Title: Research Seminar in Biochemistry
+Description: Each student presents one seminar per year on his or her thesis research and then meets with instructors and thesis committee members for evaluation.
+
+Code: BIOMG 8369
+Title: Foundational Skills for Graduate School and Beyond
+Description: The course will focus on helping students successfully navigate the graduate experience, covering diverse topics relevant to the broader experience and realities of graduate school. Occasional guest lectures and panels will be included. Topics will include:
+
+Code: BIOMG 8375
+Title: Scientific Communication: Research Proposal Writing
+Description: This is a tri-field course that is required of all second-year graduate students in the Fields of BMCB, GGD and Biophysics. The overall goal of this course is to help students develop scientific writing skills and to become familiar with the scientific peer review process, each of which will be achieved through active learning experiences. Students will learn to develop research ideas and communicate them effectively in the context of a written research proposal, using the format of an NSF Predoctoral Fellowship application.
+

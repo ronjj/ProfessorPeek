@@ -1,0 +1,16 @@
+Code: BENGL 1121
+Title: Elementary Bangla-Bengali I
+Description: Intended for beginners or students placed by examination. The emphasis is on basic grammar, speaking, and comprehension skills; Bangla script will also be introduced.
+
+Code: BENGL 2201
+Title: Intermediate Bangla-Bengali I
+Description: Continuing focus on reading, writing, and conversational skills, this course is designed to advance students' oral competence and enhance comprehension skills through reading, conversations, and listening.
+
+Code: BENGL 3301
+Title: Advanced Bangla-Bengali I
+Description: Continuing instruction in Bangla at the advanced level focusing on conversation, interview, and discussion skills.
+
+Code: BENGL 5509
+Title: Graduate Studies in Bangla-Bengali
+Description: Topics vary by semester in relation to student needs.
+

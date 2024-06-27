@@ -1,0 +1,4 @@
+Code: HIERO 1450
+Title: Ancient Egyptian I: Introduction to Middle Egyptian Hieroglyphs
+Description: From ca. 2100 BC to the Roman era, hieroglyphs representing the Middle Egyptian language were inscribed on texts, objects and architecture. In this initial course students learn how the language was written and how it worked, including how words were written and how sentences were constructed with and without verbs. Along the way we will be reading short excerpts from Egyptian texts as part of the textbook's exercises, emphasizing grammar rather than textual or thematic analysis. The student who completes this and the second course that focuses on the verbal system will be well-equipped to pursue detailed study of Egyptian classics such as The Eloquent Peasant, Tale of Sinuhe, and Book of the Dead, as well as shorter inscriptions found on objects and monuments.
+

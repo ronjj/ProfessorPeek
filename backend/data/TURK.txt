@@ -1,0 +1,12 @@
+Code: TURK 1330
+Title: Elementary Turkish through TV Series I
+Description: In this introductory course of a sequence of two, learners will develop a basic foundation in reading, writing, listening, and beginning conversation skills in contemporary Turkish. Learners will read short texts on Turkish culture, handle non-complex social conversations, understand sentence-level statements, and write simple paragraphs on familiar topics. This course has a section focused on Turkish TV series. In this section, the learners will have a deeper understanding of Turkish language, society, and culture. They will watch the most popular TV series, complete the assigned tasks, and discuss in class. This course is for new learners of Turkish.
+
+Code: TURK 1332
+Title: Intermediate Turkish I
+Description: In this course, learners will advance their reading, writing, listening and conversation skills in contemporary Turkish as they move towards extended conversation, written communication, academic listening/watching, and research. This course has sections focused on Turkish Literature, TV series, and cinema. In this section, the learners will have a deeper understanding of Turkish language, society, and culture. The course also has sections designed for heritage speaker needs.
+
+Code: TURK 5509
+Title: Graduate Studies in Turkish
+Description: Topics vary by semester in relation to student needs.
+

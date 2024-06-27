@@ -1,0 +1,48 @@
+Code: LATIN 1201
+Title: Elementary Latin I
+Description: Introductory course designed to prepare students to start reading Latin prose at the end of a year. The class moves swiftly and includes extensive memorization of vocabulary and paradigms; study of Latin syntax; and written homework, quizzes, tests, and oral drills.
+
+Code: LATIN 1205
+Title: Intermediate Latin I
+Description: Introduces students to reading original Latin text. Covers complex syntax and reviews the grammar presented in LATIN 1202, LATIN 1204.
+
+Code: LATIN 2203
+Title: Catullus
+Description: The hundred or so carmina we have of Catullus (c. 87 – c. 57 BC) continue to influence poets and critics today. Their timelessness makes us forget that they were composed in time, a greater understanding of which helps us to understand what makes them timeless. By engaging Catullus' poems actively in the original Latin, we will appreciate their historical, cultural, and poetical context and the impact it has had on their enduring appeal.
+
+Code: LATIN 3220
+Title: Rapid Reading in Latin
+Description: Topic: Tacitus' Annales.
+
+Code: LATIN 3286
+Title: Independent Study in Latin, Undergraduate Level
+Description: May be taken upon completion of one semester of work at the 3000-level. To be taken only in exceptional circumstances. Must be arranged by the student with their advisor and the faculty member who has agreed to direct the study. To be approved by the DUS.
+
+Code: LATIN 5211
+Title: Elementary Latin I
+Description: Introductory course designed to prepare students to start reading Latin prose at the end of a year. The class moves swiftly and includes extensive memorization of vocabulary and paradigms; study of Latin syntax; and written homework, quizzes, tests, and oral drills.
+
+Code: LATIN 5215
+Title: Intermediate Latin I
+Description: Introduces students to reading original Latin text. Covers complex syntax and reviews the grammar presented in LATIN 5212, LATIN 5214.
+
+Code: LATIN 5223
+Title: Catullus
+Description: The hundred or so carmina we have of Catullus (c. 87 – c. 57 BC) continue to influence poets and critics today. Their timelessness makes us forget that they were composed in time, a greater understanding of which helps us to understand what makes them timeless. By engaging Catullus' poems actively in the original Latin, we will appreciate their historical, cultural, and poetical context and the impact it has had on their enduring appeal.
+
+Code: LATIN 5230
+Title: Rapid Reading in Latin
+Description: Topic: Tacitus' Annales.
+
+Code: LATIN 6201
+Title: Advanced Readings in Latin Literature
+Description: Topic: Semantics of prose.
+
+Code: LATIN 6216
+Title: Advanced Latin Prose Composition
+Description: This advanced Latin prose composition course is for graduate students.
+
+Code: LATIN 7920
+Title: Independent Study in Latin
+Description: Independent study for graduate students only.
+

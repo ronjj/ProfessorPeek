@@ -1,0 +1,20 @@
+Code: DESIGN 4197
+Title: Special Topics in Design
+Description: This course addresses pertinent issues relative to the subject of design. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: DESIGN 6151
+Title: Design and Making Across Disciplines I
+Description: This course is an introduction to fundamental concepts and methods in design and emerging technologies across architecture, engineering, and science to prepare students with the necessary tools and knowledge for iterative, hybrid, and synthetic thinking in design & making across disciplines.
+
+Code: DESIGN 6197
+Title: Special Topics in Design
+Description: This course addresses pertinent issues relative to the subject of design. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content. Topics vary each semester.
+
+Code: DESIGN 6297
+Title: Coding for Design I
+Description: This course addresses pertinent issues relative to the subject of design and coding. The instructor(s) of the course are drawn from the permanent and visiting faculty who may either broadly or narrowly define the course's scope and content.
+
+Code: DESIGN 6397
+Title: Design for Physical Interaction I
+Description: This course provides an introduction to the human-centered and technical workings behind interactive devices ranging from cell phones and video controllers to household appliances and smart cars. This is a hands-on, lab-based course. Topics include electronics prototyping, interface prototyping, sensors and actuators, microcontroller development, physical prototyping, and user testing.
+

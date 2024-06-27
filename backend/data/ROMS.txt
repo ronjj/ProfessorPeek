@@ -1,0 +1,56 @@
+Code: ROMS 1102
+Title: FWS: The Craft of Storytelling
+Description: We tell stories for many reasons: to entertain; to seduce; to complain; to think. This course draws upon the literatures and cultures of the romance languages to explore the role of narrative in our construction and understanding of the world.
+
+Code: ROMS 1108
+Title: FWS:Cultural Identities; Cultural Differences
+Description: What is a culture, and how do we know one when we see it?  This course draws upon the histories and texts of French, Spanish, Italian, and/or Portuguese speaking worlds to discuss issues of identity, difference, politics, place, and community.
+
+Code: ROMS 1109
+Title: FWS: Image and Imagination
+Description: What kind of information do images - in photography, painting, and/or film - convey?  What kind of impact do they have on the minds and the bodies of their audiences?  This course foregrounds the role of visual culture in the societies where Spanish, French, Portuguese, and/or Italian is spoken, and it asks students to dwell upon how visual material interacts with spoken and written language.
+
+Code: ROMS 1113
+Title: FWS: Thinking and Thought
+Description: Some of the most important and intriguing thinkers, from the Middle Ages to postmodernity, have done their thinking in the romance languages.  This course explores a body of work that would be called philosophical by some, theoretical by others, and that, beyond these names, struggles to articulate fundamental concepts, problems, discourses, and situations.
+
+Code: ROMS 1114
+Title: FWS: Semiotics
+Description: What allows us to make assumptions about people based on the way they speak or dress? How can we understand the deeper meaning of a fairy tale or an episode of The Simpsons? What does macaroni and cheese mean, and why is it not on the menu at most upscale Manhattan eateries? This seminar introduces semiotics, the study of signs and the meaning-bearing sign systems they form; sign systems that include not only human language but also literature, painting, sculpture, film, music, dance and also such aspects of popular culture as advertising, fashion, food, and television, to name just a few. The diversity of semiotic systems provides many possibilities for thinking and writing critically about the world we live in.
+
+Code: ROMS 1120
+Title: FWS: Animals in Global Cinema
+Description: In this class, students will learn about animal welfare and conservation through international films. We will discuss wildlife, companion, farm, and lab animals in conjunction with human cultures, politics, and geography. The course will cover various animal species in fiction films, documentaries, and animated movies. In some motion pictures, animals will be central, in other more peripheral. Students will learn how to compose a film review, assess sources, and write a critical essay. The class includes guest speakers and a field trip to Cornell Teaching & Research Barns. All films are digital for students to watch in their free time
+
+Code: ROMS 3115
+Title: Video and New Media: Art, Theory, Politics
+Description: The course will offer an overview of video art, alternative documentary video, and digital installation and networked art. It will analyze four phases of video and new media: (1) the development of video from its earliest turn away from television; (2) video's relation to art and installation; (3) video's migration into digital art; (4) the relation of video and new media to visual theory and social movements. Screenings will include early political and feminist video (Ant Farm, Rosler, Paper Tiger TV, Jones), conceptual video of the '80s and '90s (Vasulka, Lucier, Viola, Hill), gay and multicultural video of the '90s (Muntadas, Riggs, Piper, Fung, Parmar), networked and activist new media of the 21st century (Critical Art Ensemble, Electronic Disturbance Theater, SubRosa, Preemptive Media). Secondary theoretical readings on postmodernism, video theory, multicultural theory, and digital culture will provide students with a cultural and political context for the discussion of video and new media style, dissemination, and reception.
+
+Code: ROMS 3560
+Title: Freud and Psychoanalysis
+Description: Psychoanalysis considers the human being not as an object of treatment, but as a subject who is called upon to elaborate an unconscious knowledge about what is disrupting her life, through analysis of dreams, symptoms, bungled actions, slips of the tongue, and repetitive behaviors.  Freud finds that these apparently irrational acts and behavior are ordered by the logic of the fantasy, which provides a mental representation of a traumatic childhood experience and the effects it unleashes in the mind and body-effects he called drives.  As "unbound" energies, the drives give rise to symptoms, repetitive acts, and fantasmatic stagings that menace our health and sometimes threaten social coexistence, but that also rise to the desires, creative acts, and social projects we identify as the essence of human life.  Readings will include fundamental texts on the unconscious, repression, fantasy, and the death drive, as well as case studies and speculative essays on mythology, art, religion, and group psychology.  Students will be asked to keep a dream journal and to work on their unconscious formations, and will have the chance to produce creative projects as well as analytic essays.
+
+Code: ROMS 4650
+Title: Revolution: An Intellectual History
+Description: For more than two centuries, revolutions have marked the rhythm of modernity. In 1780, the original meaning of revolution - an astronomical rotation - was transformed in order to apprehend a social and political overthrow. This course will investigate the multiple uses of this crucial concept of political theory, from the revolutionary canon (Blanqui, Marx, Fanon...) to the classics of conservatism (Maistre, Cortés, Schmitt...), which depict contemporary history as a conflict between revolutions and counter-revolutions, socialist and fascist revolutions. We will explore the connections between history and theory, and stress the global dimension of revolutions, forged by a permanent transfer of ideas and people from one continent to another.
+
+Code: ROMS 5080
+Title: Pedagogy Practicum
+Description: This practicum is designed to better enable the TAs to meet the needs of their students in the understanding and acquisition of the linguistic forms, notions, and functions covered in their course.
+
+Code: ROMS 6100
+Title: Romance Studies Colloquium
+Description: Designed to give insight into how to formulate projects, conduct research, and publish one's work, the colloquium offers a venue for faculty-graduate student dialogue in a collegial, intellectual setting.  Meetings are biweekly, 2-3 hours, and are open to all students and faculty in Romance Studies, but required for first year students in the program.  Each meeting, two faculty members will be invited to discuss their scholarship and also a short text of their choice, to be distributed beforehand.
+
+Code: ROMS 6224
+Title: Beauty, Grief
+Description: This course is for anyone drawn to beauty-and anyone who, within the beautiful, finds the trace of a loss. What do we grieve, what do we miss, when we find ourselves in the presence of beauty? And what, in every retrospective, prospective or otherwise non-present beauty, do we nonetheless crave and nonetheless mourn? What is the beauty hidden within mourning? We'll take a look at thinkers, poets, and artists from both modern and premodern culture, potentially including Anne Carson, Augustine of Hippo, Fra Angelico, Gillian Rose, Hervé Guibert, Pepe Espáliu, and others, as we try to sit with dual summons of beauty and grief: beauty or grief.
+
+Code: ROMS 6324
+Title: Writing for the Public: Adapting Academic Work for a General Audience
+Description: This workshop-style course will address the question of how to draw on academic research and expertise to write for a non-specialist audience. We will discuss the benefits of public-facing writing; how to select a publication to pitch; how to pitch an article; and how to draft and revise an article once a pitch has been accepted. These skills will be developed through practice. Students will develop real pitch ideas to use as a basis for articles that will be drafted and revised over the course of the semester. We will discuss questions such as selecting appropriate venues, adapting to a new writing style, sourcing, citation practices, and communicating with editors.
+
+Code: ROMS 6650
+Title: Revolution: An Intellectual History
+Description: For more than two centuries, revolutions have marked the rhythm of modernity. In 1780, the original meaning of revolution - an astronomical rotation - was transformed in order to apprehend a social and political overthrow. This course will investigate the multiple uses of this crucial concept of political theory, from the revolutionary canon (Blanqui, Marx, Fanon...) to the classics of conservatism (Maistre, Cortés, Schmitt...), which depict contemporary history as a conflict between revolutions and counter-revolutions, socialist and fascist revolutions. We will explore the connections between history and theory, and stress the global dimension of revolutions, forged by a permanent transfer of ideas and people from one continent to another.
+

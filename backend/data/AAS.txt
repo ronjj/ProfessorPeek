@@ -1,0 +1,28 @@
+Code: AAS 2100
+Title: South Asian Diaspora
+Description: This interdisciplinary course (with an emphasis in anthropology) will introduce students to the multiple routes/roots, lived experiences, and imagined worlds of South Asians who have traveled to various lands at different historical moments spanning Fiji, South Africa, Mauritius, Britain, Malaysia, United States, Trinidad, and even within South Asia itself such as the Tamil-speaking population of Sri Lanka. The course will begin with the labor migrations of the 1830s and continue up to the present period. The primary exercise will be to compare and contrast the varied expressions of the South Asian Diaspora globally in order to critically evaluate this transnational identity. Thus, we will ask what, if any, are the ties that bind a fifth-generation Indo-Trinidadian whose ancestor came to the New World as an indentured laborer or "coolie" in the mid-19th century to labor in the cane fields, to a Pakistani medical doctor who migrated to the United States in the late 1980s. If Diaspora violates a sense of identity based on territorial integrity, then could "culture" serve as the basis for a shared identity?
+
+Code: AAS 2130
+Title: Introduction to Asian American History
+Description: An introductory history of Chinese, Japanese, Asian Indians, Filipinos, and Koreans in the United States from the mid-nineteenth century to the 1990s. Major themes include racism and resistance, labor migration, community formation, imperialism, and struggles for equality.
+
+Code: AAS 2620
+Title: Introduction to Asian American Literature
+Description: This course will introduce both a variety of writings and media by Asian North American authors and some critical issues concerning the production and reception of Asian American texts. Working with a variety of genres, we will be asking questions about the relation between literary forms and the socio-historical context within which they take on their meanings, and about the historical formation of Asian American identities.
+
+Code: AAS 3378
+Title: Korean American Literature
+Description: The rapidly growing literature of the Korean diaspora is one of the most significant developments in Korean literature since the 20th century. As Korean literature has circulated as world literature, it has become more widely recognized in the Anglophone world through translation and through narratives written by Korean American authors. This course will explore Korean American literature and creative transpacific exchanges between Korea and the US, addressing issues of identity, language, place, migration, race discrimination, citizenship, and the ways in which storytelling shapes community. We will examine the vibrant dialogue between works of fiction and poetry across the Pacific, reading the work of Korean American authors alongside the writing of Korean authors working in the Korean language. Increasingly, Korean American writers are creating narratives that remember and reconfigure Korean history and Korea's relationship to the US, and we will explore narratives and poetry that offer new perspectives on the Japanese colonial period, the Korean War, and American imperialism such as Min Jin Lee's Pachinko, Chang-rae Lee's The Surrendered, and Don Mee Choi's DMZ Colony. Readings for the course will be in English or in English translation and no prior knowledge of Korea is required.
+
+Code: AAS 4950
+Title: Independent Study
+Description: Independent reading course in topics not covered in regularly scheduled courses. Students select a topic in consultation with the faculty member who has agreed to supervise the course work.
+
+Code: AAS 7200
+Title: Directed Graduate Individual Study
+Description: Individualized readings and research for graduate students. Topics, readings, writing requirements, and the number of course credits to be determined through consultation between the student and the faculty supervisor.
+
+Code: AAS 7300
+Title: Directed Graduate Group Study
+Description: Independent study course in which a small group of students works with one member of the graduate faculty. Topics, readings, writing requirements, and the number of course credits to be determined through consultation between the students and the faculty supervisor.
+

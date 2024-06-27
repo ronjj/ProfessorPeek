@@ -1,0 +1,12 @@
+Code: COLLS 3970
+Title: Independent Study - Senior Project
+Description: Topic and credit hours as arranged between faculty and student. A copy of the proposal must be sent to the College Scholar Program at as_csp@cornell.edu.
+
+Code: COLLS 4990
+Title: Honors Research I
+Description: COLLS 4990 is the first part of the year-long thesis course in the College Scholar Program. Students submit their completed proposals to as_csp@cornell.edu and to their honors thesis committee by the add deadline in their penultimate semester. COLLS 4990 is added to the students' schedules once the thesis proposed has been approved.
+
+Code: COLLS 4991
+Title: Honors Research II
+Description: COLLS 4991 is the second part of the year-long honors thesis course in the College Scholar Program. All students enrolled in COLLS 4991 present their findings at an event in the spring (exact dates TBD).
+

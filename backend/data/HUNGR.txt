@@ -1,0 +1,12 @@
+Code: HUNGR 1131
+Title: Elementary Hungarian I
+Description: In Elementary Hungarian I you will learn four communicative skills of comprehension, speaking, and writing.  During the first semester you will learn to communicate through dialogues about hobbies, where you live, what languages you speak and study, telling time, shopping, what you have, your family.  You will learn to make hotel and restaurant arrangements, describe your friends, family, and environment, discuss interests and more. You will learn at least 13 cases, two verb conjugations for the present tense, verbal prefixes, how to form plurals, adverbs, adjectives, and to express possession and the future. You will learn a lot of grammar and learn to use it frequently and creatively through a variety of conversational environments. You will read dialogues and short texts at every class and will write dialogues and descriptive texts of your own.  You will also learn about Hungarian culture so that you become both grammatically and social correct.
+
+Code: HUNGR 1133
+Title: Continuing Hungarian I
+Description: In Intermediate Hungarian I you will continue to build upon your knowledge of speaking, listening and writing in Hungarian. During the first semester you will complete the textbook and take a first glimpse into Hungarian poetry and some short stories. You will learn how to find and furnish an apartment, express love, take part in a Hungarian-style barbecue, make comparisons, and learn to get others to do things for you. We will finish the semester with the reading of a short crime story. Through conversation you will continue to practice requests and commands, future plans and past experiences, and hypothetical situations.  Your readings will explore some of the more playful aspects of Hungarian word-building as well as introduce you to the particularly Hungarian (political/cultural) humor found in the tradition of the "one-minute" short story.
+
+Code: HUNGR 2103
+Title: Advanced Hungarian I
+Description: This course aims to serve as both a review of the more advanced grammatical constructions of Hungarian and a brief chronological look at 20th century Hungarian literature.  We will read short stories, poetry and book chapters that reflect the political, economic, literary, and every-day trends and disturbances of the time.
+

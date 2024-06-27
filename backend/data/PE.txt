@@ -1,0 +1,566 @@
+Code: PE 1100
+Title: Beginning Swimming
+Description: An entry level class for those with little or no swimming experience. Instruction and practice in the basic skills necessary to meet the University Swim Requirement. Areas of emphasis are: developing proper body position on the front and back, proper breathing technique, Front Crawl, Elementary Backstroke, treading and swimming in deep water.
+
+Code: PE 1101
+Title: Advanced Beginner Swimming
+Description: Ideal for all who have taken Beginning Swimming or have some basic knowledge of how to swim, regardless of whether the University Swim Requirement was successfully met. Areas of emphasis are the Front Crawl with rotary breathing, Back Crawl, Elementary Backstroke, diving, treading water, and underwater swimming. The primary objective is to strengthen the student's confidence and competence.
+
+Code: PE 1102
+Title: Intermediate Swimming
+Description: Practice and perfection of the techniques for the five basic strokes: Front Crawl, Back Crawl, Elementary Backstroke, Breaststroke, Sidestroke. Students should already know how to swim on their front and back, be comfortable in deep water and be able to swim six (6) lengths of the pool (150 yds.) without stopping.
+
+Code: PE 1104
+Title: Swim Conditioning
+Description: Introduction to and practice of different types of training methods. Final objectives: 2,500 yards in one class period. This is primarily a conditioning course and not an instructional course on stroke technique. The focus will be on workouts, workout planning and different types of training methods. This course is intended for more advanced swimmers. Students who have completed Beginning or Advanced Beginner Swimming may have a very difficult time in this course.
+
+Code: PE 1130
+Title: Open Water Scuba
+Description: Program includes knowledge development and skill training in the pool. All classes are referral only (no open water dives), meaning students will need to pickup their paperwork and complete four additional dives in open water within one year from the last training section to receive a PADI Open Water Diver certification. For more information, please see: www.pe.cornell.edu/.
+
+Code: PE 1132
+Title: Rescue Diver
+Description: Advanced level course for people who have completed Advanced Open Water Certification and are interested in learning rescue and safety techniques and how to handle emergency situations. The PADI® Rescue Diver course will change the way you dive – in the best possible way. Learn to identify and fix minor issues before they become big problems, gain a lot of confidence and have serious fun along the way. Discover why countless divers say Rescue Diver is their favorite scuba course. You will complete knowledge development in advance of the class through eLearning (time commitment: 8-12 hours). The water training sessions are serious fun. You'll practice handling scenarios such as a leg cramp and assisting a tired diver by role-playing with other students and your instructor and will include time in the pool for skill practice before heading to the lake for scenarios (total time commitment: 4-7 days).
+
+Code: PE 1150
+Title: Ballroom Dancing
+Description: This is a beginning level class introducing students to Social Ballroom Dance. Participants can expect to have fun, learn some history of American Social Dance, learn about movement - how to move with your partner, how to move to the music, and enough 'moves' in five different dances (Waltz, Foxtrot, Tango, Rumba and Cha Cha) to get a taste of and a general feel for each dance. Please note: The Sunday section is for students enrolling with a partner and there is limited rotation of partners during class. Partners should enroll via Student Center at the same time to ensure that both partners get into the Sunday section. The Wednesday section is for students who either don't have a partner or don't mind rotating partners in the class. Changing partners generally results in improved mastery.
+
+Code: PE 1152
+Title: Beginning Ballroom Dance Smooth
+Description: Offered during the fall semester, this is a beginning level class that introduces students to three American Smooth Style ballroom dances – Waltz, Foxtrot and Tango. This class will go further in depth than the Beginning Social Ballroom Dance class (PE1150). This class is appropriate for either beginners or students with some experience who wish to further develop their knowledge and skill in the dances covered. Participants will gain some mastery of each dance, develop partnering skills, technique, movement, styling and musicality. It is not necessary to sign up with a partner, however it is recommended to ensure balance between leads and follows. Participants will change partners throughout the class.
+
+Code: PE 1155
+Title: Introduction to Belly Dancing
+Description: Belly Dance, as it is known in the West, is an exciting and beautiful art form originating in the Middle East and North Africa. Belly Dance is a fun way to develop flexibility, body awareness, and overall body strength. Learning correct posture, muscle control, and dance movement in each class, we will end the semester with a short choreography. Comfortable clothing suitable for exercise is worn. Please feel free to bring a hip scarf to class. Beginners and experienced dancers welcome.
+
+Code: PE 1160
+Title: Latin Dance
+Description: This class introduces Salsa, Bachata, Merengue, Cha Cha Cha, Son and Comparsa. Salsa derives from the Cuban rhythm of Son. As a music and dance form, it has acquired regional variations and absorbed influences from different parts of Latin America and other continents. Bachata and Merengue are quintessential dances of the Dominican Republic. Comparsa is a form of carnival line dance. Cha Cha Cha originates in Cuba, finds expression in Rock n' Roll and western pop music, and is traditionally danced "contratiempo." In this course, we learn the basics of all of these dances. Instruction emphasizes the development of foundations in musical timing, rhythm, body movement, lead-follow connection and space use. Class begins with a stretch and body movement warm-up. We then teach dance step sequences across the floor, in rotating lines, as freestyle and in partner format. The skills learned in each dance are interrelated - as you improve in one you develop a sensibility for the others. By the end of this course you will be able to take Latin dance to a higher level and learn other partnered dances. No partner is necessary to register. Couple sign-up is encouraged. Partners rotate. This class is gender-free: each student is free to learn the lead or follow role.
+
+Code: PE 1162
+Title: Salsa
+Description: This class covers beginner through advanced beginner Salsa moves. Students learn step variations and turn patterns as seen in Latin social dance and nightclub settings. Class begins with a warm-up of Salsa step patterns, also known as "shines." We then move into combinations for couples and learn patterns with rotating partners. Latin body movement and rhythm is taught in the warm-up and partner sections. In partner work, emphasis is placed on: lead-follow connection; frame and tension; spatial awareness; nuance and flow. Salsa in Rueda de Casino format will be introduced later in the semester as an additional way to enjoy Salsa. In Rueda, dancers change partners within a circle and perform dynamic combinations to the arrangement of a caller. Rueda is also a teaching tool used to improve timing and release energy. Learning aids include a syllabus, music, smartphone application and video tutorial. No partner is necessary to register. Couple sign-up is encouraged. This class is gender-free: each student is free to choose the lead or follow role.
+
+Code: PE 1167
+Title: Introduction to Tango
+Description: Introduction to the fundamentals of Tango dancing and its origins. Focus is on movement on the dance floor and how to be connected to your partner. Other aspects include learning to differentiate between the genres of Tango music (Tango, Milonga, Candombe, and Vals).
+
+Code: PE 1170
+Title: Introduction to Swing Dance
+Description: In this class you will learn the basics of Lindy Hop (also called Jitterbug and East Coast Swing), a social dance originated by Black Americans in the early twentieth century that is still popular today all around the world. We will work on footwork, timing, partnering, and musicality, with the goal of empowering you to have fun on the social dance floor—at weddings, parties, and wherever there's good rythmic music playing! You'll learn to improvise and have the opportunity to create short choreographs too. No dance experience or partner is necessary. In fact, you will change partners frequently in class. Wear clothes you are comfortable moving in. Shoes must have leather soles OR be white-soled sneakers with the treads worn smooth, or you can dance in socks.
+
+Code: PE 1231
+Title: Group Fitness Instructor Training
+Description: This course provides detailed instruction on how to effectively lead group fitness classes (in a choreographed or interval format such as Muscle Pump and H.I.I.T. & Core) and prepare students for the AFAA Primary Group Exercise Certification Exam.&nbsp;
+
+Code: PE 1233
+Title: Bootcamp
+Description: This course is designed as a modern military style workout program with an emphasis on both aerobic and anaerobic fitness. Each workout session will consist of stretching, warm-up calisthenics, cardio training, full body resistance training, core activation and cool down stretching. This is a high energy course that will teach students the importance of motivation, enthusiasm and teamwork while familiarizing them with total-fitness techniques and concepts. If you are ready to push yourself and train hard, Bootcamp is for you. Students of all fitness levels will benefit greatly from this course.
+
+Code: PE 1235
+Title: 8 O'Clock Rock
+Description: This class combines the best of the Principals of Weight Training and Cardio Crazy to get your day off to a rocking and rolling great start. Students will use resistance and cardio equipment to create the perfect morning wake-up call.
+
+Code: PE 1237
+Title: Yasaride
+Description: This class combines two wonderful activities, indoor cycling and yoga into a mindful stress reducing hour of fitness. The yoga portion will focus on full body stretching as well as areas that need more attention after cycling such as hamstrings, hips, and the spine.  The class will also include work on breath, alignment, and mindfulness in both the cycling and yoga portions of the class. The length of time for each activity will vary from class to class.
+
+Code: PE 1238
+Title: Barre
+Description: Barre is a high energy, low-impact, full body work out. You will target specific muscles using isolated exercises to sculpt your arms, legs and seat, all while keeping the focus on core and alignment. Although inspired by ballet and set to music, this is not a dance class. This course is an open-level format to help you build strength, improve posture and flexibility while creating long, lean muscles.
+
+Code: PE 1241
+Title: Mobility and Core Training
+Description: Mobility and stability are fundamental components of our daily movement. Whether you are highly active, not active at all, or somewhere in between, this course will teach you about these subtle yet critical details of exercise. Through various mobility and flexibility exercises, you will learn how to tune your muscles for optimal length-tension relationships, while at the same time learning core strengthening exercises to help counter faulty postures from long hours of sitting.
+
+Code: PE 1245
+Title: Indoor Stationary Cycling
+Description: Based on the foundation of the Spinning® Program this indoor stationary cycling class combines basic cycling movements with motivational coaching, breathing awareness, and heart rate training. This non-impact, individually paced, cardiovascular fitness class is held in a fun environment with music that will move you! A great alternative to traditional group fitness classes.
+
+Code: PE 1246
+Title: Open Gym Class
+Description: This Open Gym PE course offers an exclusive time and space to students who have previous experience with exercise. The Cornell Fitness Centers offer a wide variety of free weight and cardio equipment, and experience with this equipment is mandatory for this course. An instructor will be on staff to supervise and assist students with their training, but independent exercise should be expected.
+
+Code: PE 1250
+Title: Army ROTC Physical Training
+Description: Physical training is a key component to any personal development program. Training early and often allows one to get the day's workout out of the way, starting the day focused and relaxed, and increasing discipline throughout the semester. Physical training consists of early morning workouts with Army ROTC Cadets and Instructors, that focus on cardiovascular and muscular development, following a holistic workout to help achieve a strong core and heart. Choosing to enroll and participate in PE 1250 does not mean you signed up for the Army ROTC program.
+
+Code: PE 1260
+Title: Cardio Kickboxing
+Description: Cardio-Kickboxing is a series of movements that consists of kicks, punches, and blocks done to music. It is similar to a typical aerobics class except the moves consist of martial arts techniques. Cardio-Kickboxing is a total body workout in its most complete form burning hundreds of calories and hour. No experience necessary.
+
+Code: PE 1261
+Title: Fitness and Conditioning
+Description: Fitness and conditioning is designed to familiarize the student with several different forms of exercise. Facilities used include the track, the gymnasium and other places around campus. The components of physical fitness include cardiovascular endurance, muscular strength, general flexibility and agility. The course will offer activities that enhance each component and help the individual to design a personal conditioning program for future fitness and well-being.
+
+Code: PE 1262
+Title: Fitness for Women
+Description: The design of this course includes both lecture and physical activity. Students are presented with a variety of topics and information that involves physical fitness and health. Each student will learn to design a fitness program that is geared toward her own interests and abilities. Topics include: nutrition, time management, relaxation techniques, and stress management. Activities will include aerobic dance, walking, jogging, weight training, flexibility exercises, relaxation and stress management routines, and yoga techniques.
+
+Code: PE 1265
+Title: Wellness and Fitness
+Description: "Here's to a Healthier You" - A wellness experience for the busy student. This course will assess the student's physical fitness status, and overall lifestyle health habits. Strength training basics emphasize how to properly perform exercises for each of the major muscle groups of the body.  Program Planning, Nutrition and Stress Management are also presented.
+
+Code: PE 1271
+Title: Jogging Tours
+Description: This course is designed for the beginner to intermediate runner. Daily instruction will focus on running form and technique, as well as building aerobic capacity. Students should arrive to class prepared to run either indoors or outdoors.
+
+Code: PE 1272
+Title: Walking Tours
+Description: A series of walking tours around the Cornell Campus and beyond. Class will meet regardless of weather, so please come prepared.
+
+Code: PE 1273
+Title: Walking Meditation
+Description: This course combines walking and meditation, two life-enhancing activities that can help students create balance in their hectic lives. Walking is the optimum exercise for good health and meditation offers the opportunity to calm an active and busy mind. Drawing on the teachings from the Vietnamese Zen Buddist monk, Thich Nhat Hanh, will involve meditating in motion.
+
+Code: PE 1290
+Title: Introduction to Gymnastics
+Description: This class is an introduction to all of the men's and women's gymnastics events. Instruction will focus on beginner level skills with emphasis on tumbling and acrobatics. No experience is necessary and all ability levels are welcome. Students must have a basic level of fitness and upper body strength.
+
+Code: PE 1300
+Title: Introduction to Bowling
+Description: Instruction available during each class session for the Beginning or Intermediate level bowler. Choice of two 45 minute classes per week or one class for 90 minutes. Shoe rental included in course fee which covers approximately 72 games.
+
+Code: PE 1311
+Title: Fly Fishing
+Description: This course introduces the student to the beautiful sport of fly fishing. Topics covered include fly tying, knots and rigging, casting and presentation, and what species of fish you can catch locally. Students will tie fly patterns that are appropriate for fishing opportunities in this region. The course will feature classroom sessions and fishing on Beebe Lake as well. Students will primarily be fishing for cold and warm water species including trout, bass and pan fish. All fly fishing tackle, fly tying materials and tools are included. The goal is for the student to catch a fish on a fly they tied.
+
+Code: PE 1312
+Title: Ultimate Bass Fishing
+Description: This class is for anyone who wants to learn more about North America's most popular fish, the bass. Whether you just want to fish from the bank, a kayak or a professional bass boat, this class is aimed for anyone from a beginner to an avid angler. The course will feature classroom sessions and fishing on Beebe Lake as well. Students will enjoy hands-on procedures such as knot tying, the newest and hottest lure rigging, learning to cast spinning and casting combos, along with other bass catching techniques. Topics such as bass habits, habitats, seasonal patterns, the differences between smallmouth and largemouth bass, and good area bass waters will be covered.
+
+Code: PE 1320
+Title: Professional Instructional Golf
+Description: Equipment furnished. PGA program of instruction geared to all levels of experience and ability. The objective is to give beginners enough skill to play, and to give more advanced players direction in their thinking, practice, and play, through a thorough understanding of fundamentals.
+
+Code: PE 1321
+Title: Advanced Golf
+Description: Students must be experienced golfers (i.e. they MUST have golf playing experience on a course) and have their own set of clubs. Students who do not have the appropriate skills will be removed from the course and will not receive a refund.  The objective is to give advanced players instruction and practice to improve golfing skills.
+
+Code: PE 1336
+Title: Wakeboarding and Wakesurfing
+Description: This class is designed for students who want to learn (or improve their skills at) wakeboarding and wake surfing on beautiful Cayuga Lake. Enjoy time on the water with fellow students, cheer each other on as you learn and practice water sports that connect your mind and body (and fill you with enjoyment), and improve your fitness as you fulfill a PE credit. If you have snowboarded or skateboarded and always wanted to try surfing or wakeboarding, this course is for you. Or if you have always wanted to try a watersport but haven't had the chance, you will find a welcoming environment to try out something new and fun for you. Class consists of six three-hour sessions on the lake with a class size of six (or fewer students) each session, giving you at least 30 minutes of practice every class.  We have a GoPro set up to capture your riding so that you can analyze your footage and learn from what you did well and what you can improve. The boat will depart from the Merrill Family Sailing Center each class (transportation to and from there is not provided).
+
+Code: PE 1340
+Title: Juggling
+Description: The course focuses on teaching 3 ball juggling patterns as well as introducing a wide variety of other props which may include: rings, clubs, diabolo, flower sticks, poi, and spinning plates. Advanced students will also be able to learn club passing, 4 and 5 balls and advanced tricks.
+
+Code: PE 1345
+Title: Introduction to Boxing
+Description: One of the oldest forms of competition known, boxing has become the sport of choice for many people. Boxing's simplistic method has few techniques, yet the application of these techniques is the true art and science of the sport. This course teaches the fundamentals and proven training methods that are sure to improve and develop your defensive and offensive skills, cardiovascular endurance, footwork, agility, speed, timing and power. Training will include shadow boxing, jump rope, two person drills, and focus glove work. Learn the fundamentals of one of the world's most popular sports.
+
+Code: PE 1346
+Title: Intermediate Boxing
+Description: Covers the basic skills of footwork, defensive, and offensive techniques at an Intermediate level. Jumping rope, advanced footwork, offensive and defensive skills, shadow boxing, and focus glove work are taught as methods for individual aerobic conditioning, and mastering the fundamentals of Boxing.
+
+Code: PE 1347
+Title: Brazilian Jiu Jitsu Fundamentals
+Description: Brazilian Jiu Jitsu, known as BJJ was developed by Helio Gracie, and continues to develop as one of the most popular forms of grappling in the world today. This class focuses on learning and applying fundamental techniques of Brazilian Jiu Jitsu. Students practice various techniques using a traditional GI/kimono. Students will learn and practice positioning, escapes, submissions, and self-defense. The fundamentals class is directed not only for the beginner but also for students who would like to sharpen basic techniques.
+
+Code: PE 1350
+Title: HIIT Boxing
+Description: Burn a ton of calories, get stronger, and punch out your stress! Learn how to move with power and confidence. Not only do participants get a fitness/cardio workout, they also learn to use real kickboxing techniques on a heavy bag. Kickboxing will help you build a great body, power, confidence, and self defense skills!
+
+Code: PE 1365
+Title: Karate Basics
+Description: This class is meant for those that want to start studying Karate or have not studied in a while.  Students learn about traditional Okinawan Karate (Shito Ryu) by practicing self-defense combinations that involve blocks, strikes, kicks, joint locks and throws.  Along the way we will work on stances, body positioning/mechanics and conditioning.  There is strong emphasis on partner work as a mechanism to practice what is being taught in a safe and controlled environment.  Free sparring and competition are not part of this class.  The last day of class students are encouraged to participate in that semester's belt test.  Passing this test sets you up to continue studying with the next class, should you decide to continue your studies of Karate.
+
+Code: PE 1366
+Title: Karate
+Description: This class is meant for those that have recently studied Karate at Cornell or somewhere else and wish to continue their study of Karate.  Primary instruction is in the Shito Ryu style.  Every semester a different kata is presented along with the applicable self-defense techniques associated with that kata and there is an opportunity to test for a new rank/belt.  Bo staff is used as part of one kata in the curriculum.
+
+Code: PE 1371
+Title: Okinawan Karate-do
+Description: Explosive strikes, strong stances, and controlled footwork make Okinawan Karate-do an effective form of self-defense for men and women of all ages and body types. The physical practice of Okinawan Karate-do is an excellent pathway to increased fitness and improved holistic health. Practiced as a traditional martial art, Okinawan Karate-do facilitates personal development and greater well-being.
+
+Code: PE 1375
+Title: Beginning Tae Kwon Do
+Description: C.W. (Cho Whang) TaeKwonDo of Ithaca conducts the course. The purpose of the program is to teach TaeKwonDo in its diverse aspects as a form of self-defense, as an art form, and as a competitive sport. Classes will consist of extensive stretching, the teaching of basics to beginners, forms of self-defense, and sparring techniques. TaeKwonDo emphasizes the use of the whole body, enhances flexibility and coordination and increases aerobic capability. Promotional tests are held at the end of each semester. Han Cho may be reached at 257-7810.
+
+Code: PE 1376
+Title: Intermediate Tae Kwon Do
+Description: C.W. (Cho Whang) TaeKwonDo of Ithaca conducts the course. At least one semester of PE TaeKwonDo or equivalent is required.  The purpose of the program is to teach TaeKwonDo in its diverse aspects as a form of self-defense, as an art form, and as a competitive sport. Classes will consist of extensive stretching, the teaching of basics to beginners, forms of self-defense, and sparring techniques. TaeKwonDo emphasizes the use of the whole body, enhances flexibility and coordination and increases aerobic capability. Promotional tests are held at the end of each semester. Han Cho may be reached at 257-7810.
+
+Code: PE 1380
+Title: Tai Chi Chuan
+Description: Fundamentally, Tai Chi is an integrative exercise that joins the various elements of functional fitness into a single, organically connected whole. Through a rich vocabulary of movements that enhance spatial and body awareness, Tai Chi provides a medium for harmonizing balance, coordination, flexibility, and supple strength. This course will consist of warm-ups, stretching, an introduction to the 24 Movement Form, and 2 person interactive exercises. Please loose, comfortable clothing. Students must be in bare or sock feet during class.
+
+Code: PE 1385
+Title: Thai Boxing
+Description: This martial art system, developed from the unique culture of Thailand, is a blend of art, science and sport. The Thai art is a very powerful ring fighting method, yet is also an excellent form of physical conditioning and street self-defense. The fighting techniques taught in Thai boxing include; the Western Boxing method, elbow -knee strikes, and the powerful Thai style of kicking. This combined with the unique training method and discipline makes Thai Boxing one of the most effective systems in the world. Kevin Seaman is the New York State Representative for the Thai Boxing Association USA.
+
+Code: PE 1396
+Title: Filipino Kali
+Description: This is an eclectic form of Filipino stick fighting and self defense that evolved as a means of preservation in the hostile environment of the Jungles of the Philippines. Having roots in the 9th century, this is one martial art that truly equalizes your chances of survival in even the most dangerous circumstances, yet is also an amazing method of increasing your coordination and fitness, keeping both your mind and your body SHARP! Kali/Escrima addresses empty hand and kicking, grappling, and tools of the jungle warrior. Kevin Seaman has studied with many of the leading exponents of this amazing Martial Art for nearly 30 years. His skill in this art made him a regional, National and World Champion, competing Full Contact in Asia in 1992.
+
+Code: PE 1405
+Title: Living Routines
+Description: Once a week you will participate in a health routine. After a short brisk walk, (inside in poor weather) you will engage in an energizing stretching session, followed by a short meditation. In addition to being introduced to stretching and meditation, the class will offer you the opportunity to get to know your classmates through partnered self-awareness exercises and group sharing.
+
+Code: PE 1420
+Title: Introduction to Meditation
+Description: This course provides the opportunity to explore a variety of ancient and modern methods designed to bring one to the state of meditation. The methods serve to evoke the deep relaxation from which heightened awareness and creativity arise. If these classes do not fit your schedule, try Body-Mind, Living Routines or Moving into the Moment which have meditation in them.
+
+Code: PE 1421
+Title: Relaxation and Stress Management
+Description: This course offers a mind/body approach to gaining realization and managing the stress in our lives. Participants will leave this course with a greater understanding and appreciation of their own unique ways of coping with stressful situations. We will explore a variety of techniques which can be used to ease the pressures of student life. A sample of these activities includes; stretching (Yoga), creative art, conversation, new games and meditation.
+
+Code: PE 1422
+Title: Meditation and Relaxation
+Description: This course is designed to assist you in learning to meditate, or to deepen your existing practice. As you learn to practice meditation and relaxation exercises, you will find that as little as 15 minutes a day can benefit your physical, mental, emotional and spiritual health. With some assistance, we are all capable of learning to relax deeply, sleep better, detach from the mind's chatter, focus with renewed concentration and become aware of the joy and energy that is deep within us. If these classes do not fit your schedule, try Body-Mind or Living Routines which both have meditation in them.
+
+Code: PE 1424
+Title: Yoga Trapeze
+Description: Yoga Trapeze combines the traditional yoga practice with TRX strength training as well as the fun and physical benefits of inversion therapy. Hanging upside down can relieve tension and compression in the neck and spine, while other hanging postures develop grip and pull strength in the hands and shoulders. Other full-body exercises will not only build strength, but will be a great way to advance their yoga practice of backbends, arm balances, and inversions. This course combines strength-building, flexibility, stress-reduction, and fun all in one!
+
+Code: PE 1427
+Title: Ashtanga Yoga Foundations
+Description: This beginner's class will introduce Ashtanga Yoga to the new student. With asanas (poses) from the Primary Series we will focus on using the breath, core engagement, and gaze point to begin your own home-based practice. We will also introduce breath work and meditation. Leave the class feeling energized, refreshed, and strong.
+
+Code: PE 1429
+Title: Vinyasa Yoga
+Description: This course teaches the practice of Vinyasa Yoga. It explores postures flowing from one to the next (breath to movement) and also includes study of philosophy, meditation, breath-work, and alignment.
+
+Code: PE 1430
+Title: Introduction to Yoga
+Description: Learn the alignment foundations of yoga while building strength, flexibility, and vitality! This class is for those who are new to yoga or those looking to fine tune their practice. Students will learn the "ins and outs" of a variety of standing poses, back bends, and maybe even a few inversions or arm balances! Modifications will be given to accommodate all levels. Each class will also include breath instruction and poses for stress reduction.
+
+Code: PE 1431
+Title: Intermediate Yoga
+Description: The course covers more of the fundamentals of Hatha Yoga, including basic postures, breathing techniques, and deep relaxation and chanting techniques.
+
+Code: PE 1439
+Title: HIIT Yoga
+Description: HIIT yoga is a great way to get your heart rate up, burn calories, and have a mind-body connection. This 90 minutes course will have 60 minutes of HIIT and 30 minutes of yoga.
+
+Code: PE 1440
+Title: Introduction to Badminton
+Description: Instruction and practice in the basic skills and rules for both singles and doubles play.
+
+Code: PE 1441
+Title: Intermediate Badminton
+Description: Should have past experience in badminton. Strategies are taught for both singles and doubles play.
+
+Code: PE 1445
+Title: Outdoor Beginning Tennis
+Description: Instruction and practice in the basic skills of the game. Grip, serve, forehand, backhand, and lob are areas covered along with scoring systems. All equipment is furnished.
+
+Code: PE 1446
+Title: Outdoor Intermediate Tennis
+Description: Review and further instruction in strokes: forehand, backhand, serve, volley, and lob. Topspin and underspin are covered along with doubles strategy. All equipment is furnished.
+
+Code: PE 1447
+Title: Outdoor Advanced Tennis
+Description: For players with high school team or tournament experience. Skills emphasized are spins, serve and return of serve, volley, overhead smash, court positioning, and playing strategies. Class will meet twice a week for 1 1/2 hours.
+
+Code: PE 1448
+Title: Pickleball
+Description: Pickleball is fun, social and friendly sport that combines elements of tennis, badminton and ping-pong. It can be played both indoors and outdoors on a badminton-sized court and a slightly modified tennis net. The rules are simple and the game is easy for beginners to learn, but can develop into a fast-paced, competitive game. Class includes equipment, instruction and practice in the basic skills and rules for both singles and doubles play.
+
+Code: PE 1465
+Title: Introduction to Squash
+Description: A beginner's course where rules of the game, basic strokes and strategies are taught. This class will also provide students with an invigorating cardio workout which may necessitate a shower following class. Please note: a pair of non-marking court shoes will be needed. All other equipment is provided, including safety glasses that are required to be worn at all times.
+
+Code: PE 1466
+Title: Intermediate Squash
+Description: More advanced techniques than beginning squash. This class will also provide students with an invigorating cardio workout which may necessitate a shower following class. Please note: a pair of non-marking court shoes will be needed. All other equipment is provided, including safety glasses that are required to be worn at all times.
+
+Code: PE 1480
+Title: Introduction to Small Boat Sailing
+Description: This course teaches the basic skills necessary to sail 2-person dinghies. Skills learned include: sailing terminology, knots, safety and etiquette, boat handling, sail trimming, capsize recovery and heavy wind considerations. There are a total of eighteen hours of instruction on shore or Cayuga Lake depending on weather. Course fee includes all equipment. Come dressed for the weather, as you will get wet. Open to sailors of all skill levels.
+
+Code: PE 1482
+Title: Basic Keelboat Sailing
+Description: This course teaches the basic skills necessary to sail 18 - 26 foot keelboats. Skills learned include: sailing terminology, knots, safety and etiquette, boat handling, sail trimming and heavy wind considerations. There are a total of eighteen hours of instruction on shore or Cayuga Lake depending on weather. Course fee includes all equipment. Come dressed for the weather, as we will sail rain or shine. Open to sailors of all skill levels.
+
+Code: PE 1505
+Title: Introduction to Trap and Skeet
+Description: Class meets off campus at the Tompkins County Fish and Game Club (transportation to and from not provided). Guns and shells furnished. Cost includes birds, shells, range use and instruction. Major emphasis is placed on safety resulting from a thorough understanding of the operation of the firearm and personal responsibility of each individual on the range.
+
+Code: PE 1510
+Title: Riflery
+Description: Instruction and practice in the use of a small bore target rifle. Major emphasis is placed on safety resulting from a thorough understanding of the operation of the firearm and the personal responsibility of each individual on the range. Class meets off campus at the Tompkins County Fish and Game Club (transportation to and from not provided).
+
+Code: PE 1515
+Title: Introduction to Handgun Safety
+Description: Introduction to and instruction in the use of the handgun for target shooting. Major emphasis is placed on safety resulting from a thorough understanding of the operation of the firearm and the personal responsibility of each individual on the range. Class meets off campus at the Tompkins County Fish and Game Club (transportation to and from not provided).
+
+Code: PE 1520
+Title: Introduction to Archery
+Description: Archery has a long tradition across many cultures and is a competitive sport all over the world. This class offers exposure to archery theory and shooting technique, emphasizing safe range practices, proper equipment setup, and practice shooting.
+
+Code: PE 1527
+Title: Fencing
+Description: This course is a modern type of fencing that belongs to the family of combat sports using bladed weapons and refers to the fencing seen in most current competitions, including the Olympic Games and the World Cup. Originating in the 19th century, as a direct continuation of the 18th century French school of fencing which had in turn been influenced by the Italian school of the Renaissance. Includes warm-up exercises and all basic offensive and defensive moves.
+
+Code: PE 1540
+Title: Introduction to Skating
+Description: For the beginning skater interested in figure skating or hockey skating. Course will cover basic skills of forward and backward skating, turns and stops, while also covering skate safety, proper fitting, and body mechanics of skating. An assessment will be done the first day of class and students grouped accordingly.
+Skate rental available for $2.00 per session.
+
+Code: PE 1545
+Title: Beginning Figure Skating
+Description: For the beginning skater or skater with no previous formal instruction. Students will learn basic forward and backward skating skills, including stopping and turning, while also covering skate safety, proper fitting, and body mechanics of skating. An assessment will be done the first day of class and students grouped accordingly. Skate rental available for $2.00 per session.
+
+Code: PE 1546
+Title: Intermediate Figure Skating
+Description: The course will review the skills taught in the PE1540 and PE1545, as a foundation, and move into learning more advanced turns, stops, and basic jumps and spins. Course will also cover skate safety, proper fitting, and body mechanics of skating. An assessment will be done the first day of class and students grouped accordingly. Skate rental available for $2.00 per session.
+
+Code: PE 1547
+Title: Advanced Figure Skating
+Description: This course is for the advanced figure skater. Permission of instructor is required if student has not previously taken PE1546 or PE1547. Skaters will be learning advanced skills including jumps, spins, turns, edge moves, step sequences, and ice dance patterns. Students will be working independently on ice at times, as well as, group instruction, TBD by instructor based on level of participants enrolled.
+
+Code: PE 1550
+Title: Introduction to Ice Hockey
+Description: Organized on a team practice basis. Skills to be taught include developing basic skating skills (stops, starts, forwards, backwards), basic puck skills (stick handling, shooting, passing), and team skills (breakouts, puck movement). Skates and hockey sticks must be supplied by the participants (skate rental available $2.00 per session). All other necessary equipment will be supplied by the Physical Education Department.
+
+Code: PE 1551
+Title: Intermediate Ice Hockey
+Description: This course is designed for the intermediate hockey player. Advanced techniques taught include developing intermediate skating skills (edge work drills, crossovers, transitions), puck skills (passing-saucers, backhand, shooting-wrist, snap, backhand), and team skills (breakouts, puck movement, 5v5, 4v5). Each session emphasizes game situations and scrimmaging.
+
+Code: PE 1555
+Title: Basketball Officiating
+Description: This course will allow the student to learn and practice the rules of basketball as an officiant of the game.  A combination of classroom instruction and on-court application will be utilized to educate participants in the avocation.  All rules learned will be from the National Federation of High School rules book.
+
+Code: PE 1560
+Title: Basketball
+Description: Fundamentals of passing, dribbling and shooting are stressed. Offensive and defensive patterns are taught. Intra-class team competition is a part of the course. It is recommended that students wear high-top basketball shoes and not running shoes for the class due to the risk of ankle injuries.
+
+Code: PE 1561
+Title: Advanced Basketball
+Description: Advanced fundamentals of passing, dribbling, shooting, and offensive/defensive patterns are taught. Intra-class team competition is a part of the course. It is recommended that students wear high-top basketball shoes and not running shoes for the class due to the risk of ankle injuries.
+
+Code: PE 1565
+Title: Soccer
+Description: This class will cover the fundamental skills of soccer: passing, trapping, heading, dribbling and shooting. Team tactics are covered specific to the outdoor game.
+
+Code: PE 1570
+Title: Beginning-Intermediate Volleyball
+Description: Fundamentals of ball handling, serves, defensive blocks, and position play are stressed. Classes scrimmage.
+
+Code: PE 1571
+Title: Advanced Volleyball
+Description: For the experienced player. Improvement of skills through practice games and drills. Trials to check the appropriate level of ability will be held during the first class period.
+
+Code: PE 1580
+Title: Principles of Weight Training
+Description: A comprehensive understanding of weight training and its place in the world of fitness. Topics to be covered include: selectorized equipment, free weight exercises, isometrics, circuit training, toning, stretching, strength development, and program design based on goal setting.
+
+Code: PE 1581
+Title: Weight Training for Women
+Description: This class will focus on the basics of weight lifting. Topics covered will include: toning vs. building, theory of program design, training with dumbbells, selectorized equipment, free weight exercises for all muscle groups, flexibility, and proper nutrition for weight training.
+
+Code: PE 1582
+Title: Advanced Weight Training
+Description: The primary focus of this course will be learning and practicing the Olympic lifts (the snatch, clean and jerk and related exercises). We will study these lifts in detail while working on building the strength and flexibility necessary for their proper performance. Additional topics will be determined based on the interests of the class. Possible topics might include: advanced programming for strength training, kettlebell training, training for sport performance, advanced muscle-building strategies and splits.
+
+Code: PE 1584
+Title: PowerBuilding
+Description: This course is designed to improve functional strength using barbell lifts and other associated accessories. Students should expect 30-40 minutes of coaching, during which the entire course will follow a prescribed lift. The last 10-20 minutes of class will be open gym for accessories related to the main lift. Unlike last year's 'Powerbuilding', this class will step beyond the basic four lifts and instead seek to develop goal-oriented training days focused around athletic performance. Major lifts will include the front squat, the hang clean, strict press, and multiple pull-up variations.
+
+Code: PE 1600
+Title: Introduction to Aerials
+Description: This aerial arts course will focus on aerial fabric, as well as conditioning and flexibility training to enhance your practice and creative exercises to develop your artistry. The aerial arts get you upside down, physically engaged, and expressing yourself through a whole new medium. All levels and abilities are welcome. All students will be required to wear a mask at all times while inside for class, and will need to sign Circus Cultures Safety agreement.
+
+Code: PE 1601
+Title: Backcountry Cooking
+Description: Tired of only eating Ramen on trips? Do you wonder about the difference between powdered cheese and real cheese? Ever wanted to learn how to make true gourmet food in the field? This course will introduce students to gourmet skills that can be used in the backcountry.
+
+Code: PE 1605
+Title: Day Hiking
+Description: From spectacular gorges and waterfalls, to wooded ridges and glacially carved lakes, the Finger Lakes Region is justly famous for its scenery. Get off campus to discover the natural wonder surrounding us. These outings provide plenty of time to meet new friends, learn about geology, stream ecology, and the outdoor skills necessary to set out on discoveries of your own. No experience necessary.
+
+Code: PE 1608
+Title: Trail Running
+Description: Tired of that same old route on campus? Come trail running! We'll get you out on the spectacular local trails, provide training tips, teach you how to navigate in the woods, and run you over hill and dale, through forests, fields, and mud pits! It will be a confidence-building, life-changing, attitude-adjusting experience. We'll start easy and gradually build over the duration of the course, but you should be able to run comfortably for 50 minutes. Group pace, no one will be left behind.
+
+Code: PE 1609
+Title: Geocaching
+Description: It the world's biggest treasure hunt! You might not know it but people have been hiding boxes of treasure all over the world for you to find, even in your neighborhood. Come learn to how to find their secret locations, what do do with them, and even make one of your own. This course will introduce students to a bit of map reading and use of a GPS in a natural setting. No experience is necessary. Students should come to class prepared to be outside for the entire class length. No experience necessary.
+
+Code: PE 1610
+Title: Backpacking in the Finger Lakes
+Description: Escape from campus to explore the glens, gorges, wooded hills, waterfalls, vistas and trails of the Finger Lakes region. Learn basic outdoor living skills, including hiking, navigation, equipment selection and use, camping, backcountry cooking, and safety.
+
+Code: PE 1613
+Title: Wilderness Survival Skills
+Description: Learn what you can do to feel comfortable spending a night alone in the backcountry with limited resources. This course covers general backcountry safety, shelters, signaling, water and food procurement, navigation, and fire starting, as well as nature observation skills.
+
+Code: PE 1615
+Title: Introduction to Circus Arts
+Description: The circus arts are an exciting hybrid of art and sport. In this course you'll dive deep into the basics of a multitude of circus disciplines, including juggling, stretching and conditioning, and aerial fabric and hammock. The circus arts have been proven to increase brain matter, develop executive function, improve physical fitness, build strength, and create community. No experience is necessary to participate, and all skills can be modified for different levels of fitness. Please wear clothing that allows you to go upside down comfortably. This class will take place at Circus Culture. All students will be required to wear a mask at all times while inside for class, and will need to sign Circus Cultures Safety agreement.
+
+Code: PE 1620
+Title: Wilderness Advanced First Aid
+Description: This is a 4-day, 40 hour course accredited through the Wilderness Medical Associates. Wilderness Advanced First Aid is comprehensive medical training designed for remote professionals or wilderness leaders who venture into remote and challenging environments. Wilderness Medicine differs significantly from standard first aid courses and other training that are oriented toward urban environments. This course teaches how to manage medical emergencies when hospitals and rescue services may not be available for an extensive time period. We prepare students for emergency situations that involve prolonged patient care, severe environments, and improvised equipment.  To recertify your current WAFA certification, you may retake the WAFA course or upgrade to a Wilderness First Responder (WFR) by taking a Bridge (WAFA to WFR) course.
+
+Code: PE 1621
+Title: Bridge Wilderness Advanced First Aid to Wilderness First Responder
+Description: This is a 4-day, 40 hour course accredited through the Wilderness Medical Associates. The WAFA to WFR Bridge course upgrades the Wilderness Advanced First Aid to a Wilderness First Responder (WFR) in 4 days. This course must be taken within 3 years of receiving the WMA International WAFA certification or an equivalent from another provider. The WFR is the definitive medical training course for all outdoor professionals and enthusiasts. This course may be used as a recertification for those holding a current WFR certification or equivalent from another provider whose original WFR training was at least 64 hours in length. All eligible students who successfully complete the WAFA to WFR Bridge course will receive WMA International's Wilderness First Responder certification including anaphylaxis, and BLS/Healthcare Provider-Level CPR or equivalent. All WMA International certifications remain valid for three years.
+
+Code: PE 1625
+Title: Wilderness First Aid
+Description: This course focuses on essentials first with an emphasis on backcountry and wilderness issues. Includes a certificate of completion in Wilderness First Aid, as well as American Red Cross Certification in Standard First Aid and CPR. Patient assessment, body systems, equipment improvisation, trauma care, environmental medicine, toxins, backcountry medicine, and wilderness rescue are all covered. Designed for those who travel in small parties in the backcountry and who wish to be self-sufficient and well prepared, but equally useful for handling everyday medical emergencies.
+
+Code: PE 1626
+Title: Wilderness First Responder
+Description: This 8-day, 80-hour course from Wilderness Medical Associates provides the prerequisite training and certification necessary for employment as a professional outdoor instructor at nationally recognized programs such as NOLS and Outward Bound. The curriculum goes beyond the basics needed for first aid certification to emphasize the skills and knowledge needed in backcountry rescue situations when extended care may be needed.
+
+Code: PE 1627
+Title: Wilderness First Responder Recertification
+Description: This is a 3-day, 30 hour course accredited through the Wilderness Medical Associates. The WFR Recertification course is designed to recertify and refresh current Wilderness First Responders. WMA International invites eligible WFR graduates from other wilderness medical schools to recertify with us. Students will review essential skills and wilderness protocols and will discuss relevant updates in wilderness medicine. The course focuses heavily on hands-on learning through patient assessment drills and guided discussion. To earn certification, students must meet the criteria set forth in our Functional Position Description as well as the minimum performance and testing standards by the last day of course. Upon successful completion, students will receive a Wilderness First Responder certification as well as a CPR certification equivalent to the American Heart Association's BLS CPR standard. These certifications remain valid for three years
+
+Code: PE 1628
+Title: Unicycling
+Description: Learn how to ride a unicycle! Often considered a circus or clown activity, unicycling is a great way to travel and an excellent test of your balance and athleticism. This course will take place at Circus Culture Ithaca's own Circus school. Students should meet at COE (B01) Bartels Hall and will be driven back and forth to Circus Culture.
+
+Code: PE 1630
+Title: Caving
+Description: The most exciting and unknown terrestrial frontier lies deep inside cave systems! Expand your horizons to include the netherworld. Learn cave geology, map reading skills, rope systems, cave safety, environmental concerns, and hone teamwork and communication skills in this introductory class. Expect to be challenged and inspired as you explore caves in Eastern NY. You can expect to crawl and get dirty in these wild, beautiful caves. One weekend outing include car camping.
+
+Code: PE 1640
+Title: Basic Rock Climbing
+Description: We will introduce you to rock climbing movement and techniques, belaying, equipment, knots, rappelling, and safety. Courses ensure a high degree of individual attention and a supportive space to explore the vertical world! Graduates of this course will have the knowledge and skills to push themselves to new challenges while climbing safely and responsibly.
+
+Code: PE 1641
+Title: Basic Rock Climbing: Closing the Adventure Gap
+Description: Adventure Gap: addressing racial disparities that cause minority populations to be much less likely to seek recreation, adventure, and solace in our wilderness spaces.
+Come climb with COE and take part in the Cornell climbing community! In this special section of Basic Rock Climbing we will introduce you to rock climbing movement and techniques, belaying, equipment, knots, rappelling, and safety at the Lindseth Climbing Center. In addition, we will explore identity, community, and belonging in the outdoors. Courses ensure a high degree of individual and supportive attention. Graduates of this course will build a solid foundation of skills to support future adventures in the vertical world.
+
+Code: PE 1642
+Title: Women's Basic Rock Climbing
+Description: Join us to explore the adventure and excitement of rock climbing in a close and supportive community. We will focus on techniques to encourage efficiency, build confidence, enhance fluidity, and develop awareness. In addition to teaching skills and techniques, and providing a supportive atmosphere, we will also examine the history, challenges, development and accomplishments of women as climbers. This class is open to anyone.
+
+Code: PE 1646
+Title: Intermediate Rock Climbing
+Description: Refine your climbing skills and get individual coaching to build your techniques on various terrain, learn how to stand on and grip more advanced holds, and expand your climbing repertoire as you piece moves together to work through tricky sequences. This course is designed for those with exposure to rock climbing basics and belay experience.This class does NOT cover the skills necessary for lead climbing.  You may consider the Sport Lead Class or a Learn to Lead Lesson.
+
+Code: PE 1647
+Title: Sport Lead Climbing
+Description: Sport Lead Climbing focuses on learning the skills needed to safely sport lead climb at the Lindseth Climbing Center and refine your climbing technique towards this style of climbing. Our staff will teach you about sequencing, high angle footwork, endurance and mental conditioning. If you are looking for a faster paced course, you may consider taking Learn to Lead Lesson. For more a more technique-focused course, please refer to Technique & Training.
+
+Code: PE 1650
+Title: Rock Climbing: Technique and Training
+Description: Technique & Training is meant for the climber who has climbing experience and is striving to reach the next level but can't quite get there on their own. This course is designed to improve your climbing technique through climbing specific training and cross-training conditioning. You will learn how to build and implement a climbing training routine, safely and effectively use a campus board and hang board, and participate in balanced muscle development to help prevent injury and keep climbing for a lifetime! Though this class meets once each week, it is expected that students will climb at least one other time during the week. This course does not cover the skills necessary for lead climbing, please refer to&nbsp;Sport Lead Climbing.
+
+Code: PE 1651
+Title: Introduction to Outdoor Rock Climbing
+Description: Learn basic rock climbing skills on real rock! We'll spend a glorious weekend climbing, tent camping, and relaxing at Minnewaska State Park in the foothills of the Catskill Mountains. We will cover climbing equipment and technique, knots, belaying, rappelling, and natural history.
+
+Code: PE 1653
+Title: Shawangunks Rock Climbing
+Description: Enjoy world-class rock climbing at one of the premier areas in the US, the Shawangunks! After two introductory classes at the Lindseth Climbing Center, we will travel to the 'Gunks for 4 days of rock climbing that will teach you the skills to follow multi-pitch climbs. During fall foliage the natural beauty of the 'Gunks is superb and the climbing is some of the best in the world. A student-to-instructor ratio of 2:1 ensures individual attention and plenty of climbing for all.
+
+Code: PE 1656
+Title: Outdoor Anchor Building
+Description: Come learn how to build climbing anchors for your outdoor adventures! In this course you will learn anchor building best practices, get hands on use with different types of anchor building material including appropriate knots and general care, learn how to place various types of traditional protection, route finding and base management, and how to keep yourself safe while working at the edge of a cliff. We will cover trip logistics and anchor building basics in two classroom sessions and go leave campus for a weekend of building anchors, climbing, and camping!This is your opportunity to build self sufficiency and take your climbing to real rock.
+
+Code: PE 1657
+Title: Tree Climbing
+Description: Whether you are a rain forest canopy researcher, an arborist, or just a kid at heart, everyone loves to climb trees. Recall the excitement and sense of adventure when you first crawled into the branches to look inside a bird's nest. Then you swung from limb to limb without a thought of ropes and harnesses. But what about that big tree down the street you always wanted to climb, but couldn't reach the first branch? This course will teach you how to use ropes and technical climbing gear to reach the top of any tree, to move around, and even to climb from tree to tree without returning to the ground.
+
+Code: PE 1662
+Title: Outdoor Leadership in Practice
+Description: Improve your leadership skills through hands-on experience and practice. In this course, you will complete some basic leadership assessments that will help you reflect on your leadership style and opportunities for growth. We'll delve into topics like trust-building, communication, agility, inclusion and belonging, and leadership values. This is a lightly physical class that will bring students to beautiful outdoor spaces where we can apply leadership principles through team activities and challenges. Students will visit the Hoffman Challenge Course, Treman State Park and the Cornell Botanic Gardens.
+
+Code: PE 1663
+Title: Ropes Course Programming
+Description: Students learn and apply the technical, safety, leadership and facilitation skills essential to safe and effective ropes course programming. Technical skills such as knot tying, challenge course belaying, and more will be taught during this course. Students will learn low ropes team integration activities as well as high ropes facilitation skills. This course can contribute towards the completion of the CU Leadership Minor. The course will be taught at the Hoffman Challenge Course, with transportation provided.
+
+Code: PE 1664
+Title: Mountain Biking
+Description: Mountain Biking is for those who want to learn the skills to ride a bike on single track trails. Skills on the bike include body position, braking, shifting, descending, climbing and navigating natural terrain such as rocks, roots and logs. You will also learn to complete a bike safety check, change a flat tire and navigate on the trails. Classes will take place at different trail systems.
+
+Code: PE 1666
+Title: Bike Touring
+Description: Bike Touring is for those who want to learn how to travel self-supported by bike. This course will cover bike touring equipment use, camping skills, route planning and bike maintenance. Skills on the bike will include road riding safety and riding with a loaded bike. Classes will include rides of 5-15 miles and the course will culminate in a two-day bike tour with overnight camping. The weekend tour may include up to 30 miles per day.
+
+Code: PE 1670
+Title: Adirondack Canoe Camping
+Description: Experience the Adirondacks at their finest during Fall Break. Encounter first hand what makes this place so spectacular: magnificent mountain landscapes scattered with changing fall colors, numerous lakes and waterways to paddle, starry skies to camp out under and the call of loons as they echo across the lakes. Your instructors will teach you the skills you will need to have an enjoyable canoe camping experience including paddling technique, portaging (carrying boats & gear between lakes), navigation, backcountry cooking, and various other canoe camping skills.
+
+Code: PE 1671
+Title: Recreational Canoeing
+Description: This course is designed to teach you the fundamentals of canoeing in a relaxed environment. Appreciate being outside for class as you explore Beebe Lake and other Finger Lakes area waterways. Meet new friends, learn new skills, and experience nature all while you keep active.
+
+Code: PE 1674
+Title: Introduction to Sea Kayaking
+Description: Learn the basics to get you started with sea kayaking out on the lake. This course covers information about equipment, loading, launching & landing your kayak, exiting and re-entering your kayak in open water, and basic paddling stroke technique. Practice skills in the pool, spend a day paddling out on the lake and participate in a weekend camping trip where you paddle out to a primitive campsite carrying all of you gear in your kayak.
+
+Code: PE 1675
+Title: Stand Up Paddleboarding
+Description: Try paddling standing up! We are excited to show you how much fun you can have on stand up paddleboards. Experience Cayuga Lake from a new vantage point. Stay active and engage your whole body. Learn something fun in a small group setting. Our instructors will teach you all the basics including: stance, paddling technique, turning, and more.
+
+Code: PE 1680
+Title: Pool Paddling
+Description: Learn the fundamentals of kayaking in the controlled environment of the pool. This course will give you a solid progression of skills that will be easily transferable to an open water or river experience. Learn and practice a wide range of skills in whitewater kayaks including fundamental paddling strokes, bracing, rolling and boat handling skills like edging and carving. Paddling games and focused exercises will provide a fun and interactive group learning experience.
+
+Code: PE 1681
+Title: Whitewater Kayaking Beginners
+Description: This introductory course starts out in the pool where you will learn boat control and wet exits and progresses to moving water where you will learn the dynamics of a river and basic river safety.  During the course you will practice boat handling skills including edging, bracing, rolling, and paddle strokes. Kayaking on the river will give you the opportunity to learn how to read the water and practice maneuvering across current with ferries, eddy turns, and peel outs. River destinations will be dependent on river levels. This class culminates in a weekend camping trip with two days of paddling on class II/III whitewater.
+
+Code: PE 1700
+Title: Outdoor Tai Chi
+Description: In conjunction with the Ithaca Tai Chi society this course will expose students to the numerous benefits of learning the ancient art of Tai Chi Chuan. Students should dress appropriately for the weather as all classes will be held outside. No previous experience necessary.
+
+Code: PE 1702
+Title: Outdoor Yoga
+Description: This course, an introduction to Yoga, takes place at various places on and off campus. Students will gain a greater awareness of their movements and breathing, improved flexibility, fitness, strength, and wellness in a relaxing outdoor setting. As always, come prepared for the weather.
+
+Code: PE 1851
+Title: Leadership Laboratory I
+Description: MILS I cadets meet for eight hours each month to learn a variety of military skills including rappelling, first aid, drill and ceremonies, weapons familiarization, physical fitness training, and small group leadership.
+
+Code: PE 1852
+Title: Leadership Laboratory II
+Description: Cadets meet for eight hours each month as members of the cadet organization to participate in practical leadership exercises. Types of practical activities include rifle marksmanship, orienteering, drill and ceremonies, signal communications, physical fitness training, first aid, tactics, field exercises, and small group leadership.
+
+Code: PE 1853
+Title: Leadership Laboratory III
+Description: Cadets meet for eight hours each month to prepare for a five-week summer camp that follows their junior year. Emphasis is placed on the development of individual practical and leadership skills. Cadets rotate through leadership positions to practice applying decision-making skills in a myriad of situations.
+
+Code: PE 1854
+Title: Leadership Laboratory IV
+Description: Senior cadets plan and operate the leadership laboratory programs for MILS I-III cadets. The development of planning and supervisory skills is emphasized. Cadets have an opportunity to practice leadership skills developed during previous ROTC training and summer camp experiences. Includes two to three hours a week devoted to physical fitness.
+
+Code: PE 1860
+Title: Initial Military Experiences I
+Description: Introduction to the responsibilities, life, and work of an Air Force officer. Basic knowledge of drill and ceremonies, military courtesies, and the wearing of the uniform.
+
+Code: PE 1862
+Title: Intermediate Military Experiences I
+Description: Designed to help students develop skill in giving commands for drill and ceremonies. Students are also introduced to the Air Force base environment in which the officer functions. Career areas available based on academic majors are described. Students participate in military drills and ceremonies.
+
+Code: PE 1864
+Title: Junior Officer Leadership Experiences I
+Description: Cadets assume leadership responsibilities similar to those of a junior officer. Emphasis is on the importance of applying effective human relations skills in dealing with superiors, peers, and subordinates. Cadets also gain insight into the general structure and progression patterns of selected Air Force officer career fields.
+
+Code: PE 1866
+Title: Advanced Leadership Experiences
+Description: Cadets assume command leadership responsibilities to operate a military organization. Cadets apply effective leadership and managerial techniques with individuals and groups and participate in self-analysis of leadership and managerial abilities.
+
+Code: PE 1870
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+
+Code: PE 1872
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+
+Code: PE 1874
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+
+Code: PE 1876
+Title: Naval Professional Laboratory
+Description: All students in the program participate in a two-hour professional development session each week. The session is held from 2:30 until 4:30 on Wednesday afternoons and consists of drill, athletics, and professional information events. Students gain experience in actual leadership situations and learn the fundamentals of seamanship, military formations, movements, commands, discipline, courtesies, and honors. During information briefings, special emphasis is given to applied leadership as it relates to the administrative and managerial aspects of a Navy or Marine Corps officer's duties.
+
+Code: PE 1940
+Title: Varsity Sport
+Description: No description available.
+
+Code: PE 1999
+Title: Physical Education Independent Study
+Description: The Independent Study class is only for those individuals who are differently abled and need to have a specifically structured program. It is not open to other students. Any student wishing to enroll in Independent Study must first apply through the office of Student Disability Services.  If it is determined that the student requires Independent Study, then arrangements will be made with the student by the Physical Education Office. Permission to enroll must be gained from the Physical Education Office after referral by the Office of student Disability Services. No preregistration is allowed for this class.
+

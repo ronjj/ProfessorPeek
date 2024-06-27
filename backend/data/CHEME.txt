@@ -1,0 +1,156 @@
+Code: CHEME 2000
+Title: Effective and Inclusive Leadership in Engineering
+Description: An in-depth learning of the social skills and methods required to be an effective and inclusive leader of a diverse team. Emphasis on the role that the intersection between ethics, effective communication, mentorship, and intercultural competence play in leadership. Case studies in chemical engineering will illustrate and practice these skills.
+
+Code: CHEME 2880
+Title: Biomolecular Engineering: Fundamentals and Applications
+Description: An introduction to modern biology including aspects of biochemistry and molecular and cellular biology intended for students with no significant background in this area. An emphasis on practical applications of this knowledge in a variety of settings including the production of industrial enzymes, pharmaceuticals, and biologics.
+
+Code: CHEME 3130
+Title: Chemical Engineering Thermodynamics
+Description: Studies the first and second laws and their consequences for chemical systems. Covers thermodynamic properties of pure fluids, solids, and mixtures; phase and chemical reaction equilibrium; heat effects in batch and flow processes; and power cycles and refrigeration.
+
+Code: CHEME 3240
+Title: Heat and Mass Transfer
+Description: Fundamentals of heat and mass transfer. Macroscopic and microscopic balances. Applications to problems involving conduction, convection, and diffusion.
+
+Code: CHEME 4320
+Title: Chemical Engineering Laboratory
+Description: Laboratory experiments in fluid dynamics, heat transfer, mass transfer, separations, process control, and other unit operations fundamental to large-scale chemical processing. Data collection, analysis, and interpretation. Technical report writing. Process design and scale-up based on pilot-plant data.
+
+Code: CHEME 4800
+Title: Principles of Computational Thinking for Engineers
+Description: Engineering practice increasingly relies on computational tools and data analysis approaches. The course introduces computational thinking into engineering analysis. Integrates data science and statistics, linear algebra, artificial intelligence, and mathematical modeling approaches into the context of contemporary problems in the design and analysis of processes, products, and systems. Focuses on paradigms, not syntax. Use of the Julia programming language and its associated toolchain to transition from idea to implementation. In addition, cloud computing resources for course materials, assignments, and projects. Weekly labs provide guided hands-on practice. Course assignments use data sets and examples from industrial practice to develop fluency and understanding of real-life problems.
+
+Code: CHEME 4840
+Title: Microchemical and Microfluidic Systems
+Description: Principles of chemical kinetics, thermodynamics, and transport phenomena applied to microchemical and microfluidic systems. Applications in distributed chemical production, portable power, micromixing, separations, and chemical and biological sensing and analysis. Fabrication approaches (contrasted with microelectronics), transport phenomena at small dimensions, modeling challenges, system integration, case studies.
+
+Code: CHEME 4880
+Title: Global Food, Energy, and Water Nexus – Engage the US, China, and India for Sustainable Future
+Description: This course is offered by six Departments at Cornell, in collaboration with five Universities in China and India. Video conferencing will be used to connect classrooms in the three countries in real time. Important issues related to the food, energy, and water nexus and its implications for nutrition security, one health, environmental sustainability,climate change, and economic development in the US, China, India, and other countries will be described. Challenges associated with these issues will be evaluated and strategies to address them will be proposed. Engagement of these countries with each other and the rest of the world will be explored. The course serves as a platform for students from Cornell, China, and India to learn from and interact with each other in the same class, and to share their thinking, creativity, and perspectives on these issues.
+
+Code: CHEME 4900
+Title: Undergraduate Projects in Chemical Engineering
+Description: Research or studies on special problems in chemical engineering.
+
+Code: CHEME 4998
+Title: International Research Internship
+Description: Research or studies on special problems in chemical engineering for visiting international students.
+
+Code: CHEME 5020
+Title: Immersive Professional Development for Chemical Engineering M. Eng.
+Description: The development of professional skills and their application to a project-based working environment for students in the Master of Engineering (M.Eng.) program in the Department of Chemical and Biomolecular Engineering.  Students will focus on developing their management, communication and presentation skills, project management skills, networking, innovative mindset, early phase market interpretation as it applies to new products/processes, self-awareness, working as a team and managing conflict. A focus on basic finance skills which enable scientists and engineers to make quantitative financial decisions in corporate and wealth management contexts. The material from this course can be applied to traditional economic and engineering fields while simultaneously providing a core set of tools for students interested in entrepreneurship or opportunities in the financial and consulting industries.
+
+Code: CHEME 5310
+Title: Principles of Electrochemical Engineering
+Description: With the growing focus on renewable energy and electrification of transport for climate control, electrochemical engineering will play an increasingly critical role in enabling such a paradigm shift. This course introduces fundamentals of electrochemical conversion and storage including an introduction on electrochemical cells, characteristics of electrochemical reactions and Faraday's law as well as basic principles on cell potential and thermodynamics, electrochemical kinetics, and ionic mass transport. Students will also learn about standard electroanalytical techniques and applications of electrochemical engineering with particular focus on batteries. In addition to lecture-style classes, the course will engage the students in critical reading, presentation, and discussion of relevant research publications in energy storage systems providing them a holistic view of the current state of the field.
+
+Code: CHEME 5320
+Title: Glass: Structure, Properties and Modern Applications
+Description: Course develops a foundational understanding of the glassy state and nature of the glass transition. Introduces phenomenology, chemistry and structure of key oxide glass families, with an emphasis on silicate glasses and the interaction of oxide components. Recent advances in glass relaxation and the implications of the statistical nature of glass structure are also discussed. Contemporary and emerging applications in optical communication, displays, and electronics packaging are explored within the context of key optical, mechanical and thermal properties.  Students will gain an understanding of modern glass theory, familiarity with glass technology, and practical know-how of a glass "power user".
+
+Code: CHEME 5430
+Title: Bioprocess Engineering
+Description: Discusses principles involved in using biomolecules (e.g., antibodies, enzymes, DNA) and living organisms (e.g., bacteria, yeast, tissue cultures) for engineering biological processes.  Examples will be taken from the following application areas: biopharmaceuticals, biofuels, biomedical technologies, foods, and environmental processes.
+
+Code: CHEME 5610
+Title: Concepts of Chemical Engineering Product Design
+Description: Chemical products range from specialty chemicals, biologic based products, to electromechanical devices that perform chemical transformations. This course integrates the steps of chemical product design from brainstorming and concept selection through design and manufacturing while recognizing the overlap with Lean operating principles. Students will be taught house of quality, robust design, failure modes and effects analysis. Other topics include multi-generational product planning, FMEA, sustainability and product life-cycle analysis, basic economic evaluations, process mapping, cycle time content and balance, lead-time assessment and management, quality performance analysis and remediation, entrepreneurship and new business development, as well as patents, and intellectual property.  Case studies will illustrate concepts.
+
+Code: CHEME 5650
+Title: Design Project
+Description: Design study and economic evaluation of a chemical processing facility, alternative methods of manufacture, raw-material preparation, food processing, waste disposal, or some other aspect of chemical processing.
+
+Code: CHEME 5651
+Title: M. Eng. Design Project Studio
+Description: Studio design team work sessions for the Master of Engineering chemical process project.
+
+Code: CHEME 5660
+Title: Financial Data, Markets, and Mayhem for Scientists and Engineers
+Description: A quantitative finance course that enables scientists and engineers to make quantitative financial decisions in corporate and wealth management contexts. We'll use tools from engineering, statistics, artificial intelligence (AI), data science (DS), and machine learning (ML) to model, analyze, and ultimately optimize financial systems and financial decision-making. The material from this course can be applied to traditional economic and engineering fields while simultaneously providing a core set of tools for students interested in entrepreneurship or opportunities in the financial and consulting industries. Course assignments will be completed using LaTeX.
+
+Code: CHEME 5730
+Title: Interdisciplinary Design Concepts
+Description: This course emphasizes entrepreneurial driven technology designs (forward engineering) by integrating mechanical, chemical, and materials engineering through the understanding of early stage product development complexities. These complexities include staging invention and innovation via the critical selection of materials, assessing product mechanics and processes for final product function, performance, reliability, cost and technical marketability. Students will attend lectures, participate in establishing a Tech Startup integrated into the Johnson School MBA mentoring program, attend startup design reviews, give a series of individual/group presentations, and write a startup issue paper.
+
+Code: CHEME 5770
+Title: Principles in Process and Lean Engineering
+Description: Introduces essential process engineering and lean tools used by leading companies to improve the design and performance of new and existing processes. Clearly defined problem statements with stakeholders, targeted data analysis, and effective implementation of solutions will be discussed. The following tools and principles, with a Lean philosophy overlay, will be covered:  process mapping, data collection and analysis, standard operating setpoints, audits, training, change control, experiment planning, materials and tooling control, measurement and calibration systems, maintenance management, gap analysis, cycle time content and balance, lead-time assessment and management, quality performance analysis and remediation, sustainable control measures, demand/takt time analysis and relation to demonstrated equipment/process capacity, and process stability assessment. Six sigma tools will also be introduced. Effective use of these tools enables engineers to drive towards consistent process capability and improved cycle time, quality, lead time, and cost.
+
+Code: CHEME 5800
+Title: Principles of Computational Thinking for Engineers
+Description: Engineering practice increasingly relies on computational tools and data analysis approaches. The course introduces computational thinking into engineering analysis. Integrates data science and statistics, linear algebra, artificial intelligence, and mathematical modeling approaches into the context of contemporary problems in the design and analysis of processes, products, and systems. Focuses on paradigms, not syntax. Use of the Julia programming language and its associated toolchain to transition from idea to implementation. In addition, cloud computing resources for course materials, assignments, and projects. Weekly labs provide guided hands-on practice. Course assignments use data sets and examples from industrial practice to develop fluency and understanding of real-life problems.
+
+Code: CHEME 5870
+Title: Energy Seminar I
+Description: Energy Seminars will explore energy-related topics of emerging, contemporary and historical interest. An abbreviated list of subjects explored in the seminars includes: global energy resources, energy generation technologies (present and future), energy storage options, environmental impacts and climate change mitigation, energy policy, and energy delivery economics and systems. Seminar speakers will be distinguished practicing engineers and executives from industry and government as well as faculty members from several departments at Cornell, and other academic institutions. Students from any department in Engineering or the Physical Sciences should find these talks informative.
+
+Code: CHEME 5990
+Title: Medical and Industrial Biotechnology Seminar
+Description: Students attend seminars of their selection and write one-page summaries. Eligible seminars include all listings that are related to medical and industrial biotechnology.
+
+Code: CHEME 5999
+Title: Special Projects in Chemical Engineering
+Description: Nonthesis research or studies on special problems in chemical engineering.
+
+Code: CHEME 6110
+Title: Mathematical Methods of Chemical Engineering Analysis
+Description: Techniques covered include mathematical modeling, scaling, dimensional analysis, regular and singular perturbations, multiple scales, asymptotic analysis, stability analysis, linear and nonlinear ordinary and partial differential equations, numerical methods for initial and boundary value problems, finite Fourier transform method, and introduction to finite element analysis.
+
+Code: CHEME 6130
+Title: Advanced Chemical Engineering Thermodynamics
+Description: Molecular thermodynamics of gases, lattices, and liquids, including special applications to problems in chemical engineering.
+
+Code: CHEME 6230
+Title: Transport Phenomena for Chemical and Biomolecular Engineering
+Description: Builds foundational knowledge of transport phenomena to provide conceptional and mathematical tools to address research topics in chemical and biomolecular engineering. Significant use will be made of primary literature from biological, materials, energy, and sustainability contexts to motivate and illustrate concepts.
+
+Code: CHEME 6310
+Title: Engineering Principles for Drug Delivery
+Description: Application of engineering design principles to problems in drug formulation and delivery. Specific topics include traditional drug formulation, mechanisms and kinetics of pharmaceutical stability, stimuli-sensitive systems, controlled-release devices, prodrugs, targeted drug delivery, transdermal drug delivery, biomaterials, and gene therapy.
+
+Code: CHEME 6440
+Title: Aerosols and Colloids
+Description: Dynamics of micro-and nano-particles, which contain many molecules but are small enough that molecular effects are important. Topics include: the formation and growth of particles; their transport, theological and phase behaviors; and their role in technologies including paints, foods, health-care products, drug delivery, composite materials and air pollution control.
+
+Code: CHEME 6660
+Title: Analysis of Sustainable Energy Systems
+Description: Quantitative methods of engineering and life cycle analysis for energy choices in a contemporary sustainability context. Fundamental principles of thermodynamics, transport, and reaction kinetics applied to representative energy supply and end use technologies. Topics include resource assessment, energy extraction/capture, conversion, distribution, storage, and consumption; environmental and economic consequences; local to global scales.
+
+Code: CHEME 6661
+Title: Bioenergy and Biofuels Module
+Description: Energy technology module of CHEME 6660 will introduce students to issues and challenges in utilizing biomass feedstocks to produce bioenergy, biofuels and/or other products. The focus will be on converting biomass feedstocks to bioenergy using a variety of thermochemical processes. Case study material will include biomass feedstock cultivation and harvesting, processing and conversion technologies, co-products, and environmental and economic impacts over their full life cycle. The course will culminate in a final project in which students will use Life Cycle Assessment to measure the energetic viability and environmental performance.
+
+Code: CHEME 6670
+Title: Fossil Fuels Module
+Description: Energy technology module of CHEME 6660 covering fossil fuels.
+
+Code: CHEME 6671
+Title: Nuclear Energy Module
+Description: Energy technology module of CHEME 6660 will provide a description of the operation of nuclear fission power plants in their several manifestations and the fuel cycle associated with them. Their benefits and reasons why they are cause for concern will be described. Topics will include the principles of reactor operation and control, reactor safety features (natural and engineered), normal and abnormal operation, spent fuel safety and nuclear waste disposal, etc. Advanced reactors now runder construction and to be constructed in the near and more distant future will be discussed.
+
+Code: CHEME 6681
+Title: Energy Analysis Project
+Description: Capstone energy analysis project covering a topic of interest. Relevant background information will be provided in CHEME 6660: Analysis of Sustainable Energy Systems - course lectures as well as from the other energy modules offered. Specific projects should include, to the extent possible, a quantitative discussion of resource assessment, energy extraction/capture, conversion, distribution, storage, and consumption; environmental and economic consequences spanning local to global scales.
+
+Code: CHEME 6780
+Title: Global Food, Energy, and Water Nexus – Engage the US, China, and India for Sustainable Future
+Description: This course is offered by six Departments at Cornell, in collaboration with five Universities in China and one India. Video conferencing will be used to connect classrooms in the three countries in real time. Important issues related to the food, energy, and water nexus and its implications for nutrition security, one health, environmental sustainability, climate change, and economic development in the US and these two countries will be described. Challenges associated with these issues will be evaluated and strategies to address them will be proposed. Engagement of these countries with each other and the rest of the world will be explored. The course serves as a platform for students from Cornell, China, and India to learn from and interact with each other in the same class, and to share their thinking, creativity, and perspectives on these issues.
+
+Code: CHEME 6800
+Title: Computational Optimization
+Description: Systems optimization modeling, computation, and applications. Includes theory and algorithms of linear, nonlinear, mixed-integer linear, mixed-integer nonlinear, and deterministic global optimization, as well as stochastic programming, robust optimization and optimization methods for big-data analytics. Real-world applications of large-scale computational optimization in process manufacturing, bioengineering, energy systems, and sustainability.
+
+Code: CHEME 6920
+Title: Principles and Practices of Graduate Research
+Description: A colloquium/discussion group series for first-year graduate students. Topics include the culture and responsibilities of graduate research and the professional community; the mechanics of conducting research (experimental design, data analysis, serendipity in research, avoiding self-deception), documenting research (lab notebooks, computer files) and reporting research (writing a technical paper and oral presentations).
+
+Code: CHEME 7700
+Title: Chemical Engineering Graduate Research Seminar
+Description: Chemical Engineering graduate students in their third year and above must present an annual seminar on their research. Provides training in public presentation and dissemination of scientific data. Constructive feedback on the quality of the presentation and research will be submitted by attendees.
+
+Code: CHEME 7900
+Title: Chemical Engineering Seminar
+Description: General chemical engineering seminar.
+

@@ -1,0 +1,136 @@
+Code: FGSS 1100
+Title: FWS: Topics in Feminist, Gender and Sexuality Studies
+Description: This course offers students the opportunity to study a wide range of fields from the perspectives of feminist and LGBT critical analysis, in a global context and with the purpose of promoting social justice. Our first-year writing seminars investigate how gender and sexuality are embedded in cultural, social, and political formations. FGSS pays close attention to the complex structures of power and inequality, tracing intersections and relationships among sexuality, race, class, age, ethnicity, and other aspects of identity within their specific contexts of history and geography. Topics vary by section.
+
+Code: FGSS 2010
+Title: Introduction to Feminist, Gender, and Sexuality Studies
+Description: Feminist, Gender, & Sexuality Studies is an interdisciplinary program focused on understanding the impact of gender and sexuality on the world around us and on the power hierarchies that structure it. This course provides an overview of key concepts, questions, and debates within feminist studies both locally and globally, focusing mainly on the experiences, historical conditions, and concerns of women as they are shaped by gender and sexuality. We will read a variety of texts--personal narratives, historical documents, and cultural criticism--across a range of disciplines, and will consider how larger structural systems of both privilege and oppression affect individuals' identities, experiences, and options. We will also examine forms of agency and action taken by women in the face of these larger systems.
+
+Code: FGSS 2024
+Title: Ecological Justice: Feminist, Queer, and Trans Perspectives
+Description: This course is an in-depth study of ecological justice from feminist, queer, and trans perspectives. Historically, people marginalized by race, gender, sexuality, disability, and poverty have borne the brunt of environmental degradation. But they have also led environmental movements and ecological theorizing around the globe. Drawing on the traditions of ecofeminism, racial justice, queer and trans ecology, and disability theory, students will learn how feminist, queer, and trans thinking has reshaped binaries at the heart of environmental ethics, including nature/artifice, human/animal, stranger/kin, science/poetics, and activism/daily life. As such, students will deepen their knowledge of intersectional justice within a more-than-human world.
+
+Code: FGSS 2806
+Title: Roman Law
+Description: This course presents a cultural and historical perspective on ideas of agency, responsibility, and punishment through foundational texts of western law. We will primarily focus on three main areas of law: (1) slavery and (2) family (both governed by the Roman law of persons), and (3) civil wrongs (the law of delict or culpable harm). Through an examination of the legal sources (in translation) and the study of the reasoning of the Roman jurists, this course will examine the evolution of jurisprudence: the development of the laws concerning power over slaves and women, and changes in the laws concerning penalties for crimes. No specific prior knowledge needed.
+
+Code: FGSS 3000
+Title: Feminist Theory
+Description: This course will work across and between the disciplines to consider what it might mean to think 'as a feminist' about many things including, but not limited to 'gender', 'women' and 'sexuality'. We will approach theory as a tool for analyzing relations of power and a means of transforming ways of thinking and living. In particular, we will investigate the cultural, social, and historical assumptions that shape the possibilities and problematics of gender and sexuality. Throughout we will attend to specific histories of class, race, ethnicity, culture, nation, religion and sexuality, with an eye to their particular incitements to and challenges for feminist thinking and politics.
+
+Code: FGSS 3316
+Title: What's in a Sound? Gender and Race in Sound Cultures
+Description: What can we hear or see in a sound? Can the sound of a voice conjure traces of a body? How does sound, musical or otherwise, construct gender and race? In this course, we will consider how listening, speaking, and music operate as mechanisms of representation. We will pay particular attention to the work representations do and how they connect to systems of power and identity. From voice-overs and machine listening to reggaeton and Brazilian funk, we will examine the ways sound practices not only mirror gendered, racial, and sexual politics but also produce them. Through several case studies, we will find that the very possibilities of representations are embedded in historical contexts and the variability of media objects.
+
+Code: FGSS 3322
+Title: Gospel and The Blues: A Black Women's History I, 1900-1973
+Description: In her pathbreaking text Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval Saidiya Hartman writes that "young Black women were radical thinkers who tirelessly imagined other ways to live and never failed to consider how the world might be otherwise." This two-semester course endeavors to travel through those worlds using the cultural and musical forms of gospel and the blues as our compass. The first semester is guided by the work of scholars and writers like Angela Davis, Hazel Carby, Alice Walker, and Gayl Jones and artists like Ethel Waters, Bessie Smith, Victoria Spivey, and Sister Rosetta Tharpe. Together we will interrogate the spectrum of lived experiences making for a kaleidoscopic sonic history of joy, pleasure, sorrow, resistance, and everything in between.
+
+Code: FGSS 3400
+Title: Social Justice: Special Topics
+Description: Social Justice highlights refugee-led organizing and its intersections with un/documented and Indigenous beyond borders activism. We will work with and learn from refugee and asylum seekers led organizations that are started by and run by members of formerly displaced groups. These organizations build collectives and coalitions to organize communities across identities and legal categories and advocate for access to mobility and social justice. We will closely collaborate with these organizations and work on joint research projects.
+
+Code: FGSS 3464
+Title: Representational Ethics in Film and Television
+Description: This course is designed to explore the varied ways that race and gender intersect with the media industry. While common industrial logic suggests these descriptors of identity are not a factor in terms of its business models and assumptions, the reality is much more complex. Race, as well as gender, class, and sexuality, play large parts in how media industries function and in informing and shaping audience expectations and assumptions. Thus, the time spent in class will largely consist of deconstructing several media industries, including film, television, and new media to show just how race, as well as other modes of identity such as gender, sexuality, and class, operate within it.
+
+Code: FGSS 3591
+Title: Kids Rule! Children's Popular Culture
+Description: How is the figure of the child constructed in popular culture? When and to what degree do children participate in the construction of these representations? This course surveys a variety of contemporary media texts (television, film, and the internet) aimed at children ranging in age from pre-kindergarten to young adults. We explore how these texts seek to construct children as empowered consumers, contesting adult conformity. Our theoretical approach complicates definitions of childhood as a time of innocence and potential victimhood and challenges normative constructions of childhood as a time for establishing "proper" sexual and gender identities. Taking a cultural studies approach, the class will consider the connections between the cultural texts and the realms of advertising, toys, and gaming.
+
+Code: FGSS 3636
+Title: Queer Classics
+Description: This course engages classical antiquity and its reception through the prism of queer studies. Cruising Homer, Sappho, Euripides, Plato, Ovid and more, we will explore how queer theoretical frameworks help us account for premodern queer and trans bodies, desires, experiences, and aesthetics. We will trace how people historically have engaged with the classical past in political and affective projects of writing queer history and literature, constructing identities and communities, and imagining queer futures. We will unpack how classical scholarship might reproduce contemporary forms of homophobia and transphobia in its treatments of gender, sexuality, and embodiment in the classical past, and in turn how modern uses of the classical might reinforce or dismantle exclusionary narratives around 'queerness' today as it intersects with race, gender, sexuality, and class. Finally, we will consider how the work we are doing in this class (where the 'Queer' in 'Queer Classics' may be taken as an adjective or an imperative) relates to the ways that contemporary writers, activists, artists, and performers have animated the classical past with queer possibilities. All readings will be in translation; no knowledge of Latin and Greek is required.
+
+Code: FGSS 3651
+Title: Freud and Psychoanalysis
+Description: Psychoanalysis considers the human being not as an object of treatment, but as a subject who is called upon to elaborate an unconscious knowledge about what is disrupting her life, through analysis of dreams, symptoms, bungled actions, slips of the tongue, and repetitive behaviors.  Freud finds that these apparently irrational acts and behavior are ordered by the logic of the fantasy, which provides a mental representation of a traumatic childhood experience and the effects it unleashes in the mind and body-effects he called drives.  As "unbound" energies, the drives give rise to symptoms, repetitive acts, and fantasmatic stagings that menace our health and sometimes threaten social coexistence, but that also rise to the desires, creative acts, and social projects we identify as the essence of human life.  Readings will include fundamental texts on the unconscious, repression, fantasy, and the death drive, as well as case studies and speculative essays on mythology, art, religion, and group psychology.  Students will be asked to keep a dream journal and to work on their unconscious formations, and will have the chance to produce creative projects as well as analytic essays.
+
+Code: FGSS 3686
+Title: Feminism and Islam in North Africa
+Description: The course is a survey of Feminist Islamic thinkers from Morocco, Algeria, Tunisia and Egypt, and their diaspora, featuring both French and Arabic texts in English translation. The purpose of the course is to critically explore the competing treatment of major gendered tropes in a Muslim context (the veil, the harem, polygamy, etc.) by North African thinkers, through their examination of qur'anic surats/hadiths, the evolution of tafsirs (tradion of qur'anic exegesis) as well as their conflicting approaches to secular western feminism. Readings might include: Fatema Mernissi, Asmaa Lamrabet, Qasim Amin, Naguib Mahfoud, Assia Djebar, Mona Eltahawy, and Nawal El-Saadawi.
+
+Code: FGSS 3721
+Title: Women and Gender in Biblical Israel
+Description: This course focuses on how Biblical texts represent women in ancient Israel, and how the Bible's representations constitute both a fabrication and a manifestation of social life on the ground.  We will use biblical, archaeological, and ancient Near Eastern textual evidence to consider the complicated relationship between ancient society and the textual and material records from which we reconstruct it. In addition, this course will examine how women's roles in the Hebrew Bible have been understood and integrated in later Jewish and Christian thought, and how these discourses shape contemporary American attitudes towards women, sexuality, and gender.
+
+Code: FGSS 3740
+Title: Parody
+Description: In A Theory of Parody, Linda Hutcheon defines parody broadly as "repetition with critical difference, which marks difference rather than similarity." Taking a cue from Hutcheon, we will consider parody as a form of meaning making that is not necessarily used in the service of ridicule. Rather, we will examine a number of late-twentieth- and early-twenty-first-century imitative works in order to distinguish the rich variety of political agendas and aesthetic rationales for recent parody. An emphasis on postmodern or contemporary performances and media that renovate images, ideas, and icons from modernism and modernity will unite our otherwise diverse efforts. Some of these efforts will also highlight what happens when an artist takes up a work made for one platform (for example, theatre, performance art, installation, cinema, television, the Web) and parodies it in another. Creators and works under consideration may range from Christopher Durang, Split Britches, and Pig Iron Theatre Company to The Simpsons, Cookie's Fortune, and Strindberg and Helium.
+
+Code: FGSS 3990
+Title: Undergraduate Independent Study
+Description: Individual study program intended for juniors and seniors working on special topics with selected reading or research projects not covered in regularly scheduled courses. Students select a topic in consultation with a FGSS faculty member who has agreed to supervise the independent study.
+
+Code: FGSS 4100
+Title: The Seminar
+Description: Topics vary by instructor.
+
+Code: FGSS 4124
+Title: Trans Theory and the Question of Gender
+Description: The question "What is gender?" is an increasingly thorny and political one. This course provides students with an advanced introduction to debates about the nature and function of gender in contemporary trans theory and trans philosophy. Throughout the seminar, we will analyze various definitions of gender offered by trans thinkers: gender as genus, as genre, as performance, as self-identity, and as colonial category. We will critically assess the value and limitations of key gender terms such as cisgender, genderqueer, nonbinary, and transgender. Finally, we will grapple with the current debate about whether to abolish gender or to richly celebrate gender diversity.
+
+Code: FGSS 4153
+Title: Topics in Feminist Media Arts
+Description: Fall 2024 Topic: Feminist Posthumanisms in Visual Arts. While feminist art in new media address traditional feminist concerns such as the female body, identity, representation, feminist history, and consumerism, others directly engage with recent theoretical currents on the Anthropocene, posthumanism, and new materialisms that view humans and non-humans as co-dependent. Non-humans include environmental factors, animals, plants, bacteria, and machines. This seminar will examine work by contemporary artists from various geographical areas and cultural traditions engaged with posthumanist perspectives in relation to relevant theoretical texts and previous feminist media arts.
+
+Code: FGSS 4212
+Title: Black Women's Autobiography in the 21st Century WritingHerStory
+Description: Black women first began to shape the genre of autobiography during antebellum era slavery. They were prolific in developing the genre of autobiography throughout the twentieth century, to the point of emerging as serial autobiographers in the case of Maya Angelou. Significantly, I Know Why the Caged Bird Sings(1970), the first autobiography of six by Angelou, along with autobiographies by a range of other black women writers, helped to launch the renaissance in black women's literature and criticism in African American literature during the 1970s. In this course, we will focus on how black women have continued to write and share their personal stories in the new millennium by examining autobiographies that they have produced in the first years of the twenty-first century. More broadly, we will consider the impact of this writing on twenty-first century African American literature, as well as African diasporan writing in Africa and the Caribbean. In the process, we will draw on a range of critical and theoretical perspectives.  We will read memoirs and autobiographies by a range of figures, including Michelle Obama, Jennifer Lewis, Monica Coleman, Serena Williams, Gabrielle Union, and Tiffany Haddish, among others.
+
+Code: FGSS 4260
+Title: Gender and Media
+Description: This seminar addresses the intersection of communication, culture, and identity through an examination of gender and the U.S. media system. After introducing students to key approaches to studying gender and mediated communication, the course will cover topics in four subunits: (1). Mediated representations of gender, sexuality, and intersectionality; (2). Diversity in media industries and gendered labor markets; (3). Gendered audiences and fan cultures; and (4). Gender, power, and identity in a digital era of communication. We will explore these topics through literature from sociology, communication and media studies, cultural studies, feminist theory, and internet/new media studies.
+
+Code: FGSS 4371
+Title: Sociology of Sex and Gender
+Description: This course provides an introduction to the theoretical and empirical literature on the sociology of sex and gender. The readings cover theory and methods, feminism, masculinity, intersectionality, international/comparative perspectives, gender roles, and recent sociological research in this area.
+
+Code: FGSS 4491
+Title: Feminism and Philosophy
+Description: Feminist approaches to questions in metaphysics, epistemology, language, and value theory.
+
+Code: FGSS 4695
+Title: Queer Archives and Archiving Queerness
+Description: This course contemplates challenges associated with researching and representing LGBTQ+ pasts. We approach this topic from several angles: 1) by asking what constitutes "queer" and "trans" in different historical contexts and different geographical locations, when sexuality and gender are by their nature fluid; 2) by training in LGBTQ+ archival methods; and 3) by engagement with queer and trans artivists who make archives central to their praxis. We will visit Cornell's Human Sexuality collection, explore online repositories and academic databases (e.g., ONE and Cengage), and consider archive-based artistic projects (e.g., Killjoy's Castle and MOTHA).
+
+Code: FGSS 4835
+Title: Performance Studies: Theories and Methods
+Description: An understanding of performance as object and lens, modality and method, is integral to scholarship and research across the humanities and social sciences. Charting the advent and defining principles of performance studies, this course explores the interdisciplinary history of the field, including its association with anthropology, visual studies, theater, gender studies, sociology, psychology, literature, philosophy, and critical race studies. This class examines performance as a means of creative expression, a mode of critical inquiry, and an avenue for public engagement. We will attend to both the practice of performance - as gesture, behavior, habit, event, artistic expression, and social drama - and the study of performance - through ethnographic observation, spectatorship, documentation, reproduction, analysis, and writing strategies. Through a study of research paradigms and key issues related to performance, we will explore not only what this highly contested term "is" and "does," but when and how, for whom, and under what circumstances.
+
+Code: FGSS 4990
+Title: Senior Honors Thesis I
+Description: To graduate with honors, FGSS majors must complete a senior thesis under the supervision of an FGSS faculty member and defend that thesis orally before an honors committee. To be eligible for honors, students must have at least a cumulative GPA of 3.3 in all course work and a 3.5 average in all courses applying to their FGSS major. Students interested in the honors program should consult the DUS late in the spring semester of their junior year or very early in the fall semester of their senior year.
+
+Code: FGSS 6153
+Title: Topics in Feminist Media Arts
+Description: Fall 24 Topic: Feminist Posthumanisms in Visual Arts. While feminist art in new media address traditional feminist concerns such as the female body, identity, representation, feminist history, and consumerism, others directly engage with recent theoretical currents on the Anthropocene, posthumanism, and new materialisms that view humans and non-humans as co-dependent. Non-humans include environmental factors, animals, plants, bacteria, and machines. This seminar will examine work by contemporary artists from various geographical areas and cultural traditions engaged with posthumanist perspectives in relation to relevant theoretical texts and previous feminist media arts.
+
+Code: FGSS 6312
+Title: Synthesizing Pop: Electronics and the Musical Imagination
+Description: From Switched-On Bach to Synthpop and EDM, since the late 1960s electronic synthesizers have expanded the sonic palette and identity formation of popular musicians, leading to new concepts of sound and performance as well as communal, technological, and human interfaces. This course will explore the cultural history of analog synthesizers and their progeny of digital devices (samplers, sequencers, drum machines) and desktop technologies that revolutionized popular music soundscapes and embodiment. Synthesis will be considered as both a musical technology and theoretical concept that together spark imagined cyborg identities and post-human futures, challenging and resynthesizing categories of gender, sexuality, and race. Student will also have the opportunity to engage with Cornell's Robert Moog Archive and develop research, creative, or curation projects. This course is open to graduate students and fourth-year undergraduates by permission. Undergraduates should contact the instructor before enrolling.
+
+Code: FGSS 6363
+Title: Queer Marxism
+Description: Are queer theory and Marxism truly irreconcilable? While queer studies emerged in part as a rejection of Marxism's totalizing approach and Marxists have criticized the queer emphasis on individuals, this seminar explores the potential of bringing the two fields together. We will consider how queer critiques of reproductive futurism, racial capitalism, and homonationalism can transform the legacy of Marxist theory and practice. At the same time, we will examine Marxist notions of totality, reification, and value to reenvision the scope of queer politics. After covering these key Marxist and queer theoretical concepts, the seminar will turn to transnational Marxist debates on gender and sexuality in Weimar Germany and the Soviet Union. We will conclude the seminar with a discussion of new scholarship in the emergent field of queer Marxism and a symposium with presentations by seminar participants.
+
+Code: FGSS 6554
+Title: Modernist Fiction and the Erotics of Style
+Description: "I am interested in language because it wounds or seduces me," the critic Roland Barthes once wrote. How do we take pleasure in a text, even when it appears to betray us? How do we speak of the erotics of style beyond the mere thematic interpretation of sexual representation? Has such an erotics even been written yet? To explore a methodology for contemplating this elusive embrace between the aesthetic and the erotic, we will consider influential works of psychoanalytic, deconstructive, feminist, and queer theory alongside a survey of great modernist novelists whose innovative experiments in prose style have proved most sensual and most challenging, among them Oscar Wilde, Henry James, Gertrude Stein, D. H. Lawrence, Virginia Woolf, Ronald Firbank, and Djuna Barnes.
+
+Code: FGSS 6561
+Title: Politics and Joy in Black Women's Writing
+Description: This course will look at how Black women writers negotiated enslavement, Reconstruction, and Jim Crow era segregation while also managing to find avenues of joy, escapism, and a certain kind of freedom through art-making. In addition to reading primary texts by Phillis Wheatley, Hannah Bond, Jessie Redmon Fauset, and others we will also look at critical and theoretical work by Hortense Spillers, Saidiyah Hartman, Barbara Fields, and Karen Fields.
+
+Code: FGSS 6721
+Title: Women and Gender in Biblical Israel
+Description: This course focuses on how Biblical texts represent women in ancient Israel, and how the Bible's representations constitute both a fabrication and a manifestation of social life on the ground. We will use biblical, archaeological, and ancient Near Eastern textual evidence to consider the complicated relationship between ancient society and the textual and material records from which we reconstruct it. In addition, this course will examine how women's roles in the Hebrew Bible have been understood and integrated in later Jewish and Christian thought, and how these discourses shape contemporary American attitudes towards women, sexuality, and gender.
+
+Code: FGSS 6835
+Title: Performance Studies: Theories and Methods
+Description: An understanding of performance as object and lens, modality and method, is integral to scholarship and research across the humanities and social sciences. Charting the advent and defining principles of performance studies, this course explores the interdisciplinary history of the field, including its association with anthropology, visual studies, theater, gender studies, sociology, psychology, literature, philosophy, and critical race studies. This class examines performance as a means of creative expression, a mode of critical inquiry, and an avenue for public engagement. We will attend to both the practice of performance - as gesture, behavior, habit, event, artistic expression, and social drama - and the study of performance - through ethnographic observation, spectatorship, documentation, reproduction, analysis, and writing strategies. Through a study of research paradigms and key issues related to performance, we will explore not only what this highly contested term "is" and "does," but when and how, for whom, and under what circumstances.
+
+Code: FGSS 6990
+Title: Topics in Feminist, Gender, and Sexuality Studies
+Description: Independent reading course for graduate students on topics not covered in regularly scheduled courses. Students develop a course of readings in consultation with a faculty member in the field of Feminist, Gender, & Sexuality Studies who has agreed to supervise the course work.
+

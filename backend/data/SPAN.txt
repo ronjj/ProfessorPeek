@@ -1,0 +1,104 @@
+Code: SPAN 1120
+Title: Elementary Spanish: Review and Continuation
+Description: While building language proficiency and accuracy through communicative activities, the course encourages students to actively interact with one another. The instructor facilitates communication and provides feedback and language learning strategies that guide students to take responsibility for their own learning and become active participants in the process. The course also introduces students to the many peoples and cultures of the Spanish-speaking world, prompting them to make comparisons with their own culture. Additionally, lectures provide students with opportunities to reflect on relevant grammar topics and assist students in developing language learning strategies.
+
+Code: SPAN 1210
+Title: Elementary Spanish I
+Description: While building language proficiency and accuracy through communicative activities, the course encourages students to actively interact with one another. The instructor facilitates communication and provides feedback and language learning strategies that guide students to take responsibility of their own learning and become active participants in the process. The course also introduces students to the many peoples and cultures of the Spanish-speaking world, prompting them to make comparisons with their own culture. Additionally, lectures provide students with opportunities to reflect on relevant grammar topics and assist students in developing language learning strategies. Class discussions are conducted entirely in Spanish. After 1210 students may take SPAN 1120 (fall) or SPAN 1220 (spring).
+
+Code: SPAN 1230
+Title: Continuing Spanish
+Description: SPAN 1230 is the third course in the Spanish language sequence. It is designed to help students progress from the "novice high" level to the "intermediate mid" level in speaking, listening, reading and writing.  The course is structured around four thematic units: fashion and art; the natural world; personal relationships; and health. In each unit, we will learn the vocabulary and grammar constructions that are necessary to talk about the unit's topic. Particular emphasis will be placed on the skill of giving and defending opinions. Throughout the semester, we will discuss and analyze a wide variety of art from the Hispanic world, including songs, fashion, visual arts, TV shows, films, performance art, newspaper articles, documentaries, film shorts and podcasts. The overall goal of this course is to develop students' ability to comprehend authentic materials in Spanish and formulate nuanced opinions about those materials.
+
+Code: SPAN 1250
+Title: Spanish for Heritage Speakers I
+Description: This low-intermediate course expands Heritage students' confidence and competence in Spanish by providing opportunities to build upon the conversational skills they have. Through literary texts, other readings, music, films and the visual arts students broaden their vocabulary, improve grammatical accuracy, develop writing skills and enrich their understanding of the cultures of the Spanish-speaking world. The heritage student grew up speaking Spanish and finished high school in the U.S.
+
+Code: SPAN 2000
+Title: Spanish for Heritage Speakers
+Description: Designed to expand bilingual Heritage students' knowledge of Spanish by providing them with ample opportunities to develop and improve each of the basic language skills, with a particular focus on writing vocabulary. The heritage student has at least one parent of Hispanic origin and grew up speaking Spanish at home; s/he also finished high school here in the US. After this course, students may take SPAN 2095.
+
+Code: SPAN 2070
+Title: Intermediate Spanish for the Medical and Health Professions
+Description: Provides a conversational grammar review, with dialogues, debates, compositions, and authentic readings on health-related themes. Special attention is given to relevant cultural differences and how cultural notions may affect medical care and communication between doctor and patient. The objective of 2070 is to provide practice in real-life application, such as taking a medical history, calming a patient, and how to speak to a Hispanic patient in a culturally acceptable manner. After this course, a student may take or SPAN 2095.
+
+Code: SPAN 2090
+Title: Intermediate Spanish I (Composition and Conversation)
+Description: This intermediate course develops accurate and idiomatic oral and written expression in a cultural context. Students achieve a higher level of syntactical and lexical competence through reading and discussing literary texts and viewing films. Particular emphasis is on writing and editing academic essays with peer/instructor feedback. Classes are in Spanish and the language is actively used in oral presentations and communicative, creative, and critical-thinking activities. Students review grammar structures on their own, with clarification and support of the instructor. After this course, students may take SPAN 2095.
+
+Code: SPAN 2095
+Title: Spanish Intermediate Composition and Conversation II
+Description: This advanced-intermediate course is designed to prepare students for study abroad and is required for any Cornell CASA program in a Spanish speaking country.  It also serves as an entryway into the major, and advanced-level courses. Students study stylistics, analyze and discuss texts, view films, and acquire advanced reading strategies. Continued emphasis is on writing and editing academic essays with peer and instructor feedback. Classes are in Spanish, and the language is actively used in oral presentations and communicative, creative, and critical-thinking activities. Students review grammar structures on their own, although the instructor may clarify as needed.
+
+Code: SPAN 2140
+Title: Modern Spanish Survey
+Description: Introductory survey of modern Spanish literature. Students develop their analytical skills and learn basic literary concepts such as genre (drama, lyric, short story, and novel) and style (romanticism, realism, etc.) as well as male/female perspectives and the translation of literature to film language. The survey introduces students to Spain's cultural complexity through readings of works by authors representative of its diverse linguistic and literary traditions.
+
+Code: SPAN 2150
+Title: Contemporary Latin American Survey
+Description: Readings and discussion of representative texts of the 19th and 20th centuries from various regions of Latin America. Among the authors considered are Sarmiento, Hernández, Martí, Darío, Agustini, Cortázar, García Márquez, Poniatowska, and Valenzuela.
+
+Code: SPAN 2170
+Title: Early Modern Iberian Survey
+Description: This course explores major texts and themes of the Hispanic tradition from the 11th to the 17th centuries. We will examine general questions on literary analysis and the relationship between literature and history around certain events, such as medieval multicultural Iberia, the creation of the Spanish Inquisition in the 15th century and the expulsion of the Jews in 1492; the encounter between the Old and the New Worlds; the 'opposition' of high and low in popular culture, and of the secular and the sacred in poetry and prose. Readings may be drawn from medieval short stories and miracle collections; chivalric romances, Columbus, Lazarillo de Tormes, Cervantes, Lope de Vega, Calderón, and Sor Juana Inés de la Cruz, among others.
+
+Code: SPAN 2180
+Title: Advanced Spanish Writing Workshop
+Description: This course, which is required for the major, is designed to help the learner develop increased accuracy and sophistication in writing in Spanish for academic purposes and continued oral practice in Spanish. To this end, there will be ample writing and revising practice, with a focus on specific grammatical and lexical areas, customized to the needs of the students enrolled in the course.  All writing will be based on a particular theme relating to Latin America with a focus on film, literary texts, newspaper readings and conducting an interview.
+
+Code: SPAN 2230
+Title: Perspectives on Spain
+Description: An introduction to Spain's history, plural cultures, and present-day society. Through a series of key literary works, films, and other visual representations we will explore such topics as the place of tradition, religion, and the family in modern Spain. Our focus will be on the transformation of Spain from an authoritarian state under General Franco's dictatorship (1939-1975) into a remarkably diverse and pluralistic nation in which linguistic, cultural, political, and gender differences have been consecrated in a very progressive legislation. This course satisfies the main requirement for the minor in Spanish, may be used as an elective for the major, and is crucial to those planning to study abroad in Spain in the near future.
+
+Code: SPAN 2235
+Title: Perspectives on Spain in Spanish
+Description: This course offers a broad introduction to Iberian cultures from the Middle Ages to the present.  Focusing on three main themes-space, culture, and everyday life-our main objective throughout the term will be to explore different perspectives unique to the ever-evolving place we now call "Spain." The first half of the term will concentrate on aspects of space, culture, and everyday life in the medieval and early modern context, while the second half of the term will examine the same themes, questions, and concepts but from a modern and contemporary point of view using a wide variety of disciplines and media to explore them, from history, newspapers and music, to painting, film, and television.
+
+Code: SPAN 3539
+Title: Islamic Spain: Culture and Society
+Description: This course examines the culture and society of al-Andalus (Islamic Spain) from 711, when Islam arrived in Iberia, until 1492 and the demise of Nasrid Granada. Through extensive discussion and analysis of Arabic, Latin, and Hebrew primary documents and literary texts of various genres (in translation), the course challenges ideological bases of conventional thinking regarding the social, political, and cultural identity of medieval "Spain." Among other things, the class investigates the origins of lyric poetry, the relationships among the various confessional and ethnic communities in al-Andalus and the problems involved in Mozarabic Christian and Andalusi Jewish subcultural adaptations of Andalusi Arabo-Islamic culture.
+
+Code: SPAN 3675
+Title: Diasporas, Disasters, and Dissent: Re-Thinking Puerto Rican Studies in the 20th and 21st Centuries
+Description: "Foreign in a domestic sense" is the perplexing way that the Supreme Court of the United States chose to define Puerto Rico's status in the so-called "Insular Cases" of the early 20th century. Written over 100 years ago, this contradictory ruling looms large over Puerto Rico's precarious legal standing, despite the fact that there are now more Puerto Ricans living on the US mainland than in the island itself. Seeking to counter the obfuscation of Puerto Rico in the US imaginary, in this course students will analyze how key historical, political, and social moments connected to diasporas, disasters, and dissent have galvanized Puerto Rican cultural production in the 20th and 21st centuries.
+
+Code: SPAN 3710
+Title: Latin American Documentary
+Description: Documentaries are born out of the necessity to capture the real and to tell a truth.  When we watch documentaries, we tend to comfortably rely on that claim and, often, take what they teach us as indisputable evidence of what reality is.  In this course, we will put into questions the "reality" that documentaries portray-and the possibility itself of portraying reality-by discussing a selection of Latin American documentaries that raise important issues regarding the ethics and politics of representation. In our discussions, we will critically engage with the boundaries of the cinematic frame and debate the ethical responsibilities of the filmmaker, the value and the political and social impact of the image, the role of the spectator, and the implications of filming and being filmed by an "other".
+
+Code: SPAN 3760
+Title: Thought, Praxis and Way of Life in South America's Andean Region
+Description: This course aims at introducing students to the core elements of the thought, praxis and way of life of one of the key bastions of indigenous resistance in the New World since Columbus's arrival in 1492: South America's Andean region. We will study the region's key cultural categories, following Cuzqueñan poet and thinker Odi Gonzales's claim that any study of the region requires taking these categories as starting point. These include questions of time, space, life, death, society, religion, number, and gender. We will study how these categories are formed in tension, syncretism and co-transformation with other languages and cultures—especially Spanish—over centuries of colonial and neocolonial domination. Primary material examined include films, photography, drama, novels, poetry, testimonies, and religious texts.
+
+Code: SPAN 4190
+Title: Special Topics in Spanish Literature
+Description: Guided independent study of special topics. For undergraduates interested in special problems not covered in courses.
+
+Code: SPAN 4290
+Title: Honors Work I
+Description: Consult director of undergraduate studies for more information.
+
+Code: SPAN 4765
+Title: Latin American Food Studies
+Description: This course explores the relationship between food and culture in Latin America. It asks what we eat and why, and in what contexts. We will examine how colonialism and globalization have shifted consumption patterns in Latin America, as well as the environmental implications of different agricultural practices. Students will whet their appetites with a variety of literary texts, films, and images about food.
+
+Code: SPAN 4880
+Title: Clarice Lispector: Philosophy, Politics and Literature
+Description: What is literary creation? How does it relate to thinking, to doing, to being, to nothingness, to the cosmos?  What is its temporality, identity, spatiality/place?  What is literature's violence? Moreover, how do these questions relate to our sociopolitical realities,including questions of gender, class and race?  These are just a few problems that one of the greatest women writers (and thinkers) of the twentieth century, the Brazilian author Clarice Lispector, invites us to pose anew.  In this course, we will dive deeply into her works, embracing the challenge of bridging the philosophical and the political through the literary, and doing so from the sociocultural complexities of twentieth-century Brazil.  Alongside reading her works, we will watch film adaptations and trace cultural, literary and philosophical resonances.
+
+Code: SPAN 6180
+Title: Affect-Afecto
+Description: The publication of 2010 of The Affect Theory Reader, edited by Melissa Gregg and Gregory J. Seigworth, officially marked the consolidation of the "Affect Theory Turn," a turn triggered by the debates and discussions around a vast interdisciplinary corpus that challenged a view of the subject as individual and self-contained, as if focused on the intensities that pass between bodies and the "bindings and unbindings", becomings and un-becomings, jarring disorientations and rhythmic attunements" they provoked. The Affect Reader 2, published in 2023 and edited by Seigworth and Carolyn Pedwell, raised new questions that considered both the potentialities and limitations of affect theory and how it has changed in the last decade.  This course takes these debates and questions and puts them in conversation with theoretical, literary, and artistic works that, grounded in Latin America, both challenge and expand our understanding of affect by introducing the cultural, linguistic, political, and social nuances of afecto.
+
+Code: SPAN 6224
+Title: Beauty, Grief
+Description: This course is for anyone drawn to beauty-and anyone who, within the beautiful, finds the trace of a loss. What do we grieve, what do we miss, when we find ourselves in the presence of beauty? And what, in every retrospective, prospective or otherwise non-present beauty, do we nonetheless crave and nonetheless mourn? What is the beauty hidden within mourning? We'll take a look at thinkers, poets, and artists from both modern and premodern culture, potentially including Anne Carson, Augustine of Hippo, Fra Angelico, Gillian Rose, Hervé Guibert, Pepe Espáliu, and others, as we try to sit with dual summons of beauty and grief: beauty or grief.
+
+Code: SPAN 6390
+Title: Special Topics in Spanish Literature
+Description: Guided independent study of specific topics. For graduate students interested in special problems not covered in courses.
+
+Code: SPAN 6539
+Title: Islamic Spain: Culture and Society
+Description: This course examines the culture and society of al-Andalus (Islamic Spain) from 711, when Islam arrived in Iberia, until 1492 and the demise of Nasrid Granada. Through extensive discussion and analysis of Arabic, Latin, and Hebrew primary documents and literary texts of various genres (in translation), the course challenges ideological bases of conventional thinking regarding the social, political, and cultural identity of medieval "Spain." Among other things, the class investigates the origins of lyric poetry, the relationships among the various confessional and ethnic communities in al-Andalus and the problems involved in Mozarabic Christian and Andalusi Jewish subcultural adaptations of Andalusi Arabo-Islamic culture.
+

@@ -1,0 +1,68 @@
+Code: BTRY 3010
+Title: Statistics I
+Description: Students will be able to perform a variety of basic statistical analyses including: t-tests,  two-sample t-tests, tests for categorical data, and linear regression.
+
+Code: BTRY 3080
+Title: Probability Models and Inference
+Description: This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, the method of moments, sampling distributions and confidence intervals.
+
+Code: BTRY 3100
+Title: Statistical Sampling
+Description: Theory and application of statistical sampling, especially in regard to sample design, cost, estimation of population quantities, and error estimation. Assessment of nonsampling errors. Discussion of applications to social and biological sciences and to business problems.
+
+Code: BTRY 4030
+Title: Linear Models with Matrices
+Description: The focus of this course is the theory and application of the general linear model expressed in its matrix form. Topics will include: least squares estimation, multiple linear regression, coding for categorical predictors, residual diagnostics, anova decomposition, polynomial regression, model selection techniques, random effects and mixed models, maximum likelihood estimation and distributional theory assuming normal errors. Homework assignments will involve computation using the R statistical package.
+
+Code: BTRY 4090
+Title: Theory of Statistics
+Description: Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include: sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.
+
+Code: BTRY 4110
+Title: Categorical Data
+Description: Categorical data analysis, including logistic regression, log-linear models, stratified tables, matched pairs analysis, polytomous response, and ordinal data. Applications in biological, biomedical and social sciences.
+
+Code: BTRY 4970
+Title: Undergraduate Individual Study in Biometry and Statistics
+Description: Consists of individual tutorial study selected by the faculty. Because topics usually change from year to year, this course may be repeated for credit.
+
+Code: BTRY 4980
+Title: Undergraduate Supervised Teaching
+Description: Students assist in teaching a course appropriate to their previous training. Students meet with a discussion or laboratory section and regularly discuss objectives with the course instructor.
+
+Code: BTRY 4990
+Title: Undergraduate Research
+Description: Permits outstanding undergraduates to carry out independent study of suitable problems under appropriate supervision. Students cannot receive both pay and credit for the same hours of work.
+
+Code: BTRY 5010
+Title: Statistics I
+Description: Students will be able to perform a variety of basic statistical analyses including: t-tests, two-sample t-tests, tests for categorical data, and linear regression.
+
+Code: BTRY 5090
+Title: Theory of Statistics
+Description: Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.
+
+Code: BTRY 6010
+Title: Statistical Methods I
+Description: Develops and uses statistical methods to analyze data arising from a wide variety of applications. Topics include descriptive statistics, point and interval estimation, hypothesis testing, inference for a single population, comparisons between two populations, one- and two-way analysis of variance, comparisons among population means, analysis of categorical data, and correlation and regression analysis. Introduces interactive computing through statistical software. Emphasizes basic principles and criteria for selection of statistical techniques.
+
+Code: BTRY 6970
+Title: Individual Graduate Study in Biometry and Statistics
+Description: Individual tutorial study selected by the faculty. Because topics usually change from year to year, this course may be repeated for credit.
+
+Code: BTRY 7900
+Title: Graduate-Level Dissertation Research
+Description: Research at the Ph.D. level.
+
+Code: BTRY 7980
+Title: Graduate Supervised Teaching
+Description: Students assist in teaching a course appropriate to their previous training. Students meet with a discussion section, prepare course materials, and assist in grading. Credit hours are determined in consultation with the instructor, depending on the level of teaching and the quality of work expected.
+
+Code: BTRY 8900
+Title: Master's Level Thesis Research
+Description: Research at the M.S. level.
+
+Code: BTRY 9900
+Title: Doctoral-Level Dissertation Research
+Description: Thesis research for Ph.D. candidates after "A" exam has been passed.
+

@@ -1,0 +1,108 @@
+Code: COGST 1101
+Title: Introduction to Cognitive Science
+Description: This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.
+
+Code: COGST 1104
+Title: WIM: Introduction to Cognitive Science
+Description: This section is highly recommended for students who are interested in learning about the topics covered in the main course through writing and discussion.
+
+Code: COGST 1105
+Title: Introduction to Linguistics
+Description: Overview of the science of language, especially its theoretical underpinnings, methods, and major findings. Areas covered include: the relation between sound and meaning in human languages, social variation in language, language change over time, universals of language, and the mental representation of linguistic knowledge. Students are introduced to a wide variety of language phenomena, drawn not only from languages resembling English, but also from many that appear to be quite unlike English, such as those native to the Americas, Africa, Asia, Australia, and the South Pacific.
+
+Code: COGST 1111
+Title: Making a Difference by Design
+Description: This course provides a broad overview of design applied various disciplines, scales, and problem contexts, and how design can offer an alternative, and often more human-centered perspective towards solving the problems around us. With a focus on designing with a human-centered mindset in this age of technology, we will examine topics on the role of design in wearable computing, virtual and tangible interfaces, robotics to biology. We will also apply the lens of design to issues on sustainability, healthy environments, diversity and inclusion, and designing for social good. Each week, through case studies and familiar examples, DEA 1110 explores how designing is part of every discipline.
+
+Code: COGST 1500
+Title: Introduction to Environmental Psychology
+Description: Environmental Psychology is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams.
+
+Code: COGST 1501
+Title: Introduction to Environmental Psychology - Writing in the Major
+Description: Human-Environment Relations is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams. Lecture and discussion sections. WIM section attends a regular lecture but also meets weekly with a graduate writing instructor. The two principal objectives of WIM section:
+
+Code: COGST 2200
+Title: The Human Brain and Mind: An Introduction to Cognitive Neuroscience
+Description: At the turn of the 21st century the age of Embodied Cognition dawned: a reconsideration of relationships between body, brain, and mind. Researchers in philosophy, psychology, linguistics, and cognitive neuroscience challenged the 20th-century dogma that the mind is like a digital computer, and can be studied independently of the body, brain, and world. Researchers turned their attention to the role that bodily experience plays in thinking and learning, and the roles neural systems for perception and action play in cognition. This course views the field of Cognitive Neuroscience through the lens of Embodied Cognition research, and evaluates the extent to which "embodiment" may be passing fad, a useful shift in perspective, or a revolutionary new way of building theories about brain and mind.
+
+Code: COGST 2230
+Title: Intro to Behavioral Neuroscience
+Description: Introduction to psychology from a biological perspective, which focuses on brain mechanisms of behavior. Topics include the structure and function of the nervous system, physiological approaches to understanding behavior, hormones and behavior, biological bases of sensation and perception, learning and memory, cognition, emotion, and communication.
+
+Code: COGST 2300
+Title: Cognitive Development
+Description: This course will provide you with an overview of how children's cognition develops. We will investigate how cognition develops from many different perspectives. The main perspectives will be biological, genetic-epistemological, socio-cultural, and information-processing ones. This course also will help you to understand how cognition influences other areas of development, including intelligence, development of the self, language, and social development. Finally, different populations will be considered to better understand the roles not only of nature and nurture, but also of how the two interact to influence development.
+
+Code: COGST 2310
+Title: Introduction to Deductive Logic
+Description: Covers sentential languages, the truth-functional connectives, and their logic; first-order languages, the quantifiers "every" and "some," and their logic.
+
+Code: COGST 2621
+Title: Minds and Machines
+Description: Throughout history, metaphors drawn from technology of the time have been proposed to understand how the mind works. While Locke likened the newborn's mind to a blank slate, Freud compared the mind to hydraulic and electro-magnetic systems. More recently, many have endorsed Turing's proposal that the mind is a computer. Why is this idea attractive and what exactly is a computer? Is it at all plausible that the cells of your brain are computing? Could a computer ever really have a mind, beliefs, emotions and conscious experiences? What are these mysterious things anyway? Could a machine ever count as a person and make choices based on its own free will? Is it really so clear that we have this kind of free will?
+
+Code: COGST 3135
+Title: The Psychology of Good and Evil
+Description: Morality seems to be a universal feature of humananity. People across time, place and culture have a strong sense that certain things are right or wrong, that some people are good and some are evil. Where does this moral sense come from? Why do some people disagree so strongly about what is right and wrong? How did evolution shape this moral sense? How does it develop? Are there any universal aspects of moral psychology? The goals of this course are to offer an introduction to the psychological science behind what humans know as morality.
+
+Code: COGST 3190
+Title: Memory and the Law
+Description: Focuses on how the scientific study of human memory interfaces with the theory and practice of law.
+
+Code: COGST 3240
+Title: Behavioral Neuroscience Laboratory
+Description: This course is designed to provide an introduction to experimental research on the neural basis of behavior and cognition in animals. Topics will include basic neuroanatomy and neurophysiology, neural and hormonal control of behavior, and learning and memory. Students will gain extensive hands on experience with a variety of laboratory techniques, and animal species, and behaviors.
+
+Code: COGST 3300
+Title: Introduction to Computational Neuroscience
+Description: Covers the basic ideas and techniques involved in computational neuroscience. Surveys diverse topics, including neural dynamics of small networks of cells, neural coding, learning in neural networks and in brain structures, memory models of the hippocampus, sensory coding, and others.
+
+Code: COGST 3801
+Title: Introduction to Game Theory and Strategic Thinking
+Description: Some knowledge of game-theory is essential in today's age of complex decision-making, diplomacy, and corporate strategizing. This course is an introduction to the basic principles of game theory and rational choice. The course is designed for students with an interest in economics, political strategy, moral philosophy, and algorithmic reasoning. Important ideas and concepts, with real-life illustrations, will be discussed. Over the semester students will learn the essential ideas of Nash, Schelling and others, different conceptualizations of equilibrium, such as the Nash equilibrium and subgame perfection, and how they apply to different contexts, such as competition among firms, war, and diplomacy. The course will help us understand everyday phenomena, such as addiction, procrastination and moral dilemmas, and show how reasoning can be a critical input for personal happiness. Students will be introduced to some unresolved paradoxes of rational behavior and encouraged to try to solve them on their own.
+
+Code: COGST 4250
+Title: Translational Research on Decision Making
+Description: Introductory laboratory-based course focusing on basic foundations in translational research on decision making across the lifespan. The course introduces students to hands-on applications of research skills in the context of research on decision making, spanning basic and applied research in law, medicine, behavioral economics, and policy. It focuses on such topics as human subjects protection, working with populations across the lifespan (e.g., children, seniors), database development, working with external partners and stakeholders (e.g., schools, hospitals), and basic concepts and techniques in decision research. Students participate in weekly laboratory meetings in small teams focused on specific projects as well as monthly meetings in which all teams participate. During laboratory meetings, students discuss ongoing research, plans for new studies, and interpretations of empirical findings from studies that are in progress or have been recently completed. New students work closely with experienced students and eventually work more independently. In order to fully grasp how the research projects fit into the broader field, students read relevant papers weekly and write reaction responses. Because several projects are ongoing at all times, students have the opportunity to be involved in more than one study and are assigned multiple tasks such as piloting research paradigms, subject recruitment, data collection, data analysis, and data entry. Students attend a weekly lab meeting for 1.5 hours per week, read pertinent papers, write reaction responses, and work 10.5 hours per week in the laboratory completing tasks that contribute to ongoing research studies.
+
+Code: COGST 4265
+Title: Translational Research on Memory and Neuroscience
+Description: Laboratory-based course focusing on basic foundations in translational research on the neuroscience of human memory and memory development. Students attend a weekly lab meeting for 1.5 hours per week, read pertinent papers, write reaction responses, and work 10.5 hours per week in the laboratory completing tasks that contribute to ongoing research studies.
+
+Code: COGST 4270
+Title: Evolution of Language
+Description: Seminar surveying a cross-section of modern theories, methods, and research pertaining to the origin and evolution of language. Considers evidence from psychology, the cognitive neurosciences, theoretical biology, comparative psychology, and computational modeling of evolutionary processes. Topics for discussion may include: What is special about language? What can we learn from comparative perspectives on neurobiology and behavior? Can apes really learn language? Did language come about through natural selection or cultural evolution?
+
+Code: COGST 4331
+Title: Event Cognition: How Minds, Brains and Bodies Experience Events
+Description: People experience and remember complex and dynamic environments as events. This seminar draws on work from cognitive neuroscience to characterize how people shape experience into events, and how these processes support adaptive behavior. The course will start with discussions of historical and modern perspectives about the relationships between minds, bodies, and experience. We will then cover topics ranging from the perception of motion and causality to social learning and interaction. The primary goals are for you to be able to (1) read and evaluate research in psychology, cognitive science, and neuroscience, and (2) describe and understand the implications of this research for how minds and bodies are adapted to everyday situations.
+
+Code: COGST 4420
+Title: The Psychology and Ethics of 21st Century Technology
+Description: New technologies are changing our world at a rapid pace. In many cases, the society does not fully understand the impact of technology and is not prepared for the speed of the change that is occurring. This course will explore a few of these new technologies and investigate their effects on the users and on the society at large. The topics that will be explored include face recognition, virtual reality, violence in media, general AI, and the technological singularity. We will look at the ways in which these technologies affect our lives, with a focus on education, entertainment, employment, politics, and the future of humanity.
+
+Code: COGST 4700
+Title: Undergraduate Research in Cognitive Science
+Description: Experience in planning, conducting, and reporting independent laboratory, field, and/or library research in an interdisciplinary area relevant to Cognitive Science.
+
+Code: COGST 4710
+Title: Cognitive Science Research Workshop
+Description: Provides a research workshop in which undergraduate students who are engaged in research in a particular area relevant to cognitive science can meet across disciplines to learn and practice the essentials of research using interdisciplinary approaches. In this workshop, students critique and discuss the existing literature in a field of inquiry, individual students present their research designs, methods, and results from their independent research studies, debate the interpretation of their research results, and participate in the generation of new research hypotheses and designs, in a peer group of other undergraduate students involved in related research.
+
+Code: COGST 4730
+Title: Topics in the Philosophy of Language
+Description: An investigation of varying topics in the philosophy of language including reference, meaning, the relationship between language and thought, communication, modality, logic and pragmatics.
+
+Code: COGST 6020
+Title: Research in Risk and Rational Decision Making
+Description: This hands-on laboratory course will develop research skills in the context of risk and rational decision making in human development from multiple disciplinary perspectives and with respect to different kinds of decision-making under risk and uncertainty.  Topics will depend on student interests but may include decisions about war, terrorism, cancer control and prevention (e.g., screening tests), personal behaviors that involve risk (e.g., HIV prevention), and other public health risks (e.g., vaccinations), law enforcement (e.g., use of a weapon), and legal decision making (e.g., jury deliberations). Students will read the research literature, discuss the latest empirical findings and scientific theories of risk and rationality, and engage in group work and peer review to hone their skills.  Students will then design research projects and engage in research activities as well as read additional references tailored to their interests.
+
+Code: COGST 6710
+Title: Topics in the Philosophy of Language
+Description: An investigation of varying topics in the philosophy of language including reference, meaning, the relationship between language and thought, communication, modality, logic and pragmatics.
+
+Code: COGST 7710
+Title: Computational Seminar
+Description: Addresses current theoretical and empirical issues in computational linguistics.
+

@@ -1,0 +1,20 @@
+Code: ILRLE 2400
+Title: Economics of Wages and Employment
+Description: Applies the theory and elementary tools of economics to the characteristics and problems of the labor market. Considers both the demand (employer) and supply (employee) sides of the market to gain a deeper understanding of the effects of various government programs and private decisions targeted at the labor market. Topics include employment demand, basic compensation determination, education and training, benefits and the structure of compensation, labor-force participation and its relation to household production, occupational choice, migration, labor-market discrimination, and the effects of unions.
+
+Code: ILRLE 3465
+Title: Bridging the Divide: Labor Market Reforms and Place-Based Policies
+Description: Should policy interventions target inequality between workers or disparities between places? Inequality has risen in most developed countries in recent decades. While top incomes have grown significantly, incomes at the bottom of the distribution have increased much less. In light of these trends, this course examines the role of labor market and place-based policies in reducing inequality, and discusses the trade-offs that arise between reducing inequality and promoting economic activity.
+
+Code: ILRLE 3486
+Title: Field Experiments in Economics and Business
+Description: Field experiments are ubiquitous in both academic economics and the corporate world. They are highly effective tools for both researchers and business leaders to assess the effectiveness of different interventions and are used to test theories, inform policy and enhance business strategies. Modern digital tools have made it increasingly easy to conduct field experiments and collect high-quality data on a large scale. This course will cover the foundational methods of designing and analyzing field experiments, and discuss seminal field experimental work in economics and business. As part of this course, students will conduct their own online field experiment.
+
+Code: ILRLE 7450
+Title: Seminar in Labor Economics I
+Description: Includes reading and discussion of selected topics in labor economics. Stresses applications of economic theory and econometrics to the labor market and human resource areas.
+
+Code: ILRLE 9400
+Title: Workshop in Labor Economics
+Description: Research workshop featuring guests lecturers. Presentations of completed papers and work in progress by faculty members, advanced graduate students, and speakers from other universities. Focuses on the formulation, design, and execution of dissertations.
+

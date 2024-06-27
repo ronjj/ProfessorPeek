@@ -1,0 +1,12 @@
+Code: PERSN 1320
+Title: Elementary Persian-Farsi I
+Description: Intended for beginners and heritage speakers alike, this course is a quick and easy way to a popular worldly language in a modern day context (Farsi)!  Students develop all four skills - speaking, listening, reading, and writing. Additional materials from authentic culture-focused readings and Persian poetry are an integral part of the curriculum. By the end of this course students will be able to actively participate in conversations centered around family and friends, hometown, country, studies and work, daily activities, modern Iran as well as write extensively on familiar topics. Students will acquire cultural competence and be able to function in authentic Persian cultural context using the taarof.
+
+Code: PERSN 1322
+Title: Intermediate Persian-Farsi I
+Description: The course is designed with strong integration of modern colloquial Persian (Farsi). Only colloquial Persian is used for all speaking and listening activities, while reading and writing tasks are performed in formal Persian. Authentic material drawn from Persian language TV, radio and movies is introduced regularly in accordance with the topic and vocabulary of given week.  By the end of the semester students will be able to speak, read and comprehend material on a range of social, cultural, political and everyday topics. You'll learn how to write emails and notes as educated Persian speakers, read Persian newspapers and comprehend audio material intended for native speakers. We'll also delve into Persian folk tales, modern Persian rap and pop and Persian humor.
+
+Code: PERSN 5509
+Title: Graduate Studies in Persian
+Description: Topics vary by semester in relation to student needs.
+

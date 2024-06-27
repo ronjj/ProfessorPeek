@@ -1,0 +1,4 @@
+Code: TOX 7010
+Title: Mouse and Stem Cell Pathology
+Description: Introduction to principles and methods of pathology. Pathology role in stem cell research, regenerative medicine and cancer biology. Systematic evaluation of mouse models, with a particular attention to such topics as experimental design, model validation, identification of novel phenotypes, histotechnology and mouse necropsy.
+

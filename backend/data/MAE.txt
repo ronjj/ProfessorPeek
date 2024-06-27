@@ -1,0 +1,252 @@
+Code: MAE 1170
+Title: Introduction to Mechanical Engineering
+Description: Introduction to fundamentals of mechanical and aerospace engineering. Students learn and understand topics such as stress and strain, fluid mechanics, heat transfer, automotive engineering, and engineering design and product development. Emphasis is placed on critically examining problem solutions to begin developing engineering intuition. Key components of the class include in-class discussions, homework, laboratory experiments, and a group design project.
+
+Code: MAE 1900
+Title: First-Year Independent Study in Mechanical Engineering
+Description: Individual research studies for students who want to pursue a particular analytical, computational, or experimental investigation outside of regular courses or for informal instruction supplementing that given in regular courses. An engineering report on the project is required of each student. Students must first make individual arrangements with a faculty sponsor and then submit an enrollment form, available online at https://www.mae.cornell.edu/mae/programs/undergraduate-programs/undergraduate-forms. Once approved, students will receive an enrollment pin to enroll in MAE 1900. Students are expected to spend 3-4 hours per week per credit hour working on the project. May not be used as a technical elective in the ME major.
+
+Code: MAE 2020
+Title: Statics and Mechanics of Solids
+Description: This course presents the methods for analyzing deformable structures in equilibrium. It is fundamental to mechanical analysis and design and is the basis for many advanced courses and professions in mechanical, civil, materials, biomedical and biological engineering.
+
+Code: MAE 2210
+Title: Thermodynamics
+Description: Presents the definitions, concepts, and laws of thermodynamics. Topics include the first and second laws, thermodynamic property relationships, and applications to vapor and gas power systems, refrigeration, and heat pump systems. Examples and problems are related to contemporary aspects of energy and power generation and to broader environmental issues.
+
+Code: MAE 3050
+Title: Introduction to Aeronautics
+Description: This course is an overview of the engineering science relevant to the design of aircraft. It is a course in applied aerodynamics, designed to develop the engineering background required to understand the principal aerodynamic constraints involved in the design of heavier-than-air, atmospheric flight vehicles. Basic concepts in fluid mechanics and aerodynamics are reviewed and described in the context of their relevance to the performance of aircraft and to the stability and controllability of flight vehicles. The fluid mechanical theory for lift and drag forces is developed, the characteristics of aircraft propulsive systems are explored, and the two are brought together to investigate the performance of typical aircraft.
+
+Code: MAE 3120
+Title: Mechanical Properties of Materials, Processing, and Design
+Description: Relationship between microscopic mechanisms and macroscopic mechanical behavior of engineering materials, how mechanical properties can be modified, and criteria for selection and use of materials in design. Stress, strain and elastic constants as tensor quantities, viscoelasticity and damping, plastic deformation, creep deformation, fracture, and fatigue.
+
+Code: MAE 3230
+Title: Introductory Fluid Mechanics
+Description: Topics include physical properties of fluids, hydrostatics, conservation laws using control volume analysis and using differential analysis, Bernoulli's equation, potential flows, simple viscous flows (solved with Navier-Stokes equations), dimensional analysis, pipe flows, boundary layers. Introduction to compressible flow.
+
+Code: MAE 3260
+Title: System Dynamics
+Description: Dynamic behavior of mechanical systems: modeling, analysis techniques, and applications; vibrations of single- and multidegree- of-freedom systems; feedback control systems. Computer simulation and experimental studies of vibration and control systems.
+
+Code: MAE 3270
+Title: Mechanics of Engineering Materials
+Description: This course will offer students opportunities to perform preliminary design and analysis of structures and mechanical components and to select materials to meet design objectives and constraints.  To do so, students will extend their knowledge of and ability to apply solid and structural mechanics topics including general states of stress and strain, elasticity, coordinate transformations, energy methods, effects of combined loading and mechanical testing.  The use of multipe failure criteria including yielding, brittle failure, fatigue and fracture as part of design calculations to meet stiffness, strength and other performace criteria is emphasized.  Students are introduced to the structure, processing and mechanical properties of metals, polymers, ceramics and composites.  A formal approach to mateirals selection is introduced and applied.
+
+Code: MAE 3870
+Title: Fundamentals of Electric-Drive Vehicle Engineering
+Description: The course covers the engineering fundamentals and basic design of electric-drive vehicles by analyzing the relevant physics and applying the relevant equations and simple models.  The course reviews transportation electrification history, electric vehicle architecture, powertrain components and their modeling and control.
+
+Code: MAE 4060
+Title: Introduction to Spaceflight Mechanics
+Description: Introduction to spacecraft orbit mechanics, attitude dynamics, and the design and implementation of spaceflight maneuvers for satellites, probes, and rockets. Topics in celestial mechanics include orbital elements, types & uses of orbits, coordinate systems, Kepler's equation, the restricted three-body problem, interplanetary trajectories, the rocket equation and staging, Clohessy-Wiltshire equations and relative formation flight, drag and orbital decay, and propulsive maneuvers. Topics in attitude dynamics include kinematics, Euler's equations, stability of spinning spacecraft, attitude perturbations such as gravity-gradient and magnetic torques, equations of motion of rigid spacecraft with momentum actuators and thrusters, attitude maneuvers such as nutation control and reorientation, low-speed fluid behaviors, and elementary feedback control of linearized attitude and orbit dynamics. Principles of spacecraft propulsion technology and attitude-control technology are introduced along with the rocket equation and staging. The course includes discussions of current problems and trends in spacecraft operation and development.
+
+Code: MAE 4240
+Title: Materials Processing and Manufacturing
+Description: How a material is made into its final form has great importance to its structure and therefore to its properties and performance. This course is aimed at giving students an understanding of the state-of-the-art material processing and manufacturing technologies as well as how these processes influence materials' microstructure and properties. With a unified approach this course will introduce the fundamentals of materials processing applied to metals, ceramics, and polymers. Different material processing routes from melt-based and powder-based processes to shape forming, joining, surface engineering and additive manufacturing will be discussed. Emphasis will be placed on the physics of the process as well as on how the processes will influence the properties of emerging materials and applications.
+
+Code: MAE 4272
+Title: Fluids and Heat Transfer Laboratory
+Description: Laboratory exercises in fluid mechanics and the thermal sciences. Measurements of flame temperature, pressure, heat transfer, viscosity, lift and drag, fluid-flow rate, effects of turbulence, airfoil stall, flow visualization, and spark ignition engine performance. Instrumentation, techniques and analysis, and interpretation of results. Biweekly written assignments with extensive feedback.
+
+Code: MAE 4291
+Title: Supervised Senior Design Experience
+Description: Substantial design experience based on the knowledge and skills acquired in earlier course work and incorporating engineering standards and realistic constraints. Sections of this course satisfy the BS ME senior design requirement. Sections are directed by a faculty member as an individual or a team design exercise. Students must first make individual arrangements with a faculty sponsor and then submit an enrollment form, available online at https://www.mae.cornell.edu/mae/programs/undergraduate-programs/undergraduate-forms. Once approved, students will receive an enrollment pin to enroll in MAE 4291.
+
+Code: MAE 4300
+Title: Engineers and Society
+Description: This course aims to give students a broad grasp of the roles and responsibilities of engineers in contributing to societal well-being by integrating perspectives from sociocultural and humanistic studies with science and technology. The course will explore how the process of applying engineering principles can impact society, including environmental sustainability, diversity and equity, and ethics. Students will be familiarized with concepts related to engineering standards and regulations, sustainable development goals, sustainability reporting, community engagement, and the ethics and the governance of artificial intelligence. These concepts will then be used to explore the larger context of how social factors interact with engineering science and technology.
+
+Code: MAE 4320
+Title: Integrated Micro Sensors and Actuators: Bridging the Physical and Digital Worlds
+Description: Introduction to micro and nano devices that allow the digital world to both sense and actuate in the physical world. Design and analysis of modern MEMS/NEMS (Micro/Nano Electromechanical Systems) touch, accelerometers, gyroscopes, pressure, microphones, neural probe sensors. Design and analysis of electrostatic, piezoelectric, thermal, and magnetic actuators for frequency control and micro robotic applications. This is an interdisciplinary course drawing from mechanics, materials, solid state devices, CMOS electronics, and micro and nano fabrication. The students design, fabricate, and test a microsensor chip to implement class concepts.
+
+Code: MAE 4341
+Title: Innovative Product Design via Digital Manufacturing
+Description: This hands-on/project-based course instructs students on methods to identify product concepts for machine designs with commercial potential. It combines lectures and field/lab activities on the new product development cycle: iterative design based on ethnographic fieldwork, team brainstorming, prototyping, testing/consumer feedback, and limitations set by mass manufacturing. Students –coming from diverse backgrounds and industry experience, and some currently working in different companies -will be teamed together to develop the new products.They will be given a common design challenge, and after observingand engagingwith real users, they will identify specific needs; then based on those needs each team will end up with a different problem definition and a different product. Industry advisersfrom real world companies will provide constant feedback throughout the semester.
+
+Code: MAE 4351
+Title: Interdisciplinary Design Concepts
+Description: This course emphasizes entrepreneurial driven technology designs (forward engineering) by integrating mechanical, chemical, and materials engineering through the understanding of early stage product development complexities. These complexities include staging invention and innovation via the critical selection of materials, assessing product mechanics and processes for final product function, performance, reliability, cost and technical marketability. Students will attend lectures, participate in establishing a Tech Startup integrated into the Johnson School MBA mentoring program, attend startup design reviews, give a series of individual/group presentations, and write a startup issue paper.
+
+Code: MAE 4480
+Title: Biomechanics Laboratory
+Description: This course focuses on mastering experimental techniques related to measuring the mechanical behavior of biomedical materials and biological tissues. Students will learn techniques for measuring mechanical properties of cardiovascular and musculoskeletal tissues in tension, compression, shear, and bending. Students will learn to apply non-linear models to describe the behavior of elastic, viscoelastic, poroelastic, and hyperelastic materials.
+
+Code: MAE 4540
+Title: Propulsion of Spacecraft
+Description: This course provides the contextual and physical framework to understand and design space propulsion devices for orbiting spacecraft and satellite systems. An introduction to the basic principles of propulsion and performance metrics in the context of space missions are presented. Key physics underlying the operation of propulsion devices are covered. Specifically, the design and performance of ion engines, Hall thrusters, electrospray thrusters, and emerging propulsion concepts are covered.
+
+Code: MAE 4650
+Title: Biofluid Mechanics
+Description: For description and learning outcomes, see MAE 4650.
+
+Code: MAE 4660
+Title: Biomedical Engineering Analysis of Metabolic and Structural Systems
+Description: This course focuses on applying techniques of engineering analysis to quantify function and dysfunction of human physiologic systems. Thematic areas include the cardiovascular, respiratory, musculoskeletal, and renal systems. Emphasis will be placed on developing mathematical models to understand function and dysfunction across tissue scales, and implementing these with experimental data to make biomedical engineering judgments.
+
+Code: MAE 4700
+Title: Finite Element Analysis for Mechanical and Aerospace Design
+Description: Introduction to linear finite element static analysis for discrete and distributed mechanical and aerospace structures. Prediction of load, deflection, stress, strain, and temperature distributions. Major emphasis on underlying mechanics and mathematical formulation. Introduction to computational aspects via educational and commercial software (such as MATLAB and ANSYS). Selected mechanical and aerospace applications in the areas of trusses, beams, frames, heat transfer, and elasticity. A selection of advanced topics such as dynamic modal analysis, transient heat transfer, or design optimization techniques may also be covered, time permitting.
+
+Code: MAE 4730
+Title: Intermediate Dynamics
+Description: The course emphasizes the classical dynamics of single- and multi-degree-of-freedom systems made up of particles, rigid-objects in 2 and 3 special dimensions. Three approaches are used: the Newton-Euler and Lagrangian approach, both using minimal coordinates, and also a 'maximal coordinate' approach using differential algebraic equations (DAEs). The course emphasizes finding equations of motion, solving them analytically (if possible) and numerically; and graphical presentation of solutions, including animations.
+
+Code: MAE 4760
+Title: Foundations of Robotics
+Description: Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester.
+
+Code: MAE 4810
+Title: Robot Perception
+Description: An introductory course to robot perception techniques for modeling and planning heterogeneous and dynamic sensor measurements, and for processing the sensor feedback in the context of robot motions and environments. Methods for intelligent sensor fusion and robot perception in motion will be covered in detail in this course. Topics in artificial vision, acoustic propagation, and filtering will be discussed along with related algorithms inspired by neural networks, Bayesian networks, and information theory. Sensing problems and performance will be investigated in regard to benchmark problems, such as coverage, target search, target tracking, and treasure hunting, will be covered in-depth and demonstrated through applications drawn from environmental monitoring, sensing-and-pursuit games, surveillance, and human-robot interactions.
+
+Code: MAE 4900
+Title: Individual and Group Projects in Mechanical Engineering
+Description: Individual or group study or project for students who want to pursue a particular analytical, computational, or experimental investigation outside of regular courses or for informal instruction supplementing that given in regular courses. An engineering report on the project is required of each student. Students are expected to spend 3-4 hours per week per credit hour working on the project. Students must first make individual arrangements with a faculty sponsor and then submit an enrollment form, available online at https://www.mae.cornell.edu/mae/programs/undergraduate-programs/undergraduate-forms. Once approved, students will receive an enrollment pin to enroll in MAE 4900.
+
+Code: MAE 4980
+Title: Teaching Experience in Mechanical Engineering
+Description: Students serve as teaching assistants in Cornell Mechanical Engineering classes or in local middle school technology classes.
+
+Code: MAE 5065
+Title: Introduction to Spaceflight Mechanics
+Description: Introduction to spacecraft orbit mechanics, attitude dynamics, and the design and implementation of spaceflight maneuvers for satellites, probes, and rockets. Topics in celestial mechanics include orbital elements, types & uses of orbits, coordinate systems, Kepler's equation, the restricted three-body problem, interplanetary trajectories, the rocket equation and staging, Clohessy-Wiltshire equations and relative formation flight, drag and orbital decay, and propulsive maneuvers. Topics in attitude dynamics include kinematics, Euler's equations, stability of spinning spacecraft, attitude perturbations such as gravity-gradient and magnetic torques, equations of motion of rigid spacecraft with momentum actuators and thrusters, attitude maneuvers such as nutation control and reorientation, low-speed fluid behaviors, and elementary feedback control of linearized attitude and orbit dynamics. Principles of spacecraft propulsion technology and attitude-control technology are introduced along with the rocket equation and staging. The course includes discussions of current problems and trends in spacecraft operation and development.
+
+Code: MAE 5250
+Title: Computer-Aided Manufacture
+Description: Covers the fundamentals of computer-aided manufacture (CAM) and computer numerical control (CNC) programming. The course is a hands-on series on CAM and provides practical applications for the use of Gcode and solid modeling software, CNC mill and/or lathe setup, tool selection, and operation. May not be used to fulfill any ME requirement.
+
+Code: MAE 5270
+Title: Design Failure Modes and Effects Analysis (DFMEA)
+Description: In industry, engineers are often tasked with the mitigation of technical and functional risks associated with the development and launch of new products. A Design Failure Modes and Effects Analysis (DFMEA) is a controlled process by which a product concept, a customer specification, and other system functional requirements are transformed into a fully validated (robust) product design whose product risks can be recorded, minimized, and communicated to the greater organization prior to product launch. This course will explore the realization of validated designs through the utilization of the DFMEA process.
+
+Code: MAE 5280
+Title: Adaptive and Learning Systems
+Description: This course focuses on the design and development of self-awareness and learning models to understand and predict the dynamic behavior of systems. In particular considerable emphasis will be placed on the development of critical thinking skills in the analysis of time-varying systems in response to system data. Students will be provided prototype computer code to help them build realistic models from first principles in MATLAB/SIMULINK without commercial software packages. The goal is for students to leave the course with the independent ability to utilize learning systems to analyze and predict behavior of systems without the aid of any tailored commercial software package.
+
+Code: MAE 5310
+Title: Advanced Thermodynamics of Multiphase Systems
+Description: This course will provide a more advanced treatment of classical thermodynamics than is typically found in a first course on the subject. The emphasis will be on phase transitions of fluid systems. Topics include the following: stability of superheated liquids and supersaturated gases; second law limits of allowable fluid states; energetics and kinetics of nano-scale bubble formation in the bulk of a liquid and at a solid surface; transport equations for melting, solidification, bubble growth and droplet burning. Applications will include industrial considerations related to rapid evaporation relevant to vapor explosions, burning of fuel droplets, ink-jet printing, liquid natural gas spills, and nuclear reactor safety. Transport of two-phase flows will be summarized from a simplified perspective.
+
+Code: MAE 5340
+Title: Innovative Product Design via Digital Manufacturing
+Description: This hands-on/project-based course instructs students on methods to identify product concepts for machine designs with commercial potential. It combines lectures and field/lab activities on the new product development cycle: iterative design based on ethnographic fieldwork, team brainstorming, prototyping, testing/consumer feedback, and limitations set by mass manufacturing. Students –coming from diverse backgrounds and industry experience, and some currently working in different companies -will be teamed together to develop the new products. They will be given a common design challenge, and after observing and engaging with real users, they will identify specific needs; then based on those needs each team will end up with a different problem definition and a different product. Industry advisers from real world companies will provide constant feedback throughout the semester.
+
+Code: MAE 5430
+Title: Combustion Processes
+Description: Combustion is an interdisciplinary field that combines chemistry, fluid mechanics, thermodynamics and heat transfer. This course is an introduction to combustion science, beginning with a review of thermodynamics, its application to combustion system analysis, and concepts of chemical kinetics.  We will then discuss the nonequilibrium diffusive transport of heat, mass and momentum and introduce the general conservation equations for chemically reacting flows. The transport laws and governing equations are then applied to several flame configurations. Finally, the basic structure of premixed and non-premixed flames are analyzed, and practical applications of these principles in transportation, propulsion, power generation, and industrial processes are discussed.
+
+Code: MAE 5459
+Title: Energy Seminar I
+Description: Energy Seminars will explore energy-related topics of emerging, contemporary and historical interest. An abbreviated list of subjects explored in the seminars includes: global energy resources, energy generation technologies (present and future), energy storage options, environmental impacts and climate change mitigation, energy policy, and energy delivery economics and systems. Seminar speakers will be distinguished practicing engineers and executives from industry and government as well as faculty members from several departments at Cornell, and other academic institutions. Students from any department in Engineering or the Physical Sciences should find these talks informative.
+
+Code: MAE 5540
+Title: Propulsion of Spacecraft
+Description: This course provides the contextual and physical framework to understand and design space propulsion devices for orbiting spacecraft and satellite systems. An introduction to the basic principles of propulsion and performance metrics in the context of space missions are presented. Key physics underlying the operation of propulsion devices are covered. Specifically, the design and performance of ion engines, Hall thrusters, electrospray thrusters, and emerging propulsion concepts are covered.
+
+Code: MAE 5650
+Title: Biofluid Mechanics
+Description: For description and learning outcomes, see MAE 5650.
+
+Code: MAE 5700
+Title: Finite Element Analysis for Mechanical and Aerospace Design
+Description: Introduction to linear finite element static analysis for discrete and distributed mechanical and aerospace structures. Prediction of load, deflection, stress, strain, and temperature distributions. Major emphasis on underlying mechanics and mathematical formulation. Introduction to computational aspects via educational and commercial software (such as MATLAB and ANSYS). Selected mechanical and aerospace applications in the areas of trusses, beams, frames, heat transfer and elasticity. A selection of advanced topics such as dynamic modal analysis, transient heat transfer, or design optimization techniques may also be covered, time permitting.
+
+Code: MAE 5730
+Title: Intermediate Dynamics
+Description: The course emphasizes the classical dynamics of single- and multi-degree-of-freedom systems made up of particles, rigid-objects in 2 and 3 spatial dimensions. Three approaches are used: the Newton-Euler and Lagrangian approach, both using minimal coordinates, and also a 'maximal coordinate' approach using differential algebraic equations (DAEs). The course emphasizes finding equations of motion, solving them analytically (if possible) and numerically; and graphical presentation of solutions, including animations.
+
+Code: MAE 5790
+Title: Nonlinear Dynamics and Chaos
+Description: Introduction to nonlinear dynamics, with applications to physics, engineering, biology, and chemistry. Emphasizes analytical methods, concrete examples, and geometric thinking. Topics include one-dimensional systems; bifurcations; phase plane; nonlinear oscillators; and Lorenz equations, chaos, strange attractors, fractals, iterated mappings, period doubling, renormalization.
+
+Code: MAE 5810
+Title: Robot Perception
+Description: An introductory course to robot perception techniques for modeling and planning heterogeneous and dynamic sensor measurements, and for processing the sensor feedback in the context of robot motions and environments. Methods for intelligent sensor fusion and robot perception in motion will be covered in detail in this course. Topics in artificial vision, acoustic propagation, and filtering will be discussed along with related algorithms inspired by neural networks, Bayesian networks, and information theory. Sensing problems and performance will be investigated in regard to benchmark problems, such as coverage, target search, target tracking, and treasure hunting, will be covered in-depth and demonstrated through applications drawn from environmental monitoring, sensing-and-pursuit games, surveillance, and human-robot interactions.
+
+Code: MAE 5830
+Title: Astronautic Optimization
+Description: This course provides a brief review of several topics in sufficient detail to amplify student success: estimation, allocation, and control; classical feedback; sensor noise; and Monte Carlo analysis. The review leads to application of the methods of Pontryagin applied to examples including single-gimballed rocket engines, guidance, and control problems including least squares estimation, and the famous Brachistochrone problem as a motivating example illustrating the minimum time solution is not necessarily the minimum path-length solution, particularly in a gravity field. After taking this course, students will be able to apply their expertise to actual systems in advanced courses or in laboratory settings leveraging analytic (non-numerical) nonlinear programming and real-time optimal control. Graduates will understand the application of constrained (smooth constrained, box constrained, with brief introduction to inequality constrained) and unconstrained optimization; linear-quadratic programming; and Bellman's principle of optimality.
+
+Code: MAE 5910
+Title: Model Based Systems Engineering
+Description: Fundamental ideas of systems engineering, and their application to design and development of various types of engineered systems. Defining system requirements, creating effective project teams, mathematical tools for system analysis and control, testing and evaluation, economic considerations, and the system life cycle. Content utilizes model-based systems engineering, which is the integration of systems modeling tools, such as SysML, with tools for systems analysis, such as Matlab and Modelica. The vision for this integration is the ability to create and analyze complete parametric representations of complex products and systems. These systems make it possible to investigate the impact of changing one aspect of a design on all other aspects of design and performance. This course will familiarize students with these modeling languages. Off-campus students must provide their own Windows 7, internet-connected, computer with administrator access in order to install the commercial software used in this course.
+
+Code: MAE 5930
+Title: Systems Engineering and Six Sigma for the Design and Operation of Reliable Systems
+Description: Develops skills in the design, operation and control of systems for reliable performance. Focuses on four key themes; risk analysis (with a particular emphasis on risk assessment and risk characterization), modeling system reliability (including the development of statistical models based on accelerated life testing), quality control techniques and the optimization of system design for reliability. Six Sigma Green or Blackbelt can be earned through activities associated with course. Students in distance-learning programs enroll in SYSEN 5100.
+
+Code: MAE 5940
+Title: Professional Development for Master of Engineering in MAE
+Description: Covers tools needed to build skills for career development and the job search. Also covers a process to organize, complete and present the Master of Engineering Project.
+
+Code: MAE 6010
+Title: Foundations of Fluid Mechanics I
+Description: Foundations of fluid mechanics from an advanced viewpoint, including formulation of continuum fluid dynamics; kinematic descriptions of fluid flow, derivation of the Navier-Stokes equations and energy equation for compressible fluids; and sound waves, viscous flows, boundary layers, and potential flows.
+
+Code: MAE 6060
+Title: Spacecraft Attitude Dynamics, Estimation, and Control
+Description: The focus is on spacecraft attitude dynamics and its application in core space-systems areas: mission design, operations, and autonomy. Also introduces the problem of attitude estimation and treats aspects of guidance, navigation, and control unique to the context of space mission design. Readings and lectures include examples based on flight data.
+
+Code: MAE 6110
+Title: Foundations of Solid Mechanics I
+Description: An in-depth introduction to the fundamentals of kinematics of deformation, traction and stress, and balance of momentum. Constitutive theory for linear and nonlinear elastic bodies, including isotropic and orthotropic behaviors, restrictions from symmetry and strain energy, and length scale limitations stemming from a material's physical structure. Boundary conditions, requirements for well-posed problems, and uniqueness. Basic theorems and principles for elastostatics, with emphasis on virtual work, upper and lower bounds, and superposition.
+
+Code: MAE 6130
+Title: Foundations and Frontiers of Engineered Living Materials
+Description: This course will provide foundational knowledge to work in the interdisciplinary field of engineered living materials.  Topics will include structure-funtion relationships in different organisms; culturing techniques; genetic engineering and sequencing techniques; mechanical, electrochemical, and optical characterization methods; and biological system modeling.
+
+Code: MAE 6280
+Title: Adaptive and Learning Systems
+Description: This course focuses on the design and development of self-awareness and learning models to understand and predict the dynamic behavior of systems. In particular considerable emphasis will be placed on the development of critical thinking skills in the analysis of time-varying systems in response to system data. Students will be provided prototype computer code to help them build realistic models from first principles in MATLAB/SIMULINK without commercial software packages. The goal is for students to leave the course with the independent ability to utilize learning systems to analyze and predict behavior of systems without the aid of any tailored commercial software package.
+
+Code: MAE 6450
+Title: Advanced Topics in Metal Additive Manufacturing
+Description: Additive Manufacturing (AM) is a rapid manufacturing technology capable of producing highly complex parts directly from a computer file. In this course, we provide a detailed overview of different AM processes. The fundamentals of each technology in terms of the process principals (e.g. whether it involves photopolymer curing, sintering, melting, high velocity impact, etc.), different design considerations, common defects and post processing steps will be covered. The second part of the course will focus on melt-based AM. Fundamentals of solidification and microstructure-property relationships in major classes of metallic materials including aluminum alloys, steels, titanium and nickel-based super alloys will be discussed.
+
+Code: MAE 6670
+Title: Soft Tissue Biomechanics II: Viscoelasticity and Phasic Theory
+Description: Application of mechanics and materials principles to orthopaedic soft tissues. Mechanical properties of cartilage, tendon, and ligaments; applied viscoelasticity theory for cartilage, tendon, and ligament; cartilage, tendon, and ligament biology; tendon and ligament wound healing; osteoarthritis.
+
+Code: MAE 6720
+Title: Advanced Astrodynamics
+Description: A graduate level course in astrodynamics and trajectory design. Course topics include a brief review of the two body problem, impulsive transfers, and perturbations; orbit determination and one-way ranging; algebraic and symplectic mappings and surfaces of section; the circular and elliptical 3-body problem, invariant manifolds and 3-body orbit design; secular and resonant perturbations; finite and continuous thrust modeling and transfer design. The course will emphasize numerical methods and building deep understanding of modern approaches to orbital design problems. Familiarity with basic orbital mechanics (at the level of MAE 4060 or equivalent) and numerical integration of dynamical systems will be assumed.
+
+Code: MAE 6770
+Title: Formal Methods for Robotics
+Description: How can we guarantee robots will never cause harm? How can we prove that complicated mechanical systems, controlled by computers and programmed by people, will always behave as expected under changing conditions and in a variety of uncertain environments? How do we formalize what such behaviors are? Guaranteeing safety, predictability and reliability of robots is crucial for the assimilation of such systems into society, be it at home or in the workplace. While every robotics researcher working with or on a robot is aware of safety issues, only recently the robotics community has begun looking at ways to either formally prove or grarantee by design different behavioral properties such as safety and correctness. This class will present recent results on the topic of formal methods for robotics and automation that combine and extend ideas from control theory, dynamical systems, automata theory, logic, model checking, synthesis, and hybrid systems.
+
+Code: MAE 6800
+Title: Design and Control of Haptic Systems
+Description: Study of the design and control of haptic systems, which provide touch feedback to human users interacting with virtual environments and teleoperated robots. Focus is on device modeling (kinematics and dynamics), synthesis and analysis of control systems, design and implementation, and human interaction with haptic systems. Coursework includes homework/laboratory assignments, a research paper presentation, and a hands-on project. Directed toward graduate students in engineering and computer science. Prerequisites: dynamic systems, feedback controls, and MATLAB programming.
+
+Code: MAE 6830
+Title: Astronautic Optimization
+Description: This course provides a brief review of several topics in sufficient detail to amplify student success: estimation, allocation, and control, classical feedback, sensor noise, and Monte Carlo analysis. The review leads to application of the methods of Pontryagin applied to examples including single-gimballed rocket engines, guidance, and control problems including least squares estimation, and the famous Brachistochrone problem as a motivating example illustrating the minimum time solution is not necessarily the minimum path-length solution, particularly in a gravity field. After taking this course, students will be able to apply their expertise to actual systems in advanced courses or in laboratory settings leveraging analytic (non-numerical) nonlinear programming and real-time optimal control. Graduates will understand the application of constrained (smooth constrained, box constrained, with brief introduction to inequality constrained) and unconstrained optimization; linear-quadratic programming; and Bellman's principle of optimality.
+
+Code: MAE 6900
+Title: Special Investigations in Mechanical and Aerospace Engineering
+Description: The Master of Engineering Project adds real world, applied experience to an MEng Program. Projects are the centerpiece of the program, leveraging new and learned subject matter to highlight engineering skills in ways that mirror employment after school. Projects are done in a focus area, under an advisor's direction, usually a faculty member, but also corporate partners. Projects are applied, utilizing engineering tools to complete a a design, an apparatus, a process, or an analysis.
+
+Code: MAE 6910
+Title: M.Eng. Independent Study
+Description: This course is designed to allow students to pursue individual learning or topics not covered by existing curriculum that relate to a focus area. Students are required to have a faculty advisor or supervisor for the course. Each course is individualized based on a plan of study negotiated between the student and faculty. Students work independently, and faculty provide guidance and supervision. An independent study must be approved by the Master of Engineering Director. A maximum of four credits will the allowed.
+
+Code: MAE 6949
+Title: Seminar for M.S. and First-Year MAE Ph.D. Students
+Description: Mandatory course for all M.S. and first-year Ph.D. students in the Sibley School of Mechanical and Aerospace Engineering. An ongoing orientation and mentoring seminar for M.S. and first-year Ph.D. students that includes research presentations by faculty and students as well as discussions and assignments on such topics as academic ethics, writing technical papers, and publishing.
+
+Code: MAE 6998
+Title: Graduate Research Internship for International Students
+Description: Off-campus internship in which graduate students gain experience in mechanical and/or aerospace engineering.
+
+Code: MAE 7999
+Title: Mechanical and Aerospace Engineering Colloquium
+Description: MAE 7999 is a weekly seminar series featuring invited speakers both internal and external. Topics range the areas in Mechanical and Aerospace Engineering. The purpose of MAE 7999 is twofold: (a) to expose students to current research activities, challenges, and opportunities on the frontiers of Mechanical and Aerospace engineering, and (b) to improve student presentation skills by attending and critiquing presentations.
+
+Code: MAE 8900
+Title: Research in Mechanical and Aerospace Engineering
+Description: Independent research in an area of mechanical and aerospace engineering under the guidance of a member of the faculty.
+

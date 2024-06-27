@@ -1,0 +1,72 @@
+Code: MEDVL 1101
+Title: FWS: Aspects of Medieval Culture
+Description: Topics and reading lists vary from section to section, but all will in some way address the subject of medieval culture. Consult the John S. Knight Institute Current Courses webpage to access current year offerings, instructors and section descriptions.
+
+Code: MEDVL 2083
+Title: A Land to Call Our Own: De-Colonizing Medieval Europe
+Description: Colonial projects have a bad reputation; no one in their right mind would choose to identify as a colonizer, much less a colonialist. This was not always the case. In the 1800s, colonialism was the height of civilized accomplishment; everyone wanted in on it. In this course, we shift our gaze farther back in time to examine the thoughts and practices of people in medieval Europe. We delve into questions of function and type (is there a difference between colonization and colonialism?), of perspective and bias (does it matter how recent a colony is?), of social, cultural, regional, and temporal variation. By highlighting the non-self-evidence of truths we hold, the medieval past can help us appreciate why we cherish them nonetheless – or prompt us to re-evaluate them.
+
+Code: MEDVL 2170
+Title: Early Modern Iberian Survey
+Description: This course explores major texts and themes of the Hispanic tradition from the 11th to the 17th centuries. We will examine general questions on literary analysis and the relationship between literature and history around certain events, such as medieval multicultural Iberia, the creation of the Spanish Inquisition in the 15th century and the expulsion of the Jews in 1492; the encounter between the Old and the New Worlds; the 'opposition' of high and low in popular culture, and of the secular and the sacred in poetry and prose. Readings may be drawn from medieval short stories and miracle collections; chivalric romances, Columbus, Lazarillo de Tormes, Cervantes, Lope de Vega, Calderón, and Sor Juana Inés de la Cruz, among others.
+
+Code: MEDVL 2627
+Title: Introduction to Islam
+Description: This course is an introduction to the study of Islam and Islamic history. Organised historically, the lecture series will begin with the career of the Prophet Muhammad, before charting the course of the Islamic Conquests, the establishment, zenith and collapse of various Islamic Empires, ending with European colonialism. Along the way, this geopolitical and historical overview will provide a backdrop to our exploration of changes and developments in Islamic thought and practice. In particular, we will focus on the emergence of the Sunni-Shi'i conflict, the rise of Sufism and Salafism, as well as how scholars across time and space thought and wrote about questions of ideal Islamic governance, the religious authority of the caliph, women's role in society and public space, slavery, the ethics of living under non-Muslim rule and the place of non-Muslims in Islamic society.
+
+Code: MEDVL 3080
+Title: Icelandic Family Sagas
+Description: An introduction to Old Norse-Icelandic mythology and the Icelandic family saga-the "native" heroic literary genre of Icelandic tradition. Texts will vary but will normally include the Prose Edda, the Poetic Edda, Hrafnkels Saga, Njals Saga, Laxdaela Saga, and Grettirs Saga. All readings will be in translation.
+
+Code: MEDVL 3110
+Title: Old English
+Description: In this course, we will read and discuss some of the earliest surviving English poetry and prose. Attention will be paid to (1) learning to read the language in which this literature is written, (2) evaluating the poetry as poetry: its form, structure, style, and varieties of meaning, and (3) seeing what can be learned about the culture of Anglo-Saxon England and about the early Germanic world in general, from an examination of the Old English literary records. We will begin by reading some easy prose and will go on to consider some more challenging heroic, elegiac, and devotional poetry, including an excerpt from the masterpiece Beowulf. The course may also be used as preparation for the sequence ENGL 3120/ENGL 6120.
+
+Code: MEDVL 3315
+Title: Old Norse I
+Description: Old Norse is a collective term for the earliest North Germanic literary languages: Old Icelandic, Old Norwegian, Old Danish, and Old Swedish. The richly documented Old Icelandic is the center of attention, and the purpose is twofold: the students gain knowledge of an ancient North Germanic language, important from a linguistic point of view, and gain access to the medieval Icelandic (and Scandinavian) literature. The structure of Old Norse (Old Icelandic), phonology, and morphology, with reading of selections from the Prose-Edda, a 13th-century narrative based on the Eddaic poetry.
+
+Code: MEDVL 3539
+Title: Islamic Spain: Culture and Society
+Description: This course examines the culture and society of al-Andalus (Islamic Spain) from 711, when Islam arrived in Iberia, until 1492 and the demise of Nasrid Granada. Through extensive discussion and analysis of Arabic, Latin, and Hebrew primary documents and literary texts of various genres (in translation), the course challenges ideological bases of conventional thinking regarding the social, political, and cultural identity of medieval "Spain." Among other things, the class investigates the origins of lyric poetry, the relationships among the various confessional and ethnic communities in al-Andalus and the problems involved in Mozarabic Christian and Andalusi Jewish subcultural adaptations of Andalusi Arabo-Islamic culture.
+
+Code: MEDVL 3750
+Title: Introduction to Dendrochronology
+Description: Introduction and training in dendrochronology (tree-ring dating) and its applications in archaeology, art history, climate and environment through lab work and participation in ongoing research projects using ancient to modern wood samples from around the world. Supervised reading and laboratory/project work. Possibilities exists for summer fieldwork in the Mediterranean, Mexico, and New York State.
+
+Code: MEDVL 3787
+Title: Interpreting the Qur'an
+Description: The Qur'an is a cornucopia of stories, laws, apocalyptic visions, Paradisical landscapes and stark warnings. This course presents students with the opportunity not only to read the Qur'an in translation in its entirety, but also to explore different ways in which the Qur'anic text has been and can be interpreted, and the different religious, social and ethical questions that derive from different methods of interpretation. Across the course, students will be asked to explore questions, such as: how does dating the Qur'an impact interpretation? How does the debate concerning Qur'anic (un)createdness impact its interpretation? Is it possible to use extra-Qur'anic material to interpret the Qur'an? How can the Qur'an be read as a literary text? Or as a source of law? Or as a source for history? What is the Qur'an's own view of the past, present and future? How do feminist and queer Muslims read and interpret the Qur'an? This course is secular and academic in nature. We will study a wide range of religious and secular/academic approaches to interpreting the Qur'an, some of which may challenge widely-held assumptions about the Qur'an's authorship, dating, composition and interpretation.
+
+Code: MEDVL 3850
+Title: The Arts of Southeast Asia
+Description: The arts of Southeast Asia are studied in their social context, since in traditional societies creative processes are often mapped on the sequence of events that compose human lives. We will be looking particularly at the gendered ways in which bodies are mapped on the land, and how these various framings are often reflected in the unique relationships that emerge between works of art and textual sources. The South Asian epics of the Ramayana (Story of Rama) and the Mahabharata will be explored during the semester as infinitely renewable sources of inspiration. Special emphasis will be devoted to localized encounters in Indonesia, Cambodia, Burma/Myanmar, Vietnam, and Thailand.
+
+Code: MEDVL 6110
+Title: Old English
+Description: In this course, we will read and discuss some of the earliest surviving English poetry and prose. Attention will be paid to (1) learning to read the language in which this literature is written, (2) evaluating the poetry as poetry: its form, structure, style, and varieties of meaning, and (3) seeing what can be learned about the culture of Anglo-Saxon England and about the early Germanic world in general, from an examination of the Old English literary records. We will begin by reading some easy prose and will go on to consider some more challenging heroic, elegiac, and devotional poetry, including an excerpt from the masterpiece Beowulf. The course may also be used as preparation for the sequence ENGL 3120/ENGL 6120.
+
+Code: MEDVL 6539
+Title: Islamic Spain: Culture and Society
+Description: This course examines the culture and society of al-Andalus (Islamic Spain) from 711, when Islam arrived in Iberia, until 1492 and the demise of Nasrid Granada. Through extensive discussion and analysis of Arabic, Latin, and Hebrew primary documents and literary texts of various genres (in translation), the course challenges ideological bases of conventional thinking regarding the social, political, and cultural identity of medieval "Spain." Among other things, the class investigates the origins of lyric poetry, the relationships among the various confessional and ethnic communities in al-Andalus and the problems involved in Mozarabic Christian and Andalusi Jewish subcultural adaptations of Andalusi Arabo-Islamic culture.
+
+Code: MEDVL 6787
+Title: Interpreting the Qur'an
+Description: The Qur'an is a cornucopia of stories, laws, apocalyptic visions, Paradisical landscapes and stark warnings. This course presents students with the opportunity not only to read the Qur'an in translation in its entirety, but also to explore different ways in which the Qur'anic text has been and can be interpreted, and the different religious, social and ethical questions that derive from different methods of interpretation. Across the course, students will be asked to explore questions, such as: how does dating the Qur'an impact interpretation? How does the debate concerning Qur'anic (un)createdness impact its interpretation? Is it possible to use extra-Qur'anic material to interpret the Qur'an? How can the Qur'an be read as a literary text? Or as a source of law? Or as a source for history? What is the Qur'an's own view of the past, present and future? How do feminist and queer Muslims read and interpret the Qur'an? This course is secular and academic in nature. We will study a wide range of religious and secular/academic approaches to interpreting the Qur'an, some of which may challenge widely-held assumptions about the Qur'an's authorship, dating, composition and interpretation.
+
+Code: MEDVL 6850
+Title: The Arts of Southeast Asia
+Description: The arts of Southeast Asia are studied in their social context, since in traditional societies creative processes are often mapped on the sequence of events that compose human lives. We will be looking particularly at the gendered ways in which bodies are mapped on the land, and how these various framings are often reflected in the unique relationships that emerge between works of art and textual sources. The South Asian epics of the Ramayana (Story of Rama) and the Mahabharata will be explored during the semester as infinitely renewable sources of inspiration. Special emphasis will be devoted to localized encounters in Indonesia, Cambodia, Burma/Myanmar, Vietnam, and Thailand.
+
+Code: MEDVL 7777
+Title: Medieval Studies Proseminar
+Description: This course is designed to introduce graduate students to the study of the Middle Ages, with special attention to theory and methodology. Seminars will be led by Medieval Studies Program faculty who represent a broad range of disciplines, time periods, languages, and geographical areas.
+
+Code: MEDVL 8010
+Title: Directed Study - Individual
+Description: This course gives students the opportunity to work with a selected instructor to pursue special interests or research not treated in regularly scheduled courses. After getting permission of the instructor, students should contact the department to request access to an instructor's section. Enrolled students are required to provide the department with a course description and/or syllabus along with the instructor's approval by the end of the first week of classes.
+
+Code: MEDVL 8020
+Title: Directed Study - Group
+Description: This course should be used for an independent study in which a small group of students works with one member of the graduate faculty. After getting permission of the instructor, students should contact the department to request access to an instructor's section. Enrolled students are required to provide the department with a course description and/or syllabus along with the instructor's approval by the end of the first week of classes.
+

@@ -1,0 +1,8 @@
+Code: TECH 5900
+Title: Product Studio
+Description: The world is transformed by builders -- individuals who combine engineering, business, design, and leadership skills to build new products, services, and business models. The Cornell Tech studio trains you to become a world-class builder. Product studio teaches a systematic process for finding something that is worth building. We learn how to do user and industry research, systematically identify new opportunities, select amongst them, and validate opportunities by designing experiments and prototypes. The class is taught in an experiential "studio" format, i.e. all skills are learned by applying them in building a real world product to address a validated need. Participants assemble teams with the requisite skills and receive extensive feedback on their work from their peers and industry professionals. Some participants go on to further develop these products and launch them as full-time startup founders, or product champions within established companies.
+
+Code: TECH 5999
+Title: Independent Study
+Description: No description available.
+

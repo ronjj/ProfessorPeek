@@ -1,0 +1,36 @@
+Code: BIOMS 3110
+Title: Principles of Animal Physiology
+Description: General course in animal physiology emphasizing principles of operation, regulation, and integration common to a broad range of living systems from the cellular to the organismal level. Structure/function relationships are stressed along with underlying physico-chemical mechanisms.
+
+Code: BIOMS 3190
+Title: Laboratory in Physiology
+Description: Student-conducted in vitro and in vivo experiments designed to illustrate basic physiological processes, physiological research techniques, instrumentation, experimental design, and interpretation of results. Techniques include anesthesia, surgical procedures, dissection, and real-time computer recording and analysis. Experiments with isolated living tissues or live anesthetized animals examine properties of membranes and epithelia, blood, nerves, skeletal and smooth muscle; cardiovascular, respiratory, renal, and reproductive function and their regulation by the nervous and endocrine systems.
+
+Code: BIOMS 4090
+Title: Principles of Virology
+Description: Principles of Virology is a course designed to convey the basic principles of virus biology, to illustrate the key concepts of virus-host interactions and their consequences for virus replication and pathogenesis of viral disease. The course focuses on identifying unifying principles underlying virus biology and highlighting important differences between viruses. Viruses infecting plants, animals, and bacteria will be discussed. A graduate level component of this course will further focus on seminal virology research findings and the cutting-edge technologies used in modern experimental virology through primary literature reading assignments provided in addition to the lecture material.
+
+Code: BIOMS 4150
+Title: Essential Immunology
+Description: Course introduces the immune system and key concepts in immunology. Focuses on the human system and medically relevant pathogens and immunization. Course delves into the cell biology of signaling, genetic recombination & gene expression. Students will learn how immune cells develop, communicate and carry out immune responses. Students will learn how vaccines work and use clinical cases to apply knowledge of immune concepts. Course ends with a brief survey of immune-mediated diseases, cancer immunology and immunotherapies
+
+Code: BIOMS 4980
+Title: Undergraduate Supervised Teaching
+Description: Students assist in teaching a course appropriate to their previous training. Students meet with a discussion or laboratory section and regularly discuss objectives with the course instructor.
+
+Code: BIOMS 6090
+Title: Principles of Virology
+Description: Principles of Virology is a course designed to convey the basic principles of virus biology, to illustrate the key concepts of virus-host interactions and their consequences for virus replication and pathogenesis of viral disease. The course focuses on identifying unifying principles underlying virus biology and highlighting important differences between viruses. Viruses infecting plants, animals, and bacteria will be discussed. A graduate level component of this course will further focus on seminal virology research findings and the cutting-edge technologies used in modern experimental virology through primary literature reading assignments provided in addition to the lecture material.
+
+Code: BIOMS 6150
+Title: Essential Immunology
+Description: Course introduces the immune system and key concepts in immunology. Focuses on the human system and medically relevant pathogens and immunization. Course delves into the cell biology of signaling, genetic recombination & gene expression. Students will learn how immune cells develop, communicate and carry out immune responses. Students will learn how vaccines work and use clinical cases to apply knowledge of immune concepts. Course ends with a brief survey of immune-mediated diseases, cancer immunology and immunotherapies, topics that are covered in more detail in BIOMS 4170 in spring.
+
+Code: BIOMS 6151
+Title: Essential Immunology and Infectious Disease: Research Methods and Design I
+Description: This course, which is intended to go hand in hand with BIOMS 6150 (Essential Immunology), will teach students how to read and critically interpret immunology and infectious disease research. The course will introduce common experimental methods and feature pillars of immunology and infectious disease articles. Students will practice applying key concepts and experimental methods that are covered concurrently in BIOMS 6150.
+
+Code: BIOMS 7900
+Title: Seminars in Stem Cell Research
+Description: This course is organized as work-in-progress presentations by faculty, post-docs, and students participating in stem cell research. Each student in the Cornell Training Program in Stem Cell Research presents one seminar per year based on their research. The student then meets with the thesis committee members for an evaluation of the presentation.
+

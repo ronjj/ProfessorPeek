@@ -1,0 +1,80 @@
+Code: CHIN 1101
+Title: Beginning Mandarin I
+Description: For complete beginners only, providing a thorough grounding in conversational and reading skills. Students with any previous background or training in the language will need to take the Mandarin Placement Test to determine which Chinese course will best suit their needs.
+
+Code: CHIN 1109
+Title: Beginning Chinese Reading and Writing for Students of Chinese Heritage I
+Description: Intended primarily for students whose family language is Mandarin but who have had little or no formal training. The focus is on reading, writing and speaking, as well as culture, and current events in the Chinese speaking community.
+
+Code: CHIN 1121
+Title: Beginning Mandarin for Professional Students I
+Description: This course helps students develop basic skills in Mandarin Chinese, at a moderate pace.
+
+Code: CHIN 1123
+Title: Beginning Mandarin for Professional Students III
+Description: A continuation of CHIN 1122 .  This course helps students develop basic skills in Mandarin Chinese, at a moderate pace. For non-heritage learners only.
+
+Code: CHIN 2201
+Title: Intermediate Mandarin I
+Description: Continuing instruction in written and spoken Chinese with particular emphasis on consolidating basic conversational skills and improving reading confidence and ability.
+
+Code: CHIN 2209
+Title: Intermediate Chinese Reading and Writing for Students of Chinese Heritage I
+Description: This course focuses on reading and writing Chinese at the intermediate level for Chinese heritage students who grew up speaking Chinese with family members . Students will read authentic texts written by iconic Chinese figures such as Xu Dishan and Hu Shih (a Cornell alumnus, class of 1914), and practice writing while exploring various aspects of Chinese culture. Students will exit the course with a book of their own in Chinese as the course project documenting their learning during the semester. This course helps students further solidify their foundation for Chinese study at the next level as well as enhance their awareness of and overall competence in cross-cultural communication. If you grew up hearing and speaking Chinese and have very limited reading and writing proficiency, but have a goal of becoming a true bilingual of English and Chinese, this course is designed with you in mind.
+
+Code: CHIN 3301
+Title: High Intermediate Mandarin I
+Description: Continuing instruction in spoken and written Mandarin Chinese via text and authentic multimedia materials.
+
+Code: CHIN 3309
+Title: Business Chinese in Global Context I
+Description: First part of a two-semester sequence for advanced mandarin learners. This course aims to equip students with the linguistic and intercultural skills necessary to thrive in a Chinese business environment. The main vehicle of exploration is Zhihong Chen's newly updated multimedia book "When China Meets the World: Bilingual Business-Finance Cases" (Oxford University Press, 2024) which provides a wide range of real case studies to showcase China's continuous integration with the larger outside world. Through the learning and discussion of real business cases in Chinese, students will not only develop linguistic tools vital to doing Business in China, but also obtain cultural understanding to the Chinese way of conducting business with the outside world. In addition to business case analysis, students will also gain hand-on experience in skills that can be applied in the fields of Finance, Consulting, Accounting and the like. The course will also allow students to interact with entrepreneurs and experts in the field, as well as utilize language skills gained in the course within a mock business interaction.
+
+Code: CHIN 3341
+Title: High Intermediate Mandarin I: CAPS in D.C.
+Description: Continuing instruction in spoken Chinese and in various genres and styles of written Chinese.
+
+Code: CHIN 3351
+Title: High Intermediate Mandarin I: CAPS in Beijing
+Description: Continuing instruction in spoken Chinese and in various genres and styles of written Chinese.
+
+Code: CHIN 4406
+Title: Readings in Chinese History and Business Culture
+Description: This course is designed for those who have completed Mandarin of advanced level (or equivalent). It aims to further improve students' Chinese proficiency in a business history and transcultural context to provide students with a greater preparation for future studies and career endeavors in a native Chinese environment. China's rapid economic growth has aroused keen interest in discussion of China's business and economy on a global scale. To aid students in understanding China's unprecedented rise, authentic Chinese materials selected from a variety of sources will be introduced in class. These course materials introduce both China's past, present, and future, as well as its current role and challenges in the global economy. Key topics for discussion provide insight into the Chinese way of doing business and the multifaceted nature of China's micro and macro business environment.
+
+Code: CHIN 4411
+Title: Advanced Mandarin I
+Description: Reading, discussion, and composition at advanced levels.
+
+Code: CHIN 4427
+Title: High Advanced Mandarin I
+Description: This advanced course aims to further develop the four communication skills in Chinese: speaking, listening, reading, and writing, through learning materials and activities on various topics related to China Studies, including authentic Chinese texts and TV programs, class discussions on various issues, and compositions.  Students can also expect to broaden their knowledge of Chinese culture and society through this course.  Classical Chinese will be introduced in this class to help students further understand written/formal Chinese as well as Chinese culture.
+
+Code: CHIN 4441
+Title: Advanced Mandarin I: CAPS in D.C.
+Description: Reading, discussion, and composition at advanced levels.
+
+Code: CHIN 4443
+Title: High Advanced Mandarin I: CAPS in D.C.
+Description: This course is designed for students who have satisfactorily finished CHIN 4427 or the equivalent.  The focus of the course is on formal Chinese, and the main aim of this course is to help students achieve an advanced level of Chinese performance, so that they may combine Chinese with their work in their majors.  The course material will be formal Chinese writings by native speakers, mostly for native speakers, related to students' majors and fields of interest.  In addition, classical Chinese will also be introduced through readings as a means to enhance students' understanding of the language.
+
+Code: CHIN 4451
+Title: Advanced Mandarin I: CAPS in Beijing
+Description: Reading, discussion, and composition at advanced levels.
+
+Code: CHIN 4453
+Title: High Advanced Mandarin I: CAPS in Beijing
+Description: This course is designed for students who have satisfactorily finished CHIN 2210 or CHIN 4412, or the equivalent. The focus of the course is on formal Chinese, and the main aim of this course is to help students achieve an advanced level of Chinese performance, so that they may combine Chinese with their work in their majors. The course material will be formal Chinese writings by native speakers, mostly for native speakers, related to students' majors and fields of interest. In addition, classical Chinese will also be introduced through readings as a means to enhance student's understanding of the language.
+
+Code: CHIN 5509
+Title: Business Chinese in Global Context I
+Description: First part of a two-semester sequence for advanced mandarin learners. This course aims to equip students with the linguistic and intercultural skills necessary to thrive in a Chinese business environment. The main vehicle of exploration is Zhihong Chen's newly updated multimedia book "When China Meets the World: Bilingual Business-Finance Cases" (Oxford University Press, 2024) which provides a wide range of real case studies to showcase China's continuous integration with the larger outside world. Through the learning and discussion of real business cases in Chinese, students will not only develop linguistic tools vital to doing Business in China, but also obtain cultural understanding to the Chinese way of conducting business with the outside world. In addition to business case analysis, students will also gain hand-on experience in skills that can be applied in the fields of Finance, Consulting, Accounting and the like. The course will also allow students to interact with entrepreneurs and experts in the field, as well as utilize language skills gained in the course within a mock business interaction.
+
+Code: CHIN 6606
+Title: Readings in Chinese History and Business Culture
+Description: This course is designed for those who have completed Mandarin of advanced level (or equivalent). It aims to further improve students' Chinese proficiency in a business history and transcultural context to provide students with a greater preparation for future studies and career endeavors in a native Chinese environment. China's rapid economic growth has aroused keen interest in discussion of China's business and economy on a global scale. To aid students in understanding China's unprecedented rise, authentic Chinese materials selected from a variety of sources will be introduced in class. These course materials introduce both China's past, present, and future, as well as its current role and challenges in the global economy. Key topics for discussion provide insight into the Chinese way of doing business and the multifaceted nature of China's micro and macro business environment.
+
+Code: CHIN 6616
+Title: Mandarin Language Across the Curriculum (LAC)
+Description: This optional course aims to expand the students' vocabulary, and advance their speaking and reading skills as well as enhance their knowledge and deepen their cultural understanding by attaching to non-language courses throughout the university.
+

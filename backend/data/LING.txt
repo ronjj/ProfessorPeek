@@ -1,0 +1,152 @@
+Code: LING 1100
+Title: FWS: Language, Thought, and Reality
+Description: In this course the students learn the skill of writing at the university level. Instructors offer themes for their courses within their own special areas of expertise.
+
+Code: LING 1101
+Title: Introduction to Linguistics
+Description: Overview of the science of language, especially its theoretical underpinnings, methods, and major findings. Areas covered include: the relation between sound and meaning in human languages, social variation in language, language change over time, universals of language, and the mental representation of linguistic knowledge. Students are introduced to a wide variety of language phenomena, drawn not only from languages resembling English, but also from many that appear to be quite unlike English, such as those native to the Americas, Africa, Asia, Australia, and the South Pacific.
+
+Code: LING 1104
+Title: WIM: Introduction to Cognitive Science
+Description: This section is highly recommended for students who are interested in learning about the topics covered in the main course through writing and discussion.
+
+Code: LING 1170
+Title: Introduction to Cognitive Science
+Description: This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.
+
+Code: LING 2221
+Title: Language and Society
+Description: In this writing intensive course, we will explore how language and society affect each other. How do class, age, ethnicity, gender, and geography affect the way people speak? Why are some ways of speaking considered prestigious and others stigmatized? How does increased use of online communication and social media affect how we communicate? How are power relations captured in language? How does national policy-e.g., "English-only" policies-affect both politics and language use? What are the linguistic issues behind the Ebonics debate? In this course, through extensive discussion and various types of writing, we consider these questions both in the context of the United States and other parts of the world.
+
+Code: LING 2224
+Title: Introduction to Language Endangerment and Revitalization
+Description: An introduction to the study of language endangerment and language revitalization. Explores why nearly half of the world's languages are facing extinction over the current century, discusses the issues related to that projection, and introduces approaches to maintaining and revitalizing endangered languages.
+
+Code: LING 2261
+Title: Introduction to Indo-European Linguistics
+Description: An introduction to the phonology, morphology, and syntax of Proto-Indo-European and the chief historical developments of the daughter languages.
+
+Code: LING 3150
+Title: Language and Power
+Description: In this course, we will explore how language interacts with power: how does language reflect, shape, threaten and reinforce power relations in human society? From childhood through old age, language is an ever-present source of symbolic power. We use it to develop and express our identities, to position ourselves in hierarchies, and to establish group membership and exclusion throughout life. Language shapes ourselves, our families, our social lives, and our institutions. Understanding how people use language can provide a window into hidden aspects of both individuals and the social world.
+
+Code: LING 3303
+Title: Introduction to Syntax and Semantics
+Description: This course explores both syntax (how words and phrases are combined into sentences) and semantics (how the meanings of words, phrases, and sentences are interpreted). The course aims to give students to the ability to address questions regarding syntactic and semantic properties of languages in a rigorous and informed fashion. Topics covered include phrase structure, grammatical relations, transformations, semantic composition, modification, quantification, and the syntax/semantics interface. Emphasis throughout the course is placed on forming and testing hypotheses.
+
+Code: LING 3315
+Title: Old Norse I
+Description: Old Norse is a collective term for the earliest North Germanic literary languages: Old Icelandic, Old Norwegian, Old Danish, and Old Swedish. The richly documented Old Icelandic is the center of attention, and the purpose is twofold: the students gain knowledge of an ancient North Germanic language, important from a linguistic point of view, and gain access to the medieval Icelandic (and Scandinavian) literature. The structure of Old Norse (Old Icelandic), phonology, and morphology, with reading of selections from the Prose-Edda, a 13th-century narrative based on the Eddaic poetry.
+
+Code: LING 3324
+Title: Cayuga Language and Culture
+Description: An introduction to the language and culture of the Cayuga (Gayogo̱hó꞉nǫʼ) people. Basic language instruction provided in an immersive learning environment, focusing on the relationship of language and culture to plants and growing.
+
+Code: LING 3390
+Title: Independent Study in Linguistics
+Description: Independent study of linguistics topics not covered in regular curriculum for undergrads.
+
+Code: LING 4401
+Title: Phonology I
+Description: Provides an introduction to phonological theory. The empirical basis, theoretical approaches, and relevant literature are explored through extensive data analysis and critical reading.
+
+Code: LING 4403
+Title: Syntax I
+Description: An advanced introduction to syntactic theory within the principles and parameters/minimalist frameworks. Topics include phrase structure, argument structure (unaccusative verbs, unergative verbs, double object constructions), principles of word order, and the binding theory.
+
+Code: LING 4419
+Title: Phonetics I
+Description: This course provides advanced instruction in phonetic analysis and experimental methodology. Students learn about various theories of speech perception, production, and cognitive representation. This provides a background in which students develop an original research project. The goals of this course are for students to gain a conceptual understanding of phonetic analyses and to acquire practical experience in using phonetic analyses to explore cognitive dimensions of speech.
+
+Code: LING 4421
+Title: Semantics I
+Description: Introduces methods for theorizing about meaning within generative grammar. These techniques allow the creation of grammars that pair syntactic structures with meanings. Students look at several empirical areas in detail, among them complementation (combining heads with their arguments), modification, conjunction, definite descriptions, relative clauses, traces, bound pronouns, and quantification. An introduction to logical and mathematical concepts used in linguistic semantics (e.g., set theory, functions and their types, and the lambda notation for naming linguistic meanings) is included in the course.
+
+Code: LING 4434
+Title: Computational Linguistics II
+Description: An in-depth exploration of modern computational linguistic techniques. A continuation of  LING 4424 - Computational Linguistics I. Whereas LING 4424 covers foundational techniques in symbolic computational modeling, this course will cover a wider range of applications as well as coverage of neural network methods. We will survey a range of neural network techniques that are widely used in computational linguistics and natural language processing as well as a number of techniques that can be used to probe the linguistic information and language processing strategies encoded in computational models. We will examine ways of mapping this linguistic information both to linguistic theory as well as to measures of human processing (e.g., neuroimaging data and human behavioral responses).
+
+Code: LING 4451
+Title: Greek Comparative Grammar
+Description: The prehistory and evolution of the sounds and forms of ancient Greek as reconstructed by comparison with the other Indo-European languages.
+
+Code: LING 4491
+Title: Honors Research Workshop I
+Description: This course provides structure and guidance to students doing an honors thesis in linguistics. The course consists of biweekly meeting of all honors thesis writers with the course instructor. Students will prepare presentations and written materials including topic, background, outline, methodology for honors project for class presentation and discussion. The course also covers aspects of linguistics research methodology.
+
+Code: LING 4493
+Title: Honors Thesis Research
+Description: Directed honors thesis research for students working on an honors thesis, taken with the student's honors thesis chair or other committee member.
+
+Code: LING 4712
+Title: Topics in the Philosophy of Language
+Description: An investigation of varying topics in the philosophy of language including reference, meaning, the relationship between language and thought, communication, modality, logic and pragmatics.
+
+Code: LING 6261
+Title: Introduction to Indo-European Linguistics
+Description: An introduction to the phonology, morphology, and syntax of Proto-Indo-European and the chief historical developments of the daughter languages.
+
+Code: LING 6324
+Title: Cayuga Language and Culture
+Description: An introduction to the language and culture of the Cayuga (Gayogo̱hó꞉nǫʼ) people. Basic language instruction provided in an immersive learning environment, focusing on the relationship of language and culture to plants and growing.
+
+Code: LING 6401
+Title: Phonology I
+Description: Provides an introduction to phonological theory. The empirical basis, theoretical approaches, and relevant literature are explored through extensive data analysis and critical reading.
+
+Code: LING 6403
+Title: Syntax I
+Description: An advanced introduction to syntactic theory within the principles and parameters/minimalist frameworks. Topics include phrase structure, argument structure (unaccusative verbs, unergative verbs, double object constructions), principles of word order, and the binding theory.
+
+Code: LING 6419
+Title: Phonetics I
+Description: This course provides advanced instruction in phonetic analysis and experimental methodology. Students learn about various theories of speech perception, production, and cognitive representation. This provides a background in which students develop an original research project. The goals of this course are for students to gain a conceptual understanding of phonetic analyses and to acquire practical experience in using phonetic analyses to explore cognitive dimensions of speech.
+
+Code: LING 6421
+Title: Semantics I
+Description: Introduces methods for theorizing about meaning within generative grammar. These techniques allow the creation of grammars that pair syntactic structures with meanings. Students look at several empirical areas in detail, among them complementation (combining heads with their arguments), modification, conjunction, definite descriptions, relative clauses, traces, bound pronouns, and quantification. An introduction to logical and mathematical concepts used in linguistic semantics (e.g., set theory, functions and their types, and the lambda notation for naming linguistic meanings) is included in the course.
+
+Code: LING 6434
+Title: Computational Linguistics II
+Description: No description available.
+
+Code: LING 6451
+Title: Greek Comparative Grammar
+Description: The prehistory and evolution of the sounds and forms of ancient Greek as reconstructed by comparison with the other Indo-European languages.
+
+Code: LING 6601
+Title: Topics in Phonetics-Phonological Theory
+Description: Examination of recent developments in the core areas of phonetics and phonology as well as its interfaces with other components of the grammar (e.g., morphosyntax, semantics or pragmatics). Topics covered include current approaches and relevant theoretical and historical perspectives.
+
+Code: LING 6634
+Title: Topics in the Philosophy of Language
+Description: An investigation of varying topics in the philosophy of language including reference, meaning, the relationship between language and thought, communication, modality, logic and pragmatics.
+
+Code: LING 6692
+Title: Phonetic Data Analysis Workshop
+Description: The phonetics data analysis workshop provides students with practice in analysis and visualization of phonetic data, using Matlab, R, and Praat. Experiment design and statistical methods are emphasized.
+
+Code: LING 6693
+Title: Computational Psycholinguistics Discussion
+Description: This seminar provides a venue for feedback on research projects, invited speakers, and paper discussions within the area of computational psycholinguistics.
+
+Code: LING 7701
+Title: Directed Research
+Description: An independent study for graduate students.
+
+Code: LING 7710
+Title: Computational Seminar
+Description: Addresses current theoretical and empirical issues in computational linguistics.
+
+Code: LING 7711
+Title: Semantics Seminar
+Description: Addresses current theoretical and empirical issues in semantics.
+
+Code: LING 7713
+Title: Phonetics Seminar
+Description: Addresses current theoretical and empirical issues in phonetics.
+
+Code: LING 7727
+Title: Topics in Current Linguistic Theory
+Description: Topics in Current Linguistic Theory: topics of current research that cross sub-disciplinary boundaries.
+

@@ -1,0 +1,52 @@
+Code: ENGRI 1100
+Title: Lasers and Photonics
+Description: Lasers have had an enormous impact on communications, medicine, remote sensing, and material processing. This course reviews the properties of light that are essential to understanding the underlying principles of lasers and these photonic technologies. There also is a strong, hands-on laboratory component in which the students build and operate a nitrogen laser and participate in several demonstration experiments such as holography, laser processing of materials, optical tweezers, and fiber optics.
+
+Code: ENGRI 1101
+Title: Engineering Applications of Operations Research
+Description: Introduction to the problems and methods of operations research and information engineering focusing on problem areas (including inventory, network design, and resource allocation), the situations in which these problems arise, and several standard solution techniques. In the computational laboratory, students encounter problem simulations and use some standard commercial software packages.
+
+Code: ENGRI 1120
+Title: Feast! Chemical and Biomolecular Processes and Products through Food
+Description: Chemical and biomolecular engineering (ChemE) is central to how we produce, store, and consume food. Learn the principles and practices of chemical engineering through a tasty, hands-on approach to process and product design. This course introduces key concepts and tools in ChemE including process flow diagrams, unit operations, materials and energy balances, phase equilibria, and scale-up. These concepts will be applied in design projects that leverage the use of quantitative methods to support design decisions and balance considerations of product quality, economics, safety, and environmental issues in food products. The course will also explore career pathways in ChemE to understand the wide range of what chemical engineers do in practice.
+
+Code: ENGRI 1140
+Title: Materials: The Future of Energy
+Description: New technologies are urgently needed to fulfill projected global energy requirements. Materials properties typically limit the performance that can be achieved in generation, transport, and utilization of energy. This course will explore how new materials can increase our energy supply, facilitate transportation of energy, and decrease consumption. Materials issues in photovoltaic, fuel cell, battery, transportation, lighting, and building technologies will be studied.
+
+Code: ENGRI 1160
+Title: Modern Structures
+Description: A hands-on introduction to structural engineering, combining classroom demonstrations and presentations with laboratory experience. Students predict hurricane wind forces and design key elements in a high-rise building to resist those forces. Students design a residential wood-deck based on laboratory tests to stretch, compress, shear, split, and bend wooden specimens. Students build brick walls and fail them under simulated hurricane and tornado wind pressures, weld steel bars and pull them apart, and forensically examine the failures. Students use software to analyze and design steel truss bridges, and become proficient at using spreadsheets to perform routine structural calculations and graph the results. Students become familiar with structural concrete by designing, building and testing small-scale reinforced-concrete frames to resist large dynamic forces.
+
+Code: ENGRI 1165
+Title: Climate Change and You, the Engineer
+Description: Our current students are the first generation that will feel the impacts of climate change, and the last generation that can do anything about it. The dual objectives of this course are to inform young pre-professional engineers of the factual science in the nexus of climate change/fossil fuels/renewable energy, and to inspire them to dive into that nexus now, and to begin to do something about untangling it as engineers in practice. In this nexus are key issues for civil engineers: water quality/quantity, emissions, renewable energy supply and structures, civil infrastructure systems engineering, energy economics, sustainability in megacities.
+
+Code: ENGRI 1170
+Title: Introduction to Mechanical Engineering
+Description: Introduction to fundamentals of mechanical and aerospace engineering. Students learn and understand topics such as stress and strain, fluid mechanics, heat transfer, automotive engineering, and engineering design and product development. Emphasis is placed on critically examining problem solutions to begin developing engineering intuition. Key components of the class include in-class discussions, homework, laboratory experiments, and a group design project.
+
+Code: ENGRI 1190
+Title: Biomaterials for the Skeletal System
+Description: Biomaterials exist at the intersection of biology and engineering. This course explores natural structural materials in the human body, their properties and microstructure, and their synthetic and semi-synthetic replacements. Bones, joints, teeth, tendons, and ligaments are used as examples, with their metal, plastic, and ceramic replacements. Topics covered include mechanical properties, corrosion, toxicity, and biocompatibility. Case studies of design lead to consideration of regulatory approval requirements and legal liability issues.
+
+Code: ENGRI 1200
+Title: Introduction to Nanoscience and Nanoengineering
+Description: Lecture/laboratory course designed to introduce first-year students to some of the ideas and concepts of nanoscience and nanotechnology with stronger emphasis on nanobiotechnology in the spring semester. Topics include nanoscience and nanotechnology-what they are and why they are of interest; atoms and molecules; the solid state; surfaces; behavior of light and material particles when confined to nanoscale dimensions; scanning tunneling microscopy (STM), atomic force microscopy (AFM), scanning electron microscopy (SEM); microelectromechanical systems (MEMS) design; basic micromachining and chemical synthesis methods, i.e., "top-down" and "bottom-up" approaches to nanofabrication; how to manipulate structures on the nanoscale; physical laws and limits they place on the nanoworld; some far-out ideas. In the laboratory, students construct a simple STM to record atomic resolution images; learn through hands on experience the basic workings of an SEM; use a MEMS computer-aided design software package to model the entire manufacturing sequence of a simple MEMS device, examine the simulated behavior of the device and compare it with real behavior; investigate the optical properties of quantum dots and the unexpected properties of fluids that flow through narrow channels.
+
+Code: ENGRI 1220
+Title: Earthquake!
+Description: Explores the science of natural hazards, their societal impacts, and means of mitigation. The focus is on earthquakes, volcanoes, and tsunami, but hurricanes, severe weather, climate change, landslides, wildfires, and the threat of extinction from a future impact by an extraterrestrial body are also considered.
+
+Code: ENGRI 1310
+Title: Introduction to Biomedical Engineering
+Description: An introduction to the field of biomedical engineering with emphasis on application. Specific applications include biomechanics, bioimaging, bioinstrumentation, biotechnology/nanofabrication, artificial organs, cancer therapy and vaccines.
+
+Code: ENGRI 1337
+Title: Introduction to Biological Engineering
+Description: This course introduces first-year students to the field of Biological Engineering (BE). Students will gain an appreciation for basic theory and practice in BE, including material balances, organizing along several length scales, simple experimental design, engineering design methodology, and professional development. Organized as three modules, the course will cover BE at the meso-scale, microscale, and in abiotic (non-living) systems. Field trips to outside engineering firms will be organized to expose students to professional practice in the field.
+
+Code: ENGRI 1620
+Title: Visual Imaging in the Electronic Age
+Description: Interdisciplinary survey course designed to introduce students in the creative arts, science, and engineering to the concepts of 2D and 3D digital pictorial representation and display. It is a concept course that concentrates on "why" rather than "how." Topics include perspective representations, display technology, how television works, bandwidth concepts, digital photography, computer graphics modeling and rendering, color perception, 3D data acquisition, volumetric imaging, and historical precedents, primarily from the art world.
+

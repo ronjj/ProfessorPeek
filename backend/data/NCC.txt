@@ -1,0 +1,12 @@
+Code: NCC 5500
+Title: Financial Accounting
+Description: Introductory accounting course that examines the subject from the viewpoint of users external to the organization. Topics include transaction analysis; the accounting cycle; financial-statement preparation, use, and analysis; revenue recognition and cost measurement; present value; and problems in financial-accounting disclosure.
+
+Code: NCC 5540
+Title: Managing and Leading in Organizations
+Description: People are the heart of organizations. Managing them well requires a sophisticated understanding of the self and others. Good leadership requires deliberate thought and significant effort. It is a continually developing life skill that becomes increasingly important for effectiveness as one rises in the hierarchy of an organization. To help students in their ongoing efforts to be equipped for success as leaders, the two primary purposes of this course are: (1) to build skill and broad fluency with organizational leadership and behavior (2) to develop a personal leadership philosophy based on a) an informed understanding of management concepts at the individual, group, and organizational level and b) self-knowledge and introspection regarding personal values, goals, and perspectives about oneself and others.
+
+Code: NCC 5560
+Title: Managerial Finance
+Description: This course provides an introduction to business finance through lectures and assignments. The content of the course varies with the section and instructor. Topics may include basic financial accounting, time value of money, stock and bond valuation, capital budgeting, portfolio theory, asset-pricing models, cost of capital, dealing with risk, capital structure, acquisitions, and options. Application of theory to practical applications will be stressed in the lectures.
+

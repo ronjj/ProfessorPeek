@@ -1,0 +1,144 @@
+Code: CHEM 1007
+Title: Academic Support for CHEM 2070
+Description: CHEM 1007 reviews material presented in CHEM 2070 lectures and also provides problem-solving strategies and practice during the discussion sections.
+
+Code: CHEM 1057
+Title: Academic Support for CHEM 3570
+Description: Reviews material presented in CHEM 3570 lectures and offers practice with CHEM 3570 material. Weekly reviews and problem solving sessions focus on the most important topics covered in lecture, and office hours held throughout the week by Learning Strategies Center tutors to help improve performance in CHEM 3570.
+
+Code: CHEM 1150
+Title: The Language of Chemistry
+Description: Fundamentals of chemistry will be introduced and applied to real world situations. Critical aspects of 21st century life depend on an informed voting public that can assiduously address scientific issues. The role of chemistry, the good and the bad, will be an increasingly important component of everyday life. The course seeks to prepare you to be an informed voter.
+
+Code: CHEM 1560
+Title: Introduction to General Chemistry
+Description: A one-semester introduction to fundamental topics in general chemistry, both qualitative and quantitative, with laboratory. CHEM 1560 prepares students for CHEM 1570; CHEM 1560 is not recommended for premedical or preveterinary students. Students planning to take CHEM 2080 should be enrolled in CHEM 2070 rather than CHEM 1560.
+
+Code: CHEM 1729
+Title: Solve It!
+Description: Solve It! will teach the skill of solving cognitively challenging general chemistry questions, such as students receive in CHEM 2070. Students will explore Polya's method of problem solving while solving problems on unit conversions, combustion analysis, limiting reactants, isotopes, the Bohr model, periodic trends, 3-D Lewis structures, atomic orbitals, molecular orbitals, ideal gases, and the kinetic theory of gases. In addition, students will learn fundametal arithmetic and mathematical skills.
+
+Code: CHEM 2070
+Title: General Chemistry I
+Description: Covers fundamental chemical principles, with considerable attention given to the quantitative aspects and techniques important for further work in chemistry. Main topics include chemical transformations and equations, periodic trends of the elements, electronic structure of atoms, chemical bonding, and the collective behavior of molecules.
+
+Code: CHEM 2080
+Title: General Chemistry II
+Description: Covers fundamental chemical principles, including reaction kinetics, thermodynamics, and equilibrium. These principles are presented quantitatively and explored in the laboratory. Considerable attention is given to the quantitative calculations and techniques important for further work in chemistry.
+
+Code: CHEM 2090
+Title: Engineering General Chemistry
+Description: Covers basic chemical concepts, such as reactivity and bonding of molecules, introductory quantum mechanics, and intermolecular forces in liquids and solids and gases. Attention will be focused on aspects and applications of chemistry most pertinent to engineering.
+
+Code: CHEM 2150
+Title: Honors General and Inorganic Chemistry
+Description: Intensive systematic study of the laws and concepts of chemistry, with considerable emphasis on quantitative aspects. CHEM 2150 covers electronic structure of atoms, chemical bonding, thermodynamics, kinetics, and equilibrium. This course serves as an accelerated entry into organic chemistry in the Spring semester for students with a strong background in chemistry. Laboratory work covers qualitative and quantitative analysis, thermodynamics, kinetics transition metal chemistry, and spectroscopic techniques.
+
+Code: CHEM 2510
+Title: Introduction to Experimental Organic Chemistry
+Description: Introduction to the synthesis, separation, characterization, and handling of materials, including chromatography, extraction, crystallization, infrared spectroscopy, and others. An experiment is performed the first week of lab. Students need to enroll in the course Canvas site and complete the appropriate pre-lab assignments outlined on that site before coming to the first lab.
+
+Code: CHEM 2770
+Title: Methods in Chemical Education I
+Description: CHEM 2770 is the first teaching methods companion class to CHEM 2070 and CHEM 2080. CHEM 2770 students will co-lead weekly 2-hour review sessions; meet in 2-hour group meetings to develop and refine teaching materials; attend a 1-hour discussion class on a current STEM pedagogical theory; and assess teaching progress for 1-hour (all activities on a weekly basis).
+
+Code: CHEM 2780
+Title: Methods in Chemical Education II
+Description: CHEM 2780 is the second teaching methods companion class to CHEM 2070 and CHEM 2080. CHEM 2780 students will co-lead weekly 2-hour review sessions; meet in 2-hour group meetings to develop and refine teaching materials; attend a 1-hour discussion class on a current STEM pedagogical theory; and assess teaching progress for 1-hour (all activities on a weekly basis).
+
+Code: CHEM 3020
+Title: Honors Experimental Chemistry II
+Description: Chemical and instrumental methods of analysis, including fluorescence spectroscopy, electrochemistry, UV-vis absorption spectroscopy, infrared spectroscopy, and gas chromatography. Error analysis, experiment design, and data analysis using Jupyter notebooks.
+
+Code: CHEM 3570
+Title: Organic Chemistry for the Life Sciences
+Description: Study of the important classes of carbon compounds-including those encountered in the biological sciences. The course emphasizes their three-dimensional structures, mechanisms of their characteristic reactions, their synthesis, methods of identifying them, and their role in modern science and technology.
+
+Code: CHEM 3580
+Title: Organic Chemistry for the Life Sciences
+Description: The course emphasizes the important classes of organic compounds, with particular emphasis on their three-dimensional structures, mechanisms of their characteristic reactions, their synthesis, methods for their identification, and their applications in modern technology and medicine.
+
+Code: CHEM 3600
+Title: Honors Organic Chemistry II
+Description: Rigorous and systematic study of organic chemistry with a focus on molecules that have biological applications. The course emphasizes a mechanistic understanding of organic reactions and applies this knowledge toward complex systems such as amino acids and carbohydrates.
+
+Code: CHEM 3870
+Title: Principles of Physical Chemistry
+Description: Survey of the fundamental principles of physical chemistry, The course covers thermodynamics, chemical kinetics, enzyme kinetics, and the electronic structure of atoms and molecules. CHEM 3870 satisfies the minimum requirement for physical chemistry for the chemistry major.
+
+Code: CHEM 3890
+Title: Honors Physical Chemistry I
+Description: CHEM 3890-CHEM 3900 is a year-long sequence covering key topics in physical chemistry. CHEM 3890 introduces the use of mathematics and physics to investigate chemical systems. The fundamental principles of quantum mechanics are introduced and applied to understanding the structure and spectra of atoms and molecules. Specific topics include exact and approximate solutions to the Schrödinger equation, angular momentum, bonding and molecules, and spectroscopy. CHEM 3900 follows with an introduction to the behavior of ensembles of quantum particles (statistical mechanics), the laws of thermodynamics, and kinetic theory.
+
+Code: CHEM 4210
+Title: Introduction to Inorganic Chemistry Research
+Description: Research in inorganic chemistry involving both laboratory and library work, planned in consultation with a faculty member.
+
+Code: CHEM 4330
+Title: Introduction to Analytical Chemistry Research
+Description: Research in analytical chemistry involving both laboratory and library work, planned in consultation with a faculty member.
+
+Code: CHEM 4430
+Title: Introduction to Chemical Biology Research
+Description: Research in chemical biology involving both laboratory and library work, planned in consultation with a faculty member.
+
+Code: CHEM 4500
+Title: Principles of Chemical Biology
+Description: This course provides an introduction to both the fundamental biochemistry of living systems, including the structure and synthesis of biological macromolecules, and modern approaches that combine organic chemistry with emerging techniques from the chemical and life sciences to interrogate biological systems.
+
+Code: CHEM 4610
+Title: Introduction to Organic Chemistry Research
+Description: Research in organic chemistry involving both laboratory and library work, planned in consultation with a faculty member.
+
+Code: CHEM 4770
+Title: Introduction to Physical Chemistry Research
+Description: Research in physical chemistry involving both laboratory and library work, planned in consultation with a faculty member.
+
+Code: CHEM 5110
+Title: Chemical Facilities Boot Camp
+Description: Discussion of and demonstration of facilities relevant to modern chemical research.
+
+Code: CHEM 5120
+Title: Capstone Research Project
+Description: Supervision of Capstone Research Project.
+
+Code: CHEM 6050
+Title: Advanced Inorganic Chemistry I: Symmetry, Structure, and Reactivity
+Description: A group theoretical analysis of bonding in main group compounds will be followed by a survey of modern coordination chemistry, including rudimentary spectroscopy and magnetism, and inorganic reaction mechanisms.
+
+Code: CHEM 6291
+Title: Electrochemistry of Energy Materials
+Description: Electrochemistry is involved with electrified interfaces and the interaction/interconversion of chemical and electrical energy. This course focuses on the fundamentals of interfacial phenomena including electrode kinetics, electron transfer theory, the electrical double layer, mass transport, and diffusion processes. The course will cover a broad range of electrochemical methods to advance our understanding of structure-property relationships of energy materials. The course will also include selected current topics including: (1) Advanced renewable energy conversion and storage technologies, such as CO2 reduction, H2 production, lithium batteries, and solar cells. (2) Introduction to the state-of-the-art development of analytical methods including electron microscopy and X-ray methods. (3) Electrochemistry with interdisciplinary overlap with solid-state chemistry and materials science, such as photoelectrochemistry, organic electrochemistry, and bioelectrochemistry.
+
+Code: CHEM 6450
+Title: Principles of Chemical Biology
+Description: This course provides an introduction to both the fundamental biochemistry of living systems, including the structure and synthesis of biological macromolecules, and modern approaches that combine organic chemistry with emerging techniques from the chemical and life sciences to interrogate biological systems.
+
+Code: CHEM 6660
+Title: Synthetic Organic Chemistry
+Description: Modern techniques and strategies of organic synthesis including catalysis, radical chemistry, photochemistry, and electrochemistry, application of organic reaction mechanisms and retrosynthetic analysis to the problems encountered in rational multistep synthesis, with particular emphasis on modern development in synthesis design.
+
+Code: CHEM 6700
+Title: Fundamental Principles of Polymer Chemistry
+Description: Emphasizes general concepts and fundamental principles of polymer chemistry.
+
+Code: CHEM 6860
+Title: Physical Chemistry of Proteins
+Description: Physical studies of proteins, with emphasis on using single molecule methodologies and on studies of metalloproteins. Topics include: Physical/chemical concepts that include chemical structure and conformation of proteins, protein folding energy landscape, electron transfer theory, enzyme catalysis, chemical kinetics, and single-molecule kinetics. Experimental methodologies that include absorption and emission spectroscopy, fluorescence energy resonance transfer, confocal microscopy, total internal reflection fluorescence, single molecule spectroscopy, time correlated single photon counting, fluorescence correlation spectroscopy, atomic force microscopy, optical tweezers, magnetic tweezers, super-resolution imaging with optical microscopy. Protein structure and function that includes metalloprotein structure/function (bioinorganic chemistry), GFP and variants, protein labeling, motor proteins, protein-protein interactions, protein-DNA interactions, and live-cell imaging.
+
+Code: CHEM 6890
+Title: Honors Physical Chemistry I
+Description: CHEM 6890-CHEM 6900 is a year-long sequence covering key topics in physical chemistry. CHEM 6890 introduces the use of mathematics and physics to investigate chemical systems. The fundamental principles of quantum mechanics are introduced and applied to understanding the structure and spectra of atoms and molecules. Specific topics include exact and approximate solutions to the Schrödinger equation, angular momentum, bonding and molecules, and spectroscopy.
+
+Code: CHEM 7910
+Title: Advanced Spectroscopy
+Description: The chief aim of this course is to provide an understanding of how the tools of modern spectroscopy can be applied to unravel the structural and dynamical properties of molecular systems, with a focus on optical techniques. The course will briefly cover the theoretical basis of light-matter interactions and factors governing the vibrational and electronic spectra of diatomic and polyatomic molecules. The main portion of the course will address current topics in spectroscopic research with a survey of different techniques and the theory behind them. By the end of the course, students will be equipped to understand and interpret the results of a wide array of steady-state and optical spectroscopic techniques applied to complex molecules.
+
+Code: CHEM 7930
+Title: Quantum Mechanics I
+Description: A modern introduction to quantum mechanics (QM). Topics will include: the quantum state vector, the probabilistic interpretation of QM, the mathematical language of QM, angular momentum, QM in the continuum, solutions to the Schrödinger equation for simple 1D applications, the coulomb potential and the hydrogen-atom, independent particles, the variational approach, and time-independent perturbation theory.
+
+Code: CHEM 7960
+Title: Statistical Mechanics
+Description: Introduces the fundamentals of statistical mechanics: ensembles, distributions, averages, and fluctuations, building to the treatment of systems of interacting molecules. Topics from equilibrium statistical mechanics include structure and thermodynamics of molecular liquids, critical phenomena, and computational statistical mechanics. Topics from nonequilibrium statistical mechanics include spectroscopy, chemical kinetics, transport, and the microscopic origins of irreversibility.
+

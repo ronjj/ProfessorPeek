@@ -1,0 +1,20 @@
+Code: GRAD 9000
+Title: Non-Degree Study
+Description: No description available.
+
+Code: GRAD 9010
+Title: Graduate-Level Research
+Description: No description available.
+
+Code: GRAD 9011
+Title: Doctoral Dissertation Research
+Description: No description available.
+
+Code: GRAD 9012
+Title: Master's Thesis Research
+Description: No description available.
+
+Code: GRAD 9110
+Title: Professional Career Foundations
+Description: Practical tips to focus a job search, develop strategies to identify a meaningful career and empower you to make an impact. Through discussions, immersive activities and professional networking, participants will hone communication of their strengths and fit to employers' needs to set themselves apart as top candidates.
+

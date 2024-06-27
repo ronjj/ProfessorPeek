@@ -1,0 +1,24 @@
+Code: KOREA 1101
+Title: Elementary Korean I
+Description: Designed for students with no or very little knowledge of Korean in order to acquire the 4 skills (listening, speaking, reading and writing) of the Korean language and to become familiar with its culture. Students will learn the Korean writing system and basic survival language skills. Basic knowledge of Korean grammar, vocabulary, expressions and cultural points will be given during the lab. Students will then have an opportunity to practice the learned knowledge in lectures. By the end of the semester, students will be able to engage in simple conversations with native Koreans on subjects familiar to them such as, introducing oneself, describing events or objects in the present and past, asking for and giving directions to and from certain places, talking about future plans, etc.
+
+Code: KOREA 1109
+Title: Elementary Korean Reading and Writing I
+Description: Designed for Korean heritage students who already have some level of speaking and listening competence in Korean, but have limited linguistic proficiency of reading and writing. The course first introduces basic conversational and grammatical structures and idiomatic expressions. It will then focus on speaking, reading and writing skills through short stories, essays and Korean folktales. Students will be able to create a dialogue regarding topics such as greetings, leave-taking, campus life, Korean language class, daily life, and life in Seoul.
+
+Code: KOREA 2201
+Title: Intermediate Korean I
+Description: Designed for intermediate learners of Korean. Students will achieve a higher level of communicative competence through practicing the target language in a wide range of speech events. Specifically, students will compare and contrast cultural differences, describe their own experiences and events, discuss opinions on various topics and participate in speech events. Students will command a lengthy discourse regarding various topics such as weather and seasons, clothing and fashion, travel, public transportation, shopping and life in Korea.
+
+Code: KOREA 2209
+Title: Intermediate Korean Reading and Writing I
+Description: Designed for the Korean heritage students who can understand and speak Korean, but especially need to refine their reading and writing skills. Students will acquire concrete knowledge of grammar to use in everyday conversation, will be able to read passages faster, and will minimize their spelling errors in writing, through frequent discussion and composition about Korean culture, society and history. They will become confident in reading paragraph-length readings in Korean, be able to write their reflections on the passages that they have read, and speak with ease when participating in the classroom discussions. Various projects will enhance students' overall linguistic and intercultural competence. Korean typing skill is required.
+
+Code: KOREA 3301
+Title: High Intermediate Korean I
+Description: Designed for high intermediate learners of Korean. It aims to help students achieve high levels of language proficiency by introducing a wide range of authentic reading materials. The course provides students with reading materials from writings in various genres and styles such as newspaper editorials, columns, essays, short stories, and other literary writings. Students will discuss and write an essay on topics regarding living in Korea, popular Korean food, dating culture in Korea, tour sites and regional products, Korean wave, address terms and interpersonal relations, and famous Korean people.
+
+Code: KOREA 4401
+Title: Advanced Korean I
+Description: Designed for students who have completed the intermediate level of Korean, to acquire advanced language skills (speaking, listening, reading and writing) through Content-Based Instruction and Project-Based Language Learning. Students will gain profound knowledge in various fields on Korea through discussion and composition: current issues in Korean society, Korean people's thoughts and mind, tradition, history and culture. With frequent discussions and compositions on various contemporary news articles, medical drama series, and documentaries, students are encouraged to become Intercultural Communicative Citizens and learn the contents through the language. The expected student outcome is to gain confidence in the academic level of discussions and compositions by critical thinking and analyzing. Korean typing skill is required.
+

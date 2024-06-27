@@ -1,0 +1,8 @@
+Code: PORT 1210
+Title: Elementary Portuguese I
+Description: This course introduces students with no knowledge of Portuguese and with limited or no knowledge of Spanish to the Lusophone (Portuguese speaking) world.  Emphasis is given to the development of language skills (e.g., speaking, listening, reading, and writing), as well as the appreciation and awareness of Global Portuguese-speaking cultures, prompting students to make comparisons to their own culture.
+
+Code: PORT 2010
+Title: Intermediate Portuguese for Spanish Speakers I
+Description: This is an intensive introductory course for those who are native/near native speakers of Spanish.  Emphasis will be given in the development of the four skills (speaking, listening, reading, and writing), as well as the appreciation and awareness of Portuguese-speaking cultures.  Students will engage with a broad range of topics related to Afro-Luso-Brazilian culture through art (e.g., painting, theater, cinema, literature, photography, dance sculpture, etc).
+

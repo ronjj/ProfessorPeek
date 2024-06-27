@@ -1,0 +1,20 @@
+Code: JAPAN 1101
+Title: Elementary Japanese I
+Description: Gives a thorough grounding in all four language skills-speaking, listening, reading, and writing-at the beginning level. The laboratory provides explanation, analysis, and cultural background. Daily lectures are conducted entirely in Japanese.
+
+Code: JAPAN 2201
+Title: Intermediate Japanese I
+Description: This course provides widely applicable language proficiency as an integrated Japanese course, which develops all four language skills (speaking, listening, reading, and writing) at the post-elementary level.
+
+Code: JAPAN 3301
+Title: High Intermediate Japanese I
+Description: For students who have learned basic Japanese skills and would like to develop higher skills in reading, writing, speaking, and listening.
+
+Code: JAPAN 4401
+Title: Advanced Japanese I
+Description: Develops reading, writing and oral communication skills at the advanced level.
+
+Code: JAPAN 4421
+Title: Special Topics
+Description: This is a Japanese course to develop both oral and written communication skills focusing on a variety of current events and social phenomena in Japan.
+

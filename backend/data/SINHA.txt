@@ -1,0 +1,20 @@
+Code: SINHA 1100
+Title: Elements of Sinhala Language and Culture
+Description: This course will introduce the basic Sinhala language elements and elements of Sri Lankan culture for those who are interested in the field of language and culture. Also for those planning to travel to Sri Lanka, heritage students, etc.
+
+Code: SINHA 1121
+Title: Elementary Sinhala I
+Description: Semi-intensive introduction to colloquial Sinhala, intended for beginners. A thorough grounding is given in all the language skills; listening, speaking, reading, and writing.
+
+Code: SINHA 2201
+Title: Intermediate Sinhala I
+Description: This course further develops student competence in colloquial Sinhala, attending to all the language skills: listening, speaking, reading and writing. In addition, this course prepares students for the transition to literary Sinhala.
+
+Code: SINHA 3301
+Title: Literary Sinhala I
+Description: This one-semester course provides an introduction to the distinctive grammatical forms and vocabulary used in Literary Sinhala. While focused particularly on the development of reading skills, the course also introduces students to Literary Sinhala composition, and builds students' listening comprehension of semi-literary Sinhala forms (such as those used in radio and TV news).
+
+Code: SINHA 4400
+Title: Literary Sinhala II
+Description: This one-semester course further develops students' comprehension of written Literary Sinhala, using sample materials from a variety of genres prepared by the instructor, as well as excerpts from texts relevant to graduate student research (when appropriate).
+

@@ -1,0 +1,68 @@
+Code: BIOG 1044
+Title: Academic Support for BIOG 1440: Physiology
+Description: This course reviews material presented in BIOG 1440 and provides problem-solving strategies and additional practice with material. BIOG 1044 support is recommended for students who want to maximize their understanding of Comparative Physiology and enhance their learning skills. BIOG 1044 is not a substitute for BIOG 1440.
+
+Code: BIOG 1111
+Title: Paths to Success in the Biological Sciences Major
+Description: This course is for first-year students entering or intending to enter the Biological Sciences major in either the College of Agriculture and Life Sciences (CALS) or College of Arts & Sciences. This course will empower you to find your purpose as part of a diverse and inclusive global community of learners and focuses on facilitating your transition to college life, developing your academic identity, and making your time at Cornell a meaningful experience. You will develop a learning community, identify your support network, and explore what Cornell offers to you as a first-year student. We will work with you to develop skills for balancing academic success with extracurricular and interpersonal activities during your time in the major.
+
+Code: BIOG 1140
+Title: Foundations of Biology
+Description: The course offers an introduction to biology at the cell and molecular levels, including cell function, energetics, Mendelian genetics, molecular genetics, DNA technology and evolution. The emphasis is on key concepts that underlie living systems, rather than a myriad of unrelated facts. This is a lecture course with an integrated discussion section in which active learning and student engagement activities further emphasize the key concepts with compelling examples from living systems. Designed to meet the biology requirements of science students who need to fulfill the distribution requirement in CALS and Human Ecology. It does not meet the requirement for the premedical or prevet program nor the major in biological science. It, along with courses in the core major program, may be used to fulfill the Arts and Sciences distribution requirement. There is no laboratory for this course. Students that require a biology laboratory experience as part of their requirements should enroll in BIOG 1500 .This course is suitable for life sciences majors.
+
+Code: BIOG 1250
+Title: Biology Seminar
+Description: A first-year seminar that provides an opportunity for students to participate in a small group, interactive course with a biologist. Students will develop critical thinking skills by exploring topics in the biological sciences (review at least one scientific paper). Multiple topics and sections will be offered each semester.
+
+Code: BIOG 1440
+Title: Introductory Biology: Comparative Physiology
+Description: An introductory physiology course intended for first-year and sophomore biological sciences majors and other students majoring in life sciences. The course integrates physiology from the cell to the organism with comparisons among animals, plants and microbes. Emphasis is on understanding of basic physiological concepts, stressing structure-function relationships and underlying physio-chemical mechanisms.
+
+Code: BIOG 1445
+Title: Introduction to Comparative Anatomy and Physiology, Individualized Instruction
+Description: The course focuses on the understanding of how different biological organisms (animals, plants, microbes) perform common physiological functions.
+
+Code: BIOG 1500
+Title: Investigative Biology Laboratory
+Description: Designed for biological sciences majors to provide lab experience with emphasis on processes of scientific investigations and to promote communication, literacy and collaboration in science. Students gain expertise in methods including instrumentation used by biologists to construct new knowledge. Lab topics include genetics, evolution, ecology, biochemistry, and molecular biology.
+
+Code: BIOG 2000
+Title: Special Studies in Biology
+Description: Registration device for students who want to take only a portion of a regular biological sciences course-for example, only the lectures or only the laboratory in a course that includes both. Only students who have already had training equivalent to the portion of the regular course that is to be omitted may register in this manner. This course may not be used to fulfill college distribution requirements except by permission from the Office of Undergraduate Biology.
+
+Code: BIOG 2200
+Title: Biology Scholars Program Sophomore Seminar
+Description: The first half of the semester will focus on interpreting and evaluating scientific literature. Students will do group presentations on a primary research or review paper. The second half will cover careers in science, personal and professional development, on-campus research, and summer opportunities.
+
+Code: BIOG 2400
+Title: Developing a Reflective Study Group Leader Practice
+Description: Students will complete readings and view online media on teaching and learning, create and critique lesson plans, and participate in regular discussions with other SGLs. Each week SGLs will reflect on their group meetings through both writing and discussion, and review challenges and successes during trainings. The SGL position is a year-long commitment; members will enroll in BioG 2401 in the spring. Topics covered in BioG 2400 and 2401 include leading effective groups, cognitive taxonomy, motivation techniques, facilitating discussion, learning styles, growth mindset, metacognition, resilience, community building, and supporting students from diverse backgrounds.
+
+Code: BIOG 2990
+Title: Introduction to Research Methods in Biology
+Description: Intended for students who are new to undergraduate research. Students enrolled in BIOG 2990 may be reading scientific literature, learning research techniques, or assisting with ongoing research. The faculty supervisor determines the work goals and the form of the final report. Any Cornell faculty member whose research field is biological in nature may serve as a supervisor for this course. Non-Cornell supervisors are not acceptable.
+
+Code: BIOG 3100
+Title: Preparing HHMI-CURT Scholars for Research
+Description: This course is for students in the HHMI-Cornell Research Transfer (CURT) program, and will introduce HHMI-CURT Scholars to faculty research, include scholar presentations, and serve as a forum for HHMI-CURT Scholars to discuss potential difficulties or success in labs.
+
+Code: BIOG 4970
+Title: Independent Study in Biology
+Description: This course is designed for a student to study a problem or topic not covered in a regular course or undertake tutorial study of an independent nature in an area of interest in Biology, under the supervision of a faculty member in any biology department that does not have its own Independent Study course, i.e., Animal Physiology, Ecology & Evolutionary Biology, Microbiology, Molecular Biology & Genetics, Neurobiology & Behavior. The student's academic advisor must approve the course for it to be used to satisfy a Biological Sciences concentration requirement. Students must register using the CALS Special Studies form available online.
+
+Code: BIOG 4980
+Title: Teaching Experience
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and assisting in biology courses. This experience may include supervised participation in a discussion group, assisting in a biology laboratory, assisting in field biology, or tutoring.
+
+Code: BIOG 4990
+Title: Independent Undergraduate Research in Biology
+Description: For students with previous undergraduate experience conducting biological research at Cornell. Students enrolled for this credit should be doing independent work on their own project. Any Cornell faculty member whose research field is biological in nature may serve as supervisor for this course. Non-Cornell supervisors are not acceptable.
+
+Code: BIOG 4997
+Title: Biological Sciences Practical Training
+Description: This independent study course offers students in the Biological Sciences major an opportunity to reflect on professional and personal growth, challenges, and opportunities resulting from a recent internship or training experience. International students should contact the Office of Global Learning to determine if they need work authorization. Typically, these internships/experiences take place in the summer and students, in the semester they return to campus, write a paper describing their work experience and how it connects to their personal educational and career goals as well as the learning objectives of the Biological Sciences major. The value of the course is in the deep reflection on expectations, successes, challenges and skills and knowledge gained during the internship.
+
+Code: BIOG 6500
+Title: Pedagogy, Active Learning, and Education Research Training in the Biology
+Description: This course is designed for the graduate student instructors who are interested in teaching in the biological sciences. This course provides transferable pedagogical skills, focusing on discipline-based education research, active learning, undergraduate TA mentoring, metacognition and best teaching practices in biology courses. The course is taught by the Investigative Biology Teaching Laboratories director and educational postdoctoral fellows. Graduate students receive the reading materials (books and journal articles) in advance, and are expected to lead discussions about their chosen topics. Each session will include guided reflections to help instructors connect their own teaching experiences to that week's topic in education research. By the end of the semester students will become familiar with education research, receive training in modern pedagogical methods and will be able to practice their newly gained skills in the courses they teach. They will walk away with a peer-reviewed statement of teaching philosophy that can be used in their teaching portfolios. This course is intended to provide formal training in pedagogy and education research to the graduate student instructors in biology courses, and help them develop a professional teaching portfolio in addition to their teaching experience.
+

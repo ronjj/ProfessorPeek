@@ -1,0 +1,8 @@
+Code: CHLIT 4421
+Title: Directed Study
+Description: Students choose a faculty member to oversee this independent study. The student and the faculty member work together to develop course content.
+
+Code: CHLIT 6621
+Title: Advanced Directed Reading
+Description: Students choose a faculty member to oversee this independent study. The student and the faculty member work together to develop class readings.
+

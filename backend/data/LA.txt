@@ -1,0 +1,112 @@
+Code: LA 1410
+Title: Grounding in Landscape Architecture I
+Description: Introduction to the representation and design of landscapes and to working in a studio setting. Uses freehand drawing, measured drawing, digital tools and model making to understand design principles of the landscape within a cultural and ecological paradigm.  This course receives more credit than typical for the meeting pattern due to substantial work outside of instructional hours.
+
+Code: LA 2010
+Title: Medium of the Landscape I
+Description: Studio course emphasizing the design process and principles involved in organizing and giving form to outdoor space to create site-specific design.
+
+Code: LA 3010
+Title: Integrating Theory and Practice I
+Description: The studio engages students in the design process based on a site defined by significant cultural and natural conditions. The studio focuses on peripheral, yet complex sites of coastal cities, where the urbanizing force has not been strong or continuous enough in order to completely occupy or transform the maritime and/or fluvial ecosystems. The sites involved will be often related to industrial or infrastructural abandonment and will include relevant underdeveloped, fragmented open spaces that interact both with the natural systems and the city. The scarcity of water and a broad design history of the area are key conditions of the site's location and the design approach. The landscape approach here operates as  new humanistic lens that seeks to offer better habitat conditions for a wider range of species.
+
+Code: LA 3160
+Title: Site Engineering
+Description: This course exposes students to the fundamentals of site engineering and its relationship to best environmental practices. Lectures and short vignettes are provided to students and "worked-through" within the class period. These projects deal with site grading, earthwork estimating; storm water management, site layout, and essential associated professional skills. This course receives more credit than typical for the meeting pattern due to substantial academic activity outside of instructional hours.
+
+Code: LA 4010
+Title: Urban Design Studio
+Description: This studio focuses on the integration of theory and practice in landscape architecture at the urban scale. Urban design methods, morphology, and strategies are introduced and design and planning concepts applied to city-scaled projects including community engagement. Students are engaged in contemporary urban design strategies and methodologies on real-life projects in a metropolitan area.
+
+Code: LA 4030
+Title: Directed Study: The Concentration
+Description: Working with their advisor, students create a written and visual document that describes the concentration intent.
+
+Code: LA 4830
+Title: Seminar in Landscape Studies
+Description: Topical lecture series and seminars with a different subject and method each time it is offered. Students enrolled in the graduate version of the course (LA 5830) will submit written responses to the presentations given, evaluating the content delivered and reflecting on how it impacts their own sense of the design disciplines.
+
+Code: LA 4910
+Title: Creating the Urban Eden: Woody Plant Selection, Design, and Landscape Establishment
+Description: Focuses on the identification, uses, and establishment of woody plants in urban and garden settings. By understanding the environmental limitations to plant growth, students are able to critically assess potential planting sites; select appropriate trees, shrubs, vines, and ground covers for a given site; and learn about the principles and practices of site amelioration and plant establishment. Design followed by written specifications and graphic details are developed to implement these practices. No prior design experience necessary. This course receives more credit than typical for the meeting pattern due to substantial academic activity outside of instructional hours.
+
+Code: LA 4940
+Title: Special Topics in Landscape Architecture
+Description: Topical subjects in landscape architectural design, theory, history, or technology. Group study of topics not considered in other courses.
+
+Code: LA 4960
+Title: Internship in Landscape Architecture
+Description: In this course, students participate in an experiential learning opportunity relevant to the student's focus of study or career goals in landscape architecture. A Landscape Architecture faculty member must serve as supervisor and complete the term grade report. Specific learning goals for the experience are arranged by the student with their internship faculty supervisor and the internship host prior to the start of the internship. All internship courses must adhere to the CALS Internship Guidelines.
+
+Code: LA 4970
+Title: Individual Study in Landscape Architecture
+Description: Work on special topics by individuals or small groups.
+
+Code: LA 4980
+Title: Undergraduate Teaching
+Description: Designed to give qualified undergraduates experience through actual involvement in planning and teaching courses under the supervision of department faculty members.
+
+Code: LA 4990
+Title: Undergraduate Research
+Description: Permits outstanding undergraduates to carry out independent research in landscape architecture under academically appropriate faculty supervision. Research goals should include description, prediction, and explanation, and should generate new knowledge in the field of landscape architecture.
+
+Code: LA 5010
+Title: Composition and Theory I
+Description: Introduction to landscape architectural design through a series of course modules that engage students in discovering, knowing and engaging the full potential of the landscape medium. In this process-oriented studio students will develop design proposals for real and imagined sites drawing on knowledge and principles from art, aesthetics, science, nature and culture. Each module sequence will also be integrated with the companion LA 5050 course and emphasize the unfolding and emergent nature of designerly thinking, making and doing.
+
+Code: LA 5050
+Title: Graphic Communication I
+Description: This course introduces students to landscape architectural representation and teaches conventions such as basic drafting and orthographic drawing (plan, section, axonometric) alongside freehand drawing, collage, modeling, photography and digital representation.  Assignments will be fully integrated with the projects being undertaken in the companion Studio Course LA 5010 emphasizing the seamless interplay of landscape architectural design with the activities of drawing, making and representation through which it is conceived and visualized.
+
+Code: LA 5830
+Title: Seminar in Landscape Studies
+Description: Topical lecture series and seminars with a different subject and method each time it is offered. Students enrolled in the graduate version of the course (LA 5830) will submit written responses to the presentations given, evaluating the content delivered and reflecting on how it impacts their own sense of the design disciplines.
+
+Code: LA 5910
+Title: Creating the Urban Eden: Woody Plant Selection, Design, and Landscape Establishment
+Description: Focuses on the identification, uses, and establishment of woody plants in urban and garden settings. By understanding the environmental limitations to plant growth, students are able to critically assess potential planting sites; select appropriate trees, shrubs, vines, and ground covers for a given site; and learn about the principles and practices of site amelioration and plant establishment. Design followed by written specifications and graphic details are developed to implement these practices. No prior design experience necessary. This course receives more credit than typical for the meeting pattern due to substantial academic activity outside of instructional hours.
+
+Code: LA 5960
+Title: Graduate Internship in Landscape Architecture
+Description: In this course, students participate in an experiential learning opportunity relevant to the student's focus of study or career goals in landscape architecture. A Landscape Architecture faculty member must serve as supervisor and complete the term grade report. Specific learning goals for the experience are arranged by the student with their internship faculty supervisor and the internship host prior to the start of the internship. All internship courses must adhere to the CALS Internship Guidelines.
+
+Code: LA 5970
+Title: Graduate Individual Study in Landscape Architecture
+Description: Work on special topics by individuals or small groups.
+
+Code: LA 5980
+Title: Graduate Teaching
+Description: Designed to give qualified students experience through involvement in planning and teaching courses under the supervision of faculty members. The experience may include leading discussion sections, preparing, assisting in desk critiques, and presenting lectures. There are assigned readings and discussion sessions on education theory and practice throughout the semester.
+
+Code: LA 6010
+Title: Integrating Theory and Practice I
+Description: This studio focuses upon urban, site-scaled projects that consider significant cultural landscapes. The course explores theories of urban design strategies, sustainable design, and landscape representation. These are explored through a semester-long project that is derived from specific site and place. The integration of site history as well as contemporary urban condition is explored that supports an understanding and relationship between theory and practice.
+
+Code: LA 6030
+Title: Directed Study: The Concentration
+Description: Working with their advisor, students create a written and visual paper that documents the concentration intent.
+
+Code: LA 6160
+Title: Site Engineering
+Description: This course exposes students to the fundamentals of site engineering and its relationship to best environmental practices. Lectures and short vignettes are provided to students and "worked-through" within the class period. These projects deal with site grading, earthwork estimating; storm water management, site layout, and essential associated professional skills. This course receives more credit than typical for the meeting pattern due to substantial academic activity outside of instructional hours.
+
+Code: LA 6900
+Title: Methods of Landscape Architectural Inquiry
+Description: This course provides to students an introduction to research methods, especially those related to the field of Landscape Architecture and Urban Design.  It builds on the theoretical foundations provided in LA5900 and reinforces the students understanding of how landscape research and analysis is carried out.  The seminar proposes to learn about the most prominent methods of landscape research by "exposing" them to one of the most fragile, dynamic and desired landscapes at today's world: the coast.  Moreover, understanding the coast as a landscape of desire and conflict will help students to critically engage with what we think as an "objective research methodology".  The course will engage with concrete sites, preferably at the coast of the United States, where present and future habitation as well as tourism (leisure) patterns are antagonic to climate change scenarios.
+
+Code: LA 6910
+Title: Design of Landscapes
+Description: Introductory survey of the history and theory of planned human intervention in the material environment.  Critical themes, sites, and conditions across time, space, and scale, from the paradise garden to the contemporary megacity, are explored through weekly topical lectures, creative exercises, discussions, readings, and essays. Course culminates in an individual research project.
+
+Code: LA 6940
+Title: Special Topics in Landscape Architecture
+Description: Topical subjects in landscape architectural design, theory, history, or technology. Includes group study of topics not considered in other courses.
+
+Code: LA 7010
+Title: Urban Design and Planning
+Description: This studio explores the application of urban design and landscape urbanism techniques to the problems and opportunities of contemporary city making. The studio investigates the social, cultural, natural, and infrastructural systems of urban environments, and develops integrated spatial design strategies involving water quality, public space, and flooding infrastructure. The course introduces three-dimensional computer modeling and digital design media as tools for urban design.
+
+Code: LA 8900
+Title: Master's Thesis in Landscape Architecture
+Description: Independent research, under faculty guidance leading to the development of a comprehensive and defensible design or study related to the field of landscape architecture. Work is expected to be completed in final semester of enrollment.
+

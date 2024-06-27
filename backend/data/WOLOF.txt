@@ -1,0 +1,12 @@
+Code: WOLOF 1117
+Title: Elementary Wolof I
+Description: This course is a basic introduction to the Wolof language. It aims to build students' basic understanding of the sentence structure of the language. It combines written and oral practice based on major cultural aspects of traditional and modern Wolof society. These exercises will include production, listening comprehension, reading comprehension, and writing.
+
+Code: WOLOF 2118
+Title: Intermediate Wolof I
+Description: This course will further your awareness and understanding of the Wolof language and culture, as well as improve your mastery of grammar, writing skills, and oral skills. Course materials will incorporate various types of text including tales, cartoons, as well as multimedia such as films, videos, and audio recordings.
+
+Code: WOLOF 3113
+Title: Advanced Wolof I
+Description: This course will further your awareness and understanding of the Wolof language and culture and improve your mastery of grammar, writing skills, and oral expression. Course materials will incorporate various text types, including tales, poetry, literature, and multimedia such as films, videos, television, and radio. The instructor will provide all course materials. At the end of the course, you will be able to understand basic Wolof and make yourself understood in everyday situations.
+

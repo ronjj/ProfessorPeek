@@ -1,0 +1,68 @@
+Code: LSP 1250
+Title: Spanish for Heritage Speakers I
+Description: This low-intermediate course expands Heritage students' confidence and competence in Spanish by providing opportunities to build upon the conversational skills they have. Through literary texts, other readings, music, films and the visual arts students broaden their vocabulary, improve grammatical accuracy, develop writing skills and enrich their understanding of the cultures of the Spanish-speaking world. The heritage student grew up speaking Spanish and finished high school in the U.S.
+
+Code: LSP 2020
+Title: Spanish for Heritage Speakers
+Description: Designed to expand bilingual Heritage students' knowledge of Spanish by providing them with ample opportunities to develop and improve each of the basic language skills, with a particular focus on writing vocabulary. The heritage student has at least one parent of Hispanic origin and grew up speaking Spanish at home; s/he also finished high school here in the US. After this course, students may take SPAN 2095.
+
+Code: LSP 2100
+Title: Introduction to Latinx Studies
+Description: This course is an introduction to Latina/o Studies, an interdisciplinary field of knowledge production that focuses on historical, sociopolitical, cultural, and economic experiences of Latinx peoples in the United States—both as a nation and as a geopolitical location in a larger world. We will survey and analyze the arts, histories, cultures, politics, and sociological landscapes of Puerto Ricans, Dominican Americans, Cuban Americans, Mexican Americans, Central Americans, as well as other Latinx peoples who have made communities within the United States for centuries, and who are part of Latinx diasporas. Intersections of U.S. Latinx identities are also explored in this course by asking questions related to the fields housed within Latina/o Studies: How is Latina/o/x identity defined and performed? What does the use of an 'x' in Latinx mean or do? How do histories of race, class, gender, and sexuality in the U.S. impact one's Latina/o/x identity?  Many of these questions will be answered by using scholarship produced by the Latina/o Studies Program faculty at Cornell, familiarizing students with the breadth of research and expertise of program.
+
+Code: LSP 2253
+Title: Diasporas from the Spanish Caribbean
+Description: This seminar examines the Puerto Rican, Cuban, and Dominican diasporas in the United States. We will examine US relations with these three countries; the root causes of this Caribbean migration; their history in particular urban areas of the United States; and the political, social, and cultural issues that have attracted attention.
+
+Code: LSP 2400
+Title: Introduction to U.S. Latinx Literature
+Description: Latina/os have always been part of U.S. history, yet the media often represents Latinx as only recent immigrants or as stereotypes that reduce rich cultures into a single, unified category or group of people. This practice hides the many unique and varied voices, stories, experiences, and ideas produced by Latinx expressive practices in forms ranging from novels and poetry to podcasts, tiktoks, films, theater, comics, memoirs, visual arts, and dance. This course will sample all of these forms while considering how artists meditate on their experiences of home, friendship, languages, love, migration, education, racialization, within the contexts of histories of colonization, discrimination, war, invasion, revolution, and ongoing activist organizing for resistance, sustainability, and thriving futures. In addition to common material, students will also have the chance to explore specific expressive practices that interest them.
+
+Code: LSP 3010
+Title: Latinx Theatre Production
+Description: In this course, we will develop a toolbox of performance techniques based on methods developed in the Spanish-speaking and Latinx contexts. These techniques will be used in preparing short, original, collectively-created or scripted plays for production and public presentation in the October 2024 regional microtheater festival in upstate New York and/or the annual downtown Ithaca holiday pastorela in December.
+
+Code: LSP 3250
+Title: Vamos Pa'l Norte: U.S. Migration and Communication
+Description: Migrants are a heterogeneous group of people (the term "migrants" is used to encompass different immigrant communities). The reasons for relocating to the United States, or another country, the conditions under which they relocate, whether they are authorized to remain in a country, their cultural backgrounds, their ethnic/racial identities, their education level, their gender identity and sexual orientation, and their socio-economic status are merely a few factors that contribute to immigrants' diverse experiences. Thus, this course will introduce us to different frameworks, research, and practices that can help us understand the important role of communication in different, U.S., migration experiences. On the one hand, communication can help mitigate some of the social and structural barriers that migrants face in the United States and elsewhere. On the other hand, communication can also exacerbate or lead to educational, economic, and health inequities among migrants. We will consider both ways in which communication can function for migrant communities. Overall, migration: (1) is a diverse area of research that can incorporate intrapersonal, interpersonal, community, organizational, institutional, cultural, and policy levels of analysis; (2) is studied using a wide range of methodologies; and (3) is affected by a variety of communication channels. The readings and content of this course primarily focus on the experiences of Latina/o/x immigrant communities in the U.S.
+
+Code: LSP 3678
+Title: Diasporas, Disasters, and Dissent: Re-Thinking Puerto Rican Studies in the 20th and 21st Centuries
+Description: "Foreign in a domestic sense" is the perplexing way that the Supreme Court of the United States chose to define Puerto Rico's status in the so-called "Insular Cases" of the early 20th century. Written over 100 years ago, this contradictory ruling looms large over Puerto Rico's precarious legal standing, despite the fact that there are now more Puerto Ricans living on the US mainland than in the island itself. Seeking to counter the obfuscation of Puerto Rico in the US imaginary, in this course students will analyze how key historical, political, and social moments connected to diasporas, disasters, and dissent have galvanized Puerto Rican cultural production in the 20th and 21st centuries.
+
+Code: LSP 3770
+Title: Latinos and the United States, 1492-1880
+Description: In this course, we will answer two major questions: What is Latino history? And how should we write Latino History? We will explore these questions without attempting to cover all of Latino history before 1800. We will focus on a variety of experiences to better understand how differences in race, ethnicity, nationality, gender, sexual orientation, and class have shaped Latino communities over time. We will read academic journal articles and books (secondary sources) and documents from the past, such as diaries, letters, court records, and maps (primary sources). Throughout the semester we will be working in groups toward creating a final project: a Latino history website.
+
+Code: LSP 3810
+Title: Migration: Histories, Controversies, and Perspectives
+Description: This introductory course introduces students to issues and debates related to international migration and will provide an interdisciplinary foundation to understanding the factors that shape migration flows and migrant experiences. We will start by reviewing theories of the state and historical examples of immigrant racialization and exclusion in the United States and beyond. We will critically examine the notions of borders, citizenship/non-citizenship, and the creation of diasporas. Students will also hear a range of perspectives by exposing them to Cornell guest faculty who do research and teach on migration across different disciplines and methodologies and in different world areas. Examples include demographic researchers concerned with immigrant inequality and family formation, geographic perspectives on the changing landscapes of immigrant metropolises, legal scholarship on the rights of immigrant workers, and the study of immigrant culture from a feminist studies lens. Offered each fall semester.
+
+Code: LSP 4000
+Title: Contemporary Issues in Latin - Latino America
+Description: Interested in Latino Studies and Latin American Studies? This course will explore topics in Anthropology, Art, Economics, History, Literature, Government, Sociology, etc., of US Latino and Latin American contexts. Course features guest speakers from Cornell and other institutions.
+
+Code: LSP 4210
+Title: Undergraduate Independent Study
+Description: Guided independent study.
+
+Code: LSP 4851
+Title: Refugees
+Description: Since World War II, over 4 million people have migrated to the United States as refugees. In this seminar we will examine some of these refugee migrations and the ways these migrations challenged our understanding of the United States as a "haven for the oppressed." We will examine the crafting of refugee/asylum policy, the role of nongovernmental actors in influencing policy, and the ways policy reflected foreign-policy interests and security concerns. The last weeks of the course will pay particular attention to climate refugees and asylum-seekers, and our changing definitions of who 'merits' protection in the United States.
+
+Code: LSP 6000
+Title: Contemporary Issues in Latin-Latino America
+Description: Interested in Latino Studies and Latin American Studies? This course will explore topics in Anthropology, Art, Economics, History, Literature, Government, Sociology, etc., of US Latino and Latin American contexts. Course features guest speakers from Cornell and other institutions.
+
+Code: LSP 6020
+Title: Latinx Theatre Production
+Description: In this course, we will develop a toolbox of performance techniques based on methods developed in the Spanish-speaking and Latinx contexts. These techniques will be used in preparing short, original, collectively-created or scripted plays for production and public presentation in the October 2024 regional microtheater festival in upstate New York and/or the annual downtown Ithaca holiday pastorela in December.
+
+Code: LSP 6210
+Title: Graduate Student Independent Study
+Description: Guided independent study.
+
+Code: LSP 6851
+Title: Refugees
+Description: Since World War II, over 4 million people have migrated to the United States as refugees. In this seminar we will examine some of these refugee migrations and the ways these migrations challenged our understanding of the United States as a "haven for the oppressed." We will examine the crafting of refugee/asylum policy, the role of nongovernmental actors in influencing policy, and the ways policy reflected foreign-policy interests and security concerns. The last weeks of the course will pay particular attention to climate refugees and asylum-seekers, and our changing definitions of who 'merits' protection in the United States.
+

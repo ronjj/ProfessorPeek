@@ -1,0 +1,92 @@
+Code: BIOEE 1150
+Title: Techniques of Avian Specimen Preparation
+Description: This course has two main objectives: 1) to illustrate the diverse uses of natural history collections for research, teaching and conservation, and 2) to introduce students to the fine art of avian specimen preparation. Students will learn multiple specimen preparation techniques (skeletons, spread wings, and round skins) and will be required to prepare 20 round skins to receive course credit. Students will be evaluated on the quality of their specimens and on their participation in an in-class debate surrounding the value of natural history collections.
+
+Code: BIOEE 1540
+Title: Introductory Oceanography
+Description: This class relies more on intuitive reasoning rather than complicated mathematical formulas to convey basic concepts about how the ocean works. For this reason, the class is very accessible to non-science majors. The class covers standard material about how the ocean works, but also includes current environmental threats facing the ocean such as global warming, ocean acidification, overfishing and coastal pollution. Students will gain a depth of knowledge about the ocean and global warming to enable them to speak and write confidently about contemporary public issues regarding the health of the ocean, global warming and a sustainable future. This course satisfies the Physical and Biological Sciences (PBS) requirement for students in most colleges. For students in A&S and CALS, this course counts as "in-college" credit.
+
+Code: BIOEE 1560
+Title: Introductory Oceanography with Laboratory
+Description: This class relies more on intuitive reasoning rather than complicated mathematical formulas to convey basic concepts about how the ocean works. For this reason, the class is very accessible to non-science majors. The class covers standard material about how the ocean works, but also includes current environmental threats facing the ocean such as global warming, ocean acidification, overfishing and coastal pollution. Students will gain a depth of knowledge about the ocean and global warming to enable them to speak and write confidently about contemporary public issues regarding the health of the ocean, global warming and a sustainable future. This course satisfies the Physical and Biological Sciences (PBS) requirement for students in most colleges and the Introductory Life Sciences/Biological Sciences requirement for students in CALS. For students in A&S and CALS, this course counts as "in-college" credit. This course is suitable for non-life sciences majors.
+
+Code: BIOEE 1610
+Title: Introductory Biology: Ecology and the Environment
+Description: This course provides an introduction to ecology, covering interactions between organisms and the environment at scales of populations, communities, and ecosystems. Ecological principles are used to explore the theory and applications of major issues facing humanity in the 21st century, including population dynamics, disease ecology, biodiversity and invasive species, global change, and other topics of environmental sustainability.
+
+Code: BIOEE 1640
+Title: FWS: Topics in Ecology and Evolutionary Biology
+Description: The First-Year Writing Seminar provides the opportunity to write extensively about issues related to ecology and evolutionary biology. Topics vary by section.
+
+Code: BIOEE 1780
+Title: An Introduction to Evolutionary Biology and Diversity
+Description: Considers explanations for pattern of diversity and the apparent good fit of organisms to the environment. Topics include the diversity of life, the genetics and developmental basis of evolutionary change, processes at the population level, evolution by natural selection, modes of speciation, long-term trends in evolution, origin of humans.
+
+Code: BIOEE 1781
+Title: Introduction to Evolution and Diversity
+Description: Considers explanations for pattern of diversity and the apparent good fit of organisms to the environment. Topics include the diversity of life, the genetics and developmental basis of evolutionary change, processes at the population level, evolution by natural selection, modes of speciation, long-term trends in evolution, origin of humans.
+
+Code: BIOEE 3610
+Title: Advanced Ecology
+Description: This course provides an in depth survey of ecology emphasizing conceptual foundations and the integration of experimental and quantitative approaches, including population and community ecology, ecosystem biology, and ecological modeling. Current and classical ecological research is used to introduce major concepts and methods, derive major ecological principles, and critically discuss their applicability on multiple organizational levels, on multiple scales, and in a variety of ecosystems. Weekly discussion/lab sections focus on measurement techniques and computation (modeling, simulation and data analysis using the R language).
+
+Code: BIOEE 3611
+Title: Field Ecology
+Description: Exercises designed to give students direct experience with field research to address ecological hypotheses, with emphasis on developing observational skills and basic methods in population and community ecology. Topics include methods in plant succession, niche relationships, influence of herbivores and competitors on plant communities, aquatic food web analysis, use of scientific collections, and presenting research results in written and oral form. We will visit a diversity of habitats and natural areas in Central New York.  Students will conduct an independent research project and present their findings.
+
+Code: BIOEE 3730
+Title: Biodiversity and Biology of the Marine Invertebrates
+Description: Introduction to the biology, natural history, and evolution of the major invertebrate phyla, concentrating on marine representatives. In addition to the evolution of form and function, lectures cover aspects of ecology, behavior, physiology, chemical ecology, and current research. The discussion section will focus on current research papers with marine invertebrates.
+
+Code: BIOEE 3780
+Title: Digital Morphology through CT
+Description: This course is an introduction to CT visualization for its applications in comparative biology of the vertebrates. Students will learn and practice the exploration of vertebrate anatomy with OSIRIX 3-D visualization software or its future replacement; work on student-designed projects and/or a large survey of the vertebrates based on CT scans from specimens in the Cornell museum as well as the Smithsonian and other museums around the world.
+
+Code: BIOEE 4550
+Title: Insect Ecology
+Description: You will learn to think like an ecologist by studying the fundamental principles of insect ecology and the types of questions ecologists ask, seeing how ecology can be used to understand and solve environmental problems, and putting this knowledge into action during group activities in the lab and field.
+
+Code: BIOEE 4570
+Title: Limnology: Ecology of Lakes, Lectures
+Description: Limnology is the study of inland freshwaters, which includes lakes, ponds, reservoirs, rivers, streams, and wetlands. This course focuses on lakes and ponds, and examines their physical, chemical, and biological properties. A lake's physical (e.g., size, light, temperature, mixing) and chemical (elements and compounds) structure directly affects aquatic organisms in terms of species abundance, diversity, and interactions. Organisms in turn influence their physical and chemical environment. This class will introduce students to fundamental concepts in limnology, which we will build upon to examine real-world challenges facing freshwater ecosystems (e.g., eutrophication, invasive species, climate change).
+
+Code: BIOEE 4571
+Title: Limnology: Ecology of Lakes, Laboratory
+Description: Laboratories and field trips devoted to studies of the biological, chemical, and physical properties of lakes and other freshwater environments. Exercises focus on understanding the freshwater environment, on experimentation, and on understanding ecological processes within lakes.
+
+Code: BIOEE 4760
+Title: Ichthyology: Biology of Fishes, Lectures
+Description: Introduction to the systematic study of fossil and living fishes: their anatomy, physiology and functional morphology, behavior, ecology, diversity, evolution, classification, and identification. Emphasizes marine fishes from different habitats (temperate, tropical coral reef, intertidal, and deep sea), local freshwater species, and interesting freshwater fishes from around the world, especially South America, Africa and Australia.
+
+Code: BIOEE 4761
+Title: Ichthyology: Biology of Fishes, Laboratory
+Description: Laboratory course covering topics presented in BIOEE 4760. Two field trips, including one full-day weekend trip required. Live animals are studied in the field and are sometimes used in the laboratory for nondestructive demonstrations or experiments. The systematics and dissection laboratories use preserved specimens.
+
+Code: BIOEE 4980
+Title: Teaching Experience
+Description: Designed to give qualified undergraduate students teaching experience through actual involvement in planning and assisting in biology courses. This experience may include supervised participation in a discussion group, assisting in a biology laboratory, assisting in field biology, or tutoring.
+
+Code: BIOEE 6900
+Title: Seminar in Ecology and Evolution of Infectious Diseases
+Description: Graduate-level discussion of the ecology, epidemiology, genetics, and evolution of infectious disease in animal and plant systems. Weekly discussion of research papers published in the primary scientific literature. Participation in discussion and presentation of at least one paper required for course credit.
+
+Code: BIOEE 7600
+Title: Special Topics in Evolution and Ecology
+Description: Lectures and intensive study of special topics in the field of Ecology & Evolutionary Biology. Content varies each semester.
+
+Code: BIOEE 7640
+Title: Plant-Insect Interactions Seminar
+Description: Group intensive study of current research in plant-insect interactions. Topics vary from semester to semester but include chemical defense, coevolution, insect community structure, population regulation, biocontrol, tritrophic interactions, and mutualism.
+
+Code: BIOEE 7670
+Title: Current Topics in Ecology and Evolutionary Biology
+Description: Critical evaluation and discussion of theory and research in ecology and evolutionary biology. Lectures by faculty and student-led discussions of topics in areas of current importance.
+
+Code: BIOEE 7800
+Title: Graduate Seminar in Ornithology
+Description: Group intensive study of current research in ornithology built around a research seminar series covering a wide variety of projects and topics in ornithology and related disciplines, including avian ecology, evolution, conservation, behavior, and physiology. Each weekly seminar is followed by informal discussion and networking that builds connections among the large community of Cornell students and scholars with an interest in avian biology. All students with an interest in this subject area are welcome and deep knowledge of ornithology is not expected or required. Instructor permission is not required for enrollment.
+
+Code: BIOEE 9990
+Title: Ph.D. Dissertation Research
+Description: Dissertation research conducted by a Ph.D. student in the field of ecology and evolutionary biology with advice and consultation of a major professor who is a member of the field.
+

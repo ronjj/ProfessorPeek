@@ -1,0 +1,32 @@
+Code: WRIT 1001
+Title: Academic Writing Workshop
+Description: This academic writing workshop is designed for students who have faced significant challenges meeting the expectations of college-level writing. Students will explore what it means to read and meaningfully engage with scholarly texts and to develop an academic inquiry. WRIT 1001 provides a small-scale learning environment for students to learn and practice strategies for drafting and revising and for producing clear and precise academic prose.
+
+Code: WRIT 1037
+Title: Tutorial in Academic Writing
+Description: This writing tutorial is designed for undergraduate students who need more focused attention to master the expectations of academic writing. The course emphasizes the analytic and argumentative writing and critical reading essential for university-level work.
+
+Code: WRIT 1370
+Title: FWS: Elements of Academic Writing
+Description: Join this course to study the essential elements of academic writing and to learn flexible and sustainable strategies for producing interesting, clear, and precise academic prose that can address a variety of audiences and meet diverse rhetorical aims. WRIT 1370/WRIT 1380 is a smaller FWS (capped at 12 students) that spends more time navigating the steps in the writing process in order to respond to each student's individual needs and build confidence and reflective practice. As in all FWSs, students practice higher-order thinking, close reading, and analyzing evidence. They also complete 4-5 major writing assignments. This course places greater emphasis on in-class writing, one-on-one conferences with the teacher, peer workshopping, discussion, and learning to talk about how different types of writing work. Students will deeply engage diverse course materials (journalism, scholarly articles, podcasts, films, etc.) on topics like art, literature, and relevant social issues to explore ideas about a text, write for specific audiences, and develop creativity, style and voice.  Follow this link for more information: WRIT 1370/80 - Elements of Academic Writing.
+
+Code: WRIT 1390
+Title: Special Topics in Writing
+Description: This course provides the opportunity for students to resolve significant writing challenges that have interfered with their academic progress. Students must have ongoing writing projects on which to work. Instruction is in weekly tutorials. Interested students should go to 174 Rockefeller for more information.
+
+Code: WRIT 1420
+Title: FWS: Research and Rhetoric
+Description: Drawing upon personal or academic experiences and interests, students select their own topics and design research portfolios that highlight significant analytic research. To do this, students step through the Cornell Library gateway and receive a semester-long guided tour through one of the world's most amazing research libraries––its vast search engines, its abundant print and electronic collections, its precious special collections and archives. This introduction to college research explores using data bases, evaluating information, and engaging both to produce effective academic writing. Students will study techniques of analysis for converting scholarly information into a thesis, synthesizing and acknowledging sources, developing voice and style, and crafting technically and rhetorically sophisticated prose.
+
+Code: WRIT 1450
+Title: FWS: Communicating Big Ideas: Climate Change Rhetoric
+Description: Record heat and historic floods, epic droughts and raging wildfires. These are just a few examples of how the world is changing due to anthropogenic (or human-induced) climate change. In this class we will read and write about issues of environmental justice from different genres and disciplinary perspectives. Some of the questions we will address include: how scientists talk to policy makers, how young people connect to the natural world and each other, how indigenous people make use of traditional knowledge to keep the land in balance, and how people across the globe speak out for climate justice.
+
+Code: WRIT 7100
+Title: Teaching Writing
+Description: This course prepares graduate instructors of Cornell's First-Year Writing Seminars to teach courses that both introduce undergraduates to particular fields of study and help them develop writing skills they will need throughout their undergraduate careers. Seminar discussions and readings on pedagogical theories and practices provide an overview of the teaching of writing within a disciplinary context. Participants develop written assignments to be used in their own First-Year Writing Seminars.
+
+Code: WRIT 7101
+Title: Writing in the Majors Seminar
+Description: Teaching assistants assigned to Writing in the Majors projects enroll in a six-week course on teaching strategies in advanced instruction.
+

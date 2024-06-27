@@ -1,0 +1,104 @@
+Code: VIEN 1104
+Title: Introduction to Wines and Vines
+Description: Broad introduction to grape cultivation and wine fermentations. Topics include history of winemaking, viticultural regions, vineyard and winery practices, wine flavor chemistry and microbiology, and wine flavor perception. Tasting wines in class illustrates the components that determine wine quality.
+
+Code: VIEN 2204
+Title: Principles and Practices of Growing Grapes and Making Wines
+Description: Viticulture and enology principles and practices, emphasizing cool climate production. Course examines environmental factors affecting grape production and quality, soils, and anatomical and physiological bases for vineyard management decision-making. All aspects of winemaking are covered, from harvest decisions to bottling, with concentration on practices through fermentation completion. Students research viticultural & enological options, and make all decisions for a particular wine region and style. Course requires significant work outside of class sessions, with most topics presented as flipped sessions (lectures outside of class and learning activities during class sessions).&nbsp;This course is suitable for non-life sciences majors.
+
+Code: VIEN 2205
+Title: Growing Grapes and Making Wines Laboratory
+Description: Field trips, vineyard and winery work provide opportunities for application of knowledge gained in Grapes to Wines lecture course. Students will produce a wine, from grape harvest determination to cold stabilization. Some winery activities between laboratory sessions plus a two-day field trip expected.
+
+Code: VIEN 2310
+Title: The Science and Technology of Beer
+Description: This course uses beer and brewing science as a starting point to explore topics in fermentation biology, food chemistry, food processing, and sensory perception. Students will learn to recognize the major sensory and chemical features that distinguish different beer styles or defects, and understand how raw materials and choices during production lead to these outcomes. Several guest lectures, including brewers and producers of raw materials, will also be included.
+
+Code: VIEN 3610
+Title: Vineyard Management I
+Description: This course is designed to develop the relevant skills required for pre-harvest, harvest, and post-harvest management in a winegrape vineyard. Focused on hands-on, active learning, students will spend significant time in the Cornell University vineyards.
+
+Code: VIEN 4310
+Title: The Science and Technology of Beer Laboratory
+Description: An introduction to the practical application of brewing. Students will make several different styles of beer in a laboratory setting to understand how raw materials and processing technologies influence the production of recognizable beer styles. Emphasis will be placed on sanitation, raw material selection, yeast selection, and the manipulation of process variables to control product outcomes. Students will also learn the alternatives in current practice for finishing, carbonation, and packaging.
+
+Code: VIEN 4400
+Title: Wine and Grape Flavor Chemistry
+Description: Uses a (bio)-chemical perspective to investigate viticulture and enological factors that impact flavor and other quality attributes (mouthfeel, color, stability) of wine and wine grapes.
+
+Code: VIEN 4460
+Title: Advanced Viticulture Topics
+Description: This course is designed to delve in-depth into the scientific literature that should drive decision making in vineyard production systems. We will critically evaluate studies from around the world and discuss their applicability to winegrape production systems in a range of climates.
+
+Code: VIEN 4500
+Title: Advanced Winemaking Theory and Practice I
+Description: Provides an in-depth study of the chemical, physical, technological, microbiological and regulatory fundamentals of winemaking. Concentration is on grape and must handling, juice adjustments and treatments, diverse production methods and wine styles, and regulatory compliance. Equipment used in grape processing and wine production is studied. Course builds on previous winemaking course material regarding grape processing and alcoholic and malolactic fermentation.
+
+Code: VIEN 4510
+Title: Advanced Winemaking Theory and Practice I Laboratory
+Description: Students will produce, monitor, and evaluate diverse wine styles from several grape varieties using different vinification techniques. The laboratory includes introductory lectures, grape handling and vinification using various equipment and production methods, and emphasizes good production practices including sanitation. Students must develop their own winemaking plan for several different grape varieties, and participate in self-guided wine production activities, thus previous experience in wine production is highly recommended.
+
+Code: VIEN 4650
+Title: Wine Microbiology
+Description: Microbes are all around us affecting almost every aspect of our lives. This course focuses on the roles that microbes play in the production and spoilage of wine. Wine microbiology is a 3 credit course (2 lecture credits, 1 laboratory credit).
+
+Code: VIEN 4940
+Title: Special Topics in Viticulture and Enology
+Description: The VIEN teaching program teaches "trial" courses under this number. Offerings vary by semester and are advertised by the department before the semester starts. Courses offered under the number will be approved by the department curriculum committee, and the same course is not offered more than twice under this number.
+
+Code: VIEN 4960
+Title: Viticulture and Enology Internship
+Description: Internships provide experiential learning opportunities in real-life winery and vineyard circumstances where classroom knowledge is applied and evaluated. Students are able to master new skills, compare pilot-scale with commercial-scale winemaking practices, solve problems, interact in workplace situations, and build networks for future career opportunities. While working with industry mentors, students apply classroom knowledge, critical thinking, and self-directed learning skills to work effectively. Learning contract and documentation required for credit. May be taken twice.
+
+Code: VIEN 4970
+Title: Individual Study in Viticulture and Enology
+Description: Undergraduate individual study in viticulture and enology under the direction of one or more faculty members. Since topics vary, the course may be repeated for credit.
+
+Code: VIEN 4980
+Title: Undergraduate Teaching Experience
+Description: Students assist in teaching a course appropriate to their previous training and experience. TA duties are determined by student and instructor(s) of course. Since topics vary, the course may be repeated for credit.
+
+Code: VIEN 4990
+Title: Undergraduate Research in Viticulture and Enology
+Description: Undergraduate individual study or research in viticulture and enology under the direction of one or more faculty members. Since topics vary, the course may be repeated for credit.
+
+Code: VIEN 5204
+Title: Principles and Practices of Growing Grapes and Making Wines
+Description: Viticulture and enology principles and practices, emphasizing cool climate production. Course examines environmental factors affecting grape production and quality, soils, and anatomical and physiological bases for vineyard management decision-making. All aspects of winemaking are covered, from harvest decisions to bottling, with concentration on practices through fermentation completion. Students research viticultural & enological options, and make all decisions for a particular wine region and style. Course requires significant work outside of class sessions, with most topics presented as flipped sessions (lectures outside of class and learning activities during class sessions).
+
+Code: VIEN 5205
+Title: Growing Grapes and Making Wines Graduate Laboratory
+Description: Field trips, vineyard and winery work provide opportunities for application of knowledge gained in Grapes to Wines lecture course. Students will produce a wine, from grape harvest determination to cold stabilization. Some winery activities between laboratory sessions plus a two-day field trip expected.
+
+Code: VIEN 5310
+Title: The Science and Technology of Beer
+Description: This course uses beer and brewing science as a starting point to explore topics in fermentation biology, food chemistry, food processing, and sensory perception. Students will learn to recognize the major sensory and chemical features that distinguish different beer styles or defects, and understand how raw materials and choices during production lead to these outcomes. Several guest lectures, including brewers and producers of raw materials, will also be included.
+
+Code: VIEN 5500
+Title: Advanced Winemaking Theory and Practice I
+Description: Provides an in-depth study of the chemical, physical, technological, microbiological and regulatory fundamentals of winemaking. Concentration is on grape and must handling, juice adjustments and treatments, diverse production methods and wine styles, and regulatory compliance. Equipment used in grape processing and wine production is studied. Course builds on previous winemaking course material regarding grape processing and alcoholic and malolactic fermentation.
+
+Code: VIEN 5510
+Title: Advanced Winemaking Theory and Practice I Laboratory
+Description: Students will produce, monitor, and evaluate diverse wine styles from several grape varieties using different vinification techniques. The laboratory includes introductory lectures, grape handling and vinification using various equipment and production methods, and emphasizes good production practices including sanitation.
+
+Code: VIEN 5610
+Title: Vineyard Management I
+Description: This course is designed to develop the relevant skills required for pre-harvest, harvest, and post-harvest management in a winegrape vineyard. Focused on hands-on, active learning, students will spend significant time in the Cornell University vineyards.
+
+Code: VIEN 5650
+Title: Wine Microbiology
+Description: Microbes are all around us affecting almost every aspect of our lives. This course focuses on the roles that microbes play in the production and spoilage of wine. Wine microbiology is a 3 credit course (2 lecture credits, 1 laboratory credit).
+
+Code: VIEN 6310
+Title: The Science and Technology of Beer Laboratory
+Description: An introduction to the practical application of brewing. Students will make several different styles of beer in a laboratory setting to understand how raw materials and processing technologies influence the production of recognizable beer styles. Emphasis will be placed on sanitation, raw material selection, yeast selection, and the manipulation of process variables to control product outcomes. Students will also learn the alternatives in current practice for finishing, carbonation, and packaging.
+
+Code: VIEN 6400
+Title: Wine and Grape Flavor Chemistry
+Description: Uses a (bio)-chemical perspective to investigate viticulture and enological factors that impact flavor and other quality attributes (mouthfeel, color, stability) of wine and wine grapes.
+
+Code: VIEN 6460
+Title: Advanced Viticulture Topics
+Description: This course is designed to delve in-depth into the scientific literature that should drive decision making in vineyard production systems. We will critically evaluate studies from around the world and discuss their applicability to winegrape production systems in a range of climates.
+

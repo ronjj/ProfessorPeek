@@ -1,0 +1,12 @@
+Code: NMI 5040
+Title: Johnson Leadership Fellows
+Description: This class teaches advanced leadership and coaching skills to Johnson Leadership Fellows as they, in their role as JLFs, guide first-year Core teams.  Through this course, JLFs will develop skills for team coaching as well as hone personal leadership skills, influencing, effective feedback, listening, conflict resolution, and individual and team resilience skills.  In addition the course serves as a confidential forum in which to process specific challenges that arise in the Core teams that the JLFs are coaching.
+
+Code: NMI 5090
+Title: Big Red MicroEnterprise
+Description: Big Red Microenterprise (BRM) is a student-managed, experiential learning opportunity overseen by the Center for Sustainable Global Enterprise where graduate student coaches work with promising, but underserved, entrepreneurs in the local community to support inclusive wealth creation and economic development. Launched in 2009, BRM is a unique program which allows students to develop critical general management skills through engagement of real local companies that face acute operational and financial challenges which cut across all business functions. NOTE: BRM managers earn 3 credits per term; BRM coaches earn .5 credits per term.
+
+Code: NMI 5570
+Title: Exchange Prog London Sch Econ
+Description: No description available.
+

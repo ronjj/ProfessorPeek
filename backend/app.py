@@ -1,21 +1,18 @@
-from flask import Flask, request, jsonify, make_response
+from flask import Flask, request, make_response
 import requests
-import os
 import json
+import chromadb
+import os
 from flask_cors import CORS
 from fuzzywuzzy import fuzz
-import os
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+from llama_index.core import VectorStoreIndex, SimpleDirectoryReader,StorageContext
 from llama_index.core.prompts import PromptTemplate
-import chromadb
 from llama_index.vector_stores.chroma import ChromaVectorStore
-from llama_index.core import StorageContext
-from openai import OpenAI
+import helper
 
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 db = chromadb.PersistentClient(path="./chroma_db")
 chroma_collection = db.get_or_create_collection("quickstart")
-
 
 # Initialise Flask App
 app = Flask(__name__)
@@ -247,8 +244,8 @@ def query_index():
         {"response_synthesizer:refine": custom_prompt_template}
     )
     response = query_engine.query(f"{question}. The response should be in the format: (Course Code) Course Title: Course Description")
-    # MARK: need to do further sanitization of the response to make sure it's at the level the user indicated
-    resp = make_response(str(response)), 200
+    json_response = helper.convert_to_json(str(response))
+    resp = make_response(json_response), 200
     # resp.headers['Access-Control-Allow-Origin'] = '*'
     return resp
   except Exception as e:

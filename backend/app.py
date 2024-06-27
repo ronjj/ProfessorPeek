@@ -6,6 +6,7 @@ from flask_cors import CORS
 from fuzzywuzzy import fuzz
 import os
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+from llama_index.core.prompts import PromptTemplate
 
 from openai import OpenAI
 
@@ -201,18 +202,38 @@ def get_rate_my_professor_score(last_name, first_name):
 @app.route("/query", methods=["GET"])
 def query_index():
   try:
-    # Get the user question from ?question="text here"
+     # Get the user question from ?question="text here"
     question = request.args.get('question')
+
+    # Set custom template for how to answer questions
+    # custom_prompt_template = PromptTemplate(
+    #   f""" 
+    #   You are an assistant for question-answering tasks. 
+    #   Use the following pieces of retrieved context to answer the question. 
+    #   If you don't know the answer, just say that you don't know.
+
+    #   Responses should be in the format: 
+    #   (Course Code) Course Title: Course Description
+
+    #   Question: {question}
+    #   Context: You have been given hundreds of text files containing all the Cornell courses for the current semester.
+    # """
+    # )
+
     # Basic Lllama Inddex Setup
     documents = SimpleDirectoryReader("data").load_data()
     index = VectorStoreIndex.from_documents(documents)
     query_engine = index.as_query_engine()
-    response = query_engine.query(f"{question}. Provide the course titles, code, descriptions based only on retrieved information.The format should be: (Course Code) Course Title: Course Description.  ")
+    # query_engine.update_prompts(
+    #     {"response_synthesizer:text_qa_template": custom_prompt_template}
+    # )
+    response = query_engine.query(question)
     # MARK: need to do further sanitization of the response to make sure it's at the level the user indicated
-    resp = make_response(jsonify(response)), 200
-    resp.headers['Access-Control-Allow-Origin'] = '*'
+    resp = make_response(str(response)), 200
+    # resp.headers['Access-Control-Allow-Origin'] = '*'
     return resp
   except Exception as e:
+    print(e)
     return error_message(f"An error occurred: {e}", 500)
   
 def _build_cors_preflight_response():

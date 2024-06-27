@@ -1,8 +1,8 @@
 import React, { useState } from "react"
 
-import Bookmarks from "./bookmarks"
-import Checklist from "./checklist"
-import Resources from "./resources"
+import Bookmarks from "./components/bookmarks"
+import Checklist from "./components/checklist"
+import Resources from "./components/resources"
 
 import "./popup.css"
 

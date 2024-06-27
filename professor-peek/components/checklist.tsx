@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 
-import "./Checklist.css"
+import "./component-styles/checklist.css"
 
 const Checklist = () => {
   const [items, setItems] = useState([])

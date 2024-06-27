@@ -4,7 +4,12 @@ import os
 import json
 from flask_cors import CORS
 from fuzzywuzzy import fuzz
+import os
+from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 
+from openai import OpenAI
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 # Initialise Flask App
 app = Flask(__name__)
@@ -193,6 +198,23 @@ def get_rate_my_professor_score(last_name, first_name):
     else:
         return error_message("Method not allowed", 405)
         
+@app.route("/query", methods=["GET"])
+def query_index():
+  try:
+    # Get the user question from ?question="text here"
+    question = request.args.get('question')
+    # Basic Lllama Inddex Setup
+    documents = SimpleDirectoryReader("data").load_data()
+    index = VectorStoreIndex.from_documents(documents)
+    query_engine = index.as_query_engine()
+    response = query_engine.query(f"{question}. Provide the course titles, code, descriptions based only on retrieved information.The format should be: (Course Code) Course Title: Course Description.  ")
+    # MARK: need to do further sanitization of the response to make sure it's at the level the user indicated
+    resp = make_response(jsonify(response)), 200
+    resp.headers['Access-Control-Allow-Origin'] = '*'
+    return resp
+  except Exception as e:
+    return error_message(f"An error occurred: {e}", 500)
+  
 def _build_cors_preflight_response():
     response = make_response()
     response.headers.add("Access-Control-Allow-Origin", "*")
@@ -203,4 +225,5 @@ def _build_cors_preflight_response():
 # Run Server
 if __name__ == '__main__':
     app.run (app.run(debug=True))
+    
    

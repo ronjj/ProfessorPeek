@@ -1,0 +1,47 @@
+.finder-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.finder-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.finder-input {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+}
+
+.finder-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.finder-button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+.loading-icon {
+    margin-top: 20px;
+}
+
+.results-container {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.result-item {
+    margin-bottom: 20px;
+}

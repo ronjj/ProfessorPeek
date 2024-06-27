@@ -1,18 +1,14 @@
 from flask import Flask, request, make_response
 import requests
 import json
-import chromadb
 import os
 from flask_cors import CORS
 from fuzzywuzzy import fuzz
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader,StorageContext
 from llama_index.core.prompts import PromptTemplate
-from llama_index.vector_stores.chroma import ChromaVectorStore
 import helper
 
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-db = chromadb.PersistentClient(path="./chroma_db")
-chroma_collection = db.get_or_create_collection("quickstart")
 
 # Initialise Flask App
 app = Flask(__name__)
@@ -203,30 +199,13 @@ def get_rate_my_professor_score(last_name, first_name):
 @app.route("/query", methods=["GET"])
 def query_index():
   try:
-    # initialize client
-    db = chromadb.PersistentClient(path="./chroma_db")
-    # get collection
-    chroma_collection = db.get_or_create_collection("quickstart")
     # assign chroma as the vector_store to the context
-    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
-    storage_context = StorageContext.from_defaults(vector_store=vector_store)
     documents = SimpleDirectoryReader("data").load_data()
-
-    try:
-        # load your index from stored vectors
-      index = VectorStoreIndex.from_vector_store(
-      vector_store, storage_context=storage_context)
-        
-    except Exception as e:
-      #  create index from documents. Run this the first time to create the index
-      index = VectorStoreIndex.from_documents(
-      documents, storage_context=storage_context)
-
      # Get the user question from ?question="text here"
     question = request.args.get('question')
     # Basic Lllama Inddex Setup
     # Non persistent index
-    # index = VectorStoreIndex.from_documents(documents)
+    index = VectorStoreIndex.from_documents(documents)
     query_engine = index.as_query_engine()
     # Set custom template for how to answer questions
     custom_prompt_template =(

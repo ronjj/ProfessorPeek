@@ -213,25 +213,19 @@ def query_index():
     query_engine = index.as_query_engine()
     # Set custom template for how to answer questions
     custom_prompt_template =(
-      f""" 
-      You are an assistant for question-answering tasks. 
-      Use the following pieces of retrieved context to answer the question. 
-      If you don't know the answer, just say that you don't know. But, try you're best to 
-      answer the question.
-
-      Responses should be in the format: 
-      (Course Code) Course Title: Course Description
-
-      Question: {question}
-      Context: You have been given hundreds of text files containing all the Cornell University courses for the current semester.
-    """
+      "You are an assistant for question-answering tasks. \n"
+      "Use the following pieces of retrieved context to answer the question. \n"
+      "If you don't know the answer, just say that you don't know. But, try you're best to answer the question as detailed as possible. \n"
+      "Context: You have been given hundreds of text files containing all the Cornell University courses for the current semester."      
+      "Question: {question}\n"
+      "Answer: "
     )
 
     custom_prompt_template = PromptTemplate(custom_prompt_template)
     query_engine.update_prompts(
         {"response_synthesizer:refine": custom_prompt_template}
     )
-    response = query_engine.query(question)
+    response = query_engine.query(f"{question}. The response should be in the format: (Course Code) Course Title: Course Description")
     # MARK: need to do further sanitization of the response to make sure it's at the level the user indicated
     resp = make_response(str(response)), 200
     # resp.headers['Access-Control-Allow-Origin'] = '*'

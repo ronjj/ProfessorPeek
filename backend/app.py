@@ -159,7 +159,6 @@ def get_rate_my_professor_score(last_name, first_name):
           # iterate over response from RateMyProfessor. If there is an exact match, return the rating
           # else, I keep track of all the professors names and similarity ratio then return. If the ratio has a match over 40, I return it,
           # else, there is no professor
-
           for index in range(0, len(edges)):
             # Make sure it's the right professor
             print(edges[index]['node']['firstName'].lower(), first_name.lower(), edges[index]['node']['lastName'].lower(), last_name.lower())

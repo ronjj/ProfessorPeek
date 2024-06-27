@@ -204,9 +204,6 @@ def query_index():
   try:
      # Get the user question from ?question="text here"
     question = request.args.get('question')
-
-
-
     # Basic Lllama Inddex Setup
     documents = SimpleDirectoryReader("data").load_data()
     index = VectorStoreIndex.from_documents(documents)

@@ -286,10 +286,9 @@ export async function processCourseNames() {
         }
     }
   }
-  
 
   
-  function toggleCourseSections() {
+function toggleCourseSections() {
     console.log("------------------Toggling Course Sections");
     // Toggle Sections
     var sections = document.querySelectorAll('div.sections');
@@ -338,7 +337,7 @@ export async function processCourseNames() {
         });
   }
   
-  function backToTop() {
+function backToTop() {
     var sections = document.querySelectorAll('div.home');
   
     // Create an a href element

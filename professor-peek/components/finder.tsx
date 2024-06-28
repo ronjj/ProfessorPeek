@@ -21,7 +21,7 @@ const Finder: React.FC = () => {
     try {
       // MARK: Fix endpoint
       const response = await fetch(
-        `https://professorpeek.onrender.com/?question=${query}`
+        `https://professorpeek.onrender.com/query?question=${query}`
       )
       const data = await response.json()
       setResults(data)

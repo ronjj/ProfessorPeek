@@ -1,7 +1,7 @@
 {
   "name": "professor-peek",
   "displayName": "Professor Peek",
-  "version": "0.0.1",
+  "version": "1.9.0",
   "description": "Professor Peek adds the RateMyProfessor rating and CUReviews rating to the course catalog",
   "author": "Ronald Jabouin Jr",
   "scripts": {
@@ -26,6 +26,9 @@
   "manifest": {
     "host_permissions": [
       "https://*/*"
-    ]
+    ],
+    "permissions": [
+      "activeTab"
+  ]
   }
 }

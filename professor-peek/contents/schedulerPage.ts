@@ -102,6 +102,7 @@ const courseRatingDict = {};
 }
 
 let modalCheckInterval;
+let modalCount = 0;
 function checkForModal() {
     const modal = document.querySelector('div[uib-modal-window="modal-window"]');
     
@@ -109,8 +110,11 @@ function checkForModal() {
         console.log("Modal found:", modal);
         clearInterval(modalCheckInterval); // Stop checking while the modal is open
         getStaffNames();
-        processCourseNames();
+        if (modalCount !== 0) {
+            processCourseNames();
+        }
         watchModalClose(modal);
+        modalCount++;
     } else {
         console.log("Modal not found.");
     }

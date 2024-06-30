@@ -494,20 +494,20 @@ function backToTop() {
   
   function watchForClassListing() {
           const classListing = document.querySelector('div.class-listing');
-          if (classListing) {
+          if (classListing && document.querySelector('p.selectedOption') === null) {
               processCourseNames();
               getStaffNames();
               backToTop();
               toggleCourseSections();
               makeFilter();
+            //   console.log(window.location.toString())
           }
           else {
-              setTimeout(() => watchForClassListing(), 1000);
+              setTimeout(() => watchForClassListing(), 5000);
               // console.log("waiting for class-listing");
           }
   }
   
-  watchForClassListing();
   
   async function makeFilter() {
     
@@ -750,3 +750,9 @@ function backToTop() {
           console.error(error.message);
         }
       }
+
+      chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+        if (request.message === 'TabUpdated') {
+          watchForClassListing();
+        }
+      })

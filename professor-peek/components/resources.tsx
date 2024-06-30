@@ -74,6 +74,14 @@ export const Resources = () => {
               </li>
               <li>
                 <a
+                  href="https://classes.cornell.edu/syllabi-landing/roster/FA24/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Find Class Syllabi
+                </a>
+              </li>
+              <li>
+                <a
                   href="https://www.cureviews.org/"
                   target="_blank"
                   rel="noopener noreferrer">

@@ -18,39 +18,40 @@ const App = () => {
       //   return <Checklist />
       // case "Bookmarks":
       //   return <Bookmarks />
-      case "Finder":
-        return <Finder />
+      // case "Finder":
+      //   return <Finder />
       default:
         return <Resources />
     }
   }
 
   return (
-    <div className="app-container">
-      <div className="tab-menu">
-        <span
-          className={activeTab === "Resources" ? "active" : ""}
-          onClick={() => setActiveTab("Resources")}>
-          Resources
-        </span>
-        {/* <span
-          className={activeTab === "Checklist" ? "active" : ""}
-          onClick={() => setActiveTab("Checklist")}>
-          Checklist
-        </span>
-        <span
-          className={activeTab === "Bookmarks" ? "active" : ""}
-          onClick={() => setActiveTab("Bookmarks")}>
-          Bookmarks
-        </span> */}
-        <span
-          className={activeTab === "Finder" ? "active" : ""}
-          onClick={() => setActiveTab("Finder")}>
-          Finder
-        </span>
-      </div>
-      <div className="component-container">{renderComponent()}</div>
-    </div>
+    <Resources />
+    // <div className="app-container">
+    //   <div className="tab-menu">
+    //     <span
+    //       className={activeTab === "Resources" ? "active" : ""}
+    //       onClick={() => setActiveTab("Resources")}>
+    //       Resources
+    //     </span>
+    //     <span
+    //       className={activeTab === "Checklist" ? "active" : ""}
+    //       onClick={() => setActiveTab("Checklist")}>
+    //       Checklist
+    //     </span>
+    //     <span
+    //       className={activeTab === "Bookmarks" ? "active" : ""}
+    //       onClick={() => setActiveTab("Bookmarks")}>
+    //       Bookmarks
+    //     </span>
+    //     <span
+    //       className={activeTab === "Finder" ? "active" : ""}
+    //       onClick={() => setActiveTab("Finder")}>
+    //       Finder
+    //     </span>
+    //   </div>
+    //   <div className="component-container">{renderComponent()}</div>
+    // </div>
   )
 }
 

@@ -3,9 +3,8 @@ import "./component-styles/resources.css"
 export const Resources = () => {
   return (
     <>
-      <div>
+      <div className="resources-wrapper">
         <div className="resources-container">
-          <h2>Resources</h2>
           <div className="sub-header">
             <h3>General Resources</h3>
             <ul>
@@ -27,6 +26,16 @@ export const Resources = () => {
               <li>
                 <a href="https://www.ratemyprofessors.com/">
                   RateMyProfessor.com
+                </a>
+              </li>
+              <li>
+                <a href="https://classes.cornell.edu/scheduler/roster/FA24">
+                  Class Scheduler
+                </a>
+              </li>
+              <li>
+                <a href="https://classes.cornell.edu/browse/roster/FA24">
+                  Browse Classes
                 </a>
               </li>
               <li>
@@ -74,28 +83,29 @@ export const Resources = () => {
           </div>
         </div>
 
-        <div className="buttons-container">
-          <a
-            href="https://chromewebstore.google.com/detail/professorpeek/jilfmfcpampggogoeppklpbkkejnoglo"
-            className="button-link"
-            target="_blank"
-            rel="noopener noreferrer">
-            Leave A Review
-          </a>
-          <a
-            href="mailto:rj336@cornell.com"
-            className="button-link"
-            target="_blank"
-            rel="noopener noreferrer">
-            Contact Developer
-          </a>
+        <div className="buttons-footer-wrapper">
+          <div className="buttons-container">
+            <a
+              href="https://chromewebstore.google.com/detail/professorpeek/jilfmfcpampggogoeppklpbkkejnoglo"
+              className="button-link"
+              target="_blank"
+              rel="noopener noreferrer">
+              Leave A Review
+            </a>
+            <a
+              href="mailto:rj336@cornell.com"
+              className="button-link"
+              target="_blank"
+              rel="noopener noreferrer">
+              Contact Developer
+            </a>
+          </div>
+          <footer>
+            <p>
+              ProfessorPeek - Developed by Ronald Jabouin Jr - rj336@cornell.edu
+            </p>
+          </footer>
         </div>
-
-        <footer>
-          <p>
-            ProfessorPeek - Developed by Ronald Jabouin Jr - rj336@cornell.edu
-          </p>
-        </footer>
       </div>
     </>
   )

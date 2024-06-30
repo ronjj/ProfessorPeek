@@ -17,6 +17,8 @@ function checkCondition() {
 }
 const interval = setInterval(checkCondition, 1000);
 
+// Call the function to start observing
+observeButtonTextChange();
 
 async function checkAndLogElements() {
 const courseRatingDict = {};
@@ -143,4 +145,29 @@ function watchModalClose(modal) {
 modalCheckInterval = setInterval(checkForModal, 2000);  // Start the interval to check for the modal
 
 
-
+function observeButtonTextChange() {
+    const targetNode = document.querySelector('button.btn.btn-primary.dropdown-toggle.ng-binding');
+  
+    if (!targetNode) {
+      console.log('Target button not found.');
+      return;
+    }
+  
+    const config = { childList: true, characterData: true, subtree: true };
+  
+    const callback = function(mutationsList) {
+      for (let mutation of mutationsList) {
+        if (mutation.type === 'childList' || mutation.type === 'characterData') {
+          console.log('Button text changed:', targetNode.textContent.trim());
+          // Your code to run when the button text changes
+          // For example:
+          // updateScheduler();
+        }
+      }
+    };
+  
+    const observer = new MutationObserver(callback);
+  
+    observer.observe(targetNode, config);
+  }
+  

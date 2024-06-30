@@ -126,27 +126,32 @@ export async function getCUReviewsInfo(subject, courseNumber) {
     })
   
     const data = await response.json();
-    const classInfo = data.result; // Access the "result" property
-    const classDifficulty = classInfo.classDifficulty;
-    const classRating = classInfo.classRating;
-    const classWorkload = classInfo.classWorkload;
-    const classId = classInfo._id;
-  
-    const response_two = await fetch(`https://www.cureviews.org/api/getReviewsByCourseId`, {
-        method: "POST",
-        body: JSON.stringify({
-          courseId: classId,
-        }),
-        headers: {
-            "Content-type": "application/json; charset=UTF-8"
-        }
-    })
-  
-    const data_two = await response_two.json();
-    const num_reviews = data_two.result.length;
-    const review_preview = data_two.result.slice(0, 2);
-  
-    return [classDifficulty, classRating, classWorkload, num_reviews, review_preview];
+    try {
+        const classInfo = data.result; // Access the "result" property
+        const classDifficulty = classInfo.classDifficulty;
+        const classRating = classInfo.classRating;
+        const classWorkload = classInfo.classWorkload;
+        const classId = classInfo._id;
+      
+        const response_two = await fetch(`https://www.cureviews.org/api/getReviewsByCourseId`, {
+            method: "POST",
+            body: JSON.stringify({
+              courseId: classId,
+            }),
+            headers: {
+                "Content-type": "application/json; charset=UTF-8"
+            }
+        })
+      
+        const data_two = await response_two.json();
+        const num_reviews = data_two.result.length;
+        const review_preview = data_two.result.slice(0, 2);
+      
+        return [classDifficulty, classRating, classWorkload, num_reviews, review_preview];
+    } catch (error) {
+        console.error("getCUReviewsInfo: Error fetching CUReviews data:", error.message);
+        return [0, 0, 0, 0, []];
+    }
   }
   
   // Get Course Names, Get CUReviews Info, Add Data to Page

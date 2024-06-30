@@ -65,6 +65,7 @@ const courseRatingDict = {};
                     }
                 } catch (error){
                     console.error(`Error fetching course rating: for ${courseSubject} ${courseNumber}`, error);
+                    courseRating = 0.0;
                     continue;
                 }
                 

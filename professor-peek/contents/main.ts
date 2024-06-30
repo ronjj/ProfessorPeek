@@ -54,6 +54,7 @@ export async function getRateMyProfessorScore(professorLastName, professorFirstN
                                       firstName = nameAndNetID.split(" ")[0].toLowerCase();
                                       lastName = nameAndNetID.split(" ")[1].toLowerCase();
                                   }
+
                                   let rmpData = 0.0
                                   let rmp_link = ""
                                   let num_ratings = 0.0
@@ -80,6 +81,9 @@ export async function getRateMyProfessorScore(professorLastName, professorFirstN
                                 // Update professor name on page
                                 const originalText = tooltipElement.textContent;
                                 tooltipElement.innerHTML = `${originalText} - ${rmpData} (${num_ratings} Ratings)`;
+                                // change on click behavior on tooltipelement
+                                tooltipElement.style.cursor = "pointer";
+                                tooltipElement.onclick = function () { writeClipboardText(`${firstName} ${lastName}`); };
                                 tooltipElement.style.color = colorText(rmpData, false);
                                 if (rmp_link == "None") {
                                   const rmp_link_element = document.createElement("p"); // Create an <p> element
@@ -737,3 +741,12 @@ function backToTop() {
           }
       }
     }
+
+    async function writeClipboardText(text) {
+        try {
+            console.log("Copying to clipboard:", text);
+          await navigator.clipboard.writeText(text);
+        } catch (error) {
+          console.error(error.message);
+        }
+      }

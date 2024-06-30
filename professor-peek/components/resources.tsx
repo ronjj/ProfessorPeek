@@ -58,6 +58,22 @@ export const Resources = () => {
               </li>
               <li>
                 <a
+                  href="https://craft.cis.cornell.edu/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Find New Classes - CourseCrafter
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://pathways.cornell.edu/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Find New Classes - Pathways
+                </a>
+              </li>
+              <li>
+                <a
                   href="https://www.cureviews.org/"
                   target="_blank"
                   rel="noopener noreferrer">

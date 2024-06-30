@@ -6,19 +6,16 @@ export const config: PlasmoCSConfig = {
 
 import { getCUReviewsInfo, getStaffNames, processCourseNames } from "~contents/main"
 
-
 // Write a function that runs every 1 second to check if a condition is true. once the condition is true, stop the interval
 // and run the function that you want to run when the condition is true
 function checkCondition() {
     if (document.getElementsByClassName("expander ng-binding")) {
         clearInterval(interval);
         checkAndLogElements();
+        observeButtonTextChange();
     }
 }
 const interval = setInterval(checkCondition, 1000);
-
-// Call the function to start observing
-observeButtonTextChange();
 
 async function checkAndLogElements() {
 const courseRatingDict = {};
@@ -159,9 +156,9 @@ function observeButtonTextChange() {
       for (let mutation of mutationsList) {
         if (mutation.type === 'childList' || mutation.type === 'characterData') {
           console.log('Button text changed:', targetNode.textContent.trim());
-          // Your code to run when the button text changes
-          // For example:
-          // updateScheduler();
+        setTimeout(() => {
+            checkAndLogElements();
+        }, 1500);
         }
       }
     };

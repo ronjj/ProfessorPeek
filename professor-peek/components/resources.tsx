@@ -9,48 +9,82 @@ export const Resources = () => {
             <h3>General Resources</h3>
             <ul>
               <li>
-                <a href="https://registrar.cornell.edu/calendar/">
+                <a
+                  href="https://registrar.cornell.edu/calendar/"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Key Academic Dates
                 </a>
               </li>
               <li>
-                <a href="https://registrar.cornell.edu/academic-calendar">
+                <a
+                  href="https://registrar.cornell.edu/academic-calendar"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Academic Calendar
                 </a>
               </li>
               <li>
-                <a href="https://studentessentials.cornell.edu/">
+                <a
+                  href="https://studentessentials.cornell.edu/"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Student Center
                 </a>
               </li>
               <li>
-                <a href="https://www.ratemyprofessors.com/">
+                <a
+                  href="https://www.ratemyprofessors.com/"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   RateMyProfessor.com
                 </a>
               </li>
               <li>
-                <a href="https://classes.cornell.edu/scheduler/roster/FA24">
+                <a
+                  href="https://classes.cornell.edu/scheduler/roster/FA24"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Class Scheduler
                 </a>
               </li>
               <li>
-                <a href="https://classes.cornell.edu/browse/roster/FA24">
+                <a
+                  href="https://classes.cornell.edu/browse/roster/FA24"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Browse Classes
                 </a>
               </li>
               <li>
-                <a href="https://www.cureviews.org/">CUReviews</a>
+                <a
+                  href="https://www.cureviews.org/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  CUReviews
+                </a>
               </li>
               <li>
-                <a href="https://cuadd.org/">Track Classes - CUAdd</a>
+                <a
+                  href="https://cuadd.org/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Track Classes - CUAdd
+                </a>
               </li>
               <li>
-                <a href="https://apps.apple.com/tt/app/coursegrab/id1510823691?ign-mpt=uo%3D2">
+                <a
+                  href="https://apps.apple.com/tt/app/coursegrab/id1510823691?ign-mpt=uo%3D2"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Track Classes - CourseGrab
                 </a>
               </li>
               <li>
-                <a href="https://apps.apple.com/us/app/grabbit/id6450518666">
+                <a
+                  href="https://apps.apple.com/us/app/grabbit/id6450518666"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Track Classes - Grabbit
                 </a>
               </li>
@@ -60,22 +94,34 @@ export const Resources = () => {
             <h3>College Specific</h3>
             <ul>
               <li>
-                <a href="http://data.arts.cornell.edu/as-stus">
+                <a
+                  href="http://data.arts.cornell.edu/as-stus"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Arts and Science Checklist
                 </a>
               </li>
               <li>
-                <a href="https://dust.cals.cornell.edu">
+                <a
+                  href="https://dust.cals.cornell.edu"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   CALS and Dyson Checklist
                 </a>
               </li>
               <li>
-                <a href="https://checklists.coecis.cornell.edu/student_checklist.cfm">
+                <a
+                  href="https://checklists.coecis.cornell.edu/student_checklist.cfm"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   Comp, Info, and Data Sci Checklist
                 </a>
               </li>
               <li>
-                <a href="https://apps.engineering.cornell.edu/CourseEval/crseval/results/">
+                <a
+                  href="https://apps.engineering.cornell.edu/CourseEval/crseval/results/"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   College of Engineering Course Evals
                 </a>
               </li>

@@ -132,7 +132,7 @@ export async function getCUReviewsInfo(subject, courseNumber) {
     const data = await response.json();
     if (data.result === null || data.result === undefined) {
         console.log(`No CUReviews For: ${subject} ${courseNumber}`);
-        return [0, 0, 0, 0, []];
+        throw new Error(`No CUReviews For: ${subject} ${courseNumber}`);
     } else {
         try {
             const classInfo = data.result; // Access the "result" property

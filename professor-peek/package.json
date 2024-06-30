@@ -28,7 +28,6 @@
       "https://*/*"
     ],
     "permissions": [
-      "activeTab",
       "tabs",
       "clipboardWrite"
   ]

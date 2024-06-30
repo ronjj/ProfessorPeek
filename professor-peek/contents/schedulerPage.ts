@@ -109,9 +109,9 @@ function checkForModal() {
     if (modal) {
         console.log("Modal found:", modal);
         clearInterval(modalCheckInterval); // Stop checking while the modal is open
-        getStaffNames();
         if (modalCount !== 0) {
             processCourseNames();
+            getStaffNames();
         }
         watchModalClose(modal);
         modalCount++;

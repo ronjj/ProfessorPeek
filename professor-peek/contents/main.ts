@@ -204,7 +204,18 @@ export async function processCourseNames() {
                 const classInfoText = document.createElement("p");
                 // give p element a class name
                 classInfoText.className = "class-info-text";
-  
+
+                // if the class has no ratings, display "No Class Ratings Found"
+                // if it has ratings, then add buttons and review text
+                if (classInfo[1] === 0) {
+                    console.error(`No CUReviews For: ${subject} ${courseNumber}`);
+                    const classInfoText = document.createElement("p");
+                    classInfoText.textContent = `No Class Ratings Found`;
+                    classInfoText.style.color = "black";
+                    const classSection = findCourseNames[i].parentNode;
+                    classSection.insertAdjacentElement("afterend", classInfoText);
+
+                } else {
                 // Rating Text
                 const ratingText = document.createElement('span');
                 ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)} \u{2605}`;
@@ -293,6 +304,9 @@ export async function processCourseNames() {
   
                 // Add event listener to the button
                 toggleButton.addEventListener("click", toggleReviews);
+                }
+  
+
   
             } catch (error) {
                 console.error(`No CUReviews For: ${subject} ${courseNumber}`);
@@ -756,6 +770,7 @@ function backToTop() {
         }
       }
 
+watchForClassListing();
       chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
         if (request.message === 'TabUpdated') {
           watchForClassListing();

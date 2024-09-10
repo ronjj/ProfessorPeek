@@ -3,6 +3,12 @@ import json
 import PyPDF2
 import re
 
+def extract_instructor(line):
+    match = re.search(r'Instructor:\s*([^C]+)College', line)
+    if match:
+        return match.group(1).strip()
+    return ""
+
 def parse_pdf_content(pdf_content):
     lines = pdf_content.split('\n')
     result = {}
@@ -10,7 +16,7 @@ def parse_pdf_content(pdf_content):
     evaluations = []
     question_text = ""
 
-    for line in lines:
+    for i, line in enumerate(lines):
         line = line.strip()
         
         if line.startswith("Semester:"):
@@ -25,26 +31,28 @@ def parse_pdf_content(pdf_content):
             result['responses'] = int(parts[0])
             result['enrolled'] = int(parts[2])
             result['response_rate'] = float(parts[4].rstrip('%'))
-        elif line.startswith("Instructor:"):
-            result['course']['instructor'] = line.split(":", 1)[1].strip()
-        elif re.match(r'^\d+\.', line):
+            # Extract instructor name from the same line
+            result['course']['instructor'] = extract_instructor(line)
+        elif line.startswith("["):
             if current_question:
                 evaluations.append(current_question)
             question_text = line
             current_question = {'question': question_text}
-        elif line.startswith("Mean"):
+        elif current_question and line[0].isdigit() and '.' in line:
+            current_question['question'] += "\n" + line
+        elif current_question and len(line.split()) == 7 and all(part.replace('.', '').isdigit() for part in line.split()):
             parts = line.split()
-            if len(parts) >= 9 and current_question:
-                current_question['mean'] = float(parts[1])
-                current_question['total'] = int(parts[3])
-                current_question['breakdown'] = {
-                    '1': int(parts[4]), '2': int(parts[5]), '3': int(parts[6]), 
-                    '4': int(parts[7]), '5': int(parts[8])
-                }
-                evaluations.append(current_question)
-                current_question = None
-        elif current_question and 'question' in current_question:
-            current_question['question'] += " " + line
+            current_question['responses'] = {
+                '1': int(parts[0]),
+                '2': int(parts[1]),
+                '3': int(parts[2]),
+                '4': int(parts[3]),
+                '5': int(parts[4])
+            }
+            current_question['total'] = int(parts[5])
+            current_question['mean'] = float(parts[6])
+            evaluations.append(current_question)
+            current_question = None
 
     if current_question:
         evaluations.append(current_question)

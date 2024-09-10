@@ -1,5 +1,6 @@
 import os
 import time
+import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -10,50 +11,72 @@ from webdriver_manager.chrome import ChromeDriverManager
 # Base URL
 base_url = "https://apps.engineering.cornell.edu/CourseEval/crseval/results"
 
-# Setup Chrome options
-chrome_options = webdriver.ChromeOptions()
-# Uncomment the next line to run Chrome in headless mode
-# chrome_options.add_argument("--headless")
-
 # Setup the Chrome driver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 def get_course_subject_codes(driver):
     subject_elements = driver.find_elements(By.CSS_SELECTOR, "ul li a")
     subject_codes = [element.text for element in subject_elements]
     return subject_codes
 
-def process_subject_page(driver, subject_code):
-    # TODO: Implement operations for each subject page
+def save_cookies(driver):
+    all_cookies = driver.get_cookies()
+    saved_cookies = {}
+    for cookie in all_cookies:
+        domain = cookie['domain']
+        if domain.endswith('.cornell.edu') or domain.endswith('duosecurity.com'):
+            if domain not in saved_cookies:
+                saved_cookies[domain] = {}
+            saved_cookies[domain][cookie['name']] = cookie['value']
+    return saved_cookies
+
+def download_pdf(pdf_url, folder_path, filename, saved_cookies):
+    print(f"Attempting to download PDF from: {pdf_url}")
+    try:
+        session = requests.Session()
+        for domain, cookies in saved_cookies.items():
+            if domain in pdf_url:
+                session.cookies.update(cookies)
+        response = session.get(pdf_url)
+        if response.status_code == 200:
+            print("PDF URL", pdf_url)
+            file_path = os.path.join(folder_path, filename)
+            with open(file_path, 'wb') as file:
+                file.write(response.content)
+            print(f"Downloaded: {filename}")
+        else:
+            raise Exception(f"Didn't get 200 status code. Got {response.status_code}")
+    except Exception as e:
+        print(f"Failed to download {filename}: {str(e)}")
+
+def process_subject_page(driver, subject_code, saved_cookies):
     print(f"Processing subject: {subject_code}")
     
-    # Placeholder for operations
-    # Add your code here to perform operations on the subject page
-    # For example:
-    # - Extract course information
-    # - Collect statistics
-    # - Download data
-    # etc.
+    folder_path = os.path.join("course-evals", subject_code)
+    os.makedirs(folder_path, exist_ok=True)
+    
+    pdf_links = driver.find_elements(By.CSS_SELECTOR, "ul li a[href$='.pdf']")
+    
+    for link in pdf_links:
+        print(f"link for downloading is {link.get_attribute('href')}")
+        relative_url = link.get_attribute("href")
+        filename = f"{subject_code}_{link.text.replace(', ', '_').replace(' ', '_')}.pdf"
+        download_pdf(relative_url, folder_path, filename, saved_cookies)
+        time.sleep(5)
     
     print(f"Finished processing subject: {subject_code}")
 
 try:
-    # Navigate to the base URL
     driver.get(base_url)
 
-    # Wait for the login page to load
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.ID, "username"))
-    )
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "username")))
 
-    # Get login credentials from environment variables
     username = os.environ.get('NETID')
     password = os.environ.get('CORNELL')
 
     if not username or not password:
         raise ValueError("NETID or CORNELL environment variable is not set")
 
-    # Perform login
     username_input = driver.find_element(By.ID, "username")
     password_input = driver.find_element(By.ID, "password")
     login_button = driver.find_element(By.CSS_SELECTOR, "input[name='_eventId_proceed'][type='submit']")
@@ -62,11 +85,13 @@ try:
     password_input.send_keys(password)
     login_button.click()
 
-    # Wait for 20 seconds
     print("Waiting for 20 seconds after form submission...")
     time.sleep(20)
 
-    # After waiting, try to find the first semester link
+    # Save cookies after login
+    saved_cookies = save_cookies(driver)
+    print("Saved cookies:", saved_cookies)
+
     try:
         first_semester = driver.find_element(By.CSS_SELECTOR, "ul li a")
         semester_text = first_semester.text
@@ -76,38 +101,32 @@ try:
         print(f"Link: {semester_href}")
         print("Successfully logged in and found the first semester")
 
-        # Navigate to the semester page
         driver.get(semester_href)
 
-        # Wait for the page to load
-        time.sleep(10)  # Adjust this wait time if needed
+        time.sleep(10)
 
-        # Get the course subject codes
         subject_codes = get_course_subject_codes(driver)
 
         print("Course subject codes:")
         print(subject_codes)
         print(f"Total number of subject codes: {len(subject_codes)}")
 
-        # Iterate over each subject code
         for subject_code in subject_codes:
             try:
-                subject_url = f"https://apps.engineering.cornell.edu/CourseEval/crseval/results/index.cfm?Semester=2023FA&Dept={subject_code}"
+                subject_url = f"{base_url}/index.cfm?Semester=2023FA&Dept={subject_code}"
+                print(f"Navigating to subject page: {subject_url}")
                 driver.get(subject_url)
                 
-                # Wait for the page to load (adjust time if needed)
                 time.sleep(5)
                 
-                # Process the subject page
-                process_subject_page(driver, subject_code)
+                process_subject_page(driver, subject_code, saved_cookies)
                 
-                # Optional: Add a short delay between requests to avoid overloading the server
-                time.sleep(2)
+                time.sleep(5)
             
             except Exception as e:
                 print(f"Error processing subject {subject_code}: {e}")
-                continue  # Continue with the next subject even if there's an error
-        
+                continue
+
         print("Finished processing all subjects")
 
     except Exception as e:
@@ -119,5 +138,4 @@ except Exception as e:
     print(f"An error occurred: {e}")
 
 finally:
-    # Close the browser
     driver.quit()

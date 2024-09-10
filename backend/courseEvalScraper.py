@@ -8,6 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
+# Run this script to get engineering course eval PDFs
+
 # Base URL
 base_url = "https://apps.engineering.cornell.edu/CourseEval/crseval/results"
 
@@ -62,7 +64,7 @@ def process_subject_page(driver, subject_code, saved_cookies):
         relative_url = link.get_attribute("href")
         filename = f"{subject_code}_{link.text.replace(', ', '_').replace(' ', '_')}.pdf"
         download_pdf(relative_url, folder_path, filename, saved_cookies)
-        time.sleep(5)
+        time.sleep(0.5)
     
     print(f"Finished processing subject: {subject_code}")
 

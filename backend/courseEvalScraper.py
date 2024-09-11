@@ -8,8 +8,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Run this script to get engineering course eval PDFs
-
 # Base URL
 base_url = "https://apps.engineering.cornell.edu/CourseEval/crseval/results"
 
@@ -33,7 +31,6 @@ def save_cookies(driver):
     return saved_cookies
 
 def download_pdf(pdf_url, folder_path, filename, saved_cookies):
-    print(f"Attempting to download PDF from: {pdf_url}")
     try:
         session = requests.Session()
         for domain, cookies in saved_cookies.items():
@@ -41,32 +38,36 @@ def download_pdf(pdf_url, folder_path, filename, saved_cookies):
                 session.cookies.update(cookies)
         response = session.get(pdf_url)
         if response.status_code == 200:
-            print("PDF URL", pdf_url)
             file_path = os.path.join(folder_path, filename)
             with open(file_path, 'wb') as file:
                 file.write(response.content)
-            print(f"Downloaded: {filename}")
         else:
             raise Exception(f"Didn't get 200 status code. Got {response.status_code}")
     except Exception as e:
         print(f"Failed to download {filename}: {str(e)}")
 
-def process_subject_page(driver, subject_code, saved_cookies):
-    print(f"Processing subject: {subject_code}")
-    
-    folder_path = os.path.join("course-evals", subject_code)
+def process_subject_page(driver, subject_code, saved_cookies, semester):
+    folder_path = os.path.join("course-evals", semester, subject_code)
     os.makedirs(folder_path, exist_ok=True)
     
     pdf_links = driver.find_elements(By.CSS_SELECTOR, "ul li a[href$='.pdf']")
     
     for link in pdf_links:
-        print(f"link for downloading is {link.get_attribute('href')}")
         relative_url = link.get_attribute("href")
         filename = f"{subject_code}_{link.text.replace(', ', '_').replace(' ', '_')}.pdf"
         download_pdf(relative_url, folder_path, filename, saved_cookies)
         time.sleep(0.5)
     
-    print(f"Finished processing subject: {subject_code}")
+    print(f"Finished processing subject: {subject_code} for {semester}")
+
+def get_semester_codes(driver):
+    semester_elements = driver.find_elements(By.CSS_SELECTOR, "ul li a")
+    semester_codes = []
+    for element in semester_elements:
+        href = element.get_attribute("href")
+        code = href.split("Semester=")[-1]
+        semester_codes.append((element.text, code))
+    return semester_codes
 
 try:
     driver.get(base_url)
@@ -94,47 +95,41 @@ try:
     saved_cookies = save_cookies(driver)
     print("Saved cookies:", saved_cookies)
 
-    try:
-        first_semester = driver.find_element(By.CSS_SELECTOR, "ul li a")
-        semester_text = first_semester.text
-        semester_href = first_semester.get_attribute("href")
+    # Get all semester codes
+    semester_codes = get_semester_codes(driver)
 
-        print(f"First semester: {semester_text}")
-        print(f"Link: {semester_href}")
-        print("Successfully logged in and found the first semester")
+    for semester_text, semester_code in semester_codes:
+        try:
+            semester_url = f"{base_url}/index.cfm?Semester={semester_code}"
+            print(f"Processing semester: {semester_text} (Code: {semester_code})")
 
-        driver.get(semester_href)
+            driver.get(semester_url)
+            time.sleep(10)
 
-        time.sleep(10)
+            subject_codes = get_course_subject_codes(driver)
 
-        subject_codes = get_course_subject_codes(driver)
-
-        print("Course subject codes:")
-        print(subject_codes)
-        print(f"Total number of subject codes: {len(subject_codes)}")
-
-        for subject_code in subject_codes:
-            try:
-                subject_url = f"{base_url}/index.cfm?Semester=2023FA&Dept={subject_code}"
-                print(f"Navigating to subject page: {subject_url}")
-                driver.get(subject_url)
+            for subject_code in subject_codes:
+                try:
+                    subject_url = f"{semester_url}&Dept={subject_code}"
+                    driver.get(subject_url)
+                    
+                    time.sleep(5)
+                    
+                    process_subject_page(driver, subject_code, saved_cookies, semester_text)
+                    
+                    time.sleep(5)
                 
-                time.sleep(5)
-                
-                process_subject_page(driver, subject_code, saved_cookies)
-                
-                time.sleep(5)
-            
-            except Exception as e:
-                print(f"Error processing subject {subject_code}: {e}")
-                continue
+                except Exception as e:
+                    print(f"Error processing subject {subject_code} for {semester_text}: {e}")
+                    continue
 
-        print("Finished processing all subjects")
+            print(f"Finished processing all subjects for {semester_text}")
+        
+        except Exception as e:
+            print(f"Error processing semester {semester_text}: {e}")
+            continue
 
-    except Exception as e:
-        print(f"Error while processing semester page: {e}")
-
-    print(f"Final URL: {driver.current_url}")
+    print("Finished processing all semesters")
 
 except Exception as e:
     print(f"An error occurred: {e}")

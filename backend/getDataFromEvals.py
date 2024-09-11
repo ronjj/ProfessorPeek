@@ -24,8 +24,8 @@ def parse_pdf_content(pdf_content):
 
     for i, line in enumerate(lines):
         line = line.strip()
-        
-        if line.startswith("Semester:"):
+
+        if "Semester" in line:
             result['semester'] = line.split(":", 1)[1].strip()
         elif line.startswith("Course:"):
             result['course'] = {

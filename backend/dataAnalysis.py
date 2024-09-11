@@ -1,7 +1,9 @@
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 import re
+import os
 
 def load_data():
     file_path = '/Users/ronaldjabouin/Documents/ProfessorPeek/backend/evaluation_results.json'
@@ -50,17 +52,19 @@ def analyze_course_enrollment(data, course_prefix):
     
     return df
 
-def plot_course_enrollment(df, course_prefix):
+def plot_course_enrollment(df, course_prefix, output_folder):
+    # Create output folder if it doesn't exist
+    os.makedirs(output_folder, exist_ok=True)
+    
+    # Plot original data
     plt.figure(figsize=(15, 8))
     plt.plot(range(len(df)), df['enrolled'], marker='o', linestyle='-', linewidth=2, markersize=6)
     plt.title(f'{course_prefix} Enrollment Over Time', fontsize=16)
     plt.xlabel('Semester', fontsize=12)
     plt.ylabel('Number of Students Enrolled', fontsize=12)
     
-    # Adjust x-axis labels
     plt.xticks(range(len(df)), df['semester_with_lecture'], rotation=45, ha='right', fontsize=8)
     
-    # Add value labels for each point with smaller font
     for i, txt in enumerate(df['enrolled']):
         plt.annotate(str(txt), (i, df['enrolled'].iloc[i]), 
                      textcoords="offset points", xytext=(0,5), ha='center',
@@ -68,7 +72,30 @@ def plot_course_enrollment(df, course_prefix):
     
     plt.grid(True, linestyle='--', alpha=0.7)
     plt.tight_layout()
-    plt.savefig(f'{course_prefix.replace(" ", "_").lower()}_enrollment_trend.png', dpi=300)
+    plt.savefig(os.path.join(output_folder, f'{course_prefix.replace(" ", "_").lower()}_enrollment_trend.png'), dpi=300)
+    plt.close()
+    
+    # Plot with line of best fit
+    plt.figure(figsize=(15, 8))
+    x = np.arange(len(df))
+    y = df['enrolled'].values
+    
+    z = np.polyfit(x, y, 1)
+    p = np.poly1d(z)
+    
+    plt.plot(x, y, 'bo', label='Original data')
+    plt.plot(x, p(x), 'r--', label='Line of best fit')
+    
+    plt.title(f'{course_prefix} Enrollment Trend with Line of Best Fit', fontsize=16)
+    plt.xlabel('Semester', fontsize=12)
+    plt.ylabel('Number of Students Enrolled', fontsize=12)
+    
+    plt.xticks(range(len(df)), df['semester_with_lecture'], rotation=45, ha='right', fontsize=8)
+    
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(os.path.join(output_folder, f'{course_prefix.replace(" ", "_").lower()}_enrollment_trend_with_fit.png'), dpi=300)
     plt.close()
 
 def provide_insights(df, course_prefix):
@@ -84,6 +111,14 @@ def provide_insights(df, course_prefix):
     
     recent_trend = 'increasing' if df['enrolled'].iloc[-1] > df['enrolled'].iloc[-2] else 'decreasing'
     
+    # Calculate overall trend
+    x = np.arange(len(df))
+    y = df['enrolled'].values
+    z = np.polyfit(x, y, 1)
+    slope = z[0]
+    
+    overall_trend = "increasing" if slope > 0 else "decreasing"
+    
     insights = f"""
     Insights into {course_prefix} Enrollment:
     1. Data spans {total_semesters} semesters/sections.
@@ -91,12 +126,13 @@ def provide_insights(df, course_prefix):
     3. Highest enrollment: {max_enrollment} students in {max_semester}.
     4. Lowest enrollment: {min_enrollment} students in {min_semester}.
     5. Recent trend: Enrollment is {recent_trend} based on the last two data points.
-    6. Instructors: {', '.join(df['instructor'].unique())}
+    6. Overall trend: Enrollment is {overall_trend} based on the line of best fit.
+    7. Instructors: {', '.join(df['instructor'].unique())}
     """
     return insights
 
 def main():
-    course_prefix = "CS  3110"  # Change this string to analyze different courses
+    course_prefix = "CS  2110"  # Change this string to analyze different courses
     
     data = load_data()
     if not data:
@@ -106,10 +142,11 @@ def main():
     df = analyze_course_enrollment(data, course_prefix)
     
     if df is not None and not df.empty:
-        plot_course_enrollment(df, course_prefix)
+        output_folder = f"{course_prefix.replace(' ', '_').lower()}-info"
+        plot_course_enrollment(df, course_prefix, output_folder)
         insights = provide_insights(df, course_prefix)
         print(insights)
-        print(f"Analysis complete. Check '{course_prefix.replace(' ', '_').lower()}_enrollment_trend.png' for the enrollment trend visualization.")
+        print(f"Analysis complete. Check the '{output_folder}' folder for enrollment trend visualizations.")
     else:
         print(f"No analysis could be performed for {course_prefix} due to lack of data")
 

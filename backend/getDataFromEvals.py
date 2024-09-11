@@ -9,12 +9,18 @@ def extract_instructor(line):
         return match.group(1).strip()
     return ""
 
+def safe_float_convert(value):
+    try:
+        return float(value.rstrip('.'))
+    except ValueError:
+        print(f"Warning: Could not convert '{value}' to float. Using 0.0 instead.")
+        return 0.0
+
 def parse_pdf_content(pdf_content):
     lines = pdf_content.split('\n')
     result = {}
-    current_question = None
     evaluations = []
-    question_text = ""
+    current_question = None
 
     for i, line in enumerate(lines):
         line = line.strip()
@@ -31,32 +37,31 @@ def parse_pdf_content(pdf_content):
             result['responses'] = int(parts[0])
             result['enrolled'] = int(parts[2])
             result['response_rate'] = float(parts[4].rstrip('%'))
-            # Extract instructor name from the same line
             result['course']['instructor'] = extract_instructor(line)
-        elif line.startswith("["):
-            if current_question:
-                evaluations.append(current_question)
-            question_text = line
-            current_question = {'question': question_text}
-        elif current_question and line[0].isdigit() and '.' in line:
-            current_question['question'] += "\n" + line
-        elif current_question and len(line.split()) == 7 and all(part.replace('.', '').isdigit() for part in line.split()):
+        elif re.match(r'^\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+[\d.]+', line):
             parts = line.split()
-            current_question['responses'] = {
-                '1': int(parts[0]),
-                '2': int(parts[1]),
-                '3': int(parts[2]),
-                '4': int(parts[3]),
-                '5': int(parts[4])
-            }
-            current_question['total'] = int(parts[5])
-            current_question['mean'] = float(parts[6])
-            evaluations.append(current_question)
-            current_question = None
+            if len(parts) >= 7:
+                current_question = {
+                    'responses': {
+                        '1': int(parts[0]),
+                        '2': int(parts[1]),
+                        '3': int(parts[2]),
+                        '4': int(parts[3]),
+                        '5': int(parts[4])
+                    },
+                    'total': int(parts[5]),
+                    'mean': safe_float_convert(parts[6]),
+                    'question': ''
+                }
+                # Extract question text from the remaining part of the line and subsequent lines
+                question_text = ' '.join(parts[7:])
+                while i + 1 < len(lines) and not re.match(r'^\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+\d+\s+[\d.]+', lines[i+1]):
+                    i += 1
+                    question_text += ' ' + lines[i].strip()
+                current_question['question'] = question_text.strip()
+                evaluations.append(current_question)
+                current_question = None
 
-    if current_question:
-        evaluations.append(current_question)
-    
     result['evaluations'] = evaluations
     return result
 

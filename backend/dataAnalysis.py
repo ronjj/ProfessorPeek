@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
+import re
 
 def load_data():
     file_path = '/Users/ronaldjabouin/Documents/ProfessorPeek/backend/evaluation_results.json'
@@ -18,39 +19,46 @@ def semester_sort_key(semester):
     season, year = semester.split('  ')  # Split on double space
     return (int(year), 0 if season == 'Spring' else 1)
 
-def analyze_cs1110_enrollment(data):
-    cs1110_data = []
+def extract_lecture_number(course_name):
+    match = re.search(r'Lec\s*(\d+)', course_name, re.IGNORECASE)
+    return match.group(1) if match else ''
+
+def analyze_course_enrollment(data, course_prefix):
+    course_data = []
     for entry in data:
         course_info = entry.get('course', {})
         course_name = course_info.get('name', '')
-        if 'CS  1110' in course_name:  # Note the two spaces
+        if course_prefix in course_name:
             semester = entry.get('semester', 'Unknown')
             enrolled = entry.get('enrolled')
+            lecture_number = extract_lecture_number(course_name)
             if semester != 'Unknown' and enrolled is not None:
-                cs1110_data.append({
+                course_data.append({
                     'semester': semester,
                     'enrolled': enrolled,
-                    'instructor': course_info.get('instructor', 'Unknown')
+                    'instructor': course_info.get('instructor', 'Unknown'),
+                    'lecture_number': lecture_number
                 })
     
-    if not cs1110_data:
-        print("No data found for CS  1110")
+    if not course_data:
+        print(f"No data found for {course_prefix}")
         return None
     
-    df = pd.DataFrame(cs1110_data)
+    df = pd.DataFrame(course_data)
+    df['semester_with_lecture'] = df['semester'] + ' - LEC ' + df['lecture_number']
     df = df.sort_values('semester', key=lambda x: x.map(semester_sort_key))
     
     return df
 
-def plot_cs1110_enrollment(df):
+def plot_course_enrollment(df, course_prefix):
     plt.figure(figsize=(15, 8))
     plt.plot(range(len(df)), df['enrolled'], marker='o', linestyle='-', linewidth=2, markersize=6)
-    plt.title('CS  1110 Enrollment Over Time', fontsize=16)
+    plt.title(f'{course_prefix} Enrollment Over Time', fontsize=16)
     plt.xlabel('Semester', fontsize=12)
     plt.ylabel('Number of Students Enrolled', fontsize=12)
     
     # Adjust x-axis labels
-    plt.xticks(range(len(df)), df['semester'], rotation=45, ha='right', fontsize=8)
+    plt.xticks(range(len(df)), df['semester_with_lecture'], rotation=45, ha='right', fontsize=8)
     
     # Add value labels for each point with smaller font
     for i, txt in enumerate(df['enrolled']):
@@ -60,25 +68,25 @@ def plot_cs1110_enrollment(df):
     
     plt.grid(True, linestyle='--', alpha=0.7)
     plt.tight_layout()
-    plt.savefig('cs1110_enrollment_trend.png', dpi=300)  # Increased DPI for better quality
+    plt.savefig(f'{course_prefix.replace(" ", "_").lower()}_enrollment_trend.png', dpi=300)
     plt.close()
 
-def provide_insights(df):
+def provide_insights(df, course_prefix):
     if df is None or df.empty:
-        return "No insights available for CS  1110 due to lack of data."
+        return f"No insights available for {course_prefix} due to lack of data."
 
     total_semesters = len(df)
     avg_enrollment = df['enrolled'].mean()
     max_enrollment = df['enrolled'].max()
     min_enrollment = df['enrolled'].min()
-    max_semester = df.loc[df['enrolled'].idxmax(), 'semester']
-    min_semester = df.loc[df['enrolled'].idxmin(), 'semester']
+    max_semester = df.loc[df['enrolled'].idxmax(), 'semester_with_lecture']
+    min_semester = df.loc[df['enrolled'].idxmin(), 'semester_with_lecture']
     
     recent_trend = 'increasing' if df['enrolled'].iloc[-1] > df['enrolled'].iloc[-2] else 'decreasing'
     
     insights = f"""
-    Insights into CS  1110 Enrollment:
-    1. Data spans {total_semesters} semesters.
+    Insights into {course_prefix} Enrollment:
+    1. Data spans {total_semesters} semesters/sections.
     2. Average enrollment: {avg_enrollment:.2f} students.
     3. Highest enrollment: {max_enrollment} students in {max_semester}.
     4. Lowest enrollment: {min_enrollment} students in {min_semester}.
@@ -88,20 +96,22 @@ def provide_insights(df):
     return insights
 
 def main():
+    course_prefix = "CS  3110"  # Change this string to analyze different courses
+    
     data = load_data()
     if not data:
         print("No data to analyze. Exiting.")
         return
 
-    df = analyze_cs1110_enrollment(data)
+    df = analyze_course_enrollment(data, course_prefix)
     
     if df is not None and not df.empty:
-        plot_cs1110_enrollment(df)
-        insights = provide_insights(df)
+        plot_course_enrollment(df, course_prefix)
+        insights = provide_insights(df, course_prefix)
         print(insights)
-        print("Analysis complete. Check 'cs1110_enrollment_trend.png' for the enrollment trend visualization.")
+        print(f"Analysis complete. Check '{course_prefix.replace(' ', '_').lower()}_enrollment_trend.png' for the enrollment trend visualization.")
     else:
-        print("No analysis could be performed for CS  1110 due to lack of data")
+        print(f"No analysis could be performed for {course_prefix} due to lack of data")
 
 if __name__ == "__main__":
     main()

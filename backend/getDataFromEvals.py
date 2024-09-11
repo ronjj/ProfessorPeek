@@ -90,22 +90,26 @@ def process_directory(root_dir):
     all_results = []
     is_first_pdf = True
 
-    for subject in os.listdir(root_dir):
-        subject_path = os.path.join(root_dir, subject)
-        if os.path.isdir(subject_path):
-            subject_processed = False
-            for pdf_file in os.listdir(subject_path):
-                if pdf_file.endswith('.pdf'):
-                    pdf_path = os.path.join(subject_path, pdf_file)
-                    result = process_pdf_file(pdf_path, is_first_pdf)
-                    if result:
-                        result['subject'] = subject
-                        all_results.append(result)
-                        if not subject_processed:
-                            print(f"Processed: {subject}")
-                            subject_processed = True
-                    if is_first_pdf:
-                        is_first_pdf = False
+    for semester in os.listdir(root_dir):
+        semester_path = os.path.join(root_dir, semester)
+        if os.path.isdir(semester_path):
+            print(f"Processing semester: {semester}")
+            for subject in os.listdir(semester_path):
+                subject_path = os.path.join(semester_path, subject)
+                if os.path.isdir(subject_path):
+                    subject_processed = False
+                    for pdf_file in os.listdir(subject_path):
+                        if pdf_file.endswith('.pdf'):
+                            pdf_path = os.path.join(subject_path, pdf_file)
+                            result = process_pdf_file(pdf_path, is_first_pdf)
+                            if result:
+                                result['subject'] = subject
+                                all_results.append(result)
+                                if not subject_processed:
+                                    # print(f"Processed: {semester} - {subject}")
+                                    subject_processed = True
+                            if is_first_pdf:
+                                is_first_pdf = False
 
     return all_results
 
@@ -114,7 +118,7 @@ root_directory = '/Users/ronaldjabouin/Documents/ProfessorPeek/backend/course-ev
 results = process_directory(root_directory)
 
 # Output the results in JSON format
-print(json.dumps(results, indent=2))
+# print(json.dumps(results, indent=2))
 
 # Save results to a file
 with open('evaluation_results.json', 'w') as f:

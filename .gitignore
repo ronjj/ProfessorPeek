@@ -4,3 +4,5 @@ profpeek/
 *.zip
 /backend/course-evals
 /backend/only-fall-23-course-evals
+/backend/index
+/backend/__pycache__

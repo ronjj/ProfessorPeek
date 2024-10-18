@@ -132,7 +132,7 @@ def provide_insights(df, course_prefix):
     return insights
 
 def main():
-    course_prefix = "CS  2110"  # Change this string to analyze different courses
+    course_prefix = "CS  1112"  # Change this string to analyze different courses
     
     data = load_data()
     if not data:

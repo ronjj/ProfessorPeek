@@ -119,7 +119,7 @@ export async function getRateMyProfessorScore(professorLastName, professorFirstN
   // Function To Get CUReviews Information For A Course
 export async function getCUReviewsInfo(subject, courseNumber) {
     try {
-        const response = await fetch(`https://www.cureviews.org/api/getCourseByInfo`, {
+        const response = await fetch(`https://www.cureviews.org/api/courses/get-by-info`, {
             method: "POST",
             body: JSON.stringify({
                 number: courseNumber,
@@ -129,7 +129,7 @@ export async function getCUReviewsInfo(subject, courseNumber) {
                 "Content-type": "application/json; charset=UTF-8"
             }
         })
-      
+
         const data = await response.json();
         if (data.result === null || data.result === undefined) {
             console.log(`No CUReviews For: ${subject} ${courseNumber}`);
@@ -142,7 +142,7 @@ export async function getCUReviewsInfo(subject, courseNumber) {
                 const classWorkload = classInfo.classWorkload;
                 const classId = classInfo._id;
               
-                const response_two = await fetch(`https://www.cureviews.org/api/getReviewsByCourseId`, {
+                const response_two = await fetch(`https://www.cureviews.org/api/courses/get-reviews`, {
                     method: "POST",
                     body: JSON.stringify({
                       courseId: classId,

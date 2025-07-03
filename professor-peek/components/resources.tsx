@@ -42,7 +42,7 @@ export const Resources = () => {
               </li>
               <li>
                 <a
-                  href="https://classes.cornell.edu/scheduler/roster/FA24"
+                  href="https://classes.cornell.edu/scheduler/roster/FA25"
                   target="_blank"
                   rel="noopener noreferrer">
                   Class Scheduler
@@ -50,7 +50,7 @@ export const Resources = () => {
               </li>
               <li>
                 <a
-                  href="https://classes.cornell.edu/browse/roster/FA24"
+                  href="https://classes.cornell.edu/browse/roster/FA25"
                   target="_blank"
                   rel="noopener noreferrer">
                   Browse Classes
@@ -74,7 +74,7 @@ export const Resources = () => {
               </li>
               <li>
                 <a
-                  href="https://classes.cornell.edu/syllabi-landing/roster/FA24/"
+                  href="https://classes.cornell.edu/syllabi-landing/roster/FA25/"
                   target="_blank"
                   rel="noopener noreferrer">
                   Find Class Syllabi

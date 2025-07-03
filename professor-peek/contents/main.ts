@@ -357,6 +357,7 @@ export async function processCourseNames() {
                 cuReviewsLinkElement.href = cuReviewsLink;
                 cuReviewsLinkElement.textContent = "(View CUReviews Page)";
                 cuReviewsLinkElement.style.color = "blue";
+                cuReviewsLinkElement.target = "_blank";
                 classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
 
                 // If both PUBPOL and PAM have reviews, add a second link for PAM
@@ -366,6 +367,7 @@ export async function processCourseNames() {
                   pamLinkElement.textContent = "(View PAM Reviews)";
                   pamLinkElement.style.color = "blue";
                   pamLinkElement.style.marginLeft = "10px";
+                  pamLinkElement.target = "_blank";
                   classSection.insertAdjacentElement("afterend", pamLinkElement);
                 }
   

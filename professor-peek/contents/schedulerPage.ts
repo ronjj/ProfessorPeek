@@ -4,7 +4,7 @@ export const config: PlasmoCSConfig = {
   matches: ["https://classes.cornell.edu/scheduler/roster/*"]
 }
 
-import { getCUReviewsInfo, getStaffNames, processCourseNames } from "~contents/main"
+import { getCUReviewsInfo, getCUReviewsInfoWithFallback, getStaffNames, processCourseNames } from "~contents/main"
 let courseRatingDict = {};
 
 // Write a function that runs every 1 second to check if a condition is true. once the condition is true, stop the interval
@@ -56,11 +56,18 @@ async function checkAndLogElements(courseRatingDict) {
             } else {
                 try {
                     console.log(`Fetching course rating for ${courseSubject} ${courseNumber}`);
-                    classInfo = await getCUReviewsInfo(courseSubject, courseNumber);
+                    const classInfoResult = await getCUReviewsInfoWithFallback(courseSubject, courseNumber);
+                    classInfo = classInfoResult.primary;
                     if (classInfo[1] === null) {
                         courseRating = 0.0;
                     } else {
                         courseRating = classInfo[1];
+                    }
+                    
+                    // Store the source type for potential UI updates
+                    if (classInfoResult.sourceType !== "single") {
+                      courseRatingDict[courseName + "_source"] = classInfoResult.sourceType;
+                      courseRatingDict[courseName + "_primarySource"] = classInfoResult.primarySource;
                     }
                 } catch (error){
                     console.error(`Error fetching course rating: for ${courseSubject} ${courseNumber}`, error);
@@ -77,8 +84,22 @@ async function checkAndLogElements(courseRatingDict) {
                   // give p element a class name
                   classInfoText.className = "class-info-text";
     
-                // Rating Text
-                courseElements[i].children[0].textContent = `${courseName} (${courseRating.toFixed(2)}/5) `
+                // Rating Text with source indicator for PUBPOL courses
+                let displayText = `${courseName} (${courseRating.toFixed(2)}/5)`;
+                const sourceType = courseRatingDict[courseName + "_source"];
+                const primarySource = courseRatingDict[courseName + "_primarySource"];
+                
+                if (sourceType && sourceType !== "single") {
+                  if (sourceType === "pam_only") {
+                    displayText += " [PAM Reviews]";
+                  } else if (sourceType === "pubpol_only") {
+                    displayText += " [PUBPOL Reviews]";
+                  } else if (sourceType === "both") {
+                    displayText += ` [${primarySource} Reviews]`;
+                  }
+                }
+                
+                courseElements[i].children[0].textContent = displayText;
     
                   //   Difficulty Text
                   const difficultyText = document.createElement('span');

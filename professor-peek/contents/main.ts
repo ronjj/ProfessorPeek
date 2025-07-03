@@ -167,6 +167,94 @@ export async function getCUReviewsInfo(subject, courseNumber) {
         return [0, 0, 0, 0, []];
   }
 }
+
+// TypeScript interface for fallback result
+interface FallbackResult {
+  primary: number[];
+  secondary: number[] | null;
+  sourceType: 'single' | 'pubpol_only' | 'pam_only' | 'both';
+  primarySource: string;
+  secondarySource: string | null;
+}
+
+// Function to get CUReviews info with PUBPOL/PAM fallback
+export async function getCUReviewsInfoWithFallback(subject: string, courseNumber: string): Promise<FallbackResult> {
+  if (subject.toUpperCase() === "PUBPOL") {
+    // Try PUBPOL first
+    try {
+      const pubpolResult = await getCUReviewsInfo("PUBPOL", courseNumber);
+      const pubpolHasReviews = pubpolResult[3] > 0; // Check if num_reviews > 0
+      
+      // Try PAM as well
+      let pamResult: number[] | null = null;
+      let pamHasReviews = false;
+      try {
+        pamResult = await getCUReviewsInfo("PAM", courseNumber);
+        pamHasReviews = pamResult[3] > 0;
+      } catch (pamError) {
+        console.log(`No PAM reviews found for ${courseNumber}`);
+      }
+      
+      // Return result with metadata about which source(s) have reviews
+      if (pubpolHasReviews && pamHasReviews) {
+        // Both have reviews, return PUBPOL but include PAM info
+        return {
+          primary: pubpolResult,
+          secondary: pamResult,
+          sourceType: "both",
+          primarySource: "PUBPOL",
+          secondarySource: "PAM"
+        };
+      } else if (pubpolHasReviews) {
+        // Only PUBPOL has reviews
+        return {
+          primary: pubpolResult,
+          secondary: null,
+          sourceType: "pubpol_only",
+          primarySource: "PUBPOL",
+          secondarySource: null
+        };
+      } else if (pamHasReviews) {
+        // Only PAM has reviews
+        return {
+          primary: pamResult!,
+          secondary: null,
+          sourceType: "pam_only",
+          primarySource: "PAM",
+          secondarySource: null
+        };
+      } else {
+        // Neither has reviews, throw error to be caught by caller
+        throw new Error("No reviews found for either PUBPOL or PAM");
+      }
+    } catch (pubpolError) {
+      // PUBPOL failed, try PAM
+      try {
+        const pamResult = await getCUReviewsInfo("PAM", courseNumber);
+        return {
+          primary: pamResult,
+          secondary: null,
+          sourceType: "pam_only",
+          primarySource: "PAM",
+          secondarySource: null
+        };
+      } catch (pamError) {
+        // Both failed
+        throw new Error("No reviews found for either PUBPOL or PAM");
+      }
+    }
+  } else {
+    // For non-PUBPOL courses, use regular function
+    const result = await getCUReviewsInfo(subject, courseNumber);
+    return {
+      primary: result,
+      secondary: null,
+      sourceType: "single",
+      primarySource: subject,
+      secondarySource: null
+    };
+  }
+}
   
   // Get Course Names, Get CUReviews Info, Add Data to Page
 export async function processCourseNames() {
@@ -197,10 +285,11 @@ export async function processCourseNames() {
             }
   
           // Get CUReviews Information and add ratings under the title of the course
-          const cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
+          let cuReviewsLink = `https://cureviews.org/course/${subject}/${courseNumber}`;
             try {
-                //   CUReview Stats in Line
-                const classInfo = await getCUReviewsInfo(subject, courseNumber);
+                //   CUReview Stats in Line - use fallback for PUBPOL courses
+                const classInfoResult = await getCUReviewsInfoWithFallback(subject, courseNumber);
+                const classInfo = classInfoResult.primary;
                 const classInfoText = document.createElement("p");
                 // give p element a class name
                 classInfoText.className = "class-info-text";
@@ -210,12 +299,31 @@ export async function processCourseNames() {
                 if (classInfo[1] === 0) {
                     console.error(`No CUReviews For: ${subject} ${courseNumber}`);
                     const classInfoText = document.createElement("p");
-                    classInfoText.textContent = `No Class Ratings Found`;
+                    if (subject.toUpperCase() === "PUBPOL") {
+                        classInfoText.textContent = `No Class Ratings Found for PUBPOL ${courseNumber} or PAM ${courseNumber}`;
+                    } else {
+                        classInfoText.textContent = `No Class Ratings Found`;
+                    }
                     classInfoText.style.color = "black";
                     const classSection = findCourseNames[i].parentNode;
                     classSection.insertAdjacentElement("afterend", classInfoText);
 
                 } else {
+                // Add source indicator for PUBPOL courses
+                if (classInfoResult.sourceType !== "single") {
+                  const sourceText = document.createElement('span');
+                  if (classInfoResult.sourceType === "both") {
+                    sourceText.textContent = ` [${classInfoResult.primarySource} Reviews] `;
+                  } else if (classInfoResult.sourceType === "pam_only") {
+                    sourceText.textContent = ` [PAM Reviews] `;
+                    cuReviewsLink = `https://cureviews.org/course/PAM/${courseNumber}`; // Update link to PAM
+                  } else if (classInfoResult.sourceType === "pubpol_only") {
+                    sourceText.textContent = ` [PUBPOL Reviews] `;
+                  }
+                  sourceText.style.color = "purple";
+                  sourceText.style.fontWeight = "bold";
+                  classInfoText.appendChild(sourceText);
+                }
                 // Rating Text
                 const ratingText = document.createElement('span');
                 ratingText.textContent = ` Rating: ${classInfo[1].toFixed(2)} \u{2605}`;
@@ -250,6 +358,16 @@ export async function processCourseNames() {
                 cuReviewsLinkElement.textContent = "(View CUReviews Page)";
                 cuReviewsLinkElement.style.color = "blue";
                 classSection.insertAdjacentElement("afterend", cuReviewsLinkElement);
+
+                // If both PUBPOL and PAM have reviews, add a second link for PAM
+                if (classInfoResult.sourceType === "both") {
+                  const pamLinkElement = document.createElement("a");
+                  pamLinkElement.href = `https://cureviews.org/course/PAM/${courseNumber}`;
+                  pamLinkElement.textContent = "(View PAM Reviews)";
+                  pamLinkElement.style.color = "blue";
+                  pamLinkElement.style.marginLeft = "10px";
+                  classSection.insertAdjacentElement("afterend", pamLinkElement);
+                }
   
                // Make a toggle button to show/hide reviews
                 const toggleButton = document.createElement("button");
@@ -311,7 +429,11 @@ export async function processCourseNames() {
             } catch (error) {
                 console.error(`No CUReviews For: ${subject} ${courseNumber}`);
                 const classInfoText = document.createElement("p");
-                classInfoText.textContent = `No Class Ratings Found`;
+                if (subject.toUpperCase() === "PUBPOL") {
+                    classInfoText.textContent = `No Class Ratings Found for PUBPOL ${courseNumber} or PAM ${courseNumber}`;
+                } else {
+                    classInfoText.textContent = `No Class Ratings Found`;
+                }
                 classInfoText.style.color = "black";
                 const classSection = findCourseNames[i].parentNode;
                 classSection.insertAdjacentElement("afterend", classInfoText);

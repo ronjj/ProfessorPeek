@@ -1,6 +1,24 @@
 import "./component-styles/resources.css"
 
+// Helper function to generate semester code based on current date
+const getCurrentSemesterCode = (): string => {
+  const now = new Date()
+  const month = now.getMonth() + 1 // getMonth() returns 0-11
+  const year = now.getFullYear()
+  const yearSuffix = year.toString().slice(-2)
+
+  const semesterCode =
+    month >= 1 && month <= 6 ? `SP${yearSuffix}` : `FA${yearSuffix}`
+
+  console.log("Current month:", month)
+  console.log("Current year:", year)
+  console.log("Semester code:", semesterCode)
+
+  return semesterCode
+}
+
 export const Resources = () => {
+  const semesterCode = getCurrentSemesterCode()
   return (
     <>
       <div className="resources-wrapper">
@@ -42,7 +60,7 @@ export const Resources = () => {
               </li>
               <li>
                 <a
-                  href="https://classes.cornell.edu/scheduler/roster/FA25"
+                  href={`https://classes.cornell.edu/scheduler/roster/${semesterCode}`}
                   target="_blank"
                   rel="noopener noreferrer">
                   Class Scheduler
@@ -50,7 +68,7 @@ export const Resources = () => {
               </li>
               <li>
                 <a
-                  href="https://classes.cornell.edu/browse/roster/FA25"
+                  href={`https://classes.cornell.edu/browse/roster/${semesterCode}`}
                   target="_blank"
                   rel="noopener noreferrer">
                   Browse Classes
@@ -74,7 +92,7 @@ export const Resources = () => {
               </li>
               <li>
                 <a
-                  href="https://classes.cornell.edu/syllabi-landing/roster/FA25/"
+                  href={`https://classes.cornell.edu/syllabi-landing/roster/${semesterCode}/`}
                   target="_blank"
                   rel="noopener noreferrer">
                   Find Class Syllabi
